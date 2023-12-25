@@ -1,0 +1,3316 @@
+{
+  "@@locale": "cs",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Zkus to znovu",
+  "common_see_more": "Vidět víc",
+  "common_see_less": "Viz méně",
+  "common_search_hint": "Vyhledávání …",
+  "common_loading": "Načítání…",
+  "common_retry": "Zkuste to znovu",
+  "common_cancel": "zrušení",
+  "common_ok": "OK",
+  "common_save": "Uložit",
+  "common_decline": "Pokles",
+  "common_done": "Hotovo",
+  "common_confirm": "Potvrdit",
+  "common_close": "Zavřít",
+  "common_continue": "Pokračovat",
+  "common_detail": "Podrobnosti",
+  "common_enter_discount_code": "Zadejte kód kupónu",
+  "common_use_payment_or_contact_info": "Použijte údaje plátce nebo kontaktní údaje",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Výběr času",
+  "car_input_title_pick_up_place": "Zadejte místo vyzvednutí",
+  "car_input_title_pick_up_location": "Místo vyzvednutí",
+  "car_title_return_to_different_location": "Vraťte se na jiné místo",
+  "car_input_title_start_time": "Doba spuštění",
+  "car_input_title_end_time": "Čas ukončení",
+  "car_input_title_start_date": "Datum zahájení",
+  "car_input_title_end_date": "Datum ukončení",
+  "car_input_title_enter_drop_off_place": "Zadejte místo odevzdání",
+  "car_input_title_enter_drop_off_location": "Místo odevzdání",
+  "car_title_advanced_search": "Pokročilé vyhledávání",
+  "car_title_look_up_booking_number": "Vyhledejte číslo rezervace",
+  "car_header_title_look_up_booking_number": "Zadejte číslo rezervace nebo kód objednávky, abyste našli informace o své rezervaci",
+  "car_title_search": "Vyhledávání",
+  "car_notice_empty_pick_up_location": "Vyberte místo vyzvednutí a datum zahájení vyhledávání",
+  "car_title_ascending_price": "Vzestupná cena",
+  "car_title_descending_price": "Klesající cena",
+  "car_title_car_type": "Typ auta",
+  "car_title_transmission": "Přenos",
+  "car_title_segment": "Segment",
+  "car_title_fuel_type": "Typ paliva",
+  "car_title_supplier": "Dodavatel",
+  "car_title_price": "Cena",
+  "car_title_view_on_map": "Zobrazit na mapě",
+  "car_title_deals": "Nabídky",
+  "car_title_seats": "Sedadla",
+  "car_title_filter_by": "Filtrovat podle",
+  "car_title_un_filter": "Odfiltrovat",
+  "car_title_choose_this_car": "Vyberte si toto auto",
+  "car_title_rental_terms": "Podmínky pronájmu",
+  "car_title_search_location": "Vyhledat místo",
+  "car_title_select_btn": "Vybrat",
+  "car_title_select_date": "Vyberte datum",
+  "car_title_select_time": "Vyberte čas",
+  "car_title_reset_btn": "Resetovat",
+  "car_title_location_type": "Typ umístění",
+  "car_title_number_of_seats": "Počet sedadel",
+  "car_title_days": "Dny",
+  "car_title_unlimited_mileage": "Neomezený počet kilometrů",
+  "car_title_instant_confirmation": "Okamžité potvrzení",
+  "car_title_time_pick_up": "Datum vyzvednutí",
+  "car_title_time_drop_off": "Datum odevzdání",
+  "car_title_air_conditioning": "Klimatizace",
+  "car_title_number_of_bag": "Počet kufrů",
+  "car_hand_note_title_booking_order_code": "Objednací kód",
+  "car_hand_note_title_booking_code": "Číslo rezervace",
+  "car_hand_note_title_total_rental_car": "Celkový počet dní pronájmu",
+  "car_hand_note_title_status_order": "Stav objednávky",
+  "car_hand_note_title_total_price": "Celková platba",
+  "car_hand_note_title_status_payment": "Status platby",
+  "car_hand_note_title_reason_cancel": "Důvody zrušení",
+  "car_hand_note_title_view_details_btn": "Zobrazit podrobnosti",
+  "car_hand_note_notice_cancel_order": "Vrácená částka (pokud existuje) za zrušenou objednávku bude převedena na bankovní účet zákazníka ve lhůtě stanovené dodavatelem.",
+  "car_hand_note_title_tab_all": "Všechno",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Čekání na splnění",
+  "car_hand_note_title_tab_ongoing": "Pokračující",
+  "car_hand_note_title_tab_completed": "Dokončeno",
+  "car_hand_note_title_tab_canceled": "Zrušeno",
+  "car_hand_note_title_order_manager": "Řízení objednávek",
+  "car_hand_note_title_create_date": "Datum vytvoření",
+  "car_hand_note_title_view_more_btn": "Ukázat více",
+  "car_hand_note_title_status_order_completed": "Dokončeno",
+  "car_hand_note_title_status_payment_successful": "Úspěšný",
+  "car_hand_note_title_details_order": "Podrobnosti k objednávce",
+  "car_hand_note_title_contact_info": "Podrobnosti kontaktu",
+  "car_hand_note_title_info_rental_car": "Informace o rezervaci",
+  "car_hand_note_title_driver_info": "Podrobnosti o ovladači",
+  "car_hand_note_title_pirce_details": "Podrobnosti o ceně",
+  "car_hand_note_title_creator": "Vytvořil",
+  "car_hand_note_title_person_contact": "Kontaktní osoba",
+  "car_hand_note_title_phone": "Telefonní číslo",
+  "car_hand_note_title_email": "E-mailem",
+  "car_hand_note_title_country": "Země",
+  "car_hand_note_title_address": "Adresa",
+  "car_hand_note_title_price_of_car_rental": "Cena pronájmu auta",
+  "car_hand_note_title_price_payment_fee": "Poplatek za platbu",
+  "car_hand_note_title_info_extra_services": "Extra služby",
+  "car_hand_note_title_type_insurance": "Typy pojištění",
+  "car_hand_note_title_info_insurance": "Informace o pojištění",
+  "car_hand_note_title_car_info": "Detaily vozu",
+  "car_search_result_not_found_title": "Promiňte",
+  "car_search_result_not_found_sub_title": "Nemůžeme najít vhodnou shodu pro váš požadavek.\nZkuste to prosím znovu",
+  "car_search_result_first_title_rental_car": "Půjčovna aut v",
+  "car_detail_btn_rent_now": "Zarezervovat hned",
+  "car_notice_title_check_connection": "Zkontrolujte připojení a zkuste to znovu!",
+  "car_rent_input_title_details": "Podrobnosti",
+  "car_rent_input_title_total_payment": "Celková platba",
+  "car_rent_input_title_payment": "Platit",
+  "car_rent_form_input_last_name": "Příjmení (bez tónových značek)",
+  "car_rent_form_input_first_name": "Prostřední a první/křestní jméno (bez tónových značek)",
+  "car_rent_input_content_cb_use_contact_details": "Použijte podrobnosti kontaktu",
+  "car_rent_input_title_method_payment": "Platit",
+  "car_rent_input_title_method_pay": "Možnost platby",
+  "car_rent_input_title_late_payment": "Zaplať později",
+  "car_rent_input_title_now_payment": "Zaplať teď",
+  "car_rent_input_title_information_card": "Podrobnosti o kartě",
+  "car_rent_input_title_driver_age": "Věk řidiče",
+  "car_rent_input_title_Do_you_need_anything_else": "Potřebuješ ještě něco?",
+  "car_rent_input_title_accept_policy": "Pokračováním v dalším kroku",
+  "car_rent_input_title_card_must_be_valid": "K zajištění pronájmu u dodavatele musí být vaše karta platná",
+  "car_rent_input_title_accept_card_pay": "Přijímané platební karty",
+  "car_rent_input_title_content_notice_later_pay": "Dodavatel vozu vaši platbu zpracuje. V závislosti na podmínkách rezervace",
+  "car_rent_input_title_select_type_card": "Vyberte typ kreditní karty",
+  "car_rent_input_title_number_card": "Číslo karty",
+  "car_rent_input_title_enter_number_card": "Zadejte číslo karty",
+  "car_rent_input_title_name_card": "Jméno držitele karty",
+  "car_rent_input_title_enter_name_card": "Zadejte jméno držitele karty",
+  "car_rent_input_title_select_expiry_date": "Vyberte datum vypršení platnosti",
+  "car_rent_input_title_expiry_date": "Datum vypršení platnosti",
+  "car_rent_input_title_gate_ways": "Platební brána",
+  "car_rent_input_title_ccv_code": "CVC kód",
+  "car_rent_input_title_enter_ccv_code": "Zadejte kód CVC",
+  "car_rent_input_title_first_notice_need_anything_else": "Budeme informovat dodavatele, že máte o tyto služby zájem",
+  "car_rent_input_title_sub_notice_need_anything_else": "Váš požadavek nelze zaručit. Nebojte se! Dodavatel se bude snažit vyhovět vašim potřebám.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Zadejte maximálně 55 znaků",
+  "car_rent_input_noti_invalid_last_name": "Neplatné příjmení",
+  "car_rent_input_noti_invalid_first_name": "Neplatné prostřední a křestní jméno",
+  "car_rent_input_noti_required_last_name": "Příjmení je povinné",
+  "car_rent_input_noti_required_first_name": "Prostřední a křestní/křestní jméno je povinné",
+  "car_rent_input_noti_invalid_email": "Neplatný e-mail",
+  "car_rent_input_noti_invalid_phone": "Neplatné telefonní číslo",
+  "car_rent_input_noti_required_email": "E-mail je povinný",
+  "car_rent_input_noti_required_phone": "Telefonní číslo je povinné",
+  "car_rent_input_noti_requried_address": "Adresa je povinná",
+  "car_rent_input_noti_requried_country": "Země je povinná",
+  "car_rent_input_noti_requried_number_card": "Číslo karty je povinné",
+  "car_rent_input_noti_requried_card_holder_name": "Jméno držitele karty je povinné",
+  "car_rent_input_noti_requried_type_card": "Je vyžadována kreditní karta",
+  "car_rent_input_noti_requried_expiry": "Datum vypršení platnosti je povinné",
+  "car_rent_input_title_type_card_credit": "Typ kreditní karty",
+  "car_rent_input_title_currency_at_rental_car_place": "Měna v místě vyzvednutí",
+  "car_rent_input_title_rule_age": "Věková pravidla",
+  "car_rent_input_notice_term_and_policy_first_string": "Pokračováním v dalším kroku potvrzuji, že jsem si přečetl Hahalolo''s a souhlasím s nimi",
+  "car_rent_input_notice_term_and_policy_append__string": "Podmínky - Zásady",
+  "car_rent_input_notice_term_and_policy_between_string": "a",
+  "car_rent_input_notice_term_and_policy_append___string": "Zásady ochrany osobních údajů",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Vyzvednout",
+  "car_cart_title_drop_off": "Drop-off",
+  "car_cart_title_included_texas_fee": "Včetně daní a poplatků",
+  "car_cart_title_btn_delete": "Vymazat",
+  "car_cart_title_btn_edit": "Změňte svůj výběr",
+  "car_cart_title_sub_total": "Mezisoučet",
+  "car_cart_title_car_types": "Typ auta:",
+  "car_title_select_country": "Vyber zemi",
+  "car_title_car_cart": "Rezervace auta",
+  "car_feed_input_hint_pick_up_place": "Vaše místo vyzvednutí",
+  "car_feed_input_hint_drop_off_place": "Vaše místo vykládky",
+  "car_feed_notice_empty_location_pick_up": "Vyberte prosím místo vyzvednutí pro vyhledávání",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Zadejte místo odevzdání",
+  "notify_error_occurred": "Nastala chyba. Zkontrolujte prosím znovu.",
+  "car_hand_note_detail_order_full_name": "Celé jméno",
+  "car_hand_note_detail_order_promotion": "povýšení",
+  "car_hand_note_detail_order_act_history": "Protokol činnosti",
+  "car_hand_note_detail_order_request_other": "Jiné požadavky",
+  "car_hand_note_detail_order_order_payment": "Platba objednávky",
+  "car_hand_note_detail_order_cancel_info": "Informace o zrušení objednávky",
+  "car_hand_note_detail_order_payment_info": "Informace o platbě",
+  "car_hand_note_detail_order_paid": "Zaplaceno",
+  "car_hand_note_detail_order_unpaid": "Nezaplaceno",
+  "car_hand_note_title_days_ago": "před pár dny",
+  "car_hand_note_detail_order_cancel_fee": "Storno poplatek",
+  "car_hand_note_detail_order_amount_ongoing_return": "Odhadovaná částka vrácení peněz",
+  "car_hand_note_detail_order_time_ongoing_return": "Odhadovaný čas vrácení peněz",
+  "car_hand_note_detail_order_info_transaction": "Informace o transakci",
+  "car_hand_note_detail_order_amount_payment": "Celková částka",
+  "car_hand_note_detail_order_total_order": "Celková objednávka",
+  "car_hand_note_detail_content_define_vat": "VAT je daň a poplatek, který jste povinni zaplatit dodavateli vozu podle jeho předpisů při používání služby půjčovny aut.",
+  "car_title_search_result_first_character": "Půjčovna aut v",
+  "car_title_tool_bar_pick_up_location": "Kde chcete vyzvednout?",
+  "car_title_tool_bar_drop_off_location": "Kam chcete vypadnout?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Cena za pronájem auta se převádí na základě aktuální měny používané dodavatelem Car.\nPoznámka:\n- Směnný kurz se může před zaplacením změnit.\n- Vydavatel vaší karty vám může účtovat poplatek za zahraniční transakci.",
+  "car_hand_note_detail_content_define_payment_fee": "Transakční poplatek odpovídající každé žádosti o pronájem auta, který musíte zaplatit poskytovateli služeb online platební brány.",
+  "car_hand_note_detail_content_notice_insurance": "Poznámka: Pokud si přejete zažádat o tyto balíčky pojištění, kontaktujte prosím přímo recepci dodavatele vozu.",
+  "car_hand_note_detail_title_header_insurance": "Mnoho autopojištění a nájemních smluv pokrývá výluky, které mohou být drahé spojené s poškozením nebo krádeží auta z pronájmu. Pojištění níže vám však pomůže ochránit a nabídnout vám finanční podporu o značné množství peněz.",
+  "car_result_booking_title_header_rental_car_success": "REZERVACE ÚSPĚŠNÁ",
+  "car_result_booking_title_btn_continue_rental_car": "Pokračujte v rezervaci",
+  "car_result_booking_title_btn_view_order_details": "Zobrazit podrobnosti objednávky",
+  "car_result_booking_title_header_first_char": "Váš požadavek na rezervaci byl úspěšně proveden",
+  "car_result_booking_title_header_second_char": "(Zaplaceno)",
+  "car_result_booking_title_header_third_char": ". Podrobnosti o půjčovně aut si můžete zkontrolovat níže.",
+  "car_result_booking_title_header__char": "Děkuji za vaši důvěru",
+  "car_result_booking_title_header____char": "servis. Máte-li jakékoli dotazy nebo potřebujete další pomoc, kontaktujte naše centrum nápovědy na adrese",
+  "car_result_booking_title_header_____char": "pro pokyny.",
+  "car_result_booking_title_header______char": ". Podrobnosti o půjčovně aut si můžete zkontrolovat níže.",
+  "car_result_booking_title_order": "Objednat",
+  "car_result_booking_title_billing_info": "Informace o platbě",
+  "car_result_booking_title_time": "Čas",
+  "car_result_booking_title_name_car": "Název auta",
+  "car_picker_time_from_the_date": "Z",
+  "car_picker_time_to_the_date": "Na",
+  "car_picker_time": "Čas",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Vyberte město/stát",
+  "car_result_notice_no_data_found": "Litujeme, nebyla nalezena žádná data",
+  "car_result_notice_no_flight_found_description": "Nenašli jsme žádné výsledky odpovídající vašemu vyhledávání. Hledejte znovu.",
+  "car_extra_service": "Některé doplňkové služby níže vám může nabídnout poskytovatel vozu. Pokud o ně chcete požádat, kontaktujte prosím přímo recepci poskytovatele.",
+  "car_extra_charges": "Na řidiče mladšího nebo staršího věku stanoveného dodavatelem vozu se budou vztahovat dodatečné poplatky",
+  "car_note_driver_age": "Poznámka: Tento poplatek bude vybírán na recepci při vašem příjezdu za účelem vyzvednutí auta.",
+  "car_rental_details": "Podrobnosti o pronájmu auta",
+  "car_you_dont_have_any_car_rental_orders": "Zatím nemáte žádné objednávky na pronájem auta.",
+  "car_search_code_no_information": "Nebyly nalezeny žádné informace o rezervaci.\nZkontrolujte to a zkuste to znovu",
+  "car_input_code_message_empty": "Zadejte prosím číslo své rezervace",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Přijmout",
+  "aff_chart_day_ago": "před {number} dny",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Od {from} do {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Doba trvání souboru cookie: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Hotel",
+  "aff_tour": "Prohlídka",
+  "aff_product_name": "Jméno výrobku",
+  "aff_anonymous_user": "Anonymní uživatel",
+  "aff_unknown": "Neznámý",
+  "aff_product_unknown": "Neznámý typ produktu",
+  "aff_share": "Podíl",
+  "aff_fetch_data_failure": "Nepodařilo se získat data",
+  "aff_fetch_data_failure_try_later": "Nepodařilo se získat data. Prosím zkuste to znovu později.",
+  "aff_detail": "Podrobnosti",
+  "aff_no_data": "Nenalezena žádná data",
+  "aff_all": "Všechno",
+  "aff_country": "Země",
+  "aff_summary": "Přehled",
+  "aff_link_management": "Správa odkazů",
+  "aff_promotion_tool": "Marketingové nástroje",
+  "aff_help": "Pomoc",
+  "aff_notification": "Oznámení",
+  "aff_notification_no_data": "Nemáte žádná oznámení",
+  "aff_revenue": "Příjmy",
+  "aff_revenue_total": "Celkové příjmy",
+  "aff_customer_id": "zákaznické identifikační číslo",
+  "aff_payment_total": "Celková částka",
+  "aff_commission_receive": "Celkový počet přijatých provizí",
+  "aff_search_by_order": "Vyhledávání podle objednacího kódu",
+  "aff_reset": "Resetovat",
+  "aff_cancel": "zrušení",
+  "aff_save": "Uložit",
+  "aff_search": "Vyhledávání",
+  "aff_continue": "Pokračovat",
+  "aff_payment_account": "Platební účet",
+  "aff_profile": "Profil",
+  "aff_edit_profile": "Upravit informace",
+  "aff_affiliate": "Přidružený",
+  "aff_setting": "Nastavení",
+  "aff_resend": "Přeposlat",
+  "aff_verify_failure": "Ověření se nezdařilo",
+  "aff_show_code": "Zobrazit kód",
+  "aff_sms_block_forever": "Funkce ověřování byla dočasně zablokována. Prosím zkuste to znovu později.",
+  "aff_sms_wrong_code": "Nesprávný ověřovací kód. Zkontrolujte to znovu.",
+  "aff_sms_expired_code": "Platnost ověřovacího kódu vypršela. Získejte jiný kód",
+  "aff_sms_verify_failure": "Ověření se nezdařilo. Prosím zkuste to znovu později.",
+  "aff_enter_verify_code": "Vložte ověřovací kód",
+  "aff_we_send_code_to_phone": "Odeslali jsme ověřovací kód na číslo {phone}.\nK dokončení tohoto kroku zadejte kód, který jste obdrželi.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Platnost kódu vyprší za:",
+  "aff_sms_block": "Funkce odesílání kódu prostřednictvím SMS je dočasně zablokována. Prosím zkuste to znovu později.",
+  "aff_sms_resend_in": "Můžete se rozhodnout znovu odeslat kód v:",
+  "aff_account_information": "INFORMACE O ÚČTU",
+  "aff_account_information_subtitle": "Aktualizujte prosím své telefonní číslo ve svém platebním účtu, abyste mohli nadále používat služby na Hahalolo.",
+  "aff_account_name": "Jméno účtu",
+  "aff_search_county": "Hledat zemi",
+  "aff_wallet_create_failure": "Vytvoření platebního účtu se nezdařilo",
+  "aff_wallet_create_failure_try_again": "Vytvoření platebního účtu se nezdařilo. Prosím zkuste to znovu později.",
+  "aff_information_general": "Obecná informace",
+  "aff_information_unknown": "(Neznámý)",
+  "aff_information_full_name": "Celé jméno {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "E-mailem {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Telefonní číslo  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Datum narození {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Rod {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Adresa {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Země {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Více informací",
+  "aff_information_city": "Provincie/město {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Poštovní směrovací číslo  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID karta/pas {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Datum spotřeby {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Země vydání {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Národnost {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Místo narození {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Kód telefonu",
+  "aff_gender_male": "mužský",
+  "aff_gender_female": "ženský",
+  "aff_gender_other": "jiný",
+  "aff_validate_full_name": "Celé jméno musí mít alespoň 3 znaky",
+  "aff_validate_email": "Neplatný e-mail",
+  "aff_validate_phone": "Neplatné telefonní číslo",
+  "aff_validate_post_code": "Neplatné PSČ",
+  "aff_validate_id_code": "Neplatná karta ID/Pas",
+  "aff_validate_invalid_field": "Čas",
+  "aff_validate_phone_existed": "Telefonní číslo bylo zaregistrováno pro jiný platební účet.",
+  "aff_validate_unknown_country": "Neznámá země",
+  "aff_date_time": "Čas",
+  "aff_date_yesterday": "Včera",
+  "aff_date_today": "Dnes",
+  "aff_date_unknown": "Neznámé datum",
+  "aff_date_month": "Měsíc",
+  "aff_date_day": "den",
+  "aff_date_hour": "hodina",
+  "aff_date_minute": "minuta",
+  "aff_date_second": "druhý",
+  "aff_date_range": "Časové období",
+  "aff_report": "Zpráva",
+  "aff_report_summary": "Přehled přehledu",
+  "aff_report_click": "kliknutí",
+  "aff_report_click_number": "kliknutí",
+  "aff_report_performance": "Výkon",
+  "aff_report_customer": "Zákazník",
+  "aff_report_payment": "Způsob platby",
+  "aff_report_product_performance": "Výkon produktu",
+  "aff_report_product_type": "Typ produktu",
+  "aff_report_customer_detail": "Podrobnosti o zákazníkovi",
+  "aff_report_commission_by_product": "Provize podle položky",
+  "aff_report_customer_total": "Celkový počet zákazníků nakupujících",
+  "aff_report_customer_serving": "Celkový počet zákazníků ve službě",
+  "aff_report_customer_served": "Celkový počet obsluhovaných zákazníků",
+  "aff_report_payment_waiting": "Celkové provize v procesu",
+  "aff_report_payment_pending": "Celkové nevyřízené provize",
+  "aff_report_payment_available": "Celkové dostupné provize",
+  "aff_report_payment_status_waiting": "zpracovává se",
+  "aff_report_payment_status_pending": "čekající",
+  "aff_report_payment_status_available": "K dispozici",
+  "aff_report_payment_status_cancel": "Zrušeno",
+  "aff_report_payment_status": "Postavení",
+  "aff_report_description_click": "Statistický graf kliknutí na affiliate odkaz, celkové obdržené objednávky a příjmy",
+  "aff_report_description_customer": "Statistická tabulka informací o zákaznících",
+  "aff_report_description_commission": "Statistická tabulka provizí",
+  "aff_link": "Odkaz:",
+  "aff_link_copied": "Odkaz zkopírován",
+  "aff_link_path": "Přidružený odkaz",
+  "aff_link_paste_here": "Sem vložte svůj odkaz",
+  "aff_flight_commission_itinerary": "Itinerář",
+  "aff_flight_commission_itinerary_domestic": "Domácí",
+  "aff_flight_commission_itinerary_international": "Mezinárodní",
+  "aff_flight_commission_itinerary_unknown": "Neznámý itinerář",
+  "aff_flight_commission_seat_class": "Třída sedadla",
+  "aff_flight_commission_seat_class_plus": "Plus",
+  "aff_flight_commission_seat_class_business": "podnikání",
+  "aff_flight_commission_seat_class_unknown": "Neznámá třída sedadla",
+  "aff_flight_ticket": "Letenka",
+  "aff_flight_all_airlines": "Všechny letecké společnosti",
+  "aff_tooltip_flight_domestic": "Lety s destinacemi a odlety na území Vietnamu",
+  "aff_tooltip_seller": "Tento kód můžete použít k připojení na konec každého odkazu affiliate marketingu. Hahalolo potvrdí, že je to váš odkaz, a provize za odměnu, pokud z tohoto odkazu vycházejí platné objednávky.",
+  "aff_commission": "Komise",
+  "aff_commission_by_country": "Hotelové provize podle země",
+  "aff_commission_flight_list": "Hotelové provize podle země",
+  "aff_commission_max": "Nejvyšší provize:",
+  "aff_commission_of_product": "Provize {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Objednací kód",
+  "aff_order_total": "Celkový počet objednávek",
+  "aff_order_tooltip_click": "Kolikrát uživatelé klikli na váš partnerský odkaz.",
+  "aff_order_conversion_rate": "Míra konverze",
+  "aff_order_tooltip_conversion_rate": "Měřítkem pro analýzu výkonu propagace vašeho produktu.",
+  "aff_order_product_total": "Celkem produktů",
+  "aff_order_click_total": "Celkový počet kliknutí",
+  "aff_order_earnings_total": "Celkový výdělek",
+  "aff_order_id_unknown": "Neznámý objednací kód",
+  "aff_order_added": "přidány k platebnímu účtu",
+  "aff_order_type_waiting": "zpracovává se",
+  "aff_order_type_pending": "čekající",
+  "aff_order_type_available": "K dispozici",
+  "aff_order_type_cancel": "Zrušeno",
+  "aff_ordered_total": "Celkový počet objednaných produktů",
+  "aff_order_receive_commission": "Celkem objednávek přijatých provizí",
+  "aff_verify_do_not_have_account": "JEŠTĚ NEMÁTE\n PLATEBNÍ ÚČET",
+  "aff_guild": "Instrukce",
+  "aff_seller_code": "Kód prodejce: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Kód prodejce",
+  "aff_view_detail": "Zobrazit podrobnosti",
+  "aff_notification_turn_off_link_1": "Funkce affiliate marketingu\n",
+  "aff_notification_turn_off_link_2": "je zakázáno, což znamená, že přidružené odkazy, které jste sdíleli, budou neplatné!",
+  "aff_notification_turn_on_link_success": "Funkce affiliate marketingu pro {type} byla úspěšně aktivována",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Letové provize",
+  "aff_commission_list_hotel": "Hotelové provize podle země",
+  "aff_tooltip_menu": "Otevřít nabídku",
+  "aff_tooltip_dash_board": "Rychlý přístup k palubní desce",
+  "aff_tooltip_guild": "Rozbalte si pokyny",
+  "aff_action_done": "Hotovo",
+  "aff_check_user_failed": "Uživatele nelze zkontrolovat. Prosím zkuste to znovu později.",
+  "aff_something_went_wrong": "Něco se pokazilo.",
+  "aff_page_not_found": "Stránka nenalezena.",
+  "aff_and": "a",
+  "aff_month_summary": "Shrnutí za tento měsíc",
+  "aff_see_more": "Vidět víc",
+  "aff_try_again": "Zkus to znovu",
+  "aff_error_try_again": "Vyskytla se chyba. Prosím zkuste to znovu později.",
+  "aff_tooltip_flight_international": "Lety s odlety nebo přílety mimo území Vietnamu.",
+  "aff_area_code": "Kód telefonu",
+  "aff_phone_number": "Telefonní číslo",
+  "aff_validate_sms_required": "Zadejte prosím ověřovací kód",
+  "aff_validate_sms_min_length": "Zadejte prosím celý ověřovací kód",
+  "aff_welcome": "Vítejte",
+  "aff_verify_update": "Aktualizujte platební účet",
+  "aff_verify_create_account": "Vytvořte platební účet",
+  "aff_verify_invalid_wallet": "Aktualizujte platební účet",
+  "aff_verify_do_not_have_account_subtitle": "Pro použití prodejní funkce na Hahalolo si prosím vytvořte platební účet!",
+  "aff_verify_invalid_wallet_subtitle": "Aktualizujte své telefonní číslo ve svém platebním účtu, abyste mohli nadále používat služby na Hahalolo",
+  "aff_guild_1": "Nyní můžete kliknutím rychle aktivovat funkci affiliate marketingu",
+  "aff_guild_2": "v sekci Hotel/let",
+  "aff_guild_3": "Po zapnutí affiliate marketingu můžete propagovat své produkty prostřednictvím:",
+  "aff_guild_4": "Odkaz nastavený ve výchozím nastavení Hahalolo in",
+  "aff_guild_5": "Jakýkoli odkaz související se sekcí, jejíž affiliate marketing je povolen, za předpokladu, že váš kód prodejce je připojen k odpovídajícímu odkazu na produkt.",
+  "aff_seller": "Prodejce",
+  "aff_menu": "Kategorie",
+  "aff_dash_chart_title": "Statistický graf vašich příjmů a kliknutí za tento měsíc",
+  "aff_dash_click": "kliknutí",
+  "aff_dash_commission": "Zisk",
+  "aff_flight_commission_detail_customer_way": "/ cestující / segment",
+  "aff_flight_commission_detail_order_total": "/ celkem objednávek",
+  "aff_performance_chart_title": "Statistický graf kliknutí na affiliate odkaz, celkový počet přijatých objednávek a výnosů",
+  "aff_customer_chart_title": "Statistická tabulka informací o zákaznících",
+  "aff_payment_chart_title": "Statistická tabulka provizí",
+  "aff_action_exit": "Výstup",
+  "aff_action_update": "Aktualizace",
+  "aff_action_create": "vytvořit",
+  "aff_dialog_check_invalid_user": "{action} svůj platební účet, abyste mohli používat služby affiliate marketingu na Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "datum",
+  "aff_action_register": "Registrovat",
+  "aff_otp_time_left": "Zbývá {number}krát",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "VYTVOŘIT PLATEBNÍ ÚČET",
+  "wallet_create_payment_subtitle": "Nastavení platebního účtu je určeno jako primární platební účet, včetně příjmu, výběru a platby po jeho přiřazení.",
+  "wallet_verify_otp_title": "Zadejte potvrzovací kód",
+  "wallet_verify_otp_subtitle": "Na číslo {phone} jsme odeslali potvrzovací kód. \nPro dokončení tohoto kroku zadejte kód, který jste obdrželi.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Platební účet",
+  "wallet_start_subtitle": "Platební účet Hahalolo je platební řešení na Hahalolo, které vám pomůže mít s námi zajímavé a pohodlné zkušenosti.",
+  "wallet_label_choose_business": "Vyberte si podnikání",
+  "wallet_label_account_name": "Jméno účtu",
+  "wallet_label_email": "E-mailem",
+  "wallet_label_phone": "Telefonní číslo",
+  "wallet_label_choose_currency": "Vyberte měnu",
+  "wallet_label_payment_country": "Země platby",
+  "wallet_label_payment_method": "Způsob platby",
+  "wallet_label_card_holder_name": "Jméno držitele karty (bez tónových značek)",
+  "wallet_label_card_bank_name": "jméno banky",
+  "wallet_label_card_swift_code": "SWIFT kód",
+  "wallet_label_bank_account_number": "Číslo bankovního účtu",
+  "wallet_label_account_type": "Typ účtu",
+  "wallet_label_tax_code": "Daňový kód",
+  "wallet_label_tax_type": "Typ daně",
+  "wallet_label_address": "Adresa",
+  "wallet_label_address_2": "Adresa 2 (volitelné)",
+  "wallet_label_country": "Země",
+  "wallet_label_city": "Provincie/Město",
+  "wallet_label_district": "Okres",
+  "wallet_label_first_name": "Příjmení",
+  "wallet_label_last_name": "Jméno",
+  "wallet_label_middle_name": "Prostřední jméno (volitelné)",
+  "wallet_label_postal_code": "Poštovní směrovací číslo",
+  "wallet_label_city_more_description": "Stát/Provincie/Region",
+  "wallet_label_postal_code_more_description": "Zip/PSČ",
+  "wallet_label_district_more_description": "Město/Město",
+  "wallet_label_birthday_18_years_old": "Datum narození (nejméně 18 let)",
+  "wallet_label_date_of_birth": "Datum narození",
+  "wallet_label_enter_password": "Zadejte heslo",
+  "wallet_label_password": "Heslo",
+  "wallet_label_enter_pin": "Zadejte PIN",
+  "wallet_label_re_enter_new_pin": "Znovu zadejte nový PIN",
+  "wallet_label_enter_new_pin": "Zadejte nový PIN",
+  "wallet_label_enter_current_pin": "Zadejte starý PIN",
+  "wallet_validate_pin_required": "Zadejte prosím svůj PIN",
+  "wallet_validate_otp_required": "Zadejte prosím ověřovací kód",
+  "wallet_validate_current_pin_required": "Zadejte prosím svůj starý PIN",
+  "wallet_validate_new_pin_required": "Zadejte prosím svůj nový PIN.",
+  "wallet_validate_re_enter_new_pin_required": "Zadejte prosím znovu svůj nový PIN.",
+  "wallet_validate_re_enter_new_pin_not_match": "Potvrzovací PIN se neshoduje",
+  "wallet_action_detail": "Podrobnosti",
+  "wallet_text_pick_date": "Vyberte datum",
+  "wallet_text_email_address": "Emailová adresa",
+  "wallet_text_message_to": "Odeslat zprávu na",
+  "wallet_text_recovery_method": "Způsob zotavení",
+  "wallet_text_recovery_choose_method": "Vyberte, jak získat kód pro obnovení",
+  "wallet_text_change_pin": "Změňte svůj PIN",
+  "wallet_text_forgot_pin": "Zapomněli jste PIN?",
+  "wallet_text_show_pin": "Zobrazit PIN",
+  "wallet_text_please_try_again_in": "Prosím zkuste to znovu později:",
+  "wallet_text_remove_account": "Smazat výplatní účet",
+  "wallet_text_ineligible_payment": "Není způsobilé pro transakci",
+  "wallet_text_ineligible_payment_description": "Nebudete moci provádět žádné transakce ze systému, dokud náš správce nepřijme informace o vašem výplatním účtu. Aktualizujte prosím údaje o svém platebním účtu.",
+  "wallet_text_address_2": "Adresa 2",
+  "wallet_text_new_account": "Vytvořte výplatní účet",
+  "wallet_text_payout_account_detail": "Podrobnosti o výplatním účtu",
+  "wallet_text_middle_name": "Prostřední jméno",
+  "wallet_text_account_owner": "Majitel účtu",
+  "wallet_text_tax_form": "Daňový formulář",
+  "wallet_text_tax_form_subtitle": "Na základě vámi poskytnutých informací nemusíte nahrávat žádné další daňové formuláře. Kliknutím na Pokračovat přejděte k dalšímu kroku.",
+  "wallet_text_card_holder_name": "Jméno držitele karty",
+  "wallet_text_otp_code_expire_in": "Platnost kódu vyprší za:",
+  "wallet_text_account_information": "Informace o účtu",
+  "wallet_text_welcome": "Ahoj!",
+  "wallet_text_payment_information": "Informace o platbě",
+  "wallet_text_policies_confirm": "Souhlasím s {termsAndPolicies}",
+  "wallet_terms_and_policies": "Podmínky a zásady Hahalolo.",
+  "wallet_text_default": "Výchozí",
+  "wallet_text_code_vie_sms": "Pošlete kód pomocí SMS",
+  "wallet_text_pin_code_recovery_description": "Použijte svůj e-mail k ověření, zda jste zapomněli svůj PIN.",
+  "wallet_text_sms_recovery_description": "Pokud zapomenete PIN, použijte své telefonní číslo.",
+  "wallet_text_authority": "Souhlasím s tím, aby společnost Hahalolo použila poskytnuté informace o mém účtu k provedení převodu peněz.",
+  "wallet_text_district_three_dot": "Okres...",
+  "wallet_text_set_up_pin": "Nastavte si PIN",
+  "wallet_text_established": "(Založeno)",
+  "wallet_text_not_have_pin_yet_title": "Nemáte PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Pro použití této funkce si prosím vytvořte PIN",
+  "wallet_text_security_pin_code_description": "PIN k platebnímu účtu Hahalolo je vyžadován k ochraně vašeho účtu a finančních informací. A co víc, při opětovném přihlášení nemusíte znovu zadávat údaje o kartě.",
+  "wallet_text_check_password_locked": "Funkce kontroly hesla je dočasně uzamčena. Prosím zkuste to znovu později.",
+  "wallet_text_enter_password_description": "Pro potvrzení změny musíte zadat heslo k účtu Hahalolo.",
+  "wallet_text_enter_sms_code": "Zadejte potvrzovací kód",
+  "wallet_text_send_sms_description_1": "Poslali jsme potvrzovací kód na",
+  "wallet_text_send_sms_description_2": "\nPro dokončení tohoto kroku zadejte kód, který jste obdrželi.",
+  "wallet_text_resend": "Přeposlat",
+  "wallet_text_no_data": "Momentálně nejsou k dispozici žádná data!",
+  "wallet_text_bank_transfer": "bankovní převod",
+  "wallet_text_tax_ptin": "Identifikační číslo daňového poplatníka zpracovatele",
+  "wallet_text_tax_atin": "Adopční identifikační číslo daňového poplatníka",
+  "wallet_text_tax_ssn": "Číslo sociálního pojištění",
+  "wallet_text_account_personal": "Osobní účet",
+  "wallet_text_account_business": "Podnikatelský účet",
+  "wallet_text_country_code_and": "kód země a",
+  "wallet_text_resend_time": "Znovu odeslat {time}",
+  "wallet_text_change_your": "Změňte svůj {text}",
+  "wallet_start_person_button": "{action} osobního platebního účtu",
+  "wallet_start_business_button": "{action} firemní platební účet",
+  "wallet_text_recovery_subtitle_1": "Váš aktuální {text} je\n{value}",
+  "wallet_text_recovery_subtitle_2": "Zadejte nový {extra_text}{text}",
+  "wallet_text_enter_new": "Zadejte nový {title}",
+  "wallet_text_new": "nový {title}",
+  "wallet_succ_setup_pin": "PIN byl úspěšně nastaven.",
+  "wallet_succ_setup_pin_content": "Úspěšně jste nastavili svůj PIN.",
+  "wallet_succ_change_pin": "PIN byl úspěšně změněn",
+  "wallet_succ_change_pin_content": "Úspěšně jste změnili svůj PIN",
+  "wallet_succ_change_information": "Informace byly úspěšně aktualizovány a ověřeny",
+  "wallet_war_remove_payout_account": "Opravdu chcete tento účet trvale smazat?",
+  "wallet_war_create_payment_title": "Vytvořte platební účet",
+  "wallet_war_create_payment_subtitle": "Před vytvořením platebního účtu si prosím vytvořte firemní účet.",
+  "wallet_war_unsaved_information": "Informace, které jste upravili, nemusí být uloženy. Chceš odejít?",
+  "wallet_err_recovery": "Obnovení se nezdařilo. Prosím zkuste to znovu později.",
+  "wallet_err_recovery_no_user_data": "Obnovení se nezdařilo. Nebyly nalezeny žádné informace o uživateli.",
+  "wallet_err_recovery_phone_exists": "Obnovení se nezdařilo. Toto telefonní číslo již existuje.",
+  "wallet_err_recovery_phone_invalid": "Obnovení se nezdařilo. Telefonní číslo je neplatné.",
+  "wallet_err_recovery_password_invalid": "Obnovení se nezdařilo. Vaše heslo je nesprávné.",
+  "wallet_err_pin_existed": "PIN již existuje.",
+  "wallet_err_pin_wallet_not_exist": "Platební účet neexistuje",
+  "wallet_err_pin_incorrect_or_exists": "Kód PIN je nesprávný nebo neexistuje",
+  "wallet_err_pin_try_again": "Nastavení kódu PIN se nezdařilo. Prosím zkuste to znovu později.",
+  "wallet_err_set_payout_default": "Nepodařilo se vybrat výchozí účet pro platby. Prosím zkuste to znovu později!",
+  "wallet_err_occurred_try_again": "Vyskytla se chyba. Prosím zkuste to znovu později.",
+  "wallet_err_send_verify_title": "Odeslání ověřovacího kódu se nezdařilo",
+  "wallet_err_try_again": "Vyskytla se chyba. Prosím zkuste to znovu později.",
+  "wallet_err_create_payout_title": "Vytvoření platebního účtu se nezdařilo. Prosím zkuste to znovu později.",
+  "wallet_err_fetch_data_failed": "Data se nepodařilo načíst. Prosím zkuste to znovu později!",
+  "wallet_err_occurred_processing": "Během zpracování došlo k chybě. Prosím zkuste to znovu později.",
+  "wallet_err_remove_payout": "Účet se nepodařilo smazat. Prosím zkuste to znovu později.",
+  "wallet_err_change_pin": "Změna PIN se nezdařila",
+  "wallet_err_setup_pin": "Kód PIN se nepodařilo nastavit",
+  "wallet_err_sms_code_expired": "Platnost ověřovacího kódu vypršela. Prosím zkuste to znovu.",
+  "wallet_err_sms_code_incorrect": "Ověřovací kód je nesprávný. Prosím zkuste to znovu.",
+  "wallet_create_payout_title": "Vytvořte výplatní účet",
+  "wallet_action_continue": "Pokračovat",
+  "wallet_action_create": "Vytvořit",
+  "wallet_action_update": "Aktualizace",
+  "wallet_action_ok": "Souhlasit",
+  "wallet_action_complete": "Kompletní",
+  "wallet_action_next": "Pokračovat",
+  "wallet_action_try_back": "Vraťte se",
+  "wallet_action_try_again": "Zkus to znovu",
+  "wallet_action_accept": "Akceptovat",
+  "wallet_action_remove": "Vymazat",
+  "wallet_action_change": "Změna",
+  "wallet_action_setup": "Založit",
+  "wallet_action_confirm": "Potvrdit",
+  "wallet_action_cancel": "zrušení",
+  "wallet_action_close": "Zavřít",
+  "wallet_overview": "Přehled",
+  "wallet_notification": "Oznámení",
+  "wallet_transaction_history": "Historie transakcí",
+  "wallet_transfer_point": "Přestupní body",
+  "wallet_payout_accounts": "Výplatní účet",
+  "wallet_security": "Bezpečnostní",
+  "wallet_recovery_methods": "Způsob zotavení",
+  "wallet_help_center": "Centrum nápovědy",
+  "wallet_view_profile": "Zobrazit informace",
+  "wallet_info_title": "Informace o platebním účtu",
+  "wallet_edit_identity_card": "ID Kartu",
+  "wallet_edit_id_card": "ID Kartu",
+  "wallet_edit_passport": "Cestovní pas",
+  "wallet_edit_verify_status": "Postavení",
+  "wallet_edit_not_verify": "Neověřeno",
+  "wallet_edit_verified": "Ověřeno",
+  "wallet_edit_verify_waiting": "čekající",
+  "wallet_edit_gender": "Rod",
+  "wallet_edit_male": "mužský",
+  "wallet_edit_female": "ženský",
+  "wallet_edit_other": "jiný",
+  "wallet_owner_title": "Uživatelské informace",
+  "wallet_edit_fullName": "Celé jméno",
+  "wallet_edit_email": "E-mailem",
+  "wallet_edit_phoneNumber": "Telefonní číslo",
+  "wallet_edit_dateOfBirth": "Datum narození",
+  "wallet_edit_dateOfBirth_13_yo": "Datum narození (alespoň 13 let)",
+  "wallet_edit_address": "Adresa",
+  "wallet_edit_country": "Země",
+  "wallet_edit_idType": "Typ identifikace",
+  "wallet_edit_id_passport": "ID číslo/Pas",
+  "wallet_edit_country_issue": "Země vydání",
+  "wallet_edit_id_document": "Obrázky karty ID/Pas",
+  "wallet_edit_front": "Přední strana",
+  "wallet_edit_back": "Zadní strana",
+  "wallet_edit_activate_date": "Datum účinnosti",
+  "wallet_edit_expiration_date": "Datum vypršení platnosti",
+  "wallet_waiting_balance": "Nevyřízený zůstatek",
+  "wallet_pending_balance": "Rovnováha v procesu",
+  "wallet_available_balance": "Dostupná částka",
+  "wallet_frozen_balance": "Zmrazený zůstatek",
+  "wallet_top10_trans": "Posledních 10 transakcí",
+  "wallet_source_withdrawal": "Vybrání",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Peníze v",
+  "wallet_source_outcome": "Peníze pryč",
+  "wallet_source_point": "Body",
+  "wallet_source_aff_commission": "Pobočka – provize",
+  "wallet_source_aff_reward": "Affiliate - program odměn",
+  "wallet_source_recharge": "Doplňte",
+  "wallet_source_order": "Objednat",
+  "wallet_status_waiting": "čekající",
+  "wallet_status_pending": "Čeká na schválení",
+  "wallet_status_available": "Dostupný",
+  "wallet_status_frozen": "Zamrzlý",
+  "wallet_status_cancel": "Zrušeno",
+  "wallet_status_success": "Úspěšný",
+  "wallet_status_error": "Nepodařilo se",
+  "wallet_status_outcome": "Peníze pryč",
+  "wallet_status_transfer": "Přestupní body",
+  "wallet_action_receive": "Získejte body",
+  "wallet_action_donate": "Dávejte body",
+  "wallet_action_buy_point": "Koupit body",
+  "wallet_action_payment": "Způsob platby",
+  "wallet_filter_all": "Všechno",
+  "wallet_filter_allTime": "Všechno",
+  "wallet_filter_today": "Dnes",
+  "wallet_filter_yesterday": "Včera",
+  "wallet_filter_7days": "Posledních 7 dní",
+  "wallet_filter_30days": "Posledních 30 dní",
+  "wallet_filter_custom_date": "Volitelné datum",
+  "wallet_filter_status": "Postavení",
+  "wallet_filter_time": "Čas",
+  "wallet_filter_action": "Akce",
+  "wallet_validate_this_field": "Toto pole",
+  "wallet_validate_required": "{fieldName} je povinné",
+  "wallet_validate_invalid_email": "Neplatný e-mail",
+  "wallet_validate_invalid_phone_number": "Neplatné telefonní číslo",
+  "wallet_validate_invalid_number": "Neplatné číslo",
+  "wallet_validate_limit_length": "{fieldName} musí mít alespoň {minLength} znaků",
+  "wallet_validate_not_contain_number": "{fieldName} nesmí obsahovat číselné znaky",
+  "wallet_validate_not_contain_special_char": "{fieldName} nesmí obsahovat speciální znaky",
+  "wallet_validate_invalid_swift_code_length": "Swiftový kód se skládá pouze z 8 až 11 znaků",
+  "wallet_validate_invalid_swift_code": "Neplatný kód SWIFT",
+  "wallet_no_transaction": "Žádné transakce!",
+  "wallet_no_image": "Zatím žádné fotky",
+  "wallet_edit_quit_msg": "Informace, které jste upravili, nemusí být uloženy. Chceš odejít?",
+  "wallet_point_total": "Celkový:",
+  "wallet_payment_methods": "Způsob platby",
+  "wallet_payment_methods_note": "(Poznámka: '{HAHALOLO}' podporuje uživatele s bankovními poplatky '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Počet bodů",
+  "wallet_points": "{number} bodů",
+  "wallet_1point": "1 bod",
+  "wallet_msg_enter_number_of_points": "Zadejte počet bodů, které chcete koupit",
+  "wallet_msg_pin_not_correct": "Kód PIN je nesprávný nebo neexistuje",
+  "wallet_msg_balance_not_enough": "Nedostatečná rovnováha",
+  "wallet_msg_error_while_buy_point": "Při nákupu bodů došlo k chybě",
+  "wallet_msg_fetch_error": "Vyskytla se chyba. Prosím zkuste to znovu později.",
+  "wallet_msg_buy_point_success": "Úspěšně jste zakoupili body",
+  "wallet_withdrawal_req": "Žádost o výběr:",
+  "wallet_withdrawal_payment_acc_id": "ID platebního účtu:",
+  "wallet_withdrawal_balance": "Dostupná částka:",
+  "wallet_withdrawal_payout_acc": "výplatní účet",
+  "wallet_withdrawal_amount": "Částka ({currency})",
+  "wallet_label_desc": "Popis",
+  "wallet_btn_save": "Uložit",
+  "wallet_btn_edit_owner": "Upravit",
+  "wallet_btn_buy": "Koupit",
+  "wallet_btn_reset": "Zadejte znovu",
+  "wallet_insufficient_available_balances": "Nedostatečný disponibilní zůstatek",
+  "wallet_msg_complete_info": "Vyplňte prosím informace",
+  "wallet_msg_success": "Úspěšně jste odstoupili",
+  "wallet_msg_wal_not_exist": "Platební účet neexistuje",
+  "wallet_msg_wal_blocked": "Platební účet zablokován",
+  "wallet_msg_acc_incorrect": "Nesprávný platební účet",
+  "wallet_msg_total_not_available": "Celková požadovaná částka není k dispozici",
+  "wallet_msg_pin_locked": "PIN platebního účtu je uzamčen",
+  "wallet_msg_withdrawal_failed": "Výběr se nezdařil. Prosím zkuste to znovu později.",
+  "wallet_msg_fill_in_all_info": "Vyplňte prosím informace",
+  "wallet_update_info_success": "Úspěšně jste aktualizovali informace",
+  "wallet_update_info_fail": "Aktualizace informací se nezdařila",
+  "wallet_no_notifications": "Nemáte žádná oznámení",
+  "wallet_buy_point_payment_method_note": "(Poznámka: '{hahalo}' podporuje uživatele s '{free}' bankovními poplatky)",
+  "wallet_note_free": "VOLNÝ, UVOLNIT",
+  "wallet_buy_point_policy": "Souhlasím s {condition} a {privacy}",
+  "wallet_term_conditions": "Pravidla a podmínky",
+  "wallet_privacy": "Soukromí",
+  "wallet_msg_receiving_account_not_exist": "Platební účet příjemce neexistuje",
+  "wallet_msg_search_account_error": "Při hledání platebního účtu došlo k chybě",
+  "wallet_msg_sending_account_not_exist": "Platební účet odesílatele neexistuje",
+  "wallet_msg_point_balance_not_enough": "Bodový zůstatek platebního účtu nestačí",
+  "wallet_msg_cannot_give_to_itself": "Nelze přenést body na sebe",
+  "wallet_msg_cannot_give_to_business": "Platební účet příjemce nemůže být firemním účtem",
+  "wallet_msg_transfer_point_err": "Při přenosu bodů došlo k chybě",
+  "wallet_msg_transfer_point_success": "Body byly úspěšně převedeny",
+  "wallet_recipient_info": "Informace o příjemci",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Počet bodů",
+  "wallet_not_verified": "Neověřený platební účet",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} hodina {minute} minuta",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 zastavit} other{{countStop} zastavit}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Doba přepravy přibližně {time} v {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Dospělí (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Děti (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Dítě (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} dospělý} other{{count} dospělí}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} dítě} other{, {count} děti}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} miminko} other{, {count} miminka}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Doba přepravy přibližně {times} v {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAMY} other{{countBag} KILOGRAMY}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Jednosměrný let",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Odlet",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Zpáteční let",
+  "flight_fare_rule_title_fare_conditions": "Tarifní podmínky",
+  "flight_fare_rule_title_departure_flight": "Let",
+  "flight_fare_rule_title_segment": "Segment",
+  "flight_filter_by_title_filter": "Filtr",
+  "flight_filter_by_content_btn_filter": "Filtr",
+  "flight_filter_by_title_airline": "Letecká linka",
+  "flight_filter_by_title_flight_times": "Doba letu",
+  "flight_filter_by_title_type_flight_times_early_morning": "Brzy ráno \n 00:00–06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Ráno \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Odpoledne \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Večer \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Počet zastávek",
+  "flight_filter_by_title_select_all": "Vybrat vše",
+  "flight_filter_by_title_unselect_all": "Odznačit vše",
+  "flight_filter_by_title_type_segment_all": "Všechno",
+  "flight_filter_by_title_type_segment_direct": "Přímý let",
+  "flight_filter_by_title_type_segment_transit": "Tranzit",
+  "flight_sort_by_title_sort_by": "Seřazeno podle",
+  "flight_sort_by_title_sort_by_ascending_price": "Vzestupná cena",
+  "flight_sort_by_title_sort_by_descending_price": "Klesající cena",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Nejčasnější čas odjezdu",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Nejčasnější čas příjezdu",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Nejpozdější čas příjezdu",
+  "flight_search_result_title_count_adult": "dospělý",
+  "flight_search_result_title_count_child": "dítě",
+  "flight_search_result_title_count_baby": "dítě",
+  "flight_search_result_title_segment": "stop",
+  "flight_search_result_title_hours": "hodin",
+  "flight_search_result_title_minutes": "minut",
+  "flight_search_result_title_view_detail_price": "Zobrazit podrobnosti",
+  "flight_search_result_title_hide_detail_price": "Skrýt detaily",
+  "flight_search_result_title_view_detail": "Podrobnosti",
+  "flight_search_result_title_btn_book_ticket": "Rezervovat",
+  "flight_search_result_title_basic_price_ticket": "Cena za vstupenku",
+  "flight_search_result_title_taxes_and_fee": "Daně a poplatky",
+  "flight_search_result_title_total_amount": "Celková částka",
+  "flight_search_result_title_total": "Celkový",
+  "flight_search_result_title_fare_details": "Podrobnosti o jízdném",
+  "flight_search_result_title_quantity": "Množství",
+  "flight_search_result_title_passenger": "Cestující",
+  "flight_search_result_title_one_way_flight": "Jednosměrný let",
+  "flight_search_result_title_round_trip_flight": "Zpáteční let",
+  "flight_change_search_title_btn_agree": "Souhlasit",
+  "flight_change_search_title_btn_cancel": "zrušení",
+  "flight_change_search_title_header_dialog": "Změnit vyhledávání",
+  "flight_change_search_title_body_dialog": "Opravdu chcete změnit informace o vyhledávání?",
+  "flight_change_search_title_footer_dialog": "Pokud souhlasíte se změnou informací o vyhledávání, všechna předchozí data budou smazána.",
+  "flight_search_result_detail_title_flight_details": "Detaily letu",
+  "flight_search_result_detail_title_checked_baggage": "Zkontrolovaný kufr",
+  "flight_search_result_detail_title_aircraft": "Letadlo",
+  "flight_search_result_detail_title_seat_class": "Třída sedadla",
+  "flight_search_result_detail_title_class_seat_type_all": "Všechno",
+  "flight_search_result_detail_title_class_seat_type_economy": "Ekonomika",
+  "flight_search_result_detail_title_class_seat_type_first_class": "za prvé",
+  "flight_search_result_detail_title_class_seat_type_business": "podnikání",
+  "flight_search_result_detail_content_note_transit_body": "Poznámka: Cestující mohou být požádáni, aby na žádost hostitelské země provedli celní odbavení a předložili své tranzitní vízum.",
+  "flight_transit_alter_note": "Poznámka: Cestující mohou být požádáni, aby na žádost hostitelské země provedli celní odbavení a předložili své tranzitní vízum.",
+  "flight_luggage": "Zavazadla",
+  "flight_signed_luggage": "Zkontrolovaný kufr",
+  "flight_service_package": "Balíčky služeb",
+  "flight_run_by": "Provozuje",
+  "flight_result_notice_no_flight_found": "Nebyly nalezeny žádné lety!",
+  "flight_result_notice_no_flight_found_filter": "Je nám líto, ale vašim kritériím neodpovídají žádné lety",
+  "flight_result_notice_check_internet_again": "Vaše připojení bylo přerušeno. Zkontrolujte připojení znovu",
+  "flight_result_notice_error_authentication": "Vaše přihlašovací relace vypršela. Přihlaste se prosím znovu",
+  "flight_search_result_notice_booking_expired": "Období rezervace brzy vyprší",
+  "flight_search_result_notice_click_continue_to_proceed": "Klikněte prosím na \"Pokračovat\" a pokračujte v rezervaci.",
+  "flight_search_result_btn_continue": "Pokračovat",
+  "flight_input_title_gender": "Rod",
+  "flight_input_title_gender_male": "mužský",
+  "flight_input_title_gender_female": "ženský",
+  "flight_input_title_gender_other": "jiný",
+  "flight_search_price_info_bottom_sheet_tax_include": "Včetně daně",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Poplatek včetně",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Systémový a administrátorský příplatek",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Poplatek za bezpečnostní prověrku",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Pohodlný příplatek za platbu",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Letištní poplatek",
+  "flight_fare_rule_notice_empty_fare_rule": "Tarifní podmínky od letecké společnosti nebyly nalezeny",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Dospělí",
+  "flight_v2_model_booking_children": "Děti",
+  "flight_v2_model_booking_infant": "nemluvně",
+  "flight_v2_model_detail_infant": "(mladší 2 roky)",
+  "flight_v2_model_detail_children": "(od 02 do 12 let)",
+  "flight_v2_component_bonus_services_title_string": "Doplňkové služby",
+  "flight_v2_component_bonus_service_header": "Doplňkové služby",
+  "flight_v2_component_bonus_service_content_header_price": "Poplatek za pojištění",
+  "flight_v2_component_bonus_service_flight_table_header": "Celkový poplatek za pojištění",
+  "flight_v2_component_bonus_service_text1_introduce": "Úvod",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Typ pojištění:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Pojištění letu",
+  "flight_v2_component_bonus_service_text1_supplier": "Poskytovatel:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance Akciová společnost (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "S naším důvěryhodným cestovním pojištěním budete mít při cestování naprostou jistotu",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Předmět pojištění",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Jednotlivci využívají k cestování letadlem službu rezervace letenek v systému Hahalolo.",
+  "flight_v2_component_bonus_service_text1_age": "Věk: Od 7 dnů.",
+  "flight_v2_component_bonus_service_text1_range": "Rozsah",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Pojistné krytí zahrnuje následující rizika:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Smrt nebo zranění způsobené nehodou.",
+  "flight_v2_component_bonus_service_text1_impediments": "Cestovní rizika, konkrétně zrušení/zkrácení cesty, ztráta nebo poškození zavazadel, oblečení a osobních věcí pojištěné osoby, zpoždění letu letecké společnosti, zpoždění zavazadel, ztráta cestovních dokladů nebo únos.",
+  "flight_v2_component_bonus_service_text1_benefit": "Výhody",
+  "flight_v2_component_bonus_service_text1_small_amount": "Utraťte jen malé množství peněz za vícenásobnou ochranu.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Výhody osobního pojištění:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Pojištěný, který zemře v důsledku nehody nebo zranění, na které se pojištění vztahuje, obdrží plnou pojistnou částku až do výše 1 000 000 VND",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Výhody rizikového cestovního pojištění:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Pojištěné osobě bude odškodněno maximálně do výše 20 000 000 VND",
+  "flight_v2_component_bonus_service_text1_rules": "Podmínky",
+  "flight_v2_component_bonus_service_text1_more_information": "Více informací naleznete v přiloženém souboru nebo nás prosím kontaktujte",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Pravidla cestovního pojištění",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Souhlaste s účastí na pojištění letu",
+  "flight_v2_component_booking_flight_information": "Informace o letu",
+  "flight_v2_component_booking_show": "Přečtěte si více",
+  "flight_v2_component_booking_hide": "Skrýt",
+  "flight_v2_component_booking_adult": "Dospělí",
+  "flight_v2_component_booking_children": "Děti",
+  "flight_v2_component_booking_infant": "Dítě",
+  "flight_v2_component_booking_baggage": "Zavazadla",
+  "flight_v2_component_booking_main_content_service": "Služby",
+  "flight_v2_component_booking_taxes_fees": "Poplatky a daně",
+  "flight_v2_component_booking_title_booking_information": "Informace o rezervaci",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Odlet",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Zpáteční let",
+  "flight_v2_component_confirm_title_flight_information": "Informace o letu",
+  "flight_v2_component_confirm_text_done": "Hotovo",
+  "flight_v2_component_detail_booking_information": "Informace o rezervaci",
+  "flight_v2_component_detail_flight_information": "Informace o letu",
+  "flight_v2_component_detail_passenger_information": "Informace o cestujících",
+  "flight_v2_component_payment_booking_information": "Informace o rezervaci",
+  "flight_v2_component_payment_information": "Informace",
+  "flight_v2_component_payment_passenger_information": "Informace o cestujících",
+  "flight_v2_component_payment_making_flight_payment": "Platíte za let za následující cestující:",
+  "flight_v2_component_payment_payment_now": "Platit",
+  "flight_v2_component_result_title_flight_details": "Detaily letu",
+  "flight_v2_component_result_title_fare_details": "Podrobnosti o jízdném",
+  "flight_v2_component_result_type_direct_flight": "Přímý let",
+  "flight_v2_component_result_title_showMessDiaLog": "Oznámení",
+  "flight_v2_component_result_message_selected_return": "Vybrali jste si zpáteční let",
+  "flight_v2_component_result_message_cancel_book": "Chcete zrušit a rezervovat nový let?",
+  "flight_v2_component_result_actionMessage_yes": "Ano",
+  "flight_v2_component_result_negativeMessage_no": "Ne",
+  "flight_v2_component_result_trip_turn_departure": "Odchod",
+  "flight_v2_component_result_trip_turn_arrival": "Příchod",
+  "flight_v2_notify_day_invalid_cannot_choose": "Nelze vybrat",
+  "flight_v2_notify_day_invalid_because": "protože",
+  "flight_v2_notify_day_invalid_date_is": "je",
+  "flight_v2_component_result_actionMessage_btn": "Souhlasit",
+  "flight_v2_component_result_message": "Nevybírejte prosím data před aktuálním datem",
+  "flight_v2_component_search_text_guest": "Cestující",
+  "flight_v2_component_search_button_save": "Uložit",
+  "flight_v2_component_search_text_choose_a_date": "Vyberte datum",
+  "flight_v2_component_search_button_choose": "Vybrat",
+  "flight_v2_widget_booking_total_price": "Celková cena",
+  "flight_v2_widget_booking_continue": "Pokračovat",
+  "flight_v2_widget_booking_payer_information": "Informace o plátci",
+  "flight_v2_widget_booking_payer_use_contact_information": "Použijte kontaktní údaje",
+  "flight_v2_widget_booking_save_payment": "Uložte si tyto platební údaje pro příště",
+  "flight_v2_widget_booking_title_contact_information": "Kontaktní informace",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Použijte aktuální informace o účtu",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Jsem cestující",
+  "flight_v2_widget_booking_radio_gender": "Rod",
+  "flight_v2_widget_booking_radio_male": "mužský",
+  "flight_v2_widget_booking_radio_female": "ženský",
+  "flight_v2_widget_booking_field_card_bank_card": "Bankovní karta",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Zkontrolovaný kufr",
+  "flight_v2_widget_booking_title_passenger_information": "Informace o cestujících",
+  "flight_v2_widget_booking_information": "informace",
+  "flight_v2_widget_common_one_way": "Jednosměrný",
+  "flight_v2_widget_common_details": "Podrobnosti",
+  "flight_v2_widget_common_text_price": "Cena",
+  "flight_v2_widget_common_text_fare_conditions": "Tarifní podmínky",
+  "flight_v2_widget_common_text_service_pack": "Balíčky služeb",
+  "flight_v2_widget_common_item_tax_inclusive": "Včetně daně",
+  "flight_v2_widget_common_item_vat": "káď",
+  "flight_v2_widget_common_item_fee_inclusive": "Poplatek včetně",
+  "flight_v2_widget_common_item_fee_surcharge": "Systémový a administrátorský příplatek",
+  "flight_v2_widget_common_item_fee_screening": "Příplatek za bezpečnostní prověrku",
+  "flight_v2_widget_common_item_fee_convenient": "Pohodlný příplatek za platbu",
+  "flight_v2_widget_common_item_fee_airport": "Letištní poplatek",
+  "flight_v2_widget_common_text_price_per_ticket": "Základní jízdné",
+  "flight_v2_widget_common_text_taxes_fees": "Daně a poplatky",
+  "flight_v2_widget_common_service_service": "Služby",
+  "flight_v2_widget_common_text_total_amount": "Celková cena",
+  "flight_v2_widget_common_button_continue": "Pokračovat",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(včetně daní a poplatků)",
+  "flight_v2_widget_common_service_accommodation_service": "Ubytovací služby",
+  "flight_v2_widget_common_text_direct_flight": "Přímý let",
+  "flight_v2_widget_confirm_description": "Rod",
+  "flight_v2_widget_confirm_description_full_name": "Celé jméno",
+  "flight_v2_widget_confirm_description_email": "E-mailem",
+  "flight_v2_widget_confirm_description_phone_number": "Telefonní číslo",
+  "address": "Adresa",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Rezervace úspěšná",
+  "flight_v2_widget_confirm_text_reservation_request": "Vaše žádost o rezervaci byla úspěšně provedena",
+  "flight_v2_widget_confirm_text_paid_already": "(Zaplaceno)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Podrobnosti o itineráři můžete zkontrolovat níže.",
+  "flight_v2_widget_confirm_title_payment_information": "Informace o platbě",
+  "flight_v2_widget_confirm_description_orders": "Objednávky",
+  "flight_v2_widget_confirm_description_price": "Cena",
+  "flight_v2_widget_confirm_description_payers": "Plátce",
+  "flight_v2_widget_confirm_button_view_details": "Zobrazit podrobnosti",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Kniha nová",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Děkujeme za důvěru v naše služby",
+  "flight_v2_widget_confirm_textspan_question_help": "Pokud máte nějaké dotazy nebo potřebujete další pomoc, kontaktujte Hahalolo Centrum nápovědy",
+  "flight_v2_widget_confirm_text_paid_instructions": "pro pokyny.",
+  "flight_v2_widget_confirm_title_passenger_information": "Informace o cestujících",
+  "flight_v2_widget_confirm_title_flight_information": "Informace o letu",
+  "flight_v2_widget_confirm_text_ticket_class": "Třída",
+  "flight_v2_widget_confirm_text_booking_code": "Reference rezervace",
+  "flight_v2_widget_confirm_text_flight": "Let",
+  "flight_v2_widget_confirm_description_name": "název",
+  "flight_v2_widget_confirm_description_guest_type": "Typ cestujícího",
+  "flight_v2_widget_confirm_description_baggage": "Zavazadla",
+  "flight_v2_widget_dialog_config_button_agree": "Souhlasit",
+  "flight_v2_widget_dialog_config_button_deny": "Přeskočit",
+  "flight_v2_widget_dialog_config_title": "Změňte informace",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Opravdu chcete změnit informace o vyhledávání\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Pokud souhlasíte se změnou informací o vyhledávání, všechna předchozí data budou smazána",
+  "flight_v2_widget_dialog_config_title_delete_account": "smazat účet",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Účet se nezobrazí v části Vyberte platební účet. Chcete tento platební účet smazat? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Vyberte jiný čas letu",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Změnit vyhledávání",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Let překročil povolenou dobu",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Let, který jste vybrali, překročil povolenou dobu rezervace.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Prosím kontaktujte nás",
+  "flight_v2_widget_dialog_config_text_span_by_number": "přes",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Horká linka",
+  "flight_v2_widget_dialog_config_text_span_or": "nebo",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "změňte vyhledávání nového letu.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Vyberte jiný let",
+  "flight_v2_widget_dialog_config_title_not_available": "Let není\n dostupný",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Litujeme, vámi vybraný let již není dostupný. Prosím",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "vyberte jiný let nebo změňte vyhledávání.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Změny jízdného",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Vaše jízdné se změnilo od",
+  "flight_v2_widget_dialog_config_text_span_to": "na",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nvzhledem ke změnám tarifů letecké společnosti",
+  "flight_v2_widget_field_fname_required": "Příjmení je povinné",
+  "flight_v2_widget_field_fname_invalid": "Neplatné příjmení",
+  "flight_v2_widget_field_fname_last_name": "Příjmení (bez tónových značek)",
+  "flight_v2_widget_field_lname_required": "Prostřední a křestní/křestní jméno jsou povinné",
+  "flight_v2_widget_field_lname_invalid": "Neplatné prostřední a křestní jméno",
+  "flight_v2_widget_field_lname_middle_first_name": "Prostřední a křestní/křestní jméno (bez tónových značek)",
+  "flight_v2_widget_field_email_required": "E-mail je povinný",
+  "flight_v2_widget_field_email_invalid": "Neplatný e-mail",
+  "flight_v2_widget_field_email_email": "E-mailem",
+  "flight_v2_widget_field_phone_required": "Telefonní číslo je povinné",
+  "flight_v2_widget_field_phone_invalid": "Neplatné telefonní číslo",
+  "flight_v2_widget_field_phone_phone": "Telefonní číslo",
+  "flight_v2_widget_field_address_required": "Adresa je povinná",
+  "flight_v2_widget_field_address_invalid": "Neplatná adresa",
+  "flight_v2_widget_field_address_address": "Adresa",
+  "flight_v2_widget_field_city_required": "Je vyžadován stát/město",
+  "flight_v2_widget_field_city_invalid": "Neplatný stát/město",
+  "flight_v2_widget_field_city_city": "Státní město",
+  "flight_v2_widget_field_city_snackbar_text": "Před výběrem města vyberte svou národnost",
+  "flight_v2_widget_field_country_required": "Je vyžadována státní příslušnost",
+  "flight_v2_widget_field_country_invalid": "Neplatná státní příslušnost",
+  "flight_v2_widget_field_country_country": "Národnost",
+  "flight_v2_widget_field_field_card_hint": "Číslo členské karty",
+  "flight_v2_widget_field_field_card_error_input": "Neplatná karta",
+  "flight_v2_widget_field_field_card_default_error": "Karta je vyžadována",
+  "flight_v2_widget_field_field_date_hint": "Datum narození",
+  "flight_v2_widget_field_field_date_error_input": "Nenechávejte pole prázdné",
+  "flight_v2_widget_field_field_date_default_error": "Nenechávejte pole prázdné",
+  "flight_v2_widget_field_field_date_default_error_infant": "Kojenci musí být mladší 2 let",
+  "flight_v2_widget_field_field_date_default_error_children": "Děti musí být ve věku od 2 do 12 let",
+  "flight_v2_widget_payment_contact_information": "Kontaktní informace",
+  "flight_v2_widget_payment_full_name": "Celé jméno",
+  "flight_v2_widget_payment_gender": "Rod",
+  "flight_v2_widget_payment_phone_number": "Telefonní číslo",
+  "flight_v2_widget_payment_address": "Adresa",
+  "flight_v2_widget_payment_birthday": "Datum narození",
+  "flight_v2_widget_payment_male": "mužský",
+  "flight_v2_widget_payment_female": "ženský",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Celé jméno:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Rod:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Datum narození:",
+  "flight_v2_widget_payment_checked_baggage": "Zkontrolovaný kufr",
+  "flight_v2_widget_payment_note": "Poznámka",
+  "flight_v2_widget_payment_information": "Informace",
+  "flight_v2_widget_payment_adult": "Dospělý",
+  "flight_v2_widget_payment_children": "Dítě",
+  "flight_v2_widget_payment_infant": "Dítě",
+  "flight_v2_widget_payment_title_adult_information": "Informace pro dospělé",
+  "flight_v2_widget_payment_title_children_information": "Informace o dítěti",
+  "flight_v2_widget_payment_title_infant_information": "Informace o miminku",
+  "flight_v2_widget_payment_customer_information": "Informace o cestujících",
+  "flight_v2_widget_payment_edit_information": "Upravit informace",
+  "flight_v2_widget_payment_bonus_services": "Doplňkové služby",
+  "flight_v2_widget_payment_membership_card_number": "Číslo členské karty",
+  "flight_v2_widget_payment_text_loyal_customer": "Časté letáky",
+  "flight_v2_widget_payment_text_making_flight_payment": "Platíte za let za následující cestující:",
+  "flight_v2_widget_result_total_amount": "Celková cena",
+  "flight_v2_widget_result_taxes_fees": "(včetně daní a poplatků)",
+  "flight_v2_widget_result_elevate_button_book": "Rezervovat",
+  "flight_v2_widget_result_text_flight": "Segment",
+  "flight_v2_widget_result_text_departure_flight": "Odlet",
+  "flight_v2_component_code_title": "Hledejte rezervaci",
+  "flight_v2_component_code_retype": "Zadejte znovu",
+  "flight_v2_component_code_search_btn": "Vzhlédnout",
+  "flight_v2_component_code_error": "Nebyly nalezeny žádné informace o rezervaci.\nZkontrolujte to a zkuste to znovu.",
+  "flight_v2_widget_detail_text_booking_code": "Reference rezervace:",
+  "flight_v2_widget_detail_text_status": "Postavení:",
+  "flight_v2_widget_detail_text_booked": "Zarezervováno",
+  "flight_v2_widget_detail_text_cancelled": "Zrušeno",
+  "flight_v2_widget_detail_text_paid": "Zaplaceno",
+  "flight_v2_widget_detail_text_unpaid": "Nezaplaceno",
+  "flight_showcase_domestic_round_trip_step1": "Zobrazí se čas s nejnižším tarifem dne",
+  "flight_showcase_domestic_round_trip_step2": "Přejetím na obě strany znovu vyberte dobu letu",
+  "flight_showcase_domestic_round_trip_step3": "Vyberte si svůj odletový let",
+  "flight_showcase_domestic_round_trip_step4": "Vyberte si zpáteční let",
+  "flight_showcase_domestic_round_trip_step5": "Odlet a zpáteční lety můžete kdykoli znovu vybrat",
+  "flight_showcase_domestic_round_trip_step6": "Před rezervací musíte vybrat dostatek letů",
+  "flight_showcase_inter_round_trip_step1": "Vyberte si vhodnou letovou cestu pro sebe",
+  "flight_showcase_inter_round_trip_step1_desc": "Letová cesta se skládá z odletu a zpátečního letu",
+  "flight_showcase_place_from": "Z",
+  "flight_showcase_place_to": "Na",
+  "flight_showcase_tutorial": "Tutorial",
+  "flight_showcase_back": "Zadní",
+  "flight_showcase_done": "Kompletní",
+  "flight_showcase_continue": "další",
+  "flight_v2_component_code_hint_text": "Zadejte referenční číslo rezervace",
+  "flight_v2_component_booking_text_note_upon": "Když",
+  "flight_v2_component_booking_text_payment_after": "ZAPLAŤ POZDĚJI",
+  "flight_v2_component_booking_text_your_booking": ", vaše rezervace bude do 12 hodin. Pokud stále neprovedete platbu ve stanoveném čase, bude automaticky zrušena. Proveďte prosím platbu ve stanoveném čase, abyste dokončili proces rezervace.",
+  "flight_v2_widget_result_text_return_flight": "Zpáteční let",
+  "flight_v2_dialog_default_payment_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu později.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Kontaktujte zákaznický servis Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Platba selhala",
+  "flight_v2_component_result_message_appropriate_flight": "Čas vzletu pro zpáteční let musí nastat nejméně 2 hodiny po době přistání pro odletový let. Vyberte prosím vhodný let.",
+  "flight_v2_component_notification_not_available": "Let není k dispozici",
+  "flight_v2_search_enter_your_reservation": "Chcete-li vyhledat informace o rezervaci, zadejte referenční číslo rezervace",
+  "flight_v2_search_booking_reference": "Reference rezervace",
+  "flight_v2_search_title_booking_code": "Chcete-li vyhledat rezervaci letu, zadejte referenční číslo rezervace",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Příjmení (bez tónových značek)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Prostřední jméno a křestní jméno (bez tónových značek)",
+  "flight_v2_widget_common_rules_1": "U mezinárodních letů nebo mezinárodních tranzitů musí být váš pas platný alespoň 6 měsíců před datem odletu.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines a Bamboo Airways: Odmítněte přepravovat těhotné cestující s obdobím těhotenství od 36. týdne. Vietjet Air a Vietravel Airlines: Odmítněte přepravovat těhotné cestující s obdobím těhotenství od 32. týdne.",
+  "flight_v2_widget_common_rules_3": "Dítě ve věku od 14 dnů do 02 let musí být v doprovodu dospělé osoby starší 18 let.",
+  "flight_v2_widget_common_rules_4": "Věk dětí/miminek bude počítán od data narození do data odletu letadla na základě rodného listu/pasu dítěte.",
+  "flight_v2_widget_common_rules_5": "Pro děti létající sólo kontaktujte prosím přímo agenta, který vám poskytne další informace o službě pro děti bez doprovodu.",
+  "flight_range_slider_price_range": "Cenové rozpětí",
+  "flight_v2_common_done": "Hotovo",
+  "flight_v2_detail_airline_operator_by": "Provozuje '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Poznámka: Cestující mohou být požádáni, aby na žádost hostitelské země provedli celní odbavení a předložili své tranzitní vízum.",
+  "flight_v2_detail_airline_total_price": "Celkový",
+  "flight_v2_detail_airline_title_tax_and_fee": "(včetně daní a poplatků)",
+  "flight_v2_detail_airline_button_add_ticket": "Přidat lístek",
+  "flight_v2_detail_airline_button_change_ticket": "Změnit lístek",
+  "flight_v2_detail_airline_button_booking_ticket": "Zarezervujte si lístek",
+  "flight_v2_detail_airline_departure_flight": "Odlet",
+  "flight_v2_detail_airline_return_flight": "Zpáteční let",
+  "flight_v2_information_contact_email": "E-mailem",
+  "flight_v2_information_customer_title_full_name": "Celé jméno: {fullName}",
+  "flight_v2_information_customer_title_gender": "Pohlaví: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Datum narození: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Poznámka: {HAHALOLO} podporuje uživatele bankovními poplatky {free})",
+  "flight_v2_payment_include_free_fee_payment": "VOLNÝ, UVOLNIT",
+  "flight_v2_payment_use_saved_info_user": "Použijte kontaktní údaje nebo uložené platební údaje",
+  "flight_v2_payment_success_thank_user": "Děkujeme za vaši důvěru ve službu '{HAHALOLO}'. Pokud máte nějaké dotazy nebo potřebujete další pomoc, kontaktujte prosím centrum nápovědy Hahalolo na čísle {phone}, kde vám sdělí pokyny.",
+  "flight_v2_payment_success_notifier": "Vaše žádost o rezervaci byla úspěšně odeslána '{wasPayment}'. Podrobnosti o itineráři můžete zkontrolovat níže.",
+  "flight_v2_payment_success_was_payment": "(Zaplaceno)",
+  "flight_v2_payment_success_flight_information": "Informace o letu",
+  "flight_v2_payment_success_outbound_flight_information": "Informace o odletovém letu",
+  "flight_v2_payment_success_return_flight_information": "Informace o zpátečním letu",
+  "flight_v2_information_bottom_sheet_adult": "{count} x dospělý",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x dítě",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Baby",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Informace pro dospělé {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Informace o dítěti {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Informace o miminku {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Dospělí",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Děti",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Miminka",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Doba přepravy přibližně {time} v místě {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Daně a poplatky (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Základní jízdné (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Nejpozdější čas odjezdu",
+  "flight_v2_widget_detail_text_departure_flight": "Odlet",
+  "flight_v2_widget_detail_text_return_flight": "Zpáteční let",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(včetně daní a poplatků)",
+  "flight_input_title_note_1": "Vezměte prosím na vědomí, že cestovní pas musí být platný alespoň 6 měsíců před datem odjezdu prvního úseku itineráře.",
+  "flight_input_title_note_2": "Cestující jsou povinni mít odpovídající doklady a dodržovat předpisy a imigrační postupy cílové země.",
+  "flight_input_title_note_3": "Letecká společnost si vyhrazuje právo odmítnout přepravu, pokud cestující nemají platné předepsané doklady.",
+  "flight_input_title_note_4": "Letecká společnost nenese odpovědnost, pokud je cestujícím odepřen vstup.",
+  "flight_input_title_note_5": "Cestující se musí odbavit na letišti včas.",
+  "flight_input_title_note_6": "Nezletilí cestující bez doprovodu jsou povinni kontaktovat přímo leteckou společnost.",
+  "flight_input_title_note_7": "Těhotné cestující s obdobím těhotenství od 32. týdne musí kontaktovat přímo leteckou společnost.",
+  "flight_input_title_note_8": "Věk cestujících se vypočítává podle časového intervalu mezi datem narození a datem odletu prvního úseku letu v itineráři na základě identifikačních dokumentů cestujícího, jako je cestovní pas a rodný list.",
+  "flight_input_passenger_choose_birth_day": "Vyberte datum narození",
+  "flight_input_payment_show_passenger_title": "Rezervujete let pro následující cestující:",
+  "flight_input_payment_reservation": "Rezervovat",
+  "flight_v2_model_booking_luggage_handle": "Příruční zavazadlo",
+  "flight_search_result_progress_searching_title": "Hledání...",
+  "flight_v2_dialog_unavailable_ticket": "Let není k dispozici",
+  "flight_v2_dialog_choose_ticket": "Vybrali jste let",
+  "flight_v2_dialog_from": "z",
+  "flight_v2_dialog_time_take_off_flight": "Čas vzletu letu",
+  "flight_v2_dialog_happening": "musí nastat",
+  "flight_v2_dialog_minimum_hour": "alespoň 02 hodin",
+  "flight_v2_dialog_after_trip": "po letu",
+  "flight_v2_dialog_landed": "přistál.",
+  "flight_v2_dialog_choose_again_ticket": "Chcete vybrat jiný let?",
+  "flight_passenger_view_service_packages": "Balíčky služeb",
+  "flight_passenger_view_check_in_baggage": "Zkontrolovaný kufr:",
+  "flight_v2_widget_detail_text_departure": "Odchod",
+  "flight_v2_widget_detail_text_destination": "Destinace",
+  "flight_handnote_international_item_view_order_code": "Objednací kód",
+  "flight_handnote_international_order_vieư": "Aktualizováno datum",
+  "flight_order_detail_view_booking_code": "Reference rezervace",
+  "flight_handnote_international_item_view_departure_date": "Datum odletu",
+  "flight_handnote_international_item_view_booking_status": "Stav rezervace",
+  "flight_input_passenger_infor_title": "Informace o cestujících",
+  "flight_input_payment_show_contact_full_name": "Celé jméno",
+  "flight_passenger_view_guest_type": "Typ cestujícího",
+  "flight_passenger_view_ticket_number": "Číslo lístku",
+  "flight_order_detail_title_flight_information": "Informace o letu",
+  "flight_v2_dialog_common_agree": "Souhlasit",
+  "flight_v2_dialog_common_confirm": "Potvrdit",
+  "flight_v2_dialog_common_skip": "Přeskočit",
+  "flight_v2_dialog_common_cancel": "zrušení",
+  "flight_v2_dialog_common_exit": "Výstup",
+  "flight_v2_dialog_common_change_flight": "Souhlasit",
+  "flight_v2_dialog_common_change_search": "Změnit vyhledávání",
+  "flight_v2_dialog_title_change_information": "Změňte informace",
+  "flight_v2_dialog_sub_title_change_information": "Opravdu chcete změnit informace o vyhledávání?",
+  "flight_v2_dialog_message_change_information": "Pokud souhlasíte se změnou informací o vyhledávání, všechna předchozí data budou smazána",
+  "flight_v2_dialog_title_not_available": "Let není k dispozici",
+  "flight_v2_dialog_message_not_available": "Je nám líto, let, který jste vybrali, není nyní dostupný. Prosím '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "vyberte jiný let nebo změňte vyhledávání",
+  "flight_v2_dialog_title_exceed_time_allow": "Let překročil povolenou dobu",
+  "flight_v2_dialog_message_exceed_time_allow": "Let, který jste vybrali, překročil povolenou dobu rezervace. Kontaktujte prosím '{HAHALOLO}' prostřednictvím horké linky '{hotline}' nebo '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "změnit vyhledávání nových letů",
+  "flight_v2_dialog_title_delete_account": "Smazat platební účet",
+  "flight_v2_dialog_sub_title_delete_account": "Opravdu chcete tento platební účet smazat?",
+  "flight_v2_dialog_message_delete_account": "Účet se již nebude zobrazovat ve výběru platebního účtu.",
+  "flight_v2_dialog_title_change_ticket_price": "Změna jízdného",
+  "flight_v2_dialog_message_change_ticket_price": "Celková částka objednávky se změnila z '{oldPrice}' na '{newPrice}'. Znovu vyberte kód kupónu/mince/body, pokud jsou k dispozici.",
+  "flight_v2_dialog_title_min_support_payment": "Objednávka není způsobilá k platbě",
+  "flight_v2_dialog_message_min_support_payment": "Způsobilá objednávka má celkovou platbu '{minRange}' nebo minimálně '{maxRange}'. Kód kupónu, mince nebo body můžete změnit, abyste splnili platební podmínky",
+  "flight_v2_dialog_title_order_not_found": "Oznámení",
+  "flight_v2_dialog_message_order_not_found": "Nebyly nalezeny žádné objednávky",
+  "flight_v2_dialog_title_exit_order": "Ukončete objednávku",
+  "flight_v2_dialog_message_exit_order_cart": "Váš košík",
+  "flight_v2_dialog_title_payment_error_default": "Platba selhala",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Kontaktujte zákaznický servis Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "tady",
+  "flight_v2_dialog_title_voucher_fee_change": "Změna jízdného",
+  "flight_v2_dialog_message_voucher_fee_change": "Cena jízdného se změnila z '{oldPrice}' na '{newPrice}'. Požádejte o pomoc zákaznický servis Hahalolo '{here}'.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "tady",
+  "flight_v2_dialog_title_system_error": "Oznámení",
+  "flight_v2_dialog_message_system_error": "Vaše objednávka byla úspěšně zaplacena a brzy bude aktualizována ve vašich poznámkách.",
+  "flight_v2_dialog_title_voucher_not_available": "Oznámení",
+  "flight_v2_dialog_message_voucher_not_available": "Kód kupónu není k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "flight_v2_dialog_title_point_not_available": "Oznámení",
+  "flight_v2_dialog_message_point_not_available": "Body nejsou k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "flight_v2_dialog_title_coin_not_available": "Oznámení",
+  "flight_v2_dialog_message_coin_not_available": "Mince nejsou k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "flight_v2_dialog_halo_support": "'{message}'. Kontaktujte zákaznický servis Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "tady",
+  "flight_v2_dialog_title_stripe_error": "Oznámení",
+  "flight_v2_price_info_read_more": "Zobrazit více",
+  "flight_v2_price_info_total_payment": "Celková platba",
+  "flight_v2_price_info_before_payment": "Předplacená částka",
+  "flight_v2_component_booking_title_payment_information": "Informace o platbě",
+  "flight_v2_model_booking_checked_baggage": "Odbavené zavazadlo (lze dokoupit více)",
+  "flight_v2_widget_booking_coupon_code": "Kód kupónu",
+  "flight_v2_widget_booking_use_coins": "Použijte mince",
+  "flight_v2_component_booking_use_point": "Použijte body",
+  "flight_v2_widget_booking_title_fare_details": "Podrobnosti o jízdném",
+  "flight_v2_widget_confirm_title_contact_information": "Kontaktní informace",
+  "flight_input_passenger_hint_birth_day": "Datum narození",
+  "flight_v2_widget_booking_membership_card_number": "Číslo členské karty",
+  "flight_passenger_view_baggage": "Zavazadla",
+  "flight_v2_dialog_message_exit_order": "Probíhá rezervace vašeho letu. Pokud odejdete, vaše objednávka bude stále uložena v '{cart}'. Tuto objednávku můžete zaplatit do '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Vaše rezervace letu nebyla provedena. Pokud odejdete, vaše objednávka bude stále uložena v '{cart}'. Pro dokončení vystavení vstupenky můžete provést platbu",
+  "flight_v2_payment_back_from_payment": "Probíhá rezervace vašeho letu. Informace o objednávce nelze změnit. Proveďte platbu do '{time}', abyste dokončili vydání vstupenky.",
+  "flight_v2_payment_back_from_payment_no_hold": "Vaše rezervace letu nebyla provedena. Proveďte prosím platbu pro dokončení rezervace a vydání vstupenky.",
+  "flight_price_detail_view_total_fare": "Celkové jízdné",
+  "flight_price_detail_view_service_fee": "Poplatek za službu",
+  "flight_price_detail_view_payment_fee": "Poplatek za platbu",
+  "flight_v2_notification_baggage": "Vybrali jste {baggage}. Podrobnosti naleznete níže.",
+  "flight_check_the_details": "Podrobnosti můžete zkontrolovat níže.",
+  "flight_order_detail_view_information_order": "Informace o objednávce",
+  "flight_v2_search_code_no_reservation_yet": "Zatím nezarezervováno",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Poznámka: Údaje o zákazníkovi ještě nebyly vyplněny",
+  "tour_booking_screen_update_information": "Nyní aktualizovat",
+  "tour_booking_screen_textspan_note": "(Poznámka: Poplatek za platbu)",
+  "tour_booking_loading_message": "Načítání informací o objednávce, chvíli počkejte",
+  "tour_booking_last_name": "Příjmení",
+  "tour_booking_middle_and_first_name": "Prostřední a křestní/křestní jméno",
+  "tour_booking_or_detail_phone_number": "Telefonní číslo",
+  "tour_booking_or_detail_address": "Adresa",
+  "tour_booking_province_city": "Provincie/město",
+  "tour_booking_country": "Země",
+  "tour_booking_title_booking_information": "Informace o rezervaci",
+  "tour_booking_bottom_detail_price_error": "Informace o kartě jsou nesprávné. Zkontrolujte to znovu.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Nelze uplatnit kód kupónu",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Neplatný kód kupónu",
+  "tour_booking_update_item_cart_action_message": "Zavřít",
+  "tour_booking_update_item_cart_title": "Oznámení",
+  "tour_booking_update_item_cart_msg_error_last": "Při aktualizaci objednávky došlo k chybě, zkuste to prosím znovu.",
+  "tour_booking_screen_payment_methods": "Možnost platby",
+  "tour_booking_screen_accept": "Přijmout",
+  "tour_booking_screen_coupon_code": "Kód kupónu",
+  "tour_booking_screen_insert_code": "Zadejte kód",
+  "tour_booking_screen_default_msgError": "Vyskytla se chyba. Prosím zkuste to znovu.",
+  "tour_booking_screen_on_failed_error_2008": "Plán prohlídky podle vybraného měsíce není momentálně k dispozici. Vyberte prosím jiný rozvrh prohlídky.",
+  "tour_booking_screen_on_failed_error_2202": "Stránka nebyla publikována nebo jste nenastavili věk.",
+  "tour_booking_screen_on_failed_error_2301": "Prohlídka není k dispozici.",
+  "tour_booking_screen_on_failed_error_2303": "Prohlídka nepatří na stránku.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Doba rezervace vypršela.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Kontaktujte prosím zákaznické centrum společnosti Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "tady",
+  "tour_booking_screen_content_apply_voucher_failed_help": "pro pomoc.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Maximální počet mincí, které lze pro tuto objednávku použít.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Použití",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} mince",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "pro platbu.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Souhlasí s",
+  "tour_booking_success_text_done": "Hotovo",
+  "tour_booking_success_header_booking_success": "Rezervace úspěšná",
+  "tour_booking_success_header_textspan_reservation_success": "Vaše žádost o rezervaci byla úspěšně provedena",
+  "tour_booking_success_header_textspan_paid": "(Zaplaceno).",
+  "tour_booking_success_header_textspan_itinerary_details": "Podrobnosti o itineráři můžete zkontrolovat níže.",
+  "tour_booking_success_title_tour_information": "Informace o zájezdu",
+  "tour_booking_success_tour_information_tour_name": "Název zájezdu",
+  "tour_booking_success_tour_information_departure": "Odchod",
+  "tour_booking_success_tour_information_departure_date": "Datum odletu",
+  "tour_booking_success_tour_information_end_date": "Datum ukončení",
+  "tour_booking_success_tour_information_Number_of_days": "Počet dní",
+  "tour_booking_success_tour_information_Number_of_days_detail": "{days} dnů",
+  "tour_booking_success_tour_information_passengers": "Počet cestujících",
+  "tour_booking_success_tour_information_detail_Passengers": "1 dospělý",
+  "tour_booking_success_title_contact_information": "Kontaktní informace",
+  "tour_booking_success_contact_information_full_name": "Celé jméno:",
+  "tour_booking_success_contact_information_email": "E-mailem:",
+  "tour_booking_success_contact_information_phone_number": "Telefonní číslo:",
+  "tour_booking_success_contact_information_address": "Adresa:",
+  "tour_booking_success_title_installment_information": "Informace o splátkovém kalendáři",
+  "tour_booking_success_installment_information_total_order_value": "Celková hodnota objednávky:",
+  "tour_booking_success_installment_information_prepaid_rate": "Předplacená sazba:",
+  "tour_booking_success_installment_information_prepayment_amount": "Předplacená částka:",
+  "tour_booking_success_installment_information_remaining_amount": "Zůstatek účtu:",
+  "tour_booking_success_installment_information_conversion_information": "Poplatek za konverzi informací:",
+  "tour_booking_success_installment_information_banking_fee": "Bankovní poplatek:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Splátková úroková sazba (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Úrok na splátky (měsíc):",
+  "tour_booking_success_installment_information_total_amount": "Celková splátka:",
+  "tour_booking_success_installment_information_payment_term": "Splátkový termín (měsíc):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} měsíce",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Výše měsíční splátky:",
+  "tour_booking_success_installment_information_next_installment_period": "Tenor dalšího dílu",
+  "tour_booking_success_title_transaction_information": "Informace o transakci",
+  "tour_booking_success_transaction_information_tour_id": "ID prohlídky:",
+  "tour_booking_success_transaction_information_booking_code": "Číslo rezervace:",
+  "tour_booking_success_transaction_information_total_payment": "Celková platba:",
+  "tour_booking_success_transaction_information_payer": "plátce:",
+  "tour_booking_success_transaction_information_address": "Adresa:",
+  "tour_booking_success_transaction_information_content_billing": "Obsah platby:",
+  "tour_booking_success_transaction_information_order_payment": "Platba objednávky",
+  "tour_booking_success_transaction_information_order_advance": "Platba na splátky předem",
+  "tour_booking_success_textspan_footer_thanks": "Děkujeme vám za důvěru ve služby Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Pokud máte nějaké dotazy nebo potřebujete další pomoc, kontaktujte centrum nápovědy Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "pro pokyny.",
+  "tour_booking_success_bottomview_view_details": "Zobrazit podrobnosti",
+  "tour_booking_success_bottomview_new_booking": "Kniha nová",
+  "tour_booking_title_info_detail_tour": "Podrobnosti prohlídky",
+  "tour_booking_info_detail_tour_title_info_tour": "Informace",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Název zájezdu",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Objev ostrova Phu Quy",
+  "tour_booking_or_detail_tour_id": "ID zájezdu",
+  "tour_booking_or_detail_tour_time": "Čas",
+  "tour_booking_info_detail_tour_info_tour_time_detail": "{days} dnů",
+  "tour_booking_or_detail_departure_date": "Datum odletu",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Datum ukončení",
+  "tour_booking_or_detail_tour_departure": "Odchod",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Destinace",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Typ zájezdu",
+  "tour_booking_info_detail_tour_info_tour_description": "Popis",
+  "tour_booking_info_detail_tour_title_table_price": "Ceník zájezdu",
+  "tour_booking_starttext_adult": "Dospělý",
+  "tour_booking_starttext_child": "Dítě",
+  "tour_booking_starttext_young_child": "Malé dítě",
+  "tour_booking_starttext_baby": "Dítě",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Seznam dílů",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Informace o předpisech",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Soukromé předpisy",
+  "tour_booking_info_detail_tour_title_installment_policy": "Splátkový plán",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Celková částka",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Předplacená částka",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Platit",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Služby",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "povýšení",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Použijte propagaci",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Použijte mince",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Celková částka",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Sleva zahrnuta při 100% platbě předem",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Hodnota propagace:",
+  "tour_booking_title_item_count_passenger": "Počet cestujících",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Více než {age} let",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} – {end_age} let",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Méně než {age} let",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Požádejte o podporu při zadávání informací o cestujících",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Zadejte informace o cestujících",
+  "tour_booking_title_item_info_billing": "Informace o plátci",
+  "tour_booking_item_info_billing_use_contact_info": "Použijte kontaktní údaje",
+  "tour_booking_title_item_info_contact_person": "Kontaktní informace",
+  "tour_booking_title_item_method_payment": "Způsob platby",
+  "tour_booking_item_method_payment_text_full_payment": "100% platba",
+  "tour_booking_item_method_payment_text_installment_payment": "Platba na splátky",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Získáte {discount}% slevu",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Celková splatná částka hodnoty objednávky po slevě:",
+  "tour_booking_title_item_select_service": "Doprovodné služby",
+  "tour_booking_item_select_service_add_service": "Přidat službu",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Potvrzující kód platby za splátkový příkaz zašleme v následujících termínech na email:",
+  "tour_booking_pay_installment_check_email": "Zkontrolujte prosím svou e-mailovou adresu.",
+  "tour_booking_pay_installment_number_installments_months": "Počet splátkových měsíců",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Splátková sazba",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Musíte provést částečnou platbu předem v hodnotě zájezdu. Výše měsíční splátky bude vypočítána na základě nedoplatku po úspěšném předplacení.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Zadejte požadované procento platby předem",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Podrobnosti o splátkách",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Ne.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Informace",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Hodnota",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Hodnota objednávky",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Předplacená sazba",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Předplacená hodnota",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Zůstatek účtu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Poplatek za konverzi informací",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Poplatek za bankovní platbu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "úroková sazba (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Úrok na splátky",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Celková výše splátky",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Splátkový termín (měsíc)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Tenor dalšího dílu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Výše měsíční splátky",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} měsíce",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Splátkový plán",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Podrobnosti splátkového kalendáře",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Doprovodné služby",
+  "tour_booking_item_service_init_service_number_of_travelers": "Počet cestujících",
+  "tour_booking_group_months_installment_label": "{month} měsíce",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Cestovatelské sny",
+  "tour_detail_text_number_people_haha_page": "1 839 017 lidí Haha tato stránka",
+  "tour_detail_screen_theme_text_indochina_discovery": "Objev Indočíny: Mořské pobřeží a pouliční jídlo",
+  "tour_detail_text_installment_tour": "PROHLÍDKA NA SPLÁTKY",
+  "tour_detail_text_view_details": "Zobrazit podrobnosti",
+  "tour_detail_number_promotions": "{promotions} Propagační akce",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "k dispozici",
+  "tour_detail_tab_info": "Informace",
+  "tour_detail_tab_tour_parts": "Podrobnosti itineráře",
+  "tour_detail_tab_promotion": "povýšení",
+  "tour_detail_tab_privacy_policy": "Zásady ochrany osobních údajů",
+  "tour_detail_tab_separate_regulations": "Soukromé předpisy",
+  "tour_detail_tab_contact": "Kontakt",
+  "tour_detail_view_tab_installment": "Splátkový plán",
+  "tour_detail_text_only_from": "Pouze od",
+  "tour_detail_text_span_number_days": "/ {days} dnů",
+  "tour_detail_view_emptyTitle": "Prohlídka již není dostupná",
+  "tour_detail_text_change_date": "Změnit datum",
+  "tour_detail_text_book_now": "Zarezervovat hned",
+  "tour_detail_view_action_menu_time_line": "Časová osa",
+  "tour_detail_view_action_menu_tour_List": "Seznam výletů",
+  "tour_detail_view_action_menu_introduction": "Úvod",
+  "tour_detail_view_action_menu_promotion": "povýšení",
+  "tour_detail_view_action_menu_appraise": "Recenze",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} lidé Haha tato stránka",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Plán prohlídky podle vybraného měsíce není momentálně k dispozici.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Vyberte prosím jiný rozvrh prohlídky.",
+  "tour_detail_choose_schedule_title": "Vyberte plán",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Plán odjezdu",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Jízdní řád odjezdů není k dispozici",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Datum odjezdu: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Z",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Z {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Konec",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "do {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "povýšení",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Cena",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Zarezervovat hned",
+  "tour_detail_contact_infor_view_empty_title": "Kontaktní informace se aktualizují",
+  "tour_detail_contact_infor_view_company_name": "Jméno společnosti",
+  "tour_detail_infor_view_text_starting_from": "Začínat od",
+  "tour_detail_infor_view_text_ends_at": "Konec v",
+  "tour_detail_infor_view_tour_type_domestic": "Domácí zájezd",
+  "tour_detail_infor_view_tour_type_international": "Mezinárodní turné",
+  "tour_detail_infor_view_tour_text_info": "Informace",
+  "tour_detail_infor_view_tour_time_details": "{days} dnů",
+  "tour_detail_infor_view_tour_types": "Typ",
+  "tour_detail_infor_view_tour_service": "Turistické služby",
+  "tour_detail_emptyTitle_no_data_found": "Nenalezena žádná data",
+  "tour_detail_promotion_view_empty_title": "Nejsou k dispozici žádné propagační akce",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Úrovně propagace {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "Sleva {price} %.",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "sleva {price}",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Minimální hodnota objednávky: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Minimální počet dospělých: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Zadní",
+  "tour_detail_shimmer_loading_message": "... lidi Haha tuto stránku",
+  "tour_hand_note_tabs_verify_sent_to_email": "Poslali jsme vám potvrzovací kód na pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Cena",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Zrušit objednávku",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Chcete provést tuto akci?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Potvrdit",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "zrušení",
+  "tour_hand_note_footer_action_total_amount": "Celková částka",
+  "tour_hand_note_footer_action_pay": "Platit",
+  "tour_hand_note_order_payment_view_order_id": "Objednací kód",
+  "tour_hand_note_order_payment_view_paid": "Zaplaceno",
+  "tour_hand_note_order_payment_view_total_price": "Celková cena",
+  "tour_hand_note_order_payment_view_remaining_amount": "Zůstatek účtu",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Tenor na splátky",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Měsíc: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Výše splátky",
+  "tour_hand_note_order_payment_view_next_installment_period": "Tenor dalšího dílu",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Celková platba",
+  "tour_handnote_banner_waring_input_verify_error": "Při ověřování došlo k chybě. Zkuste to znovu nebo klepněte na ",
+  "tour_lockup_empty_title": "Nebyly nalezeny žádné informace o zájezdu",
+  "tour_lockup_title_info": "Informace o zájezdu",
+  "tour_lockup_form_search_hind_text_enter_promo": "Zadejte propagační kód",
+  "tour_lockup_body_order_tour_total_day_detail": "{days} dnů",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} dní} other{{days} dní}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Všechno",
+  "tour_handnote_tab_awaiting": "Čeká na potvrzení",
+  "tour_handnote_tab_awaiting_fulfilment": "Čekání na splnění",
+  "tour_handnote_tab_ongoing": "Pokračující",
+  "tour_handnote_tab_completed": "Dokončeno",
+  "tour_handnote_tab_canceled": "Zrušeno",
+  "tour_detail_page_programs_detail": "Podrobnosti o programu",
+  "tour_detail_page_passenger_title": "Zákazník",
+  "tour_detail_info_guest_edit_title": "Upravit",
+  "tour_detail_info_guest_update_title": "Aktualizace",
+  "tab_tour_detail_order_cancel_order": "Zrušit objednávku",
+  "tab_tour_detail_order_cancel_order_confirm": "Chcete provést tuto akci?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Potvrdit",
+  "tab_tour_detail_order_cancel_order_cancel_button": "zrušení",
+  "tab_tour_detail_order_waiting_confirmation": "Čeká na potvrzení",
+  "tab_tour_detail_order_code_order_tour_title": "Číslo rezervace",
+  "tour_detail_stage_view_title": "Část {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Při platbě byly použity mince. Podrobnosti viz níže",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Při platbě byl použit kód kupónu. Podrobnosti viz níže",
+  "tour_hand_note_banner_warning_update_success": "Údaje o zákazníkovi byly dokončeny",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Informace o platbě",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Zaplaceno",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Propagace zrušení prohlídky\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Použít coiny ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Storno poplatek ({number} %)",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Odhadovaná částka vrácení peněz",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Doba vrácení peněz (od data zrušení): 5-7 dní (pro platební brány Alepay a Payme) nebo 7-15 dní (pro platební bránu Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Důvod zrušení:",
+  "tour_booking_validation_province_or_city_is_required": "Je vyžadována provincie/město",
+  "tour_booking_screen_on_failed_error_2801": "Zájezd si musíte rezervovat {numberDay} dní před datem odjezdu. Vyberte prosím jiné datum odjezdu.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Vámi vybraný čas odjezdu zájezdu je kratší nebo delší v souladu s našimi zásadami. Vyberte prosím zájezd s vhodným časem odjezdu.",
+  "tour_booking_bottom_view_error": "Vyplňte prosím informace o cestujících nebo požádejte o podporu Hahalolo při zadávání informací o cestujících později.",
+  "tour_booking_on_start_payment_message": "Je nám líto, vámi vybrané datum odjezdu je vyprodané. Vyberte prosím jiné datum odjezdu.",
+  "tour_detail_text_full_load": "Vyprodáno",
+  "tour_cancel_order_info_reason_cancel": "Zadejte důvod zrušení.",
+  "tour_cancel_order_info_validate_reason_cancel": "Důvod zrušení je povinný",
+  "tour_cancel_order_info_refound_invalid_card": "Číslo účtu je povinné",
+  "tour_cancel_bank_name_required": "Název banky je povinný",
+  "tour_cancel_bank_wrong_format": "Nesprávný formát názvu banky",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo vám vrátí peníze na základě informací o bankovním účtu, které zadáte níže)",
+  "tour_cancel_enter_bank_name": "Zadejte název banky",
+  "tour_cancel_cancel_order_success": "Vaše objednávka byla úspěšně zrušena.",
+  "tour_bank_identifier_required": "Je vyžadován SWIFT kód",
+  "tour_detail_title_select_departure_month": "Vyberte měsíc odjezdu",
+  "tour_detail_title_upcoming_departure_schedule": "Nadcházející plán odjezdů",
+  "tour_detail_schedule_title_departure": "Odchod",
+  "tour_detail_schedule_title_destination": "Destinace",
+  "tour_booking_fail_payment_price_change": "Cena zájezdu se změnila z {oldPay} na {newPay}. Chcete pokračovat v platbě?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Cena zájezdu se změnila z {oldPay} na {newPay} a musíte zaplatit {payAmount} předem. Chcete pokračovat v platbě?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Částka platby předem se změnila z {oldPay} na {newPay}. Chcete pokračovat v platbě?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Částka použitá z coinů se změnila z {oldPay} na {newPay}. Chcete pokračovat v platbě?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Použijte body",
+  "tour_booking_screen_have_apply_points": "Body byly připsány k platbě. Podrobnosti naleznete níže.",
+  "tour_booking_warning_promotion": "Vaše prohlídka je rezervována a informace o objednávce nelze změnit. Proveďte platbu, abyste dokončili rezervaci zájezdu.",
+  "tour_booking_warning_back_text_normal": "Vaše objednávka byla rezervována. Pokud skončíte, vaše objednávka bude stále uložena",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Ukončete objednávku",
+  "tour_booking_warning_back_when_hold_ticket_card": "Váš košík.",
+  "tour_booking_warning_back_exit": "Přestat",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Objednávka prošla platební bránou. Kód kupónu nelze zrušit.",
+  "tour_booking_point_not_available": "Body nejsou k dispozici",
+  "tour_payment_voucher_exit_dialog_title": "Platba selhala",
+  "tour_total_point_change": "Vaše dostupné body se změnily. Zadejte prosím počet bodů pro uplatnění objednávky.",
+  "tour_hand_note_text_tour": "Prohlídka",
+  "tour_hand_note_text_amount_installment_payment": "Výše splátky",
+  "tour_detail_tour_has_no_available_schedule": "Pro tuto prohlídku nejsou k dispozici žádné jízdní řády",
+  "tour_detail_promotion_view_time_application": "Platné období:",
+  "tour_detail_promotion_view_up_to_off_title": "Až do",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% Sleva",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Hledejte číslo rezervace",
+  "tour_you_can_sure_cancel_order": "Opravdu chcete zrušit tuto objednávku?",
+  "tour_detail_contact_title": "Jsme k dispozici 24/7! Máte-li jakékoli dotazy k této službě, kontaktujte nás pomocí níže uvedených informací. Odpovíme do 2 hodin!",
+  "tour_detail_rate_title_schedule": "Plán",
+  "tour_detail_rate_title_meal": "Jídlo",
+  "tour_detail_review_there_are_no_reviews_yet": "Zatím nejsou žádné recenze",
+  "tour_search_suggest_location_title": "Top destinace",
+  "tour_detail_rate_title_property": "Vlastnictví",
+  "tour_detail_rate_title_tour_guide": "Průvodce",
+  "tour_detail_rate_title_vehicle": "Vozidlo",
+  "tour_detail_choose_schedule_remain_slot": "Zbývá pouze {slot} slotů",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "datum",
+  "tour_detail_contact_text_hotline": "Horká linka",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Recenze",
+  "tour_search_place_suggestion_title": "Vyberte destinaci",
+  "tour_search_place_suggestion_hint_text": "Zadejte odjezd...",
+  "tour_review_title_feedback": "Zhodnoťte své zážitky z cesty",
+  "tour_review_title_content": "Celkové hodnocení zájezdu",
+  "tour_review_title_see_review": "Podívejte se na recenzi vaší cesty",
+  "tour_review_schedule": "Plán",
+  "tour_review_meal": "Jídlo",
+  "tour_review_accommodation": "Vlastnictví",
+  "tour_review_tour_guide": "Průvodce",
+  "tour_review_vehicle": "Vozidlo",
+  "tour_booking_screen_text_accept": "Souhlasit",
+  "tour_lockup_up_tour_header_text": "Chcete-li vyhledat informace o rezervaci, zadejte číslo své rezervace",
+  "banner_warning_installment_noti": "Dosáhnete data splatnosti další splátky. Datum splatnosti splátky {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Rozšířit",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Kód kupónu nebyl úspěšně použit",
+  "voucher_search_on_select_voucher_fail": "Nepodařilo se použít neuplatněný kód kupónu. Prosím zkuste to znovu později.",
+  "voucher_search_coupon_code_incorrect": "Nesprávný kód kupónu",
+  "voucher_search_check_or_contact_cskh": "Zkontrolujte prosím znovu nebo kontaktujte naše zákaznické centrum",
+  "voucher_widget_item_voucher_discount": "Sleva: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Končí platnost: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Datum vypršení platnosti:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Kód:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Povýšení:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Stav:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Platí pro produkty Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Limit jeden na zákazníka.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Pro objednávky od {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Produkty aplikované na:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} sleva ",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Maximální sleva:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Uložili jste",
+  "voucher_apply_voucher_widget_order_from_discount": "u této objednávky s kódem kupónu",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Váš let ještě nebyl rezervován. Pro rezervaci a vystavení vstupenky prosím dokončete platbu.",
+  "cart_screen_main_title": "Váš košík",
+  "cart_screen_main_tour_title": "Rezervace zájezdu",
+  "cart_screen_main_flight_title": "Let",
+  "cart_screen_main_car_title": "Rezervace auta",
+  "cart_screen_main_tour_title_1": "Rezervace zájezdu (1)",
+  "cart_screen_main_flight_title_1": "Let (1)",
+  "cart_screen_main_car_title_1": "Rezervace auta (1)",
+  "cart_screen_domestic_flight_num_passenger": "Počet cestujících",
+  "cart_screen_domestic_flight_subtotal": "Mezisoučet",
+  "cart_screen_domestic_flight_note": "Vaše rezervace letu byla provedena. Proveďte prosím platbu, abyste dokončili vydání vstupenky.",
+  "cart_screen_empty": "Ve vašem košíku nejsou žádné položky",
+  "cart_screen_empty_order_now": "Hledat a rezervovat nyní!",
+  "cart_screen_car_delete_order": "Smazat objednávku",
+  "cart_screen_car_delete_order_confirm": "Chcete tuto objednávku smazat?",
+  "cart_screen_tour_schedule_title": "Plán",
+  "cart_screen_tour_type_title": "Typ zájezdu",
+  "cart_tour_type_domestic": "Domácí",
+  "cart_tour_type_international": "Mezinárodní",
+  "cart_screen_tour_num_day_num_night": "{day} dní, {night} nocí",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Počet cestujících",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Použijte body",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Měsíc {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Při ověřování došlo k chybě. Zkuste to prosím znovu nebo klepněte na \"Znovu odeslat potvrzovací kód\" a obdržíte nový kód prostřednictvím {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Znovu odeslat potvrzovací kód",
+  "hand_note_input_verify": "Na adresu {email} jsme odeslali potvrzovací kód. Pro dokončení tohoto kroku zadejte kód, který jste obdrželi",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Zadejte kód",
+  "hand_note_tour_detail_body_tour_info_title": "Informace o zájezdu",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Čas se počítá ve vietnamském časovém pásmu)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Celkem dní",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Počet cestujících",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Storno podmínky",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Časové harmonogramy bezplatného zrušení vycházejí z časového pásma rezervace zájezdu a zásad dodavatele pro zrušení zájezdu",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Za zrušení zájezdu vám bude účtován následující storno poplatek:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} dní před datem odjezdu",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Bezplatné zrušení",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Storno poplatek ve výši {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Akce na 100% platbu",
+  "hand_note_install_policy": "Splátkový plán",
+  "hand_note_title_status_payment_failure": "Nepodařilo se",
+  "hand_process_extension": "Pokračující prodloužení",
+  "hand_in_installment": "Aktivní",
+  "hand_installment_completed": "Dokončeno",
+  "hand_note_adults": "Dospělí",
+  "hand_note_children": "Děti",
+  "hand_note_baby": "Malé děti",
+  "hand_note_infant": "Miminka",
+  "hand_note_tour_service_price": "Cena služby",
+  "hand_note_total_price": "Celková cena",
+  "hand_note_prepaid": "Předplaceno",
+  "hand_note_remaining": "Zůstatek účtu",
+  "hand_installment_status": "Stav splátky",
+  "hand_note_installment_payment_count_month_payment": "Počet splátkových měsíců",
+  "hand_note_installment_payment_count_month_payment_num": "{month} měsíce",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Informace o splátkách",
+  "hand_note_information_detail_total_value_title": "Celková objednávka",
+  "hand_note_information_detail_prepayment_amount_title": "Předplacená částka ({amount} %)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Celková výše splátky",
+  "hand_note_information_detail_installment_tenor_title": "Tenor na splátky",
+  "hand_note_information_detail_information_conversion_fee_title": "Poplatek za konverzi informací",
+  "hand_note_information_detail_bank_fee_title": "bankovní poplatek",
+  "hand_note_information_detail_installment_interest_title": "Úrok na splátky",
+  "hand_note_information_detail_monthly_installment_amount_title": "Výše měsíční splátky",
+  "hand_note_information_detail_next_due_date_title": "Tenor dalšího dílu",
+  "hand_note_installment": "Splátka",
+  "hand_note_postpaid": "Následná platba",
+  "hand_note_installment_history_title": "Historie splátek",
+  "hand_note_payment_installment_title": "Platba na splátky",
+  "hand_note_the_month_current_installment": "Měsíc: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "První platba",
+  "hand_note_remaining_balance_title": "Zůstatek účtu",
+  "hand_note_extension_info": "Informace o rozšíření",
+  "hand_note_price_extension": "Prodloužená částka",
+  "hand_note_month_paid": "zaplaceno {month} měsíce",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "Zbývá {month} měsíců",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Aktualizujte své údaje",
+  "hand_note_invalid_full_name": "Neplatný formát celého jména",
+  "hand_note_must_enter_full_name": "Musíte zadat své celé jméno",
+  "hand_note_adults_num": "Informace pro dospělé {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Informace o dítěti {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Informace o miminku {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Informace o malém dítěti {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(starší než {age} let)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Od {ageFrom} do {ageTo} let)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(Mladší než {age} let)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} dnů",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Část: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Aktualizujte informace o cestujících",
+  "hand_note_hotel_reservation_detail_title": "Podrobnosti rezervace",
+  "hand_note_tour_installment_title": "Prohlídka na splátky",
+  "hand_note_tour_extensions_payment_title": "Rozšíření plateb",
+  "hand_note_installment_period": "Tenor na splátky",
+  "hand_note_installment_amount": "Výše splátky",
+  "hand_note_recommend_adjourn": "Žádost o prodloužení",
+  "hand_note_number_extension": "Počet dní prodloužení",
+  "hand_note_new_installment": "Nový termín splatnosti splátky",
+  "hand_note_adjourn_notice": "Pro každou splátku máte pouze jednou získat prodloužení platby o {day} dní. Pokud vyprší datum splatnosti nové splátky a aktuální platba nebude uhrazena, vaše prohlídka bude zrušena.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Omluva na pozdní platbu",
+  "hand_note_extension_successful": "Rozšíření bylo úspěšné",
+  "hand_note_part_due_note": "Objednávka je po splatnosti. Kontaktujte prosím naše zákaznické centrum.",
+  "hand_note_notify_error_extension": "Vyskytla se chyba. Prosím zkuste to znovu.",
+  "hand_note_dialog_input_verify_1": "Poslali jsme potvrzovací kód na adresu",
+  "hand_note_dialog_input_verify_2": "Pro dokončení tohoto kroku zadejte kód, který jste obdrželi.",
+  "hand_note_verify_input_code_hint": "Zadejte potvrzovací kód",
+  "hand_note_title_hotel_order": "Objednávky hotelových rezervací",
+  "hand_note_title_apply_coin": "Použijte mince",
+  "hand_note_request_resent_code_confirm_must_1": "Před žádostí o opětovné zaslání potvrzovacího kódu byste měli minutu počkat.",
+  "hand_note_request_resent_code_confirm_must_2": "Než požádáte o opětovné zaslání potvrzovacího kódu, měli byste počkat 5 minut.",
+  "hand_note_request_resent_code_confirm_must_3": "Než požádáte o opětovné zaslání potvrzovacího kódu, měli byste počkat den.",
+  "hand_note_request_resent_code_confirm_must_4": "Než požádáte o opětovné zaslání potvrzovacího kódu, měli byste počkat 9 minut.",
+  "hand_note_request_resent_code_confirm_must_5": "Při odesílání potvrzovacího kódu došlo k chybě. Prosím zkuste to znovu.",
+  "hand_note_history_new_order_created": "Byla vytvořena nová objednávka",
+  "hand_note_history_change_customer_information": "Změněny informace o cestujících",
+  "hand_note_history_cancellation_of_passengers": "Zrušený cestující",
+  "hand_note_history_change_flights": "Změněn let",
+  "hand_note_history_cancel_the_flight": "Zrušený let",
+  "fare_rule_toolbar_title": "Jízdní podmínky",
+  "hand_note_detail_activity_history": "Historie aktivit:",
+  "hand_note_coin_refund_amount": "Očekávané vrácení peněz",
+  "hand_note_tour_title": "Prohlídka",
+  "hand_note_hotel_title": "Hotel",
+  "hand_note_flight_title": "Let",
+  "hand_note_car_title": "Půjčení auta",
+  "hand_note_title": "Ruční poznámky",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Neplatné číslo kreditní karty",
+  "payment_error_card_has_expired": "Platnost karty vypršela",
+  "payment_error_card_has_expired_year": "Platnost karty letos vypršela",
+  "payment_error_card_date_must_only_number": "V datech musí být pouze čísla",
+  "payment_error_card_date_is_3_digits": "Rok expirace je dlouhý 3 číslice",
+  "payment_error_card_date_is_4_digits": "Rok vypršení platnosti je delší než 4 číslice",
+  "payment_error_card_date_only_number_in_date": "V datech musí být pouze čísla",
+  "payment_card_date_expired": "Datum spotřeby",
+  "payment_payme": "Payme peněženka",
+  "payment_domestic": "ATM karta nebo iBanking tuzemských bank (ve Vietnamu)",
+  "payment_stripe": "Mezinárodní platební karta (Visa/MasterCard)",
+  "payment_card_number_empty": "Číslo karty je povinné",
+  "payment_card_day_exit": "Datum vypršení platnosti je povinné",
+  "payment_ccv_empty": "Je vyžadován kód CVV",
+  "payment_error_secure_long": "Nesprávný bezpečnostní kód",
+  "payment_error_secure_shorted": "Bezpečnostní kód je pro tento typ karty příliš krátký",
+  "payment_error_secure_alphabet": "Abecední znaky nejsou povoleny",
+  "payment_error_no_secure": "Nebyl poskytnut žádný bezpečnostní kód",
+  "payment_error_no_card_number": "Žádný vstup nebo obsahuje nečíselné znaky",
+  "payment_error_connect_title": "Chyba připojení",
+  "payment_error_connect_message": "Vaše síťové připojení je nestabilní. Zkontrolujte znovu připojení na svém zařízení",
+  "payment_error_not_load_title": "Chyba při načítání stránky",
+  "payment_error_not_load_message": "Při připojování ke stránce pokladny došlo k chybě.",
+  "payment_error_card_number_lenght": "Číslo karty musí být delší než 19 číslic",
+  "payment_error_no_date": "Nebylo zadáno žádné datum",
+  "payment_error_invalid_date": "Neplatný formát data nebo neplatné datum",
+  "payment_error_invalid_year": "V datu a měsíci jsou povolena pouze čísla",
+  "payment_error_invalid_ccv": "Neplatné CVV",
+  "payment_error_invalid_card_holder": "Neplatný držitel karty",
+  "payment_alert_select_payment_method_null": "Vyberte prosím platební bránu",
+  "payment_alert_card_information_incorrect": "Informace o kartě jsou nesprávné. Zkontrolujte prosím znovu",
+  "payment_alert_dialog_title": "Oznámení",
+  "payment_alert_message_dialog_message": "Během procesu placení prosím nezavírejte ani neukončujte aplikaci, abyste zajistili úspěšnou platbu.",
+  "payment_alert_dialog_message_payment_error": "Při zpracování vaší platby došlo k chybě. Zkontrolujte prosím znovu.",
+  "payment_hint_text_country": "Země...",
+  "payment_hint_text_province": "Městský stát...",
+  "payment_show_message_dialog_title": "Oznámení",
+  "payment_show_message_dialog_message": "Chcete ukončit platbu?",
+  "payment_show_message_dialog_negative": "zrušení",
+  "payment_show_message_dialog_action": "OK",
+  "payment_bank_page_title": "Pro hladký průběh platby prosím neuzavírejte přihlášku, dokud nebude platba úspěšná!",
+  "payment_error_expired_date": "Platnost vaší karty vypršela",
+  "payment_coin_not_available": "Mince nejsou k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "payment_point_not_available": "Body nejsou k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "payment_voucher_not_available": "Kód kupónu není k dispozici. Zkontrolujte prosím a zkuste to znovu.",
+  "payment_fee_change_total_order": "Celkový počet objednávek se změnil z",
+  "payment_fee_change_to": "na",
+  "payment_fee_change_choose_voucher_point_coint": "Znovu vyberte kód kupónu/mince/body, pokud jsou k dispozici.",
+  "payment_halo_wallet": "Platební účet Hahalolo",
+  "payment_available_balance": "Dostupná částka:",
+  "payment_card_holder_name": "Jméno držitele karty",
+  "payment_card_cvv_cvc_name": "CVV/CVC kód",
+  "payment_card_number": "Číslo karty",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Podobné vlastnosti",
+  "hotel_detail_hotel_images": "Obrázky hotelu",
+  "hotel_detail_reviews_latest": "Nejnovější",
+  "hotel_detail_reviews_oldest": "Nejstarší",
+  "hotel_detail_reviews_highest": "Nejvyšší skóre",
+  "hotel_detail_reviews_lowest": "Nejnižší skóre",
+  "hotel_detail_review_sort_by": "Seřazeno podle",
+  "hotel_detail_reviews": "Posouzení",
+  "hotel_detail_rate_location": "Umístění",
+  "hotel_detail_rate_price": "Cena",
+  "hotel_detail_rate_cleanliness": "Čistota",
+  "hotel_detail_rate_service": "Servis",
+  "hotel_detail_rate_facilities": "Vybavení",
+  "hotel_detail_one_user_review": "1 recenze",
+  "hotel_detail_x_user_reviews": "{x} recenzí",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Rezervace se nezdařila",
+  "hotel_detail_please_fill_ci_co_date": "Zadejte prosím data příjezdu a odhlášení",
+  "hotel_detail_allow_pet_contact_hotel": "Domácí mazlíčci jsou povoleni. Ohledně podmínek pro domácí mazlíčky kontaktujte přímo ubytování.",
+  "hotel_detail_allow_pet_and_x_fee": "Domácí mazlíčci jsou povoleni. Poplatek za domácího mazlíčka: {x} (poplatek za zvíře se platí v ubytování).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "ZDARMA zrušení",
+  "hotel_detail_cancellation_with_refund": "Storno je zpoplatněno",
+  "hotel_detail_cancellation_without_refund": "Storno bez náhrady",
+  "hotel_detail_cancel_non_refund": "Při zrušení neobdržíte náhradu ani zaplacenou částku.",
+  "hotel_detail_breakfast_served": "Snídaně zajištěna",
+  "hotel_detail_lunch_served": "Oběd zajištěn",
+  "hotel_detail_dinner_served": "Večeře zajištěna",
+  "hotel_detail_smoking_allow": "Kouření je povoleno",
+  "hotel_detail_smoking_not_allow": "Kouření není povoleno",
+  "hotel_detail_contact_hotel": "Kontaktujte hotel",
+  "hotel_detail_book_first_pay_later": "Rezervujte nyní, plaťte později",
+  "hotel_detail_policy": "Opatření",
+  "hotel_detail_choose_the_bed_arrangement": "Vyberte povlečení na postel",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Zrušení provedená před {x} dne {y}: získáte náhradu ve výši {z} % z ceny pokoje za první noc.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Pokojové služby",
+  "hotel_detail_amenities": "Vybavení",
+  "hotel_detail_general_rules": "Domovní řád",
+  "hotel_detail_change_reservation": "Změnit rezervaci",
+  "hotel_detail_services_and_facilities": "Vybavení a služby",
+  "hotel_detail_x_room_and_y_night": "{x} pokoj/{y} noc",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} pokojů/{y} nocí",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 pokoj/{x} nocí",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} pokojů/1 noc",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 pokoj/1 noc",
+  "hotel_detail_x_rooms_and_y_adults": "{x} pokojů – {y} hostů",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 pokoj – {x} hostů",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 pokoj - 1 host",
+  "hotel_detail_child_count": "1 dítě",
+  "hotel_detail_x_children": "{x} dětí",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Podrobnosti o pokoji",
+  "hotel_detail_room_policy_and_conditions": "Podmínky a zásady",
+  "hotel_detail_person_count": "1 host",
+  "hotel_detail_x_people": "{x} hostů",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} od centra",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} od místa vyhledávání",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "V centru města",
+  "hotel_detail_check_in": "Odbavení",
+  "hotel_detail_check_out": "Překontrolovat",
+  "hotel_detail_cancelation_policy": "Zrušení",
+  "hotel_detail_child_policy": "Děti",
+  "hotel_detail_pet_policy": "Domácí mazlíčci",
+  "hotel_detail_check_in_x": "Po {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Před {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Zbývá pouze 1",
+  "hotel_detail_only_x_room": "Zbývá pouze {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Děti ve věku od {range} jsou povoleny.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Domácí mazlíčci jsou povoleni. Poplatek za domácího mazlíčka se platí v hotelu.",
+  "hotel_detail_pet_policy_do_not_allow": "Domácí mazlíčci nejsou povoleni.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Zrušení provedené {x} hodin před časem příjezdu: získáte vrácení {y} % z ceny pokoje za první noc.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Zrušení provedené {x} hodin před časem příjezdu: získáte vrácení {y} % z ceny pokoje za všechny noci.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Bezplatné zrušení do {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Rezervujte 1 pokoj",
+  "hotel_detail_book_x_room": "Zarezervujte si {x} pokojů",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Nejlepší cena",
+  "hotel_detail_bed": "1 lůžko",
+  "hotel_detail_x_beds": "{x} postelí",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Sleva {x} % pouze dnes",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Vyberte místnost",
+  "hotel_detail_has_x_room_types": "(Celkem {x} dostupných typů pokojů",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Celkem k dispozici 1 typ pokoje)",
+  "hotel_detail_children_policy_do_not_allow": "Hotel nemá podmínky pro děti. Děti se do počtu vyhledávání nezapočítávají. V případě doprovodu dětí prosím kontaktujte hotel.",
+  "hotel_detail_children_policy_range_allow": "Zásady hotelu týkající se dětí povolují děti ve věku {range}. Informace o podmínkách a předpisech hotelu najdete v části Domácí pravidla hotelu nebo kontaktujte hotel pro další informace.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Informace o pokoji",
+  "hotel_detail_x_fee_person_and_day": "{x}/host/den",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/auto/den",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Snídaně",
+  "hotel_detail_lunch": "Oběd",
+  "hotel_detail_dinner": "Večeře",
+  "hotel_detail_smoking": "Tabák",
+  "hotel_detail_parking": "Parkoviště",
+  "hotel_detail_local_time": "(Místní čas)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Zrušení provedená před {x} dne {y}: Získejte vrácení {z} % z ceny pokoje za všechny noci.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Zrušení provedená před {x} dne {y}: Získejte refundaci {z} ceny pokoje.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Nabídky",
+  "hotel_detail_free_breakfast": "Snídaně zdarma",
+  "hotel_detail_free_lunch": "Oběd zdarma",
+  "hotel_detail_free_dinner": "Večeře zdarma",
+  "hotel_detail_allow_smoking": "Kouření je povoleno",
+  "hotel_detail_free_parking": "Parkování zdarma",
+  "hotel_detail_room_not_found": "Nebyly nalezeny žádné pokoje!",
+  "hotel_detail_no_result": "Nenašli jsme žádné výsledky odpovídající vašemu hledání. Prosím zkuste to znovu.",
+  "hotel_detail_similar_hotels_title": "Podobné vlastnosti",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Objednávka není způsobilá k platbě",
+  "hotel_booking_dialog_qualified_orders": "Objednávka je způsobilá s celkovou částkou",
+  "hotel_booking_dialog_coupon_code_coins_points": "Můžete změnit kód kupónu, mince nebo body, abyste měli nárok na platbu",
+  "hotel_booking_dialog_or_minimum": "nebo minimálně",
+  "hotel_booking_widget_dialog_cannot_used_information": "Tyto informace nelze v tuto chvíli použít. Použijte prosím jiný nebo uložte nový.",
+  "hotel_booking_component_applied_points_successfully": "Úspěšně jste použili body",
+  "hotel_booking_use_point": "Použijte body",
+  "hotel_booking_point_switch_on_hint": "Vypnutím používání bodů zrušíte používání bodů pro tuto objednávku",
+  "hotel_booking_point_switch_off_hint": "Zapnutím používání bodů zadejte počet bodů, které pro tuto objednávku použijete",
+  "hotel_booking_point_user_point": "Dostupné body",
+  "hotel_booking_point_available_point": "K dispozici na objednávky",
+  "hotel_booking_point_user_want_to_use_hint": "Počet bodů, které chcete použít",
+  "hotel_booking_point_equivalent_to": "Ekvivalentní",
+  "hotel_booking_point_press": "lis",
+  "hotel_booking_point_apply": "Aplikovat",
+  "hotel_booking_point_apply_for_payment": "použít částku k platbě",
+  "hotel_booking_points_apply_hint": "Částka bude použita k zaplacení této objednávky.",
+  "hotel_booking_payment_3001_error": "Karta není podporována. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3002_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3003_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3004_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3005_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3006_error": "Platnost karty vypršela. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3007_error": "Neplatný kód CVC. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3008_error": "Neplatné číslo karty. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3009_error": "Tato měna není podporována. Prosím zkuste to znovu.",
+  "hotel_booking_payment_3010_error": "Během procesu platby došlo k chybě. Prosím zkuste to znovu.",
+  "hotel_booking_modify_coin_applied": "Při platbě byly použity mince. Podrobnosti si prosím prohlédněte v součtu.",
+  "hotel_booking_modify_voucher_applied": "Při platbě byly použity mince. Podrobnosti si prosím prohlédněte v součtu.",
+  "hotel_booking_modify_point_applied": "Body byly připsány k platbě. Podrobnosti si prosím prohlédněte v součtu.",
+  "hotel_booking_modify_point_canceled": "Použití bodů k platbě za tuto objednávku bylo zrušeno.",
+  "hotel_booking_modify_4006_error": "Voucher nedostupný",
+  "hotel_booking_modify_4007_error": "Voucher byl zachován",
+  "hotel_booking_modify_4008_error": "Objednávka nemá nárok na kód kupónu. Zkontrolujte prosím a zkuste to znovu.",
+  "hotel_booking_modify_2004_error": "Žádost se nezdařila",
+  "hotel_booking_pay_1005_error": "Nesprávná hodnota",
+  "hotel_booking_pay_2002_error": "Nebyly nalezeny žádné objednávky",
+  "hotel_booking_pay_2004_error": "Platba selhala",
+  "hotel_booking_pay_6002_error": "Nesprávné informace o kartě",
+  "hotel_booking_pay_6003_error": "Karta není akceptována",
+  "hotel_booking_pay_6004_error": "Chyba při vytváření objednávky",
+  "hotel_booking_pay_6005_error": "Chyba rezervace TVP",
+  "hotel_booking_required_city": "Město je povinné",
+  "hotel_booking_sub_bed": "Extra postel",
+  "hotel_booking_information": "Informace o rezervaci",
+  "hotel_booking_room_information": "Informace o pokoji",
+  "hotel_booking_room_hotel": "Hotel",
+  "hotel_booking_x_nights": "{x} nocí",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 noc",
+  "hotel_booking_change": "Změna",
+  "hotel_booking_user_contact": "Kontaktní informace",
+  "hotel_bookng_without_tone_marks": "(bez tónových značek)",
+  "hotel_booking_first_name": "Jméno",
+  "hotel_booking_last_name": "Příjmení",
+  "hotel_booking_middle_name": "Prostřední jméno",
+  "hotel_booking_given_name": "Prostřední a křestní/křestní jméno",
+  "hotel_booking_phone_number": "Telefonní číslo",
+  "hotel_booking_email": "E-mailem",
+  "hotel_booking_country": "Země",
+  "hotel_booking_im_a_guest": "Jsem host",
+  "hotel_booking_guest_information": "Informace o hostech",
+  "hotel_booking_fill_contact_information": "Zadejte kontaktní údaje na vás nebo na osobu odpovědnou za udržování kontaktu s dodavatelem ubytovacích služeb.",
+  "hotel_booking_name_as_in_passport": "Celé jméno, jak je uvedeno na občanském průkazu/pasu",
+  "hotel_booking_payments": "Možnosti platby",
+  "hotel_booking_prepay": "Zaplať teď",
+  "hotel_booking_postpaid": "Zaplať později",
+  "hotel_booking_prepay_description": "Hahalolo pomůže zpracovat vaši platbu. Celou částku zaplatíte dnes po dokončení rezervace.",
+  "hotel_booking_postpaid_description": "Ubytování vaši platbu zpracuje. V závislosti na podmínkách rezervace můžete uhradit část nebo celou částku v ubytovacím zařízení.",
+  "hotel_booking_bill_information": "Informace o platbě",
+  "hotel_booking_use_contact_information": "Použijte kontaktní údaje",
+  "hotel_booking_state": "Stát",
+  "hotel_booking_city": "Město",
+  "hotel_booking_save_payment_information": "Uložte si platební údaje pro příště",
+  "hotel_booking_use_x_y_to_pay": "Pro platbu použijte {x} {y}",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Ekvivalent k {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Způsob platby",
+  "hotel_booking_payment_note": "Poznámka: HAHALOLO podporuje uživatele bankovními poplatky ZDARMA",
+  "hotel_booking_free": "Volný, uvolnit",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Je ještě něco, s čím vám můžeme pomoci?",
+  "hotel_booking_inform_the_accommodation": "Budeme informovat nemovitost, že máte o tyto služby zájem. Vezměte prosím na vědomí.",
+  "hotel_booking_can_not_guaranteed": "Váš požadavek nelze zaručit. Neboj se! Nemovitost se bude snažit vyhovět vašim potřebám.",
+  "hotel_booking_additional_services": "Jedná se o doplňkové služby, které vznikají nad rámec vaší žádosti o rezervaci a při jejich použití mohou být za nemovitost účtovány další poplatky.",
+  "hotel_booking_note": "Poznámka",
+  "hotel_booking_promo_apply_rule": "Mince a kód kupónu se nevztahují na následující způsoby platby.",
+  "hotel_booking_saved_payment_information": "Platební údaje uloženy",
+  "hotel_booking_fill_new_payer_information": "Zadejte nové údaje o plátci",
+  "hotel_booking_maximum_coins_can_be_use": "Pro tuto objednávku lze použít maximální počet mincí.",
+  "hotel_booking_coins": "mince",
+  "hotel_booking_unknown": "Nevím",
+  "hotel_booking_planning_arrive_after_x_date": "Pokud plánujete přijet po {x}, informujte prosím hostitele o plánovaném čase příjezdu:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Další služby mohou být zpoplatněny. Pro další informace prosím kontaktujte ubytování předem.",
+  "hotel_booking_term_and_policies": "Podmínky - Zásady",
+  "hotel_booking_privacy_policy": "Zásady ochrany osobních údajů",
+  "hotel_booking_tp_and_pp": "Pokračováním dalším krokem potvrzuji, že jsem si přečetl a souhlasím s podmínkami Hahalolo - Zásady a zásady ochrany osobních údajů",
+  "hotel_booking_important_note": "Poznámka",
+  "hotel_booking_select_time": "Vyberte čas",
+  "hotel_booking_room_x_night": "Pokoj x 1, 1 noc",
+  "hotel_booking_x_rooms_x_night": "Pokoj x {x}, 1 noc",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Pokoj x {x}, {y} nocí",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Pokoj x 1, {x} nocí",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Daně a poplatky",
+  "hotel_booking_service_charge": "Poplatek za službu",
+  "hotel_booking_payment_fees": "Poplatek za platbu",
+  "hotel_booking_accommodation_currency": "Měna nemovitosti",
+  "hotel_booking_points_fees": "Použijte body",
+  "hotel_booking_coins_fees": "Použijte mince",
+  "hotel_booking_voucher_fees": "Kód kupónu",
+  "hotel_booking_discount": "povýšení",
+  "hotel_booking_meal_service": "Stravovací služba",
+  "hotel_booking_meal_service_description": "Níže jsou uvedeny snídaňové služby, které vám ubytování může poskytnout. Pokud byste o tuto službu chtěli požádat, kontaktujte prosím přímo recepci ubytovacího zařízení.",
+  "hotel_booking_meal_price_per_breakfast": "Cena za typ snídaně",
+  "hotel_booking_extended_service": "Extra služby",
+  "hotel_booking_extended_service_description": "Vyberte celkový počet přistýlek, které chcete přidat k této objednávce. Můžete přidat maximálně {x} přistýlek.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Množství",
+  "hotel_booking_total": "Celkový",
+  "hotel_booking_unit_price": "Cena",
+  "hotel_booking_x_price_per_person_per_day": "{x} lidí/den",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} lůžek/osoba/den",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Podrobnosti o ceně",
+  "hotel_booking_billings_information": "Informace o platbě",
+  "hotel_booking_service_charge_description": "Tento poplatek si ponecháme jako provizi za služby a podporu ve vašich záležitostech souvisejících s rezervacemi v systému Hahalolo.",
+  "hotel_booking_payment_fees_description": "Poplatek za platbu je částka transakčních poplatků za transakci, kterou musíte zaplatit dodavatelům online platebních služeb.",
+  "hotel_booking_taxes_and_fees_description": "Daně a poplatky představují peněžní částku účtovanou podle předpisů daného zařízení (hotelu), kterou jste povinni zaplatit při využívání jejich ubytovacích služeb. Přečtěte si prosím Podmínky použití pro další podrobnosti.",
+  "hotel_booking_accommodation_currency_description": "Cena byla přepočtena na základě dostupné měny dodavatele.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Směnný kurz se může před zaplacením změnit.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Vydavatel vaší karty si může účtovat poplatek za zahraniční transakci.",
+  "hotel_booking_enter_maximum_x_char": "Zadejte maximálně {x} znaků",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Body nejsou k dispozici.",
+  "hotel_booking_coin_not_available": "Mince nejsou k dispozici.",
+  "hotel_booking_voucher_not_available": "Kód kupónu není k dispozici.",
+  "hotel_booking_please_check_again": "Zkontrolujte prosím znovu.",
+  "hotel_booking_point_change": "Počet aplikovaných bodů se změnil z důvodu změny celkové platby.",
+  "hotel_booking_hold_warning": "Vaše rezervace nemovitosti byla provedena, takže nemůžete změnit údaje objednávky. Pro dokončení rezervace proveďte platbu.",
+  "hotel_booking_total_point_change": "Vaše dostupné body se změnily. Zadejte prosím počet bodů pro uplatnění objednávky.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Mapa",
+  "hotel_list": "Seznam",
+  "hotel_from_the_center": "Z centra",
+  "hotel_from_the_location": "Z místa hledání",
+  "hotel_right_in_the_center": "V centru města",
+  "hotel_breakfast_is_served": "Snídaně zdarma",
+  "hotel_no_breakfast_served": "Nebyla poskytnuta snídaně",
+  "hotel_dinner_is_served": "Večeře zajištěna",
+  "hotel_no_dinner_service": "Nebyla zajištěna večeře",
+  "hotel_lunch_is_served": "Oběd zajištěn",
+  "hotel_no_lunch_service": "Nebyl zajištěn oběd",
+  "hotel_allow_smoking": "Kouření je povoleno",
+  "hotel_no_smoking": "Kouření není povoleno",
+  "hotel_no_refund": "Storno bez náhrady",
+  "hotel_without_fee": "Storno je zpoplatněno",
+  "hotel_free_cancel": "ZDARMA zrušení",
+  "hotel_pay_later": "Rezervujte nyní, plaťte později",
+  "hotel_fee": "Snídaně zajištěna",
+  "hotel_free": "Snídaně ZDARMA",
+  "hotel_not_refund": "Při zrušení neobdržíte náhradu ani zaplacenou částku",
+  "hotel_no_vacancy": "Vyprodáno",
+  "hotel_choose_room": "Vyberte místnost",
+  "hotel_change_date": "Změnit datum",
+  "hotel_change_price_display": "Zobrazit cenu",
+  "hotel_continue": "Pouze",
+  "hotel_room_available": "vlevo, odjet",
+  "hotel_room": "pokoj, místnost",
+  "hotel_night": "noc",
+  "hotel_date_checking": "Datum příjezdu",
+  "hotel_date_checkout": "Zkontrolovat datum",
+  "hotel_search": "Vyhledávání",
+  "hotel_promotion": "povýšení",
+  "hotel_promotions": "Propagační akce",
+  "hotel_applying": "uplatnění",
+  "hotel_promotion_applying": "platnou propagaci",
+  "hotel_promotions_applying": "platné propagační akce",
+  "hotel_title_promotions_applying": "Použitelná propagace",
+  "hotel_see_detail": "Zobrazit podrobnosti",
+  "hotel_cancel": "Při zrušení do {x} hodin před časem příjezdu vám bude vráceno {y} % z ceny pokoje",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Získejte slevu {x} za noc, když hosté zůstanou mezi {y}–{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Získejte slevu {x} za noc (maximálně {a} na objednávku), když hosté zůstanou mezi {y}–{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "Sleva {x} za rezervace {y} dní předem. Platí, když hosté zůstanou od {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Sleva {x}, maximálně {y} za rezervace {z} dní předem. Platí při pobytu hostů z {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "Sleva {x} na {z} dní před rezervacemi. Platí při pobytu hostů z {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "Sleva {x} za rezervace delší než {y} nocí. Platí při pobytu hostů z {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Sleva {x}, maximálně {y} u rezervací na více než {z} nocí. Platí při pobytu hostů z {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "Sleva {x} u rezervací na více než {z} nocí. Platí při pobytu hostů z {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "všechny noci",
+  "hotel_first_night": "první noc",
+  "hotel_rating": "Posouzení",
+  "hotel_wonderful": "Vynikající",
+  "hotel_very_good": "Velmi dobře",
+  "hotel_satisfied": "Spokojený",
+  "hotel_medium": "Průměrný",
+  "hotel_bad": "Chudý",
+  "hotel_hand_note_consult_book_room": "Podívejte se na rezervaci",
+  "hotel_hand_note_enter_code_search_info": "Chcete-li vyhledat informace o rezervaci, zadejte číslo své rezervace",
+  "hotel_hand_note_reservation_code": "Číslo rezervace",
+  "hotel_hand_note_can_not_find_hotel": "Omlouváme se, ale nenašli jsme žádné hotely odpovídající vašemu hledání.",
+  "hotel_hand_note_search_night": "Počet nocí",
+  "hotel_hand_note_num_room": "Počet pokojů",
+  "hotel_hand_note_status_booking": "Stav rezervace",
+  "hotel_hand_note_booked": "Zarezervováno",
+  "hotel_hand_note_dont_booked": "Ještě nerezervováno",
+  "hotel_hand_note_total_price": "Celková cena",
+  "hotel_hand_note_status": "Postavení",
+  "hotel_hand_note_payment_after": "Prosíme o platbu předem",
+  "hotel_hand_note_pay_now": "Zaplať teď",
+  "hotel_hand_note_info_book_room": "Informace o rezervaci",
+  "hotel_hand_note_code_book_room": "Číslo rezervace:",
+  "hotel_hand_note_checking": "Odbavení",
+  "hotel_hand_note_checkout": "Překontrolovat",
+  "hotel_hand_note_detail": "Zobrazit podrobnosti",
+  "hotel_hand_note_kind_room": "Typ pokoje",
+  "hotel_hand_note_quantity": "Množství",
+  "hotel_hand_note_room": "pokoj, místnost",
+  "hotel_hand_note_visited": "Host",
+  "hotel_hand_note_adult": "dospělý",
+  "hotel_hand_note_children": "děti",
+  "hotel_hand_note_number_nights": "Počet přenocování",
+  "hotel_hand_note_night": "noc",
+  "hotel_hand_note_status_payment": "Status platby",
+  "hotel_hand_note_cancel_order": "Zrušit objednávku",
+  "hotel_hand_note_info_refund": "Informace o vrácení peněz",
+  "hotel_hand_note_rate_experience": "Zkontrolujte své zkušenosti na",
+  "hotel_hand_note_rate": "Posouzení",
+  "hotel_hand_note_see_rate": "Viz recenze",
+  "hotel_hand_note_rate_overall_rating": "Vaše celkové hodnocení hotelu",
+  "hotel_hand_note_rate_average": "Průměrný",
+  "hotel_hand_note_position": "Umístění",
+  "hotel_hand_note_price": "Cena",
+  "hotel_hand_note_clean": "Čistota",
+  "hotel_hand_note_serve": "Servis",
+  "hotel_hand_note_material_facilities": "Vybavení",
+  "hotel_hand_note_review": "Podělte se o své pocity a recenze.",
+  "hotel_hand_note_review_limit": "Recenze by měla mít alespoň 2 znaky.",
+  "hotel_hand_note_cancel": "zrušení",
+  "hotel_hand_note_submit_review": "Odeslat recenzi",
+  "hotel_hand_note_room_rates": "Hodnocení pokoje",
+  "hotel_hand_note_extra_bed": "Extra postel",
+  "hotel_hand_note_service_charge": "Poplatek za službu",
+  "hotel_hand_note_payment_fees": "Poplatek za platbu",
+  "hotel_hand_note_promotion": "povýšení",
+  "hotel_hand_note_voucher": "Kód kupónu",
+  "hotel_hand_note_use_coins": "Použijte mince",
+  "hotel_hand_note_rates_include": "Cena včetně",
+  "hotel_hand_note_see_review_title": "Zobrazit svou recenzi na téma {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Recenzováno dne {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Děkujeme za Vaši recenzi",
+  "hotel_hand_note_use_point": "Použijte body",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Bezplatné zrušení do {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Místní čas)",
+  "hotel_hand_note_hotel_apartment": "Byt",
+  "hotel_hand_note_hostel": "Hostel",
+  "hotel_hand_note_hotel": "Hotel",
+  "hotel_hand_note_resort": "Letovisko",
+  "hotel_hand_note_other": "jiný",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Vila",
+  "hotel_hand_note_vacation_home": "Rekreační dům",
+  "hotel_hand_note_homestay": "Homestay",
+  "hotel_hand_note_farmstay": "Pobyt na farmě",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Plavba",
+  "hotel_hand_note_boathouse": "Loď",
+  "hotel_hand_note_countryhouse": "Venkovský dům",
+  "hotel_hand_note_campground": "Tábořiště",
+  "hotel_hand_note_camper": "Obytné auto",
+  "hotel_hand_note_lodge": "Lodge",
+  "hotel_hand_note_guesthouse": "Dům pro hosty",
+  "hotel_hand_note_cancel_hotel": "Zrušení",
+  "hotel_update_price": "Aktualizace cen",
+  "hotel_distance_x_from_center": "{distance}{x} od centra",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} od místa vyhledávání",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Sleva {x} za noc, pokud hosté zůstanou mezi {y}–{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Počet pokojů a hostů",
+  "hotel_add_room_children": "Děti",
+  "hotel_add_room_age_upto": "(Věk 0–17)",
+  "hotel_add_room_child": "Dítě",
+  "hotel_add_room_age": "stáří",
+  "hotel_add_room_cancel": "zrušení",
+  "hotel_add_room_choose_age": "Vyberte věk",
+  "hotel_add_room_done": "Hotovo",
+  "hotel_add_room_room": "Pokoj, místnost",
+  "hotel_add_room_adult": "Dospělý",
+  "hotel_add_room_adults": "Dospělí",
+  "hotel_add_room_age_children": "Dětský věk",
+  "hotel_add_room_age_child": "Dětský věk",
+  "hotel_add_room_condition": "Počet pokojů a hostů na pokoj nesmí být větší než 9.",
+  "hotel_add_room_note": "Poznámka",
+  "hotel_add_room_save": "Uložit",
+  "hotel_cart_child": "Dítě",
+  "hotel_cart_children": "Děti",
+  "hotel_cart_delete": "Vymazat",
+  "hotel_cart_change": "Změna",
+  "hotel_cart_book_room": "Rezervovat pokoj",
+  "hotel_cart_night": "noc",
+  "hotel_cart_title_included_texas_fee": "Včetně daní a poplatků",
+  "hotel_cart_temporary_price": "Mezisoučet",
+  "hotel_cart_delete_order": "Smazat objednávku",
+  "hotel_screen_cart_delete_order_confirm": "Chcete tuto objednávku smazat?",
+  "hotel_order_detail_info_hotel": "Informace o rezervaci",
+  "hotel_order_detail_done": "Hotovo",
+  "hotel_order_detail_detail": "Zobrazit podrobnosti",
+  "hotel_order_detail_book_new": "Zarezervujte si nový pokoj",
+  "hotel_order_detail_success": "Rezervace úspěšná",
+  "hotel_order_detail_requests_success": "Váš požadavek na rezervaci byl úspěšně proveden",
+  "hotel_order_detail_paid": "(Zaplaceno).",
+  "hotel_order_detail_reservation": "Podrobnosti rezervace můžete zkontrolovat níže.",
+  "hotel_order_detail_thank": "Děkujeme za důvěru ve služby společnosti",
+  "hotel_order_detail_support": "Pokud máte nějaké dotazy nebo potřebujete další pomoc, kontaktujte centrum nápovědy Hahalolo",
+  "hotel_order_detail_instructions": "pro pokyny.",
+  "hotel_order_detail_info_rest": "Informace o nemovitosti",
+  "hotel_order_detail_hotel": "Hotel",
+  "hotel_order_detail_type": "Typ pokoje",
+  "hotel_order_detail_check_in": "Odbavení",
+  "hotel_order_detail_check_out": "Překontrolovat",
+  "hotel_order_detail_visited": "Počet hostů",
+  "hotel_order_detail_adult": "dospělý",
+  "hotel_order_detail_children": "děti",
+  "hotel_order_detail_baby": "dítě (do 1 roku)",
+  "hotel_order_detail_contact": "Kontaktní informace",
+  "hotel_order_detail_lastname": "Celé jméno",
+  "hotel_order_detail_tel_number": "Telefonní číslo",
+  "hotel_order_detail_nationality": "Národnost",
+  "hotel_order_detail_note": "Poznámka",
+  "hotel_order_detail_guests": "Informace o hostech",
+  "hotel_order_detail_trade": "Informace o transakci",
+  "hotel_order_detail_order_form": "Objednat",
+  "hotel_order_detail_payment": "Částka k úhradě",
+  "hotel_order_detail_bed_type": "Typ postele",
+  "hotel_order_detail_extra_bed": "Extra postel",
+  "hotel_order_detail_bed": "postel",
+  "hotel_order_detail_reservation_code": "Číslo rezervace",
+  "hotel_order_detail_payer": "Plátce",
+  "hotel_search_code_total_price": "Celková cena",
+  "hotel_search_code_voucher": "Kód kupónu",
+  "hotel_search_code_use_coin": "Použijte mince",
+  "hotel_search_code_use_point": "Použijte body",
+  "hotel_search_code_total_pay": "Celková platba",
+  "hotel_search_code_detail_pay": "Platební údaje",
+  "hotel_hand_note_hotel_policy_check_out": "– Odhlášení před {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "– Check-in po {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Storno podmínky",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Časové harmonogramy bezplatného zrušení jsou založeny na časovém pásmu ubytování a specifikují je storno podmínky.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x pokoj, {night} x noc",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Daně a poplatky",
+  "hotel_hand_note_detail_total_amount": "Celková platba",
+  "hotel_hand_note_detail_success": "Úspěšný",
+  "hotel_hand_note_detail_failed": "Nepodařilo se",
+  "hotel_hand_note_detail_postpaid": "Následná platba",
+  "hotel_hand_note_detail_prepaid": "Předplaceno",
+  "hotel_hand_note_detail_operation_history": "Historie aktivit",
+  "hotel_hand_note_detail_order_cancel_info": "Informace o zrušení objednávky",
+  "hotel_hand_note_detail_order_total_order": "Celková objednávka",
+  "hotel_hand_note_detail_total_money": "Celková zaplacená částka",
+  "hotel_hand_note_detail_coin": "mince",
+  "hotel_hand_note_detail_fee_cancel": "Storno poplatek",
+  "hotel_hand_note_detail_refund_amount": "Odhadovaná částka vrácení peněz",
+  "hotel_hand_note_detail_coin_refund_amount": "Odhadované vrácení mincí",
+  "hotel_hand_note_detail_payment_info": "Informace o platbě",
+  "hotel_hand_note_detail_customer_service": "Kód kupónu nelze vrátit. Pro vrácení kódu kupónu prosím kontaktujte naše zákaznické centrum.",
+  "hotel_hand_note_detail_note_refund": "Doba vrácení peněz (od data zrušení): 5 až 7 dní (pro platební brány Alepay a Payme) nebo 7 až 15 dní (pro platební bránu Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Důvody zrušení",
+  "hotel_hand_note_detail_checking_out": "Čas přihlášení a odhlášení",
+  "hotel_hand_note_detail_check_in_after": "Check-in po",
+  "hotel_hand_note_detail_check_out_before": "Před odhlášením",
+  "hotel_hand_note_detail_person_day": "osoba/den",
+  "hotel_hand_note_detail_free": "Volný, uvolnit.",
+  "hotel_hand_note_detail_day": "/den",
+  "hotel_hand_note_detail_note_hotel": "Časové harmonogramy bezplatného zrušení jsou založeny na časovém pásmu ubytování a specifikují je storno podmínky.",
+  "hotel_hand_note_detail_room_service": "Pokojové služby",
+  "hotel_hand_note_detail_facilities_service": "Vybavení a pokojové služby",
+  "hotel_hand_note_detail_person_contact": "Kontaktní osoba",
+  "hotel_hand_note_detail_telephone_num": "Telefonní číslo",
+  "hotel_hand_note_detail_email": "E-mailem",
+  "hotel_hand_note_detail_nationality": "Národnost",
+  "hotel_hand_note_detail_address": "Adresa",
+  "hotel_hand_note_detail_paid": "Uhrazená suma",
+  "hotel_hand_note_detail_rest": "Nezaplacená částka",
+  "hotel_hand_note_detail_payment_methods": "Způsob platby",
+  "hotel_hand_note_detail_check_in_info": "Informace o odbavení",
+  "hotel_hand_note_detail_guest_name": "Jméno hosta",
+  "hotel_hand_note_detail_policy_cancel": "Dříve provedená zrušení",
+  "hotel_hand_note_detail_hour": "{hour} hodin",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} minut",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": bude vráceno",
+  "hotel_hand_note_detail_price_room": "ceny pokoje za",
+  "hotel_hand_note_detail_one_night": "první noc.",
+  "hotel_hand_note_detail_all_night": "všechny noci.",
+  "hotel_hand_note_detail_policy": "Storno podmínky",
+  "hotel_hand_note_detail_children_note": "Děti ve věku od {age} jsou povoleny.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Domácí mazlíčci jsou povoleni. Poplatek za zvíře: {fee} (poplatek za zvíře se platí v ubytování).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Děti",
+  "hotel_hand_note_detail_pet": "Domácí mazlíčci",
+  "hotel_hand_note_detail_total_room_rate": "Celková cena pokoje",
+  "hotel_hand_note_detail_total_room_order": "Počet pokojů",
+  "hotel_hand_note_detail_room_information": "Informace o pokoji",
+  "hotel_hand_note_detail_person_x": "{x} lidí",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Služby, pokojové služby",
+  "hotel_hand_note_detail_waiting_service": "Čekání na splnění",
+  "hotel_hand_note_detail_in_service": "Pokračující",
+  "hotel_hand_note_detail_completed": "Dokončeno",
+  "hotel_hand_note_detail_waiting_cancellation": "Čeká se na zrušení",
+  "hotel_hand_note_detail_canceled": "Zrušeno",
+  "hotel_hand_note_detail_awaiting_confirmation": "Čeká na potvrzení",
+  "hotel_hand_note_detail_not_refund": "Při zrušení neobdržíte náhradu ani zaplacenou částku",
+  "hotel_hand_note_detail_other_required": "Jiná žádost",
+  "hotel_hand_note_detail_point_refund_amount": "Odhadované body pro vrácení peněz",
+  "hotel_input_title_start_date": "Datum příjezdu",
+  "hotel_input_title_end_date": "Zkontrolovat datum",
+  "hotel_input_title_choose_date": "Vyberte datum",
+  "hotel_input_title_choose": "Vybrat",
+  "hotel_hand_note_price_detail_payment_type": "Způsob platby",
+  "hotel_hand_note_price_detail_payment_date": "Datum splatnosti",
+  "hotel_hand_note_price_detail_price": "Zobrazit podrobnosti o ceně",
+  "hotel_hand_note_price_detail_title": "Podrobnosti o ceně",
+  "hotel_hand_note_price_detail_contact_info": "Kontaktní informace",
+  "hotel_hand_note_utilities_title": "Vybavení",
+  "hotel_hand_note_services_title": "Služby",
+  "hotel_hand_note_search_required_code": "Číslo rezervace je povinné.",
+  "cart_screen_main_hotel_title": "Hotel",
+  "cart_screen_main_hotel_title_1": "Hotel (1)",
+  "hotel_cancel_hotel": "Zrušení",
+  "hotel_search_this_area ": "Vyhledejte tuto oblast",
+  "hotel_where": "kde chceš zůstat?",
+  "hotel_people": "{y} pokojů – {x} hostů",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Pokoj, místnost",
+  "hotel_hand_note_item_view_booking_code_title": "Číslo rezervace",
+  "hotel_hand_note_title_hotel_order": "Objednávky hotelových rezervací",
+  "hotel_order_detail_view_information_order": "Informace o objednávce",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Kde chceš zůstat?",
+  "search_city_no_result": "Nebyla nalezena žádná odpovídající místa...",
+  "search_city_choose_the_city": "Hledat hotely",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Vyberte hotel",
+  "advanced_search_any_review": "Žádný",
+  "advanced_search_star_rating": "Hodnocení hvězdičkami",
+  "advanced_search_any_star": "Nehodnoceno",
+  "advanced_search_a_star": "1 hvězdička",
+  "advanced_search_x_star": "{x} hvězd",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Typ majetku",
+  "advanced_search_reset_button": "Resetovat",
+  "advanced_search_search_button": "Vyhledávání",
+  "advanced_search_evaluation_point": "Recenze skóre",
+  "advanced_search_no_city_error": "Není vybrána žádná vlastnost",
+  "advanced_search_title": "Pokročilé vyhledávání",
+  "advanced_search_clear": "Průhledná",
+  "advanced_search_no_date_error": "Není vybráno žádné datum",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Zobrazit seznam",
+  "hotel_not_found": "Nebyly nalezeny žádné hotely!",
+  "hotel_search_near_by": "Nedaleko",
+  "advanced_search_less_x_unit": "Méně než {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Od {x}{unit} a více",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Od {x}{unit} do méně než {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Vzdálenost od centra",
+  "hotel_booking_do_you_want_to_remove_a_user": "Opravdu chcete odebrat uživatele {user} ze seznamu?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Příplatek",
+  "hotel_map_filter": "Seřazeno podle",
+  "hotel_map_default": "Výchozí",
+  "hotel_map_high_star": "Hodnocení hvězdičkami: od nejvyšší po nejnižší",
+  "hotel_map_low_star": "Hodnocení hvězdičkami: od nízkého po vysoké",
+  "hotel_map_distance_center": "Vzdálenost od centra",
+  "hotel_map_high_rate": "Nejlépe hodnocený",	
+  "hotel_map_high_order": "Nejvíce rezervováno",	
+  "hotel_hand_note_reply": "Reakce nemovitosti",
+  "hotel_booking_payment_3011_error": "Karta byla odmítnuta. Vyzkoušejte prosím jinou kartu nebo požádejte o pomoc vydavatele karty!",
+  "hotel_hand_note_utilities_title_room": "VYBAVENÍ POKOJŮ",
+
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Jste všichni chyceni!",
+  "halo_error_wifi_error": "Chyba Wifi",
+  "halo_error_something_wrong": "Jejda!\nNěco se pokazilo, zkuste to prosím znovu",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

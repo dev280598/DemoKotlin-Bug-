@@ -1,0 +1,3308 @@
+{
+  "@@locale": "uk",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Спробуйте знову",
+  "common_see_more": "Побачити більше",
+  "common_see_less": "Дивіться менше",
+  "common_search_hint": "Пошук…",
+  "common_loading": "Завантаження…",
+  "common_retry": "Повторіть спробу",
+  "common_cancel": "Скасувати",
+  "common_ok": "В порядку",
+  "common_save": "зберегти",
+  "common_decline": "відхилити",
+  "common_done": "Готово",
+  "common_confirm": "Підтвердити",
+  "common_close": "Закрити",
+  "common_continue": "Продовжити",
+  "common_detail": "Деталі",
+  "common_enter_discount_code": "Введіть код купона",
+  "common_use_payment_or_contact_info": "Використовуйте дані платника або контактну інформацію",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Вибір часу",
+  "car_input_title_pick_up_place": "Введіть місце отримання",
+  "car_input_title_pick_up_location": "Місце отримання",
+  "car_title_return_to_different_location": "Поверніться в інше місце",
+  "car_input_title_start_time": "Час початку",
+  "car_input_title_end_time": "Час закінчення",
+  "car_input_title_start_date": "Дата початку",
+  "car_input_title_end_date": "Кінцева дата",
+  "car_input_title_enter_drop_off_place": "Введіть місце висадки",
+  "car_input_title_enter_drop_off_location": "Місце висадки",
+  "car_title_advanced_search": "Розширений пошук",
+  "car_title_look_up_booking_number": "Знайдіть номер бронювання",
+  "car_header_title_look_up_booking_number": "Введіть номер бронювання або код замовлення, щоб знайти інформацію про бронювання",
+  "car_title_search": "Пошук",
+  "car_notice_empty_pick_up_location": "Виберіть місце отримання та дату початку пошуку",
+  "car_title_ascending_price": "Ціна зростає",
+  "car_title_descending_price": "Ціна спадання",
+  "car_title_car_type": "Тип автомобіля",
+  "car_title_transmission": "Спосіб передавання",
+  "car_title_segment": "Сегмент",
+  "car_title_fuel_type": "Тип палива",
+  "car_title_supplier": "Постачальник",
+  "car_title_price": "Ціна",
+  "car_title_view_on_map": "Переглянути на карті",
+  "car_title_deals": "Угоди",
+  "car_title_seats": "Сидіння",
+  "car_title_filter_by": "Відфільтрувати за",
+  "car_title_un_filter": "Відфільтрувати",
+  "car_title_choose_this_car": "Виберіть цей автомобіль",
+  "car_title_rental_terms": "Умови оренди",
+  "car_title_search_location": "Пошук місця розташування",
+  "car_title_select_btn": "Виберіть",
+  "car_title_select_date": "Виберіть дату",
+  "car_title_select_time": "Виберіть час",
+  "car_title_reset_btn": "Скинути",
+  "car_title_location_type": "Тип розташування",
+  "car_title_number_of_seats": "Кількість місць",
+  "car_title_days": "днів",
+  "car_title_unlimited_mileage": "Необмежений пробіг",
+  "car_title_instant_confirmation": "Миттєве підтвердження",
+  "car_title_time_pick_up": "Дата отримання",
+  "car_title_time_drop_off": "Дата видачі",
+  "car_title_air_conditioning": "Кондиціонер",
+  "car_title_number_of_bag": "Кількість валіз",
+  "car_hand_note_title_booking_order_code": "Код замовлення",
+  "car_hand_note_title_booking_code": "Номер бронювання",
+  "car_hand_note_title_total_rental_car": "Загальна кількість днів оренди",
+  "car_hand_note_title_status_order": "Статус замовлення",
+  "car_hand_note_title_total_price": "Повна оплата",
+  "car_hand_note_title_status_payment": "Стан платежу",
+  "car_hand_note_title_reason_cancel": "Причини скасування",
+  "car_hand_note_title_view_details_btn": "Докладніше",
+  "car_hand_note_notice_cancel_order": "Сума відшкодування (за наявності) скасованого замовлення буде перерахована на банківський рахунок замовника протягом терміну, визначеного постачальником.",
+  "car_hand_note_title_tab_all": "всі",
+  "car_hand_note_title_tab_awaiting_fulfillment": "В очікуванні Виконання",
+  "car_hand_note_title_tab_ongoing": "Триває",
+  "car_hand_note_title_tab_completed": "Завершено",
+  "car_hand_note_title_tab_canceled": "Скасовано",
+  "car_hand_note_title_order_manager": "Управління замовленнями",
+  "car_hand_note_title_create_date": "Дата створення",
+  "car_hand_note_title_view_more_btn": "Дивитись більше",
+  "car_hand_note_title_status_order_completed": "Завершено",
+  "car_hand_note_title_status_payment_successful": "Успішно",
+  "car_hand_note_title_details_order": "Деталі замовлення",
+  "car_hand_note_title_contact_info": "Контактні дані",
+  "car_hand_note_title_info_rental_car": "Інформація про бронювання",
+  "car_hand_note_title_driver_info": "Дані про водія",
+  "car_hand_note_title_pirce_details": "Деталі ціни",
+  "car_hand_note_title_creator": "Створений",
+  "car_hand_note_title_person_contact": "Контактна особа",
+  "car_hand_note_title_phone": "Номер телефону",
+  "car_hand_note_title_email": "Електронна пошта",
+  "car_hand_note_title_country": "Країна",
+  "car_hand_note_title_address": "Адреса",
+  "car_hand_note_title_price_of_car_rental": "Ціна прокату автомобіля",
+  "car_hand_note_title_price_payment_fee": "Комісія за оплату",
+  "car_hand_note_title_info_extra_services": "Додаткові послуги",
+  "car_hand_note_title_type_insurance": "Вид страхування",
+  "car_hand_note_title_info_insurance": "Інформація про страхування",
+  "car_hand_note_title_car_info": "Деталі автомобіля",
+  "car_search_result_not_found_title": "На жаль, транспортний засіб, який ви шукаєте, знайти не вдалося.",
+  "car_search_result_not_found_sub_title": "Ми не можемо знайти відповідний запит для вашого запиту.nСпробуйте ще раз.",
+  "car_search_result_first_title_rental_car": "Оренда автомобіля в",
+  "car_detail_btn_rent_now": "Резервувати зараз",
+  "car_notice_title_check_connection": "Перевірте з’єднання та спробуйте ще раз!",
+  "car_rent_input_title_details": "Деталі",
+  "car_rent_input_title_total_payment": "Повна оплата",
+  "car_rent_input_title_payment": "Платити",
+  "car_rent_form_input_last_name": "Прізвище (Без тональних знаків)",
+  "car_rent_form_input_first_name": "По батькові та ім''я (без тональних знаків)",
+  "car_rent_input_content_cb_use_contact_details": "Використовуйте контактні дані",
+  "car_rent_input_title_method_payment": "Платити",
+  "car_rent_input_title_method_pay": "Варіант оплати",
+  "car_rent_input_title_late_payment": "Платіть пізніше",
+  "car_rent_input_title_now_payment": "Платити зараз",
+  "car_rent_input_title_information_card": "Дані картки",
+  "car_rent_input_title_driver_age": "Вік водія",
+  "car_rent_input_title_Do_you_need_anything_else": "Вам ще щось потрібно?",
+  "car_rent_input_title_accept_policy": "Переходячи до наступного кроку, я підтверджую, що прочитав і погоджуюсь з Умовами Hahalolo - Політика та Політика конфіденційності",
+  "car_rent_input_title_card_must_be_valid": "Ваша картка має бути дійсною, щоб забезпечити оренду у постачальника.",
+  "car_rent_input_title_accept_card_pay": "Приймаються платіжні картки",
+  "car_rent_input_title_content_notice_later_pay": "Постачальник автомобіля обробить ваш платіж. Залежно від умов бронювання ви можете оплатити повністю або частково.",
+  "car_rent_input_title_select_type_card": "Виберіть тип кредитної картки",
+  "car_rent_input_title_number_card": "Номер картки",
+  "car_rent_input_title_enter_number_card": "Введіть номер картки",
+  "car_rent_input_title_name_card": "Ім''я власника картки",
+  "car_rent_input_title_enter_name_card": "Введіть ім''я власника картки",
+  "car_rent_input_title_select_expiry_date": "Виберіть термін придатності",
+  "car_rent_input_title_expiry_date": "Термін придатності",
+  "car_rent_input_title_gate_ways": "Платіжний шлюз",
+  "car_rent_input_title_ccv_code": "CVC код",
+  "car_rent_input_title_enter_ccv_code": "Введіть CVC-код",
+  "car_rent_input_title_first_notice_need_anything_else": "Ми повідомимо постачальника, що ви зацікавлені в цих послугах, щоб він міг надати вам детальну інформацію.\n\n Ваш запит не може бути гарантований. Не хвилюйся! Постачальник постарається задовольнити ваші потреби.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Ваш запит не може бути гарантований. Не хвилюйся! Постачальник постарається задовольнити ваші потреби.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Введіть не більше 55 символів",
+  "car_rent_input_noti_invalid_last_name": "Недійсне прізвище",
+  "car_rent_input_noti_invalid_first_name": "Недійсне по батькові та ім’я",
+  "car_rent_input_noti_required_last_name": "Прізвище обов’язкове",
+  "car_rent_input_noti_required_first_name": "Укажіть по батькові та ім’я",
+  "car_rent_input_noti_invalid_email": "Недійсна електронна адреса",
+  "car_rent_input_noti_invalid_phone": "Недійсний номер телефону",
+  "car_rent_input_noti_required_email": "Електронна адреса обов’язкова",
+  "car_rent_input_noti_required_phone": "Необхідний номер телефону",
+  "car_rent_input_noti_requried_address": "Потрібна адреса",
+  "car_rent_input_noti_requried_country": "Укажіть країну",
+  "car_rent_input_noti_requried_number_card": "Необхідний номер картки",
+  "car_rent_input_noti_requried_card_holder_name": "Потрібно вказати ім’я власника картки",
+  "car_rent_input_noti_requried_type_card": "Потрібна кредитна картка",
+  "car_rent_input_noti_requried_expiry": "Необхідний термін придатності",
+  "car_rent_input_title_type_card_credit": "Тип кредитної картки",
+  "car_rent_input_title_currency_at_rental_car_place": "Валюта в місці отримання",
+  "car_rent_input_title_rule_age": "Вікові правила",
+  "car_rent_input_notice_term_and_policy_first_string": "Переходячи до наступного кроку, я підтверджую, що прочитав і погоджуюся з Hahalolo",
+  "car_rent_input_notice_term_and_policy_append__string": "Умови - Політика",
+  "car_rent_input_notice_term_and_policy_between_string": "і",
+  "car_rent_input_notice_term_and_policy_append___string": "Політика конфіденційності",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Пікап",
+  "car_cart_title_drop_off": "Висаджувати",
+  "car_cart_title_included_texas_fee": "Податки та збори включені",
+  "car_cart_title_btn_delete": "Видалити",
+  "car_cart_title_btn_edit": "Змініть свій вибір",
+  "car_cart_title_sub_total": "Проміжний підсумок",
+  "car_cart_title_car_types": "Тип автомобіля:",
+  "car_title_select_country": "Виберіть країну",
+  "car_title_car_cart": "Бронювання автомобіля",
+  "car_feed_input_hint_pick_up_place": "Ваше місце збору",
+  "car_feed_input_hint_drop_off_place": "Ваше місце висадки",
+  "car_feed_notice_empty_location_pick_up": "Будь ласка, виберіть місце самовивезення для пошуку",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Введіть місце висадки",
+  "notify_error_occurred": "Сталася помилка. Будь ласка, перевірте ще раз.",
+  "car_hand_note_detail_order_full_name": "Повне ім''я",
+  "car_hand_note_detail_order_promotion": "просування по службі",
+  "car_hand_note_detail_order_act_history": "Журнал активності",
+  "car_hand_note_detail_order_request_other": "Інші запити",
+  "car_hand_note_detail_order_order_payment": "Оплата замовлення",
+  "car_hand_note_detail_order_cancel_info": "Інформація про скасування замовлення",
+  "car_hand_note_detail_order_payment_info": "Інформація про оплату",
+  "car_hand_note_detail_order_paid": "Оплачено",
+  "car_hand_note_detail_order_unpaid": "Неоплачений",
+  "car_hand_note_title_days_ago": "днів тому",
+  "car_hand_note_detail_order_cancel_fee": "Плата за скасування",
+  "car_hand_note_detail_order_amount_ongoing_return": "Приблизна сума повернення",
+  "car_hand_note_detail_order_time_ongoing_return": "Приблизний час повернення коштів",
+  "car_hand_note_detail_order_info_transaction": "Інформація про транзакцію",
+  "car_hand_note_detail_order_amount_payment": "Загальна кількість",
+  "car_hand_note_detail_order_total_order": "Всього замовлення",
+  "car_hand_note_detail_content_define_vat": "VAT – це податок і комісія, які ви зобов’язані сплачувати постачальнику автомобіля відповідно до його правил під час користування послугою прокату автомобілів.",
+  "car_title_search_result_first_character": "Оренда автомобіля в",
+  "car_title_tool_bar_pick_up_location": "Де ти хочеш забрати?",
+  "car_title_tool_bar_drop_off_location": "Куди ти хочеш висадитися?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Ціна прокату автомобіля конвертується на основі поточної валюти, що використовується постачальником автомобіля.\nПримітка:\n- Курс обміну може бути змінений перед оплатою.\n- Емітент вашої картки може стягнути з вас комісію за іноземну транзакцію.",
+  "car_hand_note_detail_content_define_payment_fee": "Комісія за транзакцію, що відповідає кожному запиту на оренду автомобіля, яку потрібно сплатити постачальнику послуг онлайн-платіжного шлюзу.",
+  "car_hand_note_detail_content_notice_insurance": "Примітка. Якщо ви хочете подати заявку на ці пакети страхування, зверніться безпосередньо до стійки реєстрації постачальника автомобіля.",
+  "car_hand_note_detail_title_header_insurance": "Багато договорів страхування та оренди автомобіля покривають виключення, які можуть бути дорогими, пов’язані з пошкодженням або крадіжкою автомобіля. Однак наявність страхування, наведене нижче, допоможе захистити і запропонує вам фінансову підтримку значною сумою грошей.",
+  "car_result_booking_title_header_rental_car_success": "БРОНЮВАННЯ УСПІШНЕ",
+  "car_result_booking_title_btn_continue_rental_car": "Продовжуйте бронювати",
+  "car_result_booking_title_btn_view_order_details": "Переглянути деталі замовлення",
+  "car_result_booking_title_header_first_char": "Ваш запит на бронювання успішно виконано",
+  "car_result_booking_title_header_second_char": "(оплачено)",
+  "car_result_booking_title_header_third_char": ". Ви можете перевірити деталі оренди автомобіля нижче.",
+  "car_result_booking_title_header__char": "Дякуємо за довіру",
+  "car_result_booking_title_header____char": "обслуговування. Якщо у вас виникли запитання або потрібна додаткова допомога, зверніться до нашого довідкового центру за адресою",
+  "car_result_booking_title_header_____char": "для інструкцій.",
+  "car_result_booking_title_header______char": ". Ви можете перевірити деталі оренди автомобіля нижче.",
+  "car_result_booking_title_order": "Замовити",
+  "car_result_booking_title_billing_info": "Інформація про оплату",
+  "car_result_booking_title_time": "Час",
+  "car_result_booking_title_name_car": "Car name",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Виберіть місто/штат",
+  "car_result_notice_no_data_found": "На жаль, даних не знайдено",
+  "car_result_notice_no_flight_found_description": "Ми не знайшли результатів, які б відповідали вашому пошуку. Будь ласка, пошукайте знову.",
+  "car_picker_time_from_the_date": "Від",
+  "car_picker_time_to_the_date": "до",
+  "car_picker_time": "час",
+  "car_rental_details": "Деталі оренди автомобіля",
+  "car_you_dont_have_any_car_rental_orders": "У вас ще немає замовлень на оренду автомобіля.",
+  "car_search_code_no_information": "Інформація про бронювання не знайдена.\nПеревірте та повторіть спробу",
+  "car_input_code_message_empty": "Будь ласка, введіть номер бронювання",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Прийняти",
+  "aff_chart_day_ago": "{number} днів тому",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Від {from} до {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Тривалість файлу cookie: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Готель",
+  "aff_tour": "Тур",
+  "aff_product_name": "Назва продукту",
+  "aff_anonymous_user": "Анонімний користувач",
+  "aff_unknown": "Невідомо",
+  "aff_product_unknown": "Невідомий тип продукту",
+  "aff_share": "Поділіться",
+  "aff_fetch_data_failure": "Не вдалося отримати дані",
+  "aff_fetch_data_failure_try_later": "Не вдалося отримати дані. Будь-ласка спробуйте пізніше.",
+  "aff_detail": "Деталі",
+  "aff_no_data": "Даних не знайдено",
+  "aff_all": "всі",
+  "aff_country": "Країна",
+  "aff_summary": "Огляд",
+  "aff_link_management": "Управління посиланнями",
+  "aff_promotion_tool": "Маркетингові інструменти",
+  "aff_help": "Допоможіть",
+  "aff_notification": "Сповіщення",
+  "aff_notification_no_data": "У вас немає сповіщень",
+  "aff_revenue": "Дохід",
+  "aff_revenue_total": "Загальна виручка",
+  "aff_customer_id": "Клієнт ID",
+  "aff_payment_total": "Загальна кількість",
+  "aff_commission_receive": "Загальна сума отриманих комісій",
+  "aff_search_by_order": "Пошук за кодом замовлення",
+  "aff_reset": "Скинути",
+  "aff_cancel": "Скасувати",
+  "aff_save": "Зберегти",
+  "aff_search": "Пошук",
+  "aff_continue": "Продовжуйте",
+  "aff_payment_account": "Платіжний рахунок",
+  "aff_profile": "Профіль",
+  "aff_edit_profile": "Редагувати інформацію",
+  "aff_affiliate": "Партнер",
+  "aff_setting": "Налаштування",
+  "aff_resend": "Надіслати повторно",
+  "aff_verify_failure": "Не вдалося перевірити",
+  "aff_show_code": "Показати код",
+  "aff_sms_block_forever": "Функція перевірки тимчасово заблокована. Будь-ласка спробуйте пізніше.",
+  "aff_sms_wrong_code": "Невірний код підтвердження. Будь ласка, перевірте це ще раз.",
+  "aff_sms_expired_code": "Термін дії коду підтвердження закінчився. Будь ласка, отримайте інший код",
+  "aff_sms_verify_failure": "Не вдалося перевірити. Будь-ласка спробуйте пізніше.",
+  "aff_enter_verify_code": "Введіть код підтвердження",
+  "aff_we_send_code_to_phone": "Ми надіслали код підтвердження на номер {phone}.\nВведіть код, який ви отримали, щоб виконати цей крок.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Термін дії коду закінчиться через:",
+  "aff_sms_block": "Функція надсилання коду через SMS тимчасово заблокована. Будь-ласка спробуйте пізніше.",
+  "aff_sms_resend_in": "Ви можете повторно надіслати код у:",
+  "aff_account_information": "ІНФОРМАЦІЯ ПРО РЕЄСТРАЦІЮ",
+  "aff_account_information_subtitle": "Будь ласка, оновіть свій номер телефону у своєму платіжному обліковому записі, щоб мати можливість продовжувати користуватися послугами на Hahalolo.",
+  "aff_account_name": "Ім''я облікового запису",
+  "aff_search_county": "Пошук країни",
+  "aff_wallet_create_failure": "Не вдалося створити платіжний рахунок",
+  "aff_wallet_create_failure_try_again": "Не вдалося створити платіжний рахунок. Будь-ласка спробуйте пізніше.",
+  "aff_information_general": "Загальна інформація",
+  "aff_information_unknown": "(невідомо)",
+  "aff_information_full_name": "Повне ім''я {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "Електронна пошта {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Номер телефону  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Дата народження {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Стать {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Адреса {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Країна {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Більше інформації",
+  "aff_information_city": "Провінція/місто {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Поштовий індекс  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID Картка/паспорт {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Термін придатності {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Країна випускуX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Національність {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Місце народження {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Телефонний код",
+  "aff_gender_male": "Чоловічий",
+  "aff_gender_female": "Жіночий",
+  "aff_gender_other": "Інший",
+  "aff_validate_full_name": "Повне ім’я має містити щонайменше 3 символи",
+  "aff_validate_email": "Недійсна електронна адреса",
+  "aff_validate_phone": "Недійсний номер телефону",
+  "aff_validate_post_code": "Недійсний поштовий індекс",
+  "aff_validate_id_code": "Недійсна ID-карта/паспорт",
+  "aff_validate_invalid_field": "Час",
+  "aff_validate_phone_existed": "Номер телефону зареєстровано для іншого платіжного рахунку.",
+  "aff_validate_unknown_country": "Невідома країна",
+  "aff_date_time": "Час",
+  "aff_date_yesterday": "Вчора",
+  "aff_date_today": "Сьогодні",
+  "aff_date_unknown": "Невідома дата",
+  "aff_date_month": "місяць",
+  "aff_date_day": "день",
+  "aff_date_hour": "годину",
+  "aff_date_minute": "хвилина",
+  "aff_date_second": "другий",
+  "aff_date_range": "Проміжок часу",
+  "aff_report": "Звіт",
+  "aff_report_summary": "Огляд звіту",
+  "aff_report_click": "Кліки",
+  "aff_report_click_number": "Кліки",
+  "aff_report_performance": "Продуктивність",
+  "aff_report_customer": "Замовник",
+  "aff_report_payment": "оплата",
+  "aff_report_product_performance": "Продуктивність продукту",
+  "aff_report_product_type": "Тип продукту",
+  "aff_report_customer_detail": "Інформація про клієнта",
+  "aff_report_commission_by_product": "Комісія за пунктами",
+  "aff_report_customer_total": "Загальна кількість покупок клієнтів",
+  "aff_report_customer_serving": "Всього клієнтів в обслуговуванні",
+  "aff_report_customer_served": "Загальна кількість обслуговуваних клієнтів",
+  "aff_report_payment_waiting": "Загальна сума комісій в обробці",
+  "aff_report_payment_pending": "Загальна сума незавершених комісій",
+  "aff_report_payment_available": "Загальна кількість доступних комісій",
+  "aff_report_payment_status_waiting": "Обробка",
+  "aff_report_payment_status_pending": "Очікується",
+  "aff_report_payment_status_available": "Доступний",
+  "aff_report_payment_status_cancel": "Скасовано",
+  "aff_report_payment_status": "Статус",
+  "aff_report_description_click": "Статистична діаграма кліків по партнерським посиланням, загальна кількість отриманих замовлень і дохід",
+  "aff_report_description_customer": "Статистична діаграма інформації про клієнтів",
+  "aff_report_description_commission": "Статистичний графік комісій",
+  "aff_link": "Посилання:",
+  "aff_link_copied": "Посилання скопійовано",
+  "aff_link_path": "Партнерське посилання",
+  "aff_link_paste_here": "Вставте сюди своє посилання",
+  "aff_flight_commission_itinerary": "Маршрут",
+  "aff_flight_commission_itinerary_domestic": "Вітчизняний",
+  "aff_flight_commission_itinerary_international": "Міжнародний",
+  "aff_flight_commission_itinerary_unknown": "Невідомий маршрут",
+  "aff_flight_commission_seat_class": "Клас сидіння",
+  "aff_flight_commission_seat_class_plus": "Плюс",
+  "aff_flight_commission_seat_class_business": "Бізнес",
+  "aff_flight_commission_seat_class_unknown": "Невідомий клас місця",
+  "aff_flight_ticket": "Квиток на літак",
+  "aff_flight_all_airlines": "Усі авіакомпанії",
+  "aff_tooltip_flight_domestic": "Рейси з напрямками та вильотами по території В''єтнаму",
+  "aff_tooltip_seller": "Ви можете використовувати цей код для додавання в кінець кожного маркетингового посилання на партнерку. Hahalolo підтвердить, що це ваше посилання та винагорода, коли є дійсні замовлення, що випливають із цього посилання.",
+  "aff_commission": "комісія",
+  "aff_commission_by_country": "Комісії готелів за країнами",
+  "aff_commission_flight_list": "Комісії готелів за країнами",
+  "aff_commission_max": "Вища комісія:",
+  "aff_commission_of_product": "Комісійні {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Код замовлення",
+  "aff_order_total": "Загальна кількість замовлень",
+  "aff_order_tooltip_click": "Кількість натискань користувачів на ваше партнерське посилання.",
+  "aff_order_conversion_rate": "Обмінний курс",
+  "aff_order_tooltip_conversion_rate": "Показник для аналізу ефективності просування продукту.",
+  "aff_order_product_total": "Всього продуктів",
+  "aff_order_click_total": "Загальна кількість кліків",
+  "aff_order_earnings_total": "Загальний заробіток",
+  "aff_order_id_unknown": "Невідомий код замовлення",
+  "aff_order_added": "додано на платіжний рахунок",
+  "aff_order_type_waiting": "Обробка",
+  "aff_order_type_pending": "Очікується",
+  "aff_order_type_available": "Доступний",
+  "aff_order_type_cancel": "Скасовано",
+  "aff_ordered_total": "Загальна кількість замовлених продуктів",
+  "aff_order_receive_commission": "Загальна кількість отриманих замовлень",
+  "aff_verify_do_not_have_account": "ВИ ЩЕ НЕ МАЄТЕ\n ПЛАТІЖНОГО РАХУНКА",
+  "aff_guild": "Інструкції",
+  "aff_seller_code": "Код продавця: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Код продавця",
+  "aff_view_detail": "Докладніше",
+  "aff_notification_turn_off_link_1": "Функція афілійованого маркетингу\n",
+  "aff_notification_turn_off_link_2": "вимкнено, а це означає, що партнерські посилання, якими ви поділилися, будуть недійсними!",
+  "aff_notification_turn_on_link_success": "Функцію афілійованого маркетингу для {type} успішно ввімкнено",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Польотні комісії",
+  "aff_commission_list_hotel": "Комісії готелів за країнами",
+  "aff_tooltip_menu": "Відкрити меню",
+  "aff_tooltip_dash_board": "Швидкий доступ до приладової панелі",
+  "aff_tooltip_guild": "Опустіть вниз, щоб отримати інструкції",
+  "aff_action_done": "Готово",
+  "aff_check_user_failed": "Не вдається перевірити користувача. Будь''ласка спробуйте пізніше.",
+  "aff_something_went_wrong": "Щось пішло не так.",
+  "aff_page_not_found": "Сторінку не знайдено.",
+  "aff_and": "і",
+  "aff_month_summary": "Підсумок за цей місяць",
+  "aff_see_more": "Побачити більше",
+  "aff_try_again": "Спробуйте ще раз",
+  "aff_error_try_again": "Сталась помилка. Будь-ласка спробуйте пізніше.",
+  "aff_tooltip_flight_international": "Рейси з вильотом або прильотом за межами території В''єтнаму.",
+  "aff_area_code": "Телефонний код",
+  "aff_phone_number": "Телефонний номер",
+  "aff_validate_sms_required": "Будь ласка, введіть код підтвердження",
+  "aff_validate_sms_min_length": "Будь ласка, введіть повний код підтвердження",
+  "aff_welcome": "Ласкаво просимо",
+  "aff_verify_update": "Оновити платіжний рахунок",
+  "aff_verify_create_account": "Створити платіжний рахунок",
+  "aff_verify_invalid_wallet": "Оновити платіжний рахунок",
+  "aff_verify_do_not_have_account_subtitle": "Будь ласка, створіть платіжний рахунок, щоб використовувати функцію продажу на Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Будь ласка, оновіть свій номер телефону у своєму платіжному обліковому записі, щоб мати можливість продовжувати користуватися послугами Hahalolo",
+  "aff_guild_1": "Тепер ви можете швидко ввімкнути функцію афілійованого маркетингу, натиснувши",
+  "aff_guild_2": "у розділі Готель/Авіарейс",
+  "aff_guild_3": "Увімкнувши афілійований маркетинг, ви можете просувати свої продукти за допомогою:",
+  "aff_guild_4": "Посилання, встановлене Hahalolo за замовчуванням у",
+  "aff_guild_5": "Будь-яке посилання, пов’язане з розділом, у якому ввімкнено афілійований маркетинг, за умови, що ваш код продавця додається до відповідного посилання на продукт.",
+  "aff_seller": "Продавець",
+  "aff_menu": "Категорія",
+  "aff_dash_chart_title": "Статистична діаграма ваших доходів і кліків за цей місяць",
+  "aff_dash_click": "кліки",
+  "aff_dash_commission": "Заробіток",
+  "aff_flight_commission_detail_customer_way": "/ пасажирський / сегмент",
+  "aff_flight_commission_detail_order_total": "/ всього замовлень",
+  "aff_performance_chart_title": "Статистична діаграма кліків партнерських посилань, загальної кількості отриманих замовлень, комісії та доходу",
+  "aff_customer_chart_title": "Статистична діаграма інформації про клієнтів",
+  "aff_payment_chart_title": "Статистична схема комісій",
+  "aff_action_exit": "Вихід",
+  "aff_action_update": "оновлення",
+  "aff_action_create": "створити",
+  "aff_dialog_check_invalid_user": "Будь ласка, {action} свій платіжний рахунок, щоб мати можливість використовувати послуги афілійованого маркетингу на Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Дата",
+  "aff_action_register": "зареєструватися",
+  "aff_otp_time_left": "Залишилося {number} разів",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "СТВОРИТИ ПЛАТІЖНИЙ РАХУНОК",
+  "wallet_create_payment_subtitle": "Налаштування платіжного рахунку визначається як основний платіжний рахунок, включаючи отримання, зняття та оплату грошей після його призначення.",
+  "wallet_verify_otp_title": "Введіть код підтвердження",
+  "wallet_verify_otp_subtitle": "Ми надіслали код підтвердження на {phone}. \nВведіть код, який ви отримали, щоб завершити цей крок.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Платіжний рахунок",
+  "wallet_start_subtitle": "Платіжний обліковий запис Hahalolo — це платіжне рішення на Hahalolo, яке допомагає вам отримати цікавий і зручний досвід роботи з нами.",
+  "wallet_label_choose_business": "Виберіть бізнес",
+  "wallet_label_account_name": "Ім''я облікового запису",
+  "wallet_label_email": "Електронна пошта",
+  "wallet_label_phone": "Телефонний номер",
+  "wallet_label_choose_currency": "Виберіть валюту",
+  "wallet_label_payment_country": "Країна платежу",
+  "wallet_label_payment_method": "Спосіб оплати",
+  "wallet_label_card_holder_name": "Ім''я власника картки (без тонових позначок)",
+  "wallet_label_card_bank_name": "назва банку",
+  "wallet_label_card_swift_code": "SWIFT код",
+  "wallet_label_bank_account_number": "номер рахунку в банку",
+  "wallet_label_account_type": "Тип рахунку",
+  "wallet_label_tax_code": "Податковий код",
+  "wallet_label_tax_type": "Тип податку",
+  "wallet_label_address": "Адреса",
+  "wallet_label_address_2": "Адреса 2 (необов''язково)",
+  "wallet_label_country": "Країна",
+  "wallet_label_city": "Провінція/місто",
+  "wallet_label_district": "Район",
+  "wallet_label_first_name": "Прізвище",
+  "wallet_label_last_name": "Ім''я",
+  "wallet_label_middle_name": "По батькові (необов''язково)",
+  "wallet_label_postal_code": "Поштовий індекс",
+  "wallet_label_city_more_description": "Штат/Провінція/Регіон",
+  "wallet_label_postal_code_more_description": "Zip/Поштовий індекс",
+  "wallet_label_district_more_description": "Місто/Cело",
+  "wallet_label_birthday_18_years_old": "Дата народження (не менше 18 років)",
+  "wallet_label_date_of_birth": "Дата народження",
+  "wallet_label_enter_password": "Введіть ваш пароль",
+  "wallet_label_password": "Пароль",
+  "wallet_label_enter_pin": "Введіть PIN''код",
+  "wallet_label_re_enter_new_pin": "Повторно введіть новий PIN''код",
+  "wallet_label_enter_new_pin": "Введіть новий PIN''код",
+  "wallet_label_enter_current_pin": "Введіть старий PIN''код",
+  "wallet_validate_pin_required": "Будь ласка, введіть свій PIN''код",
+  "wallet_validate_otp_required": "Будь ласка, введіть код підтвердження",
+  "wallet_validate_current_pin_required": "Будь ласка, введіть свій старий PIN''код",
+  "wallet_validate_new_pin_required": "Введіть новий PIN''код.",
+  "wallet_validate_re_enter_new_pin_required": "Введіть новий PIN''код ще раз.",
+  "wallet_validate_re_enter_new_pin_not_match": "PIN''код підтвердження не збігається",
+  "wallet_action_detail": "Подробиці",
+  "wallet_text_pick_date": "Виберіть дату",
+  "wallet_text_email_address": "Адреса електронної пошти",
+  "wallet_text_message_to": "Надіслати повідомлення до",
+  "wallet_text_recovery_method": "Спосіб відновлення",
+  "wallet_text_recovery_choose_method": "Виберіть спосіб отримання коду відновлення",
+  "wallet_text_change_pin": "Змініть PIN''код",
+  "wallet_text_forgot_pin": "Забули PIN''код?",
+  "wallet_text_show_pin": "Показати PIN''код",
+  "wallet_text_please_try_again_in": "Будь''ласка спробуйте пізніше:",
+  "wallet_text_remove_account": "Видалити рахунок виплат",
+  "wallet_text_ineligible_payment": "Не підходить для трансакції",
+  "wallet_text_ineligible_payment_description": "Ви не зможете здійснювати жодні транзакції з системи, доки наш адміністратор не прийме інформацію про ваш платіжний рахунок. Будь ласка, оновіть інформацію свого платіжного рахунку.",
+  "wallet_text_address_2": "Адреса 2",
+  "wallet_text_new_account": "Створіть рахунок для виплат",
+  "wallet_text_payout_account_detail": "Реквізити платіжного рахунку",
+  "wallet_text_middle_name": "По батькові",
+  "wallet_text_account_owner": "Власник рахунку",
+  "wallet_text_tax_form": "Податкова форма",
+  "wallet_text_tax_form_subtitle": "Виходячи з наданої вами інформації, вам не потрібно завантажувати додаткові податкові форми. Натисніть «Продовжити», щоб перейти до наступного кроку.",
+  "wallet_text_card_holder_name": "Ім''я власника картки",
+  "wallet_text_otp_code_expire_in": "Термін дії коду закінчиться через:",
+  "wallet_text_account_information": "Інформація про обліковий запис",
+  "wallet_text_welcome": "Привіт!",
+  "wallet_text_payment_information": "Інформація про оплату",
+  "wallet_text_policies_confirm": "Я приймаю {termsAndPolicies}",
+  "wallet_terms_and_policies": "Умови та політика Hahalolo.",
+  "wallet_text_default": "За замовчуванням",
+  "wallet_text_code_vie_sms": "Надішліть код через SMS",
+  "wallet_text_pin_code_recovery_description": "Використовуйте свою електронну пошту, щоб підтвердити, якщо ви забули свій PIN''код.",
+  "wallet_text_sms_recovery_description": "Використовуйте свій номер телефону, щоб перевірити, якщо ви забули PIN''код.",
+  "wallet_text_authority": "Я погоджуюся дозволити Hahalolo використовувати інформацію мого облікового запису, надану для переказу грошей.",
+  "wallet_text_district_three_dot": "Район...",
+  "wallet_text_set_up_pin": "Налаштуйте PIN''код",
+  "wallet_text_established": "(Встановлено)",
+  "wallet_text_not_have_pin_yet_title": "У вас немає PIN''коду",
+  "wallet_text_not_have_pin_yet_subtitle": "Будь ласка, створіть PIN''код, щоб використовувати цю функцію",
+  "wallet_text_security_pin_code_description": "PIN''код платіжного рахунку Hahalolo потрібен для захисту вашого облікового запису та фінансової інформації. Більше того, вам не потрібно повторно вводити дані картки під час повторного входу.",
+  "wallet_text_check_password_locked": "Функція перевірки пароля тимчасово заблокована. Будь''ласка спробуйте пізніше.",
+  "wallet_text_enter_password_description": "Вам потрібно ввести пароль свого облікового запису Hahalolo, щоб підтвердити зміну.",
+  "wallet_text_enter_sms_code": "Введіть код підтвердження",
+  "wallet_text_send_sms_description_1": "Ми надіслали код підтвердження на адресу",
+  "wallet_text_send_sms_description_2": "\nВведіть код, який ви отримали, щоб завершити цей крок.",
+  "wallet_text_resend": "Надіслати повторно",
+  "wallet_text_no_data": "Зараз немає даних!",
+  "wallet_text_bank_transfer": "банківський переказ",
+  "wallet_text_tax_ptin": "Ідентифікаційний номер платника податків, який готує",
+  "wallet_text_tax_atin": "Ідентифікаційний номер платника податків усиновлення",
+  "wallet_text_tax_ssn": "Номер соціального страхування",
+  "wallet_text_account_personal": "Особистий рахунок",
+  "wallet_text_account_business": "Бізнес рахунок",
+  "wallet_text_country_code_and": "код країни і",
+  "wallet_text_resend_time": "Повторно надіслати {time}",
+  "wallet_text_change_your": "Змініть свій {text}",
+  "wallet_start_person_button": "{action} особистий платіжний рахунок",
+  "wallet_start_business_button": "{action} платіжний рахунок підприємства",
+  "wallet_text_recovery_subtitle_1": "Ваш поточний {text} становить\n{value}",
+  "wallet_text_recovery_subtitle_2": "Введіть новий {extra_text}{text}",
+  "wallet_text_enter_new": "Введіть новий {title}",
+  "wallet_text_new": "новий {title}",
+  "wallet_succ_setup_pin": "PIN''код налаштовано успішно.",
+  "wallet_succ_setup_pin_content": "Ви успішно встановили свій PIN''код.",
+  "wallet_succ_change_pin": "PIN''код успішно змінено",
+  "wallet_succ_change_pin_content": "Ви успішно змінили свій PIN''код",
+  "wallet_succ_change_information": "Інформація була успішно оновлена ​​та перевірена",
+  "wallet_war_remove_payout_account": "Ви впевнені, що хочете остаточно видалити цей обліковий запис?",
+  "wallet_war_create_payment_title": "Створити платіжний рахунок",
+  "wallet_war_create_payment_subtitle": "Перш ніж створювати платіжний обліковий запис, створіть бізнес''акаунт.",
+  "wallet_war_unsaved_information": "Інформація, яку ви редагували, може не зберегтися. Ви хочете вийти?",
+  "wallet_err_recovery": "Не вдалося відновити. Будь''ласка спробуйте пізніше.",
+  "wallet_err_recovery_no_user_data": "Не вдалося відновити. Інформація про користувача не знайдена.",
+  "wallet_err_recovery_phone_exists": "Не вдалося відновити. Цей номер телефону вже існує.",
+  "wallet_err_recovery_phone_invalid": "Не вдалося відновити. Номер телефону недійсний.",
+  "wallet_err_recovery_password_invalid": "Не вдалося відновити. Ваш пароль неправильний.",
+  "wallet_err_pin_existed": "PIN''код уже існує.",
+  "wallet_err_pin_wallet_not_exist": "Платіжний рахунок не існує",
+  "wallet_err_pin_incorrect_or_exists": "PIN''код неправильний або не існує",
+  "wallet_err_pin_try_again": "Помилка налаштування PIN''коду. Будь''ласка спробуйте пізніше.",
+  "wallet_err_set_payout_default": "Не вдалося вибрати рахунок для виплат за умовчанням. Будь''ласка спробуйте пізніше!",
+  "wallet_err_occurred_try_again": "Сталась помилка. Будь''ласка спробуйте пізніше.",
+  "wallet_err_send_verify_title": "Не вдалося надіслати код підтвердження",
+  "wallet_err_try_again": "Сталась помилка. Будь''ласка спробуйте пізніше.",
+  "wallet_err_create_payout_title": "Не вдалося створити рахунок для виплат. Будь''ласка спробуйте пізніше.",
+  "wallet_err_fetch_data_failed": "Не вдалося завантажити дані. Будь''ласка спробуйте пізніше!",
+  "wallet_err_occurred_processing": "Під час обробки сталася помилка. Будь''ласка спробуйте пізніше.",
+  "wallet_err_remove_payout": "Не вдалося видалити обліковий запис. Будь''ласка спробуйте пізніше.",
+  "wallet_err_change_pin": "Не вдалося змінити PIN''код",
+  "wallet_err_setup_pin": "Не вдалося встановити PIN''код",
+  "wallet_err_sms_code_expired": "Термін дії коду перевірки минув. Будь ласка спробуйте ще раз.",
+  "wallet_err_sms_code_incorrect": "Код підтвердження неправильний. Будь ласка спробуйте ще раз.",
+  "wallet_create_payout_title": "Створіть рахунок для виплат",
+  "wallet_action_continue": "Продовжити",
+  "wallet_action_create": "Створити",
+  "wallet_action_update": "оновлення",
+  "wallet_action_ok": "Погодьтеся",
+  "wallet_action_complete": "Повний",
+  "wallet_action_next": "Продовжити",
+  "wallet_action_try_back": "Повертайся",
+  "wallet_action_try_again": "Спробуйте знову",
+  "wallet_action_accept": "прийняти",
+  "wallet_action_remove": "Видалити",
+  "wallet_action_change": "Зміна",
+  "wallet_action_setup": "Налаштувати",
+  "wallet_action_confirm": "Підтвердити",
+  "wallet_action_cancel": "Скасувати",
+  "wallet_action_close": "Закрити",
+  "wallet_overview": "Огляд",
+  "wallet_notification": "Сповіщення",
+  "wallet_transaction_history": "Історія транзакцій",
+  "wallet_transfer_point": "Точки трансферу",
+  "wallet_payout_accounts": "Виплатний рахунок",
+  "wallet_security": "Безпека",
+  "wallet_recovery_methods": "Спосіб відновлення",
+  "wallet_help_center": "Центр допомоги",
+  "wallet_view_profile": "Переглянути інформацію",
+  "wallet_info_title": "Інформація про платіжний рахунок",
+  "wallet_edit_identity_card": "ID картку",
+  "wallet_edit_id_card": "ID картку",
+  "wallet_edit_passport": "Паспорт",
+  "wallet_edit_verify_status": "Статус",
+  "wallet_edit_not_verify": "Неперевірений",
+  "wallet_edit_verified": "Перевірено",
+  "wallet_edit_verify_waiting": "В очікуванні",
+  "wallet_edit_gender": "Стать",
+  "wallet_edit_male": "Чоловік",
+  "wallet_edit_female": "Жінка",
+  "wallet_edit_other": "Інший",
+  "wallet_owner_title": "Інформація про користувача",
+  "wallet_edit_fullName": "Повне ім''я",
+  "wallet_edit_email": "Електронна пошта",
+  "wallet_edit_phoneNumber": "Телефонний номер",
+  "wallet_edit_dateOfBirth": "Дата народження",
+  "wallet_edit_dateOfBirth_13_yo": "Дата народження (не менше 13 років)",
+  "wallet_edit_address": "Адреса",
+  "wallet_edit_country": "Країна",
+  "wallet_edit_idType": "Тип ідентифікації",
+  "wallet_edit_id_passport": "ID номер/паспорт",
+  "wallet_edit_country_issue": "Країна випуску",
+  "wallet_edit_id_document": "Зображення ID картки/паспорта",
+  "wallet_edit_front": "Лицьова сторона",
+  "wallet_edit_back": "Тильна сторона",
+  "wallet_edit_activate_date": "Дата набрання чинності",
+  "wallet_edit_expiration_date": "Термін придатності",
+  "wallet_waiting_balance": "Залишок в очікуванні",
+  "wallet_pending_balance": "Залишок в процесі",
+  "wallet_available_balance": "Доступний залишок",
+  "wallet_frozen_balance": "Заморожений баланс",
+  "wallet_top10_trans": "Останні 10 транзакцій",
+  "wallet_source_withdrawal": "Вилучення",
+  "wallet_source_grad": "град",
+  "wallet_source_income": "Гроші в",
+  "wallet_source_outcome": "Гроші вийшли",
+  "wallet_source_point": "Очки",
+  "wallet_source_aff_commission": "Партнер '' комісія",
+  "wallet_source_aff_reward": "Партнерська програма '' винагорода",
+  "wallet_source_recharge": "Поповнити",
+  "wallet_source_order": "порядок",
+  "wallet_status_waiting": "В очікуванні",
+  "wallet_status_pending": "Очікує підтвердження",
+  "wallet_status_available": "в наявності",
+  "wallet_status_frozen": "Заморожені",
+  "wallet_status_cancel": "Скасовано",
+  "wallet_status_success": "Успішний",
+  "wallet_status_error": "Не вдалося",
+  "wallet_status_outcome": "Гроші вийшли",
+  "wallet_status_transfer": "Точки трансферу",
+  "wallet_action_receive": "Отримайте бали",
+  "wallet_action_donate": "Дайте бали",
+  "wallet_action_buy_point": "Купуйте бали",
+  "wallet_action_payment": "Оплата",
+  "wallet_filter_all": "все",
+  "wallet_filter_allTime": "все",
+  "wallet_filter_today": "Сьогодні",
+  "wallet_filter_yesterday": "вчора",
+  "wallet_filter_7days": "Останні 7 днів",
+  "wallet_filter_30days": "Останні 30 днів",
+  "wallet_filter_custom_date": "Необов''язкова дата",
+  "wallet_filter_status": "Статус",
+  "wallet_filter_time": "час",
+  "wallet_filter_action": "Дія",
+  "wallet_validate_this_field": "Це поле",
+  "wallet_validate_required": "{fieldName} є обов’язковим",
+  "wallet_validate_invalid_email": "Недійсна електронна адреса",
+  "wallet_validate_invalid_phone_number": "Недійсний номер телефону",
+  "wallet_validate_invalid_number": "Невірний номер",
+  "wallet_validate_limit_length": "{fieldName} має містити принаймні {minLength} символів",
+  "wallet_validate_not_contain_number": "{fieldName} не має містити цифрових символів",
+  "wallet_validate_not_contain_special_char": "{fieldName} не має містити спеціальних символів",
+  "wallet_validate_invalid_swift_code_length": "Код Swift складається лише з 8''11 символів",
+  "wallet_validate_invalid_swift_code": "Недійсний swift''код",
+  "wallet_no_transaction": "Жодних транзакцій!",
+  "wallet_no_image": "Фото ще немає",
+  "wallet_edit_quit_msg": "Інформація, яку ви редагували, може не зберегтися. Ви хочете вийти?",
+  "wallet_point_total": "Всього:",
+  "wallet_payment_methods": "Спосіб оплати",
+  "wallet_payment_methods_note": "(Примітка: '{HAHALOLO}' підтримує користувачів із '{MIỄN PHÍ}' банківськими комісіями)",
+  "wallet_num_of_points": "Кількість балів",
+  "wallet_points": "{number} балів",
+  "wallet_1point": "1 бал",
+  "wallet_msg_enter_number_of_points": "Будь ласка, введіть кількість балів, які ви хочете купити",
+  "wallet_msg_pin_not_correct": "PIN''код неправильний або не існує",
+  "wallet_msg_balance_not_enough": "Недостатній баланс",
+  "wallet_msg_error_while_buy_point": "Під час покупки балів сталася помилка",
+  "wallet_msg_fetch_error": "Сталась помилка. Будь''ласка спробуйте пізніше.",
+  "wallet_msg_buy_point_success": "Ви успішно придбали бали",
+  "wallet_withdrawal_req": "Запит на зняття коштів:",
+  "wallet_withdrawal_payment_acc_id": "Платіжний рахунок ID:",
+  "wallet_withdrawal_balance": "Доступний залишок:",
+  "wallet_withdrawal_payout_acc": "рахунок виплат",
+  "wallet_withdrawal_amount": "Сума ({currency})",
+  "wallet_label_desc": "опис",
+  "wallet_btn_save": "зберегти",
+  "wallet_btn_edit_owner": "Редагувати",
+  "wallet_btn_buy": "купити",
+  "wallet_btn_reset": "Повторний вхід",
+  "wallet_insufficient_available_balances": "Недостатній доступний баланс",
+  "wallet_msg_complete_info": "Будь ласка, заповніть інформацію",
+  "wallet_msg_success": "Ви успішно зняли рахунок",
+  "wallet_msg_wal_not_exist": "Платіжний рахунок не існує",
+  "wallet_msg_wal_blocked": "Платіжний рахунок заблоковано",
+  "wallet_msg_acc_incorrect": "Неправильний платіжний рахунок",
+  "wallet_msg_total_not_available": "Загальна сума запиту недоступна",
+  "wallet_msg_pin_locked": "PIN''код платіжного рахунку заблоковано",
+  "wallet_msg_withdrawal_failed": "Не вдалося зняти кошти. Будь''ласка спробуйте пізніше.",
+  "wallet_msg_fill_in_all_info": "Будь ласка, заповніть інформацію",
+  "wallet_update_info_success": "Ви успішно оновили інформацію",
+  "wallet_update_info_fail": "Не вдалося оновити інформацію",
+  "wallet_no_notifications": "У вас немає сповіщень",
+  "wallet_buy_point_payment_method_note": "(Примітка: '{hahalo}' підтримує користувачів '{free}' банківськими комісіями)",
+  "wallet_note_free": "БЕЗКОШТОВНО",
+  "wallet_buy_point_policy": "Я приймаю {condition} і {privacy}",
+  "wallet_term_conditions": "Правила та умови",
+  "wallet_privacy": "Конфіденційність",
+  "wallet_msg_receiving_account_not_exist": "Платіжний рахунок одержувача не існує",
+  "wallet_msg_search_account_error": "Під час пошуку платіжного рахунку сталася помилка",
+  "wallet_msg_sending_account_not_exist": "Платіжний рахунок відправника не існує",
+  "wallet_msg_point_balance_not_enough": "Залишок балів платіжного рахунку недостатній",
+  "wallet_msg_cannot_give_to_itself": "Не можна передавати бали собі",
+  "wallet_msg_cannot_give_to_business": "Платіжний рахунок одержувача не може бути бізнес''рахунком",
+  "wallet_msg_transfer_point_err": "Під час передачі балів сталася помилка",
+  "wallet_msg_transfer_point_success": "Бали передано успішно",
+  "wallet_recipient_info": "Інформація про одержувача",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Кількість балів",
+  "wallet_not_verified": "Неперевірений платіжний рахунок",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} годину {minute} хвилину",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1зупинка} other{{countStop} зупинка}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Час в дорозі приблизно {time} в {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Дорослі (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Діти (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Дитина (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} дорослі} other{{count} дорослі}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} дитина} other{, {count} діти}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} дитина} other{, {count} немовлята}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Час в дорозі приблизно {times} в {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} КІЛОГРАМИ} other{{countBag} КІЛОГРАМИ}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Рейс в один бік",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Рейс вильоту",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Зворотній рейс",
+  "flight_fare_rule_title_fare_conditions": "Умови тарифу",
+  "flight_fare_rule_title_departure_flight": "Політ",
+  "flight_fare_rule_title_segment": "Сегмент",
+  "flight_fare_rule_notice_empty_fare_rule": "Умов тарифу від авіакомпанії не знайдено",
+  "flight_filter_by_title_filter": "Фільтр",
+  "flight_filter_by_content_btn_filter": "Фільтр",
+  "flight_filter_by_title_airline": "Авіакомпанія",
+  "flight_filter_by_title_flight_times": "Час польоту",
+  "flight_filter_by_title_type_flight_times_early_morning": "Рано вранці \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Ранок \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Вдень \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Вечір \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Кількість зупинок",
+  "flight_filter_by_title_select_all": "Вибрати все",
+  "flight_filter_by_title_unselect_all": "Скасуйте вибір усіх",
+  "flight_filter_by_title_type_segment_all": "всі",
+  "flight_filter_by_title_type_segment_direct": "Прямий авіарейс",
+  "flight_filter_by_title_type_segment_transit": "Транзит",
+  "flight_sort_by_title_sort_by": "Сортувати за",
+  "flight_sort_by_title_sort_by_ascending_price": "Ціна зростає",
+  "flight_sort_by_title_sort_by_descending_price": "Ціна спадання",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Найраніший час відправлення",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Найраніший час прибуття",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Останній час прибуття",
+  "flight_search_result_title_count_adult": "дорослий",
+  "flight_search_result_title_count_child": "дитини",
+  "flight_search_result_title_count_baby": "дитина",
+  "flight_search_result_title_segment": "Стоп",
+  "flight_search_result_title_hours": "годин",
+  "flight_search_result_title_minutes": "хвилин",
+  "flight_search_result_title_view_detail_price": "Докладніше",
+  "flight_search_result_title_hide_detail_price": "Приховати деталі",
+  "flight_search_result_title_view_detail": "Деталі",
+  "flight_search_result_title_btn_book_ticket": "Книга",
+  "flight_search_result_title_basic_price_ticket": "Ціна за квиток",
+  "flight_search_result_title_taxes_and_fee": "Податки та збори",
+  "flight_search_result_title_total_amount": "Загальна кількість",
+  "flight_search_result_title_total": "Всього",
+  "flight_search_result_title_fare_details": "Деталі тарифу",
+  "flight_search_result_title_quantity": "Кількість",
+  "flight_search_result_title_passenger": "Пасажирський",
+  "flight_search_result_title_one_way_flight": "Рейс в один бік",
+  "flight_search_result_title_round_trip_flight": "Переліт туди й назад",
+  "flight_change_search_title_btn_agree": "Згоден",
+  "flight_change_search_title_btn_cancel": "Скасувати",
+  "flight_change_search_title_header_dialog": "Змінити пошук",
+  "flight_change_search_title_body_dialog": "Ви впевнені, що хочете змінити інформацію про пошук?",
+  "flight_change_search_title_footer_dialog": "Якщо ви погоджуєтеся змінити інформацію про пошук, усі попередні дані будуть видалені.",
+  "flight_search_result_detail_title_flight_details": "Деталі польоту",
+  "flight_search_result_detail_title_checked_baggage": "Зареєстрований багаж",
+  "flight_search_result_detail_title_aircraft": "Літак",
+  "flight_search_result_detail_title_seat_class": "Клас сидіння",
+  "flight_search_result_detail_title_class_seat_type_all": "всі",
+  "flight_search_result_detail_title_class_seat_type_economy": "Економіка",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Перший",
+  "flight_search_result_detail_title_class_seat_type_business": "Бізнес",
+  "flight_search_result_detail_content_note_transit_body": "Примітка: від пасажирів можуть вимагати митного оформлення та надання транзитної візи на запит країни перебування.",
+  "flight_transit_alter_note": "Примітка: від пасажирів можуть вимагати митного оформлення та надання транзитної візи на запит країни перебування.",
+  "flight_luggage": "Багаж",
+  "flight_signed_luggage": "Зареєстрований багаж",
+  "flight_service_package": "Пакети послуг",
+  "flight_run_by": "Оперується",
+  "flight_result_notice_no_flight_found": "Рейси не знайдені!",
+  "flight_result_notice_no_flight_found_filter": "На жаль, немає рейсів, які відповідають вашим критеріям",
+  "flight_result_notice_check_internet_again": "Ваше з’єднання було перервано. Перевірте з’єднання ще раз",
+  "flight_result_notice_error_authentication": "Ваш сеанс входу закінчився. Будь ласка, увійдіть ще раз",
+  "flight_search_result_notice_booking_expired": "Термін бронювання ось-ось закінчиться",
+  "flight_search_result_notice_click_continue_to_proceed": "Натисніть \"Продовжити\", щоб продовжити бронювання.",
+  "flight_search_result_btn_continue": "Продовжуйте",
+  "flight_input_title_gender": "Стать",
+  "flight_input_title_gender_male": "Чоловік",
+  "flight_input_title_gender_female": "Жінка",
+  "flight_input_title_gender_other": "Інший",
+  "flight_search_price_info_bottom_sheet_tax_include": "З податком",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Плата включена",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Доплата за систему та адміністратора",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Плата за перевірку безпеки",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Зручна доплата",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Аеропортовий збір",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Дорослі",
+  "flight_v2_model_booking_children": "Діти",
+  "flight_v2_model_booking_infant": "Немовля",
+  "flight_v2_model_detail_infant": "(до 2 років)",
+  "flight_v2_model_detail_children": "(від 02-12 років)",
+  "flight_v2_component_bonus_services_title_string": "Додаткові послуги",
+  "flight_v2_component_bonus_service_header": "Додаткові послуги",
+  "flight_v2_component_bonus_service_content_header_price": "Страховий збір",
+  "flight_v2_component_bonus_service_flight_table_header": "Повний страховий збір",
+  "flight_v2_component_bonus_service_text1_introduce": "Вступ",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Вид страхування:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Страхування польотів",
+  "flight_v2_component_bonus_service_text1_supplier": "Постачальник:",
+  "flight_v2_component_bonus_service_text2_company": "Страхове акціонерне товариство Vietinbank (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "Ви будете повністю впевнені, подорожуючи з нашим надійним туристичним страхуванням",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Предмет страхування",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Фізичні особи користуються послугою бронювання авіаквитків у системі Hahalolo для подорожей повітрям.",
+  "flight_v2_component_bonus_service_text1_age": "Вік: від 07 днів.",
+  "flight_v2_component_bonus_service_text1_range": "Область застосування",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Страхове покриття включає наступні ризики:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Смерть або тілесні ушкодження внаслідок нещасного випадку.",
+  "flight_v2_component_bonus_service_text1_impediments": "Ризики подорожі, а саме скасування/скорочення поїздки, втрата або пошкодження багажу, одягу та особистих речей Застрахованої особи, затримка рейсу авіакомпанії, затримка багажу, втрата проїзних документів або викрадення.",
+  "flight_v2_component_bonus_service_text1_benefit": "Переваги",
+  "flight_v2_component_bonus_service_text1_small_amount": "Витратьте лише невелику суму грошей на багаторазовий захист.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Виплати особистого страхування:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Застрахована особа, яка загине від нещасного випадку або травми, що покривається страхуванням, отримає повну страхову суму до 1 000 000 донгів",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Переваги страхування подорожей від ризику:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Застрахована особа отримає відшкодування до 20 000 000 донгів",
+  "flight_v2_component_bonus_service_text1_rules": "Умови",
+  "flight_v2_component_bonus_service_text1_more_information": "Більш детальну інформацію можна знайти у прикріпленому файлі або зв’язатися",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Правила страхування подорожей",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Погоджуйтеся брати участь у страхуванні польотів",
+  "flight_v2_component_booking_flight_information": "Інформація про рейс",
+  "flight_v2_component_booking_show": "Детальніше",
+  "flight_v2_component_booking_hide": "Сховати",
+  "flight_v2_component_booking_adult": "Дорослі",
+  "flight_v2_component_booking_children": "Діти",
+  "flight_v2_component_booking_infant": "Дитина",
+  "flight_v2_component_booking_baggage": "Багаж",
+  "flight_v2_component_booking_main_content_service": "послуги",
+  "flight_v2_component_booking_taxes_fees": "Збори та податки",
+  "flight_v2_component_booking_title_booking_information": "Інформація про бронювання",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Рейс вильоту",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Зворотній рейс",
+  "flight_v2_component_confirm_title_flight_information": "Інформація про рейс",
+  "flight_v2_component_confirm_text_done": "Готово",
+  "flight_v2_component_detail_booking_information": "Інформація про бронювання",
+  "flight_v2_component_detail_flight_information": "Інформація про рейс",
+  "flight_v2_component_detail_passenger_information": "Інформація про пасажирів",
+  "flight_v2_component_payment_booking_information": "Інформація про бронювання",
+  "flight_v2_component_payment_information": "Інформація",
+  "flight_v2_component_payment_passenger_information": "Інформація про пасажирів",
+  "flight_v2_component_payment_making_flight_payment": "Ви здійснюєте оплату перельоту для таких пасажирів:",
+  "flight_v2_component_payment_payment_now": "Платити",
+  "flight_v2_component_result_title_flight_details": "Деталі польоту",
+  "flight_v2_component_result_title_fare_details": "Деталі тарифу",
+  "flight_v2_component_result_type_direct_flight": "Прямий авіарейс",
+  "flight_v2_component_result_title_showMessDiaLog": "Сповіщення",
+  "flight_v2_component_result_message_selected_return": "Ви вибрали рейс туди й назад",
+  "flight_v2_component_result_message_cancel_book": "Бажаєте скасувати та забронювати новий рейс?",
+  "flight_v2_component_result_actionMessage_yes": "Так",
+  "flight_v2_component_result_negativeMessage_no": "Ні",
+  "flight_v2_component_result_trip_turn_departure": "Від''їзд",
+  "flight_v2_component_result_trip_turn_arrival": "Прибуття",
+  "flight_v2_notify_day_invalid_cannot_choose": "Ви не можете вибрати",
+  "flight_v2_notify_day_invalid_because": "оскільки",
+  "flight_v2_notify_day_invalid_date_is": "є",
+  "flight_v2_component_result_actionMessage_btn": "Згоден",
+  "flight_v2_component_result_message": "Будь ласка, не вибирайте дати раніше поточної дати",
+  "flight_v2_component_search_text_guest": "Пасажирський",
+  "flight_v2_component_search_button_save": "Зберегти",
+  "flight_v2_component_search_text_choose_a_date": "Виберіть дату",
+  "flight_v2_component_search_button_choose": "Виберіть",
+  "flight_v2_widget_booking_total_price": "Загальна сума",
+  "flight_v2_widget_booking_continue": "Продовжуйте",
+  "flight_v2_widget_booking_payer_information": "Інформація про платника",
+  "flight_v2_widget_booking_payer_use_contact_information": "Використовуйте контактну інформацію",
+  "flight_v2_widget_booking_save_payment": "Збережіть цю платіжну інформацію для наступного разу",
+  "flight_v2_widget_booking_title_contact_information": "Контактна інформація",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Використовуйте дані поточного рахунку",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Я пасажир",
+  "flight_v2_widget_booking_radio_gender": "Стать",
+  "flight_v2_widget_booking_radio_male": "Чоловічий",
+  "flight_v2_widget_booking_radio_female": "Жіночий",
+  "flight_v2_widget_booking_field_card_bank_card": "Банківська карта",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Зареєстрований багаж",
+  "flight_v2_widget_booking_title_passenger_information": "Інформація про пасажирів",
+  "flight_v2_widget_booking_information": "інформації",
+  "flight_v2_widget_common_one_way": "Односторонній",
+  "flight_v2_widget_common_details": "Деталі",
+  "flight_v2_widget_common_text_price": "Ціна",
+  "flight_v2_widget_common_text_fare_conditions": "Умови тарифу",
+  "flight_v2_widget_common_text_service_pack": "Пакети послуг",
+  "flight_v2_widget_common_item_tax_inclusive": "З урахуванням податку",
+  "flight_v2_widget_common_item_vat": "ПДВ",
+  "flight_v2_widget_common_item_fee_inclusive": "Плата включно",
+  "flight_v2_widget_common_item_fee_surcharge": "Доплата системи та адміністратора",
+  "flight_v2_widget_common_item_fee_screening": "Додаткова плата за перевірку безпеки",
+  "flight_v2_widget_common_item_fee_convenient": "Зручна доплата за оплату",
+  "flight_v2_widget_common_item_fee_airport": "Аеропортовий збір",
+  "flight_v2_widget_common_text_price_per_ticket": "Базовий тариф",
+  "flight_v2_widget_common_text_taxes_fees": "Податки та збори",
+  "flight_v2_widget_common_service_service": "послуги",
+  "flight_v2_widget_common_text_total_amount": "Загальна сума",
+  "flight_v2_widget_common_button_continue": "Продовжуйте",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Податки та збори включені)",
+  "flight_v2_widget_common_service_accommodation_service": "Послуги з розміщення",
+  "flight_v2_widget_common_text_direct_flight": "Прямий авіарейс",
+  "flight_v2_widget_confirm_description": "Стать",
+  "flight_v2_widget_confirm_description_full_name": "Повне ім''я",
+  "flight_v2_widget_confirm_description_email": "Електронна пошта",
+  "flight_v2_widget_confirm_description_phone_number": "Номер телефону",
+  "address": "Адреса",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Бронювання успішне",
+  "flight_v2_widget_confirm_text_reservation_request": "Ваш запит на бронювання успішно виконано",
+  "flight_v2_widget_confirm_text_paid_already": "(оплачено)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Ви можете ознайомитися з деталями маршруту нижче.",
+  "flight_v2_widget_confirm_title_payment_information": "Інформація про оплату",
+  "flight_v2_widget_confirm_description_orders": "Замовлення",
+  "flight_v2_widget_confirm_description_price": "Ціна",
+  "flight_v2_widget_confirm_description_payers": "Платник",
+  "flight_v2_widget_confirm_button_view_details": "Докладніше",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Книга нова",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Дякуємо за довіру до нашого сервісу",
+  "flight_v2_widget_confirm_textspan_question_help": "Якщо у вас виникли запитання або потрібна додаткова допомога, зверніться до довідкового центру Hahalolo ",
+  "flight_v2_widget_confirm_text_paid_instructions": "для інструкцій.",
+  "flight_v2_widget_confirm_title_passenger_information": "Інформація про пасажирів",
+  "flight_v2_widget_confirm_title_flight_information": "Інформація про рейс",
+  "flight_v2_widget_confirm_text_ticket_class": "клас",
+  "flight_v2_widget_confirm_text_booking_code": "Код бронювання",
+  "flight_v2_widget_confirm_text_flight": "Політ",
+  "flight_v2_widget_confirm_description_name": "Ім''я",
+  "flight_v2_widget_confirm_description_guest_type": "Пасажирський тип",
+  "flight_v2_widget_confirm_description_baggage": "Багаж",
+  "flight_v2_widget_dialog_config_button_agree": "Згоден",
+  "flight_v2_widget_dialog_config_button_deny": "Пропустити",
+  "flight_v2_widget_dialog_config_title": "Змінити інформацію",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Ви впевнені, що хочете змінити інформацію про пошук\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Якщо ви погоджуєтеся змінити інформацію про пошук, усі попередні дані будуть видалені",
+  "flight_v2_widget_dialog_config_title_delete_account": "Видалити аккаунт",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Обліковий запис не відображатиметься в розділі Виберіть платіжний рахунок. Видалити цей платіжний обліковий запис? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Виберіть інший час польоту",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Змінити пошук",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Політ перевищив дозволений час",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Вибраний вами рейс перевищив дозволений час бронювання.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Будь ласка, зв''яжіться з нами",
+  "flight_v2_widget_dialog_config_text_span_by_number": "через",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Гаряча лінія",
+  "flight_v2_widget_dialog_config_text_span_or": "або",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "змінити пошук нового рейсу.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Виберіть інший рейс",
+  "flight_v2_widget_dialog_config_title_not_available": "Рейс недоступний\n",
+  "flight_v2_widget_dialog_config_text_span_sorry": "На жаль, вибраний вами рейс більше не доступний. Будь ласка",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "виберіть інший рейс або змініть пошук.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Зміни тарифів",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Ваш тариф змінився з",
+  "flight_v2_widget_dialog_config_text_span_to": "до",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nчерез зміни тарифів авіакомпанії",
+  "flight_v2_widget_field_fname_required": "Прізвище обов’язкове",
+  "flight_v2_widget_field_fname_invalid": "Недійсне прізвище",
+  "flight_v2_widget_field_fname_last_name": "Прізвище (Без тональних знаків)",
+  "flight_v2_widget_field_lname_required": "Укажіть по батькові та ім’я",
+  "flight_v2_widget_field_lname_invalid": "Недійсне по батькові та ім’я",
+  "flight_v2_widget_field_lname_middle_first_name": "По батькові та ім’я (без тональних позначок)",
+  "flight_v2_widget_field_email_required": "Електронна адреса обов’язкова",
+  "flight_v2_widget_field_email_invalid": "Недійсна електронна адреса",
+  "flight_v2_widget_field_email_email": "Електронна пошта",
+  "flight_v2_widget_field_phone_required": "Необхідний номер телефону",
+  "flight_v2_widget_field_phone_invalid": "Недійсний номер телефону",
+  "flight_v2_widget_field_phone_phone": "Номер телефону",
+  "flight_v2_widget_field_address_required": "Потрібна адреса",
+  "flight_v2_widget_field_address_invalid": "Недійсна адреса",
+  "flight_v2_widget_field_address_address": "Адреса",
+  "flight_v2_widget_field_city_required": "Укажіть штат/місто",
+  "flight_v2_widget_field_city_invalid": "Недійсний штат/місто",
+  "flight_v2_widget_field_city_city": "Штат/місто",
+  "flight_v2_widget_field_city_snackbar_text": "Будь ласка, виберіть свою національність, перш ніж вибрати місто",
+  "flight_v2_widget_field_country_required": "Необхідно громадянство",
+  "flight_v2_widget_field_country_invalid": "Недійсне громадянство",
+  "flight_v2_widget_field_country_country": "національність",
+  "flight_v2_widget_field_field_card_hint": "Номер членської картки",
+  "flight_v2_widget_field_field_card_error_input": "Недійсна картка",
+  "flight_v2_widget_field_field_card_default_error": "Картка потрібна",
+  "flight_v2_widget_field_field_date_hint": "Дата народження",
+  "flight_v2_widget_field_field_date_error_input": "Будь ласка, не залишайте його порожнім",
+  "flight_v2_widget_field_field_date_default_error": "Будь ласка, не залишайте його порожнім",
+  "flight_v2_widget_field_field_date_default_error_infant": "Немовлятам повинно бути до 2 років",
+  "flight_v2_widget_field_field_date_default_error_children": "Діти повинні бути від 2 до 12 років",
+  "flight_v2_widget_payment_contact_information": "Контактна інформація",
+  "flight_v2_widget_payment_full_name": "Повне ім''я",
+  "flight_v2_widget_payment_gender": "Стать",
+  "flight_v2_widget_payment_phone_number": "Номер телефону",
+  "flight_v2_widget_payment_address": "Адреса",
+  "flight_v2_widget_payment_birthday": "Дата народження",
+  "flight_v2_widget_payment_male": "Чоловічий",
+  "flight_v2_widget_payment_female": "Жіночий",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Повне ім''я:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Стать:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Дата народження:",
+  "flight_v2_widget_payment_checked_baggage": "Зареєстрований багаж",
+  "flight_v2_widget_payment_note": "Примітка",
+  "flight_v2_widget_payment_information": "Інформація",
+  "flight_v2_widget_payment_adult": "Дорослий",
+  "flight_v2_widget_payment_children": "Дитина",
+  "flight_v2_widget_payment_infant": "Дитина",
+  "flight_v2_widget_payment_title_adult_information": "Інформація для дорослих",
+  "flight_v2_widget_payment_title_children_information": "Інформація про дитину",
+  "flight_v2_widget_payment_title_infant_information": "Інформація про дитину",
+  "flight_v2_widget_payment_customer_information": "Інформація про пасажирів",
+  "flight_v2_widget_payment_edit_information": "Редагувати інформацію",
+  "flight_v2_widget_payment_bonus_services": "Додаткові послуги",
+  "flight_v2_widget_payment_membership_card_number": "Номер членської картки",
+  "flight_v2_widget_payment_text_loyal_customer": "Часті пасажири",
+  "flight_v2_widget_payment_text_making_flight_payment": "Ви здійснюєте оплату перельоту для таких пасажирів:",
+  "flight_v2_widget_result_total_amount": "Загальна сума",
+  "flight_v2_widget_result_taxes_fees": "(Податки та збори включені)",
+  "flight_v2_widget_result_elevate_button_book": "Книга",
+  "flight_v2_widget_result_text_flight": "Сегмент",
+  "flight_v2_widget_result_text_departure_flight": "Рейс вильоту",
+  "flight_v2_widget_result_text_return_flight": "Зворотній рейс",
+  "flight_v2_component_code_title": "Шукайте бронювання",
+  "flight_v2_component_code_retype": "Введіть повторно",
+  "flight_v2_component_code_search_btn": "Подивіться вгору",
+  "flight_v2_component_code_error": "Інформацію про бронювання не знайдено.\nПеревірте та повторіть спробу.",
+  "flight_v2_widget_detail_text_booking_code": "Код бронювання:",
+  "flight_v2_widget_detail_text_status": "Статус:",
+  "flight_v2_widget_detail_text_booked": "Заброньовано",
+  "flight_v2_widget_detail_text_cancelled": "Скасовано",
+  "flight_v2_widget_detail_text_paid": "Оплачено",
+  "flight_v2_widget_detail_text_unpaid": "Неоплачений",
+  "flight_showcase_domestic_round_trip_step1": "Час відображається з найнижчим тарифом дня",
+  "flight_showcase_domestic_round_trip_step2": "Проведіть пальцем в обидві сторони, щоб повторно вибрати час польоту",
+  "flight_showcase_domestic_round_trip_step3": "Виберіть рейс відправлення",
+  "flight_showcase_domestic_round_trip_step4": "Виберіть зворотній рейс",
+  "flight_showcase_domestic_round_trip_step5": "Ви можете будь-коли повторно вибрати рейси відправлення та повернення",
+  "flight_showcase_domestic_round_trip_step6": "Перед бронюванням потрібно вибрати достатню кількість рейсів",
+  "flight_showcase_inter_round_trip_step1": "Виберіть для себе відповідний рейс",
+  "flight_showcase_inter_round_trip_step1_desc": "Політ складається з рейсу вильоту та зворотного рейсу",
+  "flight_showcase_place_from": "Від",
+  "flight_showcase_place_to": "до",
+  "flight_showcase_tutorial": "Підручник",
+  "flight_showcase_back": "Назад",
+  "flight_showcase_done": "Повний",
+  "flight_showcase_continue": "Далі",
+  "flight_v2_component_code_hint_text": "Введіть посилання на бронювання",
+  "flight_v2_component_booking_text_note_upon": "Коли",
+  "flight_v2_component_booking_text_payment_after": "СПЛАТИТЕ ПІЗНЕСЬ",
+  "flight_v2_component_booking_text_your_booking": ", ваше бронювання буде проведено протягом 12 годин. Він буде автоматично скасований, якщо ви все ще не здійсните платіж протягом відведеного часу. Будь ласка, зробіть платіж протягом відведеного часу для завершення процесу бронювання.",
+  "flight_v2_dialog_default_payment_error": "Під час процесу оплати сталася помилка. Будь-ласка спробуйте пізніше.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Зверніться до служби підтримки клієнтів Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Помилка оплати",
+  "flight_v2_component_result_message_appropriate_flight": "Час зльоту для зворотного рейсу має відбуватися щонайменше через 02 години після часу приземлення на рейс відправлення. Будь ласка, виберіть відповідний рейс.",
+  "flight_v2_component_notification_not_available": "Рейс недоступний",
+  "flight_v2_search_enter_your_reservation": "Введіть посилання на бронювання, щоб переглянути інформацію про бронювання",
+  "flight_v2_search_booking_reference": "Код бронювання",
+  "flight_v2_search_title_booking_code": "Введіть посилання на бронювання, щоб знайти своє бронювання авіаквитка",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Прізвище (Без тональних знаків)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "По батькові та ім''я (без тональних позначок)",
+  "flight_v2_widget_common_rules_1": "Для міжнародних рейсів або транзиту ваш паспорт має бути дійсним щонайменше 6 місяців до дати вильоту.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines і Bamboo Airways: відмовтеся від перевезення вагітних пасажирок із терміном вагітності від 36 тижнів. Vietjet Air і Vietravel Airlines: відмовляються перевозити вагітних пасажирок із терміном вагітності від 32 тижнів.",
+  "flight_v2_widget_common_rules_3": "Дитину віком від 14 днів до 2 років має супроводжувати дорослий віком від 18 років.",
+  "flight_v2_widget_common_rules_4": "Вік дітей/немовлят розраховуватиметься від дати народження до дати вильоту рейсу на підставі свідоцтва про народження/паспорта дитини.",
+  "flight_v2_widget_common_rules_5": "Для дітей, які летять самостійно, будь ласка, зв’яжіться безпосередньо з агентом для отримання додаткової інформації про обслуговування неповнолітніх без супроводу.",
+  "flight_range_slider_price_range": "Діапазон цін",
+  "flight_v2_common_done": "Готово",
+  "flight_v2_detail_airline_operator_by": "Керує '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Примітка. Від пасажирів можуть вимагати пройти митне оформлення та надати транзитну візу на запит країни перебування.",
+  "flight_v2_detail_airline_total_price": "Всього",
+  "flight_v2_detail_airline_title_tax_and_fee": "(включаючи податки та збори)",
+  "flight_v2_detail_airline_button_add_ticket": "Додати квиток",
+  "flight_v2_detail_airline_button_change_ticket": "Змінити квиток",
+  "flight_v2_detail_airline_button_booking_ticket": "Забронювати квиток",
+  "flight_v2_detail_airline_departure_flight": "Рейс вильоту",
+  "flight_v2_detail_airline_return_flight": "Зворотній рейс",
+  "flight_v2_information_contact_email": "Електронна пошта",
+  "flight_v2_information_customer_title_full_name": "Повне ім''я: {fullName}",
+  "flight_v2_information_customer_title_gender": "Стать: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Дата народження: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Примітка: {HAHALOLO} підтримує користувачів {free} банківськими комісіями)",
+  "flight_v2_payment_include_free_fee_payment": "БЕЗКОШТОВНО",
+  "flight_v2_payment_use_saved_info_user": "Використовуйте контактну інформацію або збережену платіжну інформацію",
+  "flight_v2_payment_success_thank_user": "Дякуємо за довіру до служби '{HAHALOLO}'. Якщо у вас виникли запитання або вам потрібна додаткова допомога, зверніться до довідкового центру Hahalolo за номером {phone}, щоб отримати інструкції.",
+  "flight_v2_payment_success_notifier": "Ваш запит на бронювання успішно виконано '{wasPayment}'. Ви можете перевірити деталі маршруту нижче.",
+  "flight_v2_payment_success_was_payment": "(Оплачено)",
+  "flight_v2_payment_success_flight_information": "Інформація про рейс",
+  "flight_v2_payment_success_outbound_flight_information": "Інформація про рейси вильоту",
+  "flight_v2_payment_success_return_flight_information": "Інформація про зворотний рейс",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Дорослий",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Дитина",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Baby",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Інформація для дорослих {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Інформація про дитину {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Інформація про дитину {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} дорослих",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} дітей",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} немовлят",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Час у дорозі приблизно {time} у {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Податки та збори (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Базовий тариф (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Найпізніший час відправлення",
+  "flight_v2_widget_detail_text_departure_flight": "Рейс вильоту",
+  "flight_v2_widget_detail_text_return_flight": "Зворотній рейс",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(включаючи податки та збори)",
+  "flight_input_title_note_1": "Будь ласка, зверніть увагу, що паспорт має бути дійсним щонайменше 6 місяців до дати відправлення першого сегменту маршруту.",
+  "flight_input_title_note_2": "Пасажири повинні мати відповідні документи та відповідати правилам і імміграційним процедурам країни призначення.",
+  "flight_input_title_note_3": "Авіакомпанія залишає за собою право відмовити в перевезенні, якщо пасажири не мають дійсних документів, як це передбачено.",
+  "flight_input_title_note_4": "Авіакомпанія не несе відповідальності, якщо пасажирам буде відмовлено у в''їзді.",
+  "flight_input_title_note_5": "Пасажири повинні зареєструватися в аеропорту вчасно.",
+  "flight_input_title_note_6": "Неповнолітні пасажири без супроводу повинні зв''язатися безпосередньо з авіакомпанією.",
+  "flight_input_title_note_7": "Вагітним пасажирам із терміном вагітності від 32 тижнів необхідно зв''язатися безпосередньо з авіакомпанією.",
+  "flight_input_title_note_8": "Вік пасажирів розраховується відповідно до інтервалу часу між датою народження та датою відправлення першого сегмента рейсу в маршруті на основі документів, що посвідчують особу пасажира, таких як паспорт і свідоцтво про народження.",
+  "flight_input_passenger_choose_birth_day": "Виберіть дату свого народження",
+  "flight_input_payment_show_passenger_title": "Ви бронюєте рейс для таких пасажирів:",
+  "flight_input_payment_reservation": "книга",
+  "flight_v2_model_booking_luggage_handle": "Ручна поклажа",
+  "flight_search_result_progress_searching_title": "Пошук...",
+  "flight_v2_dialog_unavailable_ticket": "Рейс недоступний",
+  "flight_v2_dialog_choose_ticket": "Ви вибрали рейс",
+  "flight_v2_dialog_from": "від",
+  "flight_v2_dialog_time_take_off_flight": "Час вильоту рейсу",
+  "flight_v2_dialog_happening": "повинно відбутися",
+  "flight_v2_dialog_minimum_hour": "не менше 02 год",
+  "flight_v2_dialog_after_trip": "після польоту",
+  "flight_v2_dialog_landed": "приземлився.",
+  "flight_v2_dialog_choose_again_ticket": "Ви хочете вибрати інший рейс?",
+  "flight_passenger_view_service_packages": "Пакети послуг",
+  "flight_passenger_view_check_in_baggage": "Зареєстрований багаж:",
+  "flight_v2_widget_detail_text_departure": "Від''їзд",
+  "flight_v2_widget_detail_text_destination": "Пункт призначення",
+  "flight_handnote_international_item_view_order_code": "Код замовлення",
+  "flight_handnote_international_order_view": "Оновлена дата",
+  "flight_order_detail_view_booking_code": "Код бронювання",
+  "flight_handnote_international_item_view_departure_date": "Дата відправлення",
+  "flight_handnote_international_item_view_booking_status": "Статус бронювання",
+  "flight_input_passenger_infor_title": "Інформація про пасажирів",
+  "flight_input_payment_show_contact_full_name": "Повне ім''я",
+  "flight_passenger_view_guest_type": "Тип пасажира",
+  "flight_passenger_view_ticket_number": "Номер квитка",
+  "flight_order_detail_title_flight_information": "Інформація про рейс",
+  "flight_v2_dialog_common_agree": "Погодьтеся",
+  "flight_v2_dialog_common_confirm": "Підтвердити",
+  "flight_v2_dialog_common_skip": "Пропустити",
+  "flight_v2_dialog_common_cancel": "Скасувати",
+  "flight_v2_dialog_common_exit": "Вихід",
+  "flight_v2_dialog_common_change_flight": "Погодьтеся",
+  "flight_v2_dialog_common_change_search": "Змінити пошук",
+  "flight_v2_dialog_title_change_information": "Змінити інформацію",
+  "flight_v2_dialog_sub_title_change_information": "Ви впевнені, що бажаєте змінити пошукову інформацію?",
+  "flight_v2_dialog_message_change_information": "Якщо ви погодитесь змінити пошукову інформацію, усі попередні дані буде видалено",
+  "flight_v2_dialog_title_not_available": "Рейс недоступний",
+  "flight_v2_dialog_message_not_available": "На жаль, рейс, який ви вибрали, зараз недоступний. Будь ласка, '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "виберіть інший рейс або змініть пошук",
+  "flight_v2_dialog_title_exceed_time_allow": "Політ перевищив дозволений час",
+  "flight_v2_dialog_message_exceed_time_allow": "Вибраний рейс перевищив допустимий час бронювання. Будь ласка, зв’яжіться з '{HAHALOLO}' через гарячу лінію '{hotline}' або '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "змінити пошук нових рейсів",
+  "flight_v2_dialog_title_delete_account": "Видалити платіжний рахунок",
+  "flight_v2_dialog_sub_title_delete_account": "Ви впевнені, що хочете видалити цей платіжний рахунок?",
+  "flight_v2_dialog_message_delete_account": "Рахунок більше не відображатиметься у списку платіжних рахунків.",
+  "flight_v2_dialog_title_change_ticket_price": "Зміна тарифу",
+  "flight_v2_dialog_message_change_ticket_price": "Загальна ціна замовлення змінена з '{oldPrice}' на '{newPrice}'. Будь ласка, повторно виберіть код купона/монети/бали, якщо вони доступні.",
+  "flight_v2_dialog_title_min_support_payment": "Замовлення не підлягає оплаті",
+  "flight_v2_dialog_message_min_support_payment": "Відповідне замовлення має загальну суму платежу '{minRange}' або мінімум '{maxRange}'. Ви можете змінити код купона, монети або бали відповідно до умов оплати",
+  "flight_v2_dialog_title_order_not_found": "Сповіщення",
+  "flight_v2_dialog_message_order_not_found": "Замовлень не знайдено",
+  "flight_v2_dialog_title_exit_order": "Вийти з замовлення",
+  "flight_v2_dialog_message_exit_order_cart": "Ваш кошик",
+  "flight_v2_dialog_title_payment_error_default": "Платіж не вдалося",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Зверніться до служби підтримки клієнтів Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "тут",
+  "flight_v2_dialog_title_voucher_fee_change": "Зміна тарифу",
+  "flight_v2_dialog_message_voucher_fee_change": "Вартість проїзду змінилася з '{oldPrice}' на '{newPrice}'. Зверніться по допомогу до служби підтримки клієнтів Hahalolo '{here}'.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "тут",
+  "flight_v2_dialog_title_system_error": "Сповіщення",
+  "flight_v2_dialog_message_system_error": "Ваше замовлення успішно оплачено та незабаром буде оновлено у ваших примітках.",
+  "flight_v2_dialog_title_voucher_not_available": "Сповіщення",
+  "flight_v2_dialog_message_voucher_not_available": "Код купона недоступний. Перевірте та повторіть спробу.",
+  "flight_v2_dialog_title_point_not_available": "Сповіщення",
+  "flight_v2_dialog_message_point_not_available": "Очки недоступні. Перевірте та повторіть спробу.",
+  "flight_v2_dialog_title_coin_not_available": "Сповіщення",
+  "flight_v2_dialog_message_coin_not_available": "Монети недоступні. Перевірте та повторіть спробу.",
+  "flight_v2_dialog_halo_support": "'{message}'. Зверніться до служби підтримки клієнтів Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "тут",
+  "flight_v2_dialog_title_stripe_error": "Сповіщення",
+  "flight_v2_price_info_read_more": "Дивитись більше",
+  "flight_v2_price_info_total_payment": "Загальна оплата",
+  "flight_v2_price_info_before_payment": "Передплачена сума",
+  "flight_v2_component_booking_title_payment_information": "Інформація про оплату",
+  "flight_v2_model_booking_checked_baggage": "Зареєстрований багаж (можна купити більше)",
+  "flight_v2_widget_booking_coupon_code": "Код купона",
+  "flight_v2_widget_booking_use_coins": "Використовуйте монети",
+  "flight_v2_component_booking_use_point": "Використовуйте бали",
+  "flight_v2_widget_booking_title_fare_details": "Детальна інформація про тариф",
+  "flight_v2_widget_confirm_title_contact_information": "Контактна інформація",
+  "flight_input_passenger_hint_birth_day": "Дата народження",
+  "flight_v2_widget_booking_membership_card_number": "Номер членського квитка",
+  "flight_passenger_view_baggage": "Багаж",
+  "flight_v2_dialog_message_exit_order": "Виконується бронювання авіаквитка. Якщо ви вийдете, ваше замовлення все одно буде збережено в '{cart}'. Ви можете оплатити це замовлення до '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Ваше бронювання авіаквитка не зроблено. Якщо ви вийдете, ваше замовлення все одно буде збережено в '{cart}'. Ви можете здійснити оплату, щоб завершити оформлення квитка",
+  "flight_v2_payment_back_from_payment": "Виконується бронювання авіаквитка. Ви не можете змінити інформацію про замовлення. Здійсніть платіж до '{time}', щоб завершити оформлення квитка.",
+  "flight_v2_payment_back_from_payment_no_hold": "Ваше бронювання авіаквитка не зроблено. Будь ласка, здійсніть платіж для завершення бронювання та оформлення квитка.",
+  "flight_price_detail_view_total_fare": "Загальна вартість проїзду",
+  "flight_price_detail_view_service_fee": "Плата за послуги",
+  "flight_price_detail_view_payment_fee": "Комісія за оплату",
+  "flight_v2_notification_baggage": "Ви вибрали {baggage}. Подробиці див. нижче.",
+  "flight_check_the_details": "Ви можете перевірити деталі нижче.",
+  "flight_order_detail_view_information_order": "Інформація про замовлення",
+  "flight_v2_search_code_no_reservation_yet": "Ще не заброньовано",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Примітка. Інформація про клієнта ще не заповнена",
+  "tour_booking_screen_update_information": "Оновити зараз",
+  "tour_booking_screen_textspan_note": "(Примітка: комісія за оплату)",
+  "tour_booking_loading_message": "Отримання інформації про замовлення, зачекайте трохи",
+  "tour_booking_last_name": "Прізвище",
+  "tour_booking_middle_and_first_name": "По батькові та ім’я",
+  "tour_booking_or_detail_phone_number": "Номер телефону",
+  "tour_booking_or_detail_address": "Адреса",
+  "tour_booking_province_city": "Провінція/місто",
+  "tour_booking_country": "Країна",
+  "tour_booking_title_booking_information": "Інформація про бронювання",
+  "tour_booking_bottom_detail_price_error": "Інформація про картку неправильна. Будь ласка, перевірте це ще раз.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Неможливо застосувати код купона",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Недійсний код купона",
+  "tour_booking_update_item_cart_action_message": "Закрити",
+  "tour_booking_update_item_cart_title": "Сповіщення",
+  "tour_booking_update_item_cart_msg_error_last": "Під час оновлення замовлення сталася помилка, спробуйте ще раз.",
+  "tour_booking_screen_payment_methods": "Варіант оплати",
+  "tour_booking_screen_accept": "Прийняти",
+  "tour_booking_screen_coupon_code": "Код купона",
+  "tour_booking_screen_insert_code": "Введіть код",
+  "tour_booking_screen_default_msgError": "Сталася помилка. Будь ласка спробуйте ще раз.",
+  "tour_booking_screen_on_failed_error_2008": "Розклад туру за вибраними вами місяцями зараз недоступний. Будь ласка, виберіть інший розклад туру.",
+  "tour_booking_screen_on_failed_error_2202": "Сторінка не опублікована або ви не вказали вік.",
+  "tour_booking_screen_on_failed_error_2301": "Тур недоступний.",
+  "tour_booking_screen_on_failed_error_2303": "Тур не належить до сторінки.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Термін бронювання закінчився.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Будь ласка, зв’яжіться з центром обслуговування клієнтів Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "тут",
+  "tour_booking_screen_content_apply_voucher_failed_help": "за допомогу.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Максимальна кількість монет, яку можна використати для цього замовлення.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Використовуйте",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} Монети",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "для оплати.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Відповідна",
+  "tour_booking_success_text_done": "Готово",
+  "tour_booking_success_header_booking_success": "Бронювання успішне",
+  "tour_booking_success_header_textspan_reservation_success": "Ваш запит на бронювання успішно виконано",
+  "tour_booking_success_header_textspan_paid": "(Оплачено).",
+  "tour_booking_success_header_textspan_itinerary_details": "Ви можете перевірити деталі маршруту нижче.",
+  "tour_booking_success_title_tour_information": "Інформація про тур",
+  "tour_booking_success_tour_information_tour_name": "Назва туру",
+  "tour_booking_success_tour_information_departure": "Від''їзд",
+  "tour_booking_success_tour_information_departure_date": "Дата відправлення",
+  "tour_booking_success_tour_information_end_date": "Дата закінчення",
+  "tour_booking_success_tour_information_Number_of_days": "Кількість днів",
+  "tour_booking_success_tour_information_passengers": "Кількість пасажирів",
+  "tour_booking_success_tour_information_detail_Passengers": "1 дорослий",
+  "tour_booking_success_title_contact_information": "Контактна інформація",
+  "tour_booking_success_contact_information_full_name": "Повне ім''я:",
+  "tour_booking_success_contact_information_email": "Електронна пошта:",
+  "tour_booking_success_contact_information_phone_number": "Номер телефону:",
+  "tour_booking_success_contact_information_address": "Адреса:",
+  "tour_booking_success_title_installment_information": "Інформація про розстрочку",
+  "tour_booking_success_installment_information_total_order_value": "Загальна вартість замовлення:",
+  "tour_booking_success_installment_information_prepaid_rate": "Вартість передоплати:",
+  "tour_booking_success_installment_information_prepayment_amount": "Сума передоплати:",
+  "tour_booking_success_installment_information_remaining_amount": "Залишковий баланс:",
+  "tour_booking_success_installment_information_conversion_information": "Комісія за перетворення інформації:",
+  "tour_booking_success_installment_information_banking_fee": "Комісія банку:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Процентна ставка розстрочки (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Розстрочка (місяць):",
+  "tour_booking_success_installment_information_total_amount": "Загальна сума платежу в розстрочку:",
+  "tour_booking_success_installment_information_payment_term": "Термін розстрочки (місяць):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} міс",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Сума щомісячного платежу:",
+  "tour_booking_success_installment_information_next_installment_period": "Тенор наступної частини",
+  "tour_booking_success_title_transaction_information": "Інформація про транзакцію",
+  "tour_booking_success_transaction_information_tour_id": "Тур ID:",
+  "tour_booking_success_transaction_information_booking_code": "Номер бронювання:",
+  "tour_booking_success_transaction_information_total_payment": "Загальна сума платежу:",
+  "tour_booking_success_transaction_information_payer": "Платник:",
+  "tour_booking_success_transaction_information_address": "Адреса:",
+  "tour_booking_success_transaction_information_content_billing": "Зміст платежу:",
+  "tour_booking_success_transaction_information_order_payment": "Оплата замовлення",
+  "tour_booking_success_transaction_information_order_advance": "Розстрочка передоплата",
+  "tour_booking_success_textspan_footer_thanks": "Дякуємо за довіру до служби Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Якщо у вас виникли запитання або потрібна додаткова допомога, зверніться до довідкового центру Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "для інструкцій.",
+  "tour_booking_success_bottomview_view_details": "Докладніше",
+  "tour_booking_success_bottomview_new_booking": "Книга нова",
+  "tour_booking_title_info_detail_tour": "Деталі туру",
+  "tour_booking_info_detail_tour_title_info_tour": "Інформація",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Назва туру",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Відкриття острова Фу Куі",
+  "tour_booking_or_detail_tour_id": "Тур ID",
+  "tour_booking_or_detail_tour_time": "Час",
+  "tour_booking_or_detail_departure_date": "Дата відправлення",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Дата закінчення",
+  "tour_booking_or_detail_tour_departure": "Від''їзд",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Пункт призначення",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Тип туру",
+  "tour_booking_info_detail_tour_info_tour_description": "Опис",
+  "tour_booking_info_detail_tour_title_table_price": "Прайс-лист туру",
+  "tour_booking_starttext_adult": "Дорослий",
+  "tour_booking_starttext_child": "Дитина",
+  "tour_booking_starttext_young_child": "Маленька дитина",
+  "tour_booking_starttext_baby": "Дитина",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Список частин",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Інформація про регулювання",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Приватні правила",
+  "tour_booking_info_detail_tour_title_installment_policy": "Розстрочка",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Загальна кількість",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Передплачена сума",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Платити",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "послуги",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "просування по службі",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Скористайтеся просуванням",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Використовуйте монети",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Загальна кількість",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Знижка включена при 100% передоплаті",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Вартість рекламної акції:",
+  "tour_booking_title_item_count_passenger": "Кількість пасажирів",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Понад {age} років",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} – {end_age} років",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Вік до {age} років",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Зверніться до за допомогою у введенні інформації про мандрівника",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Введіть інформацію про мандрівника",
+  "tour_booking_title_item_info_billing": "Інформація про платника",
+  "tour_booking_item_info_billing_use_contact_info": "Використовуйте контактну інформацію",
+  "tour_booking_title_item_info_contact_person": "Контактна інформація",
+  "tour_booking_title_item_method_payment": "Спосіб оплати",
+  "tour_booking_item_method_payment_text_full_payment": "100% оплата",
+  "tour_booking_item_method_payment_text_installment_payment": "Розстрочка оплати",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Ви отримуєте знижку {discount}%.",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Загальна сума до сплати вартості замовлення після знижки:",
+  "tour_booking_title_item_select_service": "Супроводжувальні послуги",
+  "tour_booking_item_select_service_add_service": "Додати послугу",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Ми надішлемо код підтвердження оплати замовлення в розстрочку в наступних строках електронною поштою:",
+  "tour_booking_pay_installment_check_email": "Будь ласка, перевірте свою електронну адресу.",
+  "tour_booking_pay_installment_number_installments_months": "Кількість місяців розстрочки",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Ставка розстрочки",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Ви повинні внести часткову передоплату вартості туру. Сума щомісячного платежу буде розрахована на основі непогашеного залишку після успішної передоплати.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Введіть бажаний відсоток передоплати",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Деталі розстрочки",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Ні.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Інформація",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Значення",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Вартість замовлення",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Тариф передоплати",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Вартість передоплати",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Залишковий баланс",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Комісія за перетворення інформації",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Комісія банківського платежу",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Процентна ставка (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Розстрочка відсотків",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Загальна сума розстрочки",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Термін розстрочки (місяць)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Тенор наступної частини",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Сума щомісячного платежу",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} міс",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Розстрочка",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Деталі плану розстрочки",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Супроводжувальні послуги",
+  "tour_booking_item_service_init_service_number_of_travelers": "Кількість пасажирів",
+  "tour_booking_group_months_installment_label": "{month} міс",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Мрії про подорожі",
+  "tour_detail_text_number_people_haha_page": "1 839 017 людей Haha ця сторінка",
+  "tour_detail_screen_theme_text_indochina_discovery": "Відкриття Індокитаю: узбережжя та вулична їжа",
+  "tour_detail_text_installment_tour": "ТУР В РОЗШИРКУ",
+  "tour_detail_text_view_details": "Докладніше",
+  "tour_detail_number_promotions": "{promotions} Акції",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "доступний",
+  "tour_detail_tab_info": "Інформація",
+  "tour_detail_tab_tour_parts": "Деталі маршруту",
+  "tour_detail_tab_promotion": "просування по службі",
+  "tour_detail_tab_privacy_policy": "Політика конфіденційності",
+  "tour_detail_tab_separate_regulations": "Приватні правила",
+  "tour_detail_tab_contact": "Контакти",
+  "tour_detail_view_tab_installment": "Розстрочка",
+  "tour_detail_text_only_from": "Тільки від",
+  "tour_detail_view_emptyTitle": "Екскурсія більше недоступна",
+  "tour_detail_text_change_date": "Змінити дату",
+  "tour_detail_text_book_now": "Резервувати зараз",
+  "tour_detail_view_action_menu_time_line": "Хронологія",
+  "tour_detail_view_action_menu_tour_List": "Список турів",
+  "tour_detail_view_action_menu_introduction": "Вступ",
+  "tour_detail_view_action_menu_promotion": "просування по службі",
+  "tour_detail_view_action_menu_appraise": "Відгуки",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} людей Haha ця сторінка",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Розклад туру за вибраними вами місяцями зараз недоступний.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Будь ласка, виберіть інший розклад туру.",
+  "tour_detail_choose_schedule_title": "Виберіть розклад",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Розклад відправлення",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Розклад відправлення недоступний",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Дата відправлення: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Від",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "З міста {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Кінець",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "До {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "просування по службі",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Ціна",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Резервувати зараз",
+  "tour_detail_contact_infor_view_empty_title": "Контактна інформація оновлюється",
+  "tour_detail_contact_infor_view_company_name": "Назва компанії",
+  "tour_detail_infor_view_text_starting_from": "Почніть з",
+  "tour_detail_infor_view_text_ends_at": "Закінчення о",
+  "tour_detail_infor_view_tour_type_domestic": "Внутрішній тур",
+  "tour_detail_infor_view_tour_type_international": "Міжнародний тур",
+  "tour_detail_infor_view_tour_text_info": "Інформація",
+  "tour_detail_infor_view_tour_time_details": "{days} днів",
+  "tour_detail_infor_view_tour_types": "Тип",
+  "tour_detail_infor_view_tour_service": "Туристичні послуги",
+  "tour_detail_emptyTitle_no_data_found": "Даних не знайдено",
+  "tour_detail_promotion_view_empty_title": "Немає доступних акцій",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Рівні просування {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "Знижка {price}%.",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} знижка",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Мінімальна вартість замовлення: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Мінімальна кількість дорослих: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Назад",
+  "tour_detail_shimmer_loading_message": "... люди Haha ця сторінка",
+  "tour_hand_note_tabs_verify_sent_to_email": "Ми надіслали вам код підтвердження на адресу pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Ціна",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Відмінити замовлення",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Ви хочете виконати цю дію?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Підтвердьте",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Скасувати",
+  "tour_hand_note_footer_action_total_amount": "Загальна кількість",
+  "tour_hand_note_footer_action_pay": "Платити",
+  "tour_hand_note_order_payment_view_order_id": "Код замовлення",
+  "tour_hand_note_order_payment_view_paid": "Оплачено",
+  "tour_hand_note_order_payment_view_total_price": "Загальна сума",
+  "tour_hand_note_order_payment_view_remaining_amount": "Залишковий баланс",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Термін розстрочки",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Місяць: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Сума розстрочки",
+  "tour_hand_note_order_payment_view_next_installment_period": "Тенор наступної частини",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Повна оплата",
+  "tour_handnote_banner_waring_input_verify_error": "Під час перевірки сталася помилка. Будь ласка, спробуйте ще раз або торкніться ",
+  "tour_lockup_empty_title": "Інформації про тур не знайдено",
+  "tour_lockup_title_info": "Інформація про тур",
+  "tour_lockup_form_search_hind_text_enter_promo": "Введіть промокод",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} днів} other{{days} днів}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "всі",
+  "tour_handnote_tab_awaiting": "В очікуванні підтвердження",
+  "tour_handnote_tab_awaiting_fulfilment": "В очікуванні Виконання",
+  "tour_handnote_tab_ongoing": "Триває",
+  "tour_handnote_tab_completed": "Завершено",
+  "tour_handnote_tab_canceled": "Скасовано",
+  "tour_detail_page_programs_detail": "Деталі програми",
+  "tour_detail_page_passenger_title": "Замовник",
+  "tour_detail_info_guest_edit_title": "Редагувати",
+  "tour_detail_info_guest_update_title": "Оновлення",
+  "tab_tour_detail_order_cancel_order": "Відмінити замовлення",
+  "tab_tour_detail_order_cancel_order_confirm": "Ви хочете виконати цю дію?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Підтвердьте",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Скасувати",
+  "tab_tour_detail_order_waiting_confirmation": "В очікуванні підтвердження",
+  "tab_tour_detail_order_code_order_tour_title": "Номер бронювання",
+  "tour_detail_stage_view_title": "Частина {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Для оплати застосовані монети. Подробиці дивіться нижче",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Код купона застосовано до платежу. Подробиці дивіться нижче",
+  "tour_hand_note_banner_warning_update_success": "Інформація про клієнта заповнена",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Інформація про оплату",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Оплачено",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Акція щодо скасування туру\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Використовуйте монети ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Комісія за скасування {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Приблизна сума повернення",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Час повернення коштів (з дати скасування): 5-7 днів (для платіжних шлюзів Alepay і Payme) або 7-15 днів (для платіжних шлюзів Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Причина скасування:",
+  "tour_booking_validation_province_or_city_is_required": "Укажіть провінцію/місто",
+  "tour_booking_screen_on_failed_error_2801": "Вам потрібно забронювати тур за {numberDay} днів до дати відправлення. Будь ласка, виберіть іншу дату відправлення.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Вибраний вами час відправлення туру коротший або довший відповідно до нашої політики. Будь ласка, виберіть тур із відповідним часом відправлення.",
+  "tour_booking_bottom_view_error": "Будь ласка, заповніть інформацію про мандрівника або зверніться до підтримки Hahalolo, щоб пізніше ввести інформацію про мандрівника.",
+  "tour_booking_on_start_payment_message": "На жаль, вибрана вами дата відправлення розпродана. Будь ласка, виберіть іншу дату відправлення.",
+  "tour_detail_text_full_load": "Продано",
+  "tour_cancel_order_info_reason_cancel": "Введіть причину скасування.",
+  "tour_cancel_order_info_validate_reason_cancel": "Необхідно вказати причину скасування",
+  "tour_cancel_order_info_refound_invalid_card": "Необхідний номер рахунку",
+  "tour_cancel_bank_name_required": "Укажіть назву банку",
+  "tour_cancel_bank_wrong_format": "Неправильний формат назви банку",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo поверне вам кошти на основі даних банківського рахунку, які ви введете нижче)",
+  "tour_cancel_enter_bank_name": "Введіть назву банку",
+  "tour_cancel_cancel_order_success": "Ваше замовлення успішно скасовано.",
+  "tour_bank_identifier_required": "Потрібен код SWIFT",
+  "tour_detail_title_select_departure_month": "Виберіть місяць відправлення",
+  "tour_detail_title_upcoming_departure_schedule": "Найближчий графік відправлення",
+  "tour_detail_schedule_title_departure": "Від''їзд",
+  "tour_detail_schedule_title_destination": "Пункт призначення",
+  "tour_booking_fail_payment_price_change": "Ціна туру змінена з {oldPay} на {newPay}. Ви бажаєте продовжити платіж?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Ціна туру змінена з {oldPay} на {newPay}, і вам потрібно сплатити {payAmount} наперед. Ви бажаєте продовжити платіж?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Суму передоплати змінено з {oldPay} на {newPay}. Ви бажаєте продовжити платіж?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Сума, що застосовується з монет, змінилася з {oldPay} на {newPay}. Ви бажаєте продовжити платіж?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Використовуйте бали",
+  "tour_booking_screen_have_apply_points": "До оплати нараховано бали. Подробиці див. нижче.",
+  "tour_booking_warning_promotion": "Ваш тур зарезервований, і інформація про замовлення не може бути змінена. Будь ласка, зробіть платіж, щоб завершити бронювання туру.",
+  "tour_booking_warning_back_text_normal": "Ваше замовлення зарезервовано. Якщо ви вийдете, ваше замовлення все одно буде збережено",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Вийти з замовлення",
+  "tour_booking_warning_back_when_hold_ticket_card": "Ваш кошик.",
+  "tour_booking_warning_back_exit": "Вийти",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Замовлення пройшло через платіжний шлюз. Код купона не можна скасувати.",
+  "tour_booking_point_not_available": "Очки недоступні",
+  "tour_payment_voucher_exit_dialog_title": "Платіж не вдалося",
+  "tour_total_point_change": "Ваші доступні бали змінилися. Будь ласка, введіть кількість балів, щоб подати заявку на замовлення.",
+  "tour_hand_note_text_tour": "Тур",
+  "tour_hand_note_text_amount_installment_payment": "Сума платежу в розстрочку",
+  "tour_detail_tour_has_no_available_schedule": "Немає доступних розкладів для цього туру",
+  "tour_detail_promotion_view_time_application": "Застосовний період:",
+  "tour_detail_promotion_view_up_to_off_title": "Аж до",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% знижки",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Знайдіть номер бронювання",
+  "tour_you_can_sure_cancel_order": "Ви впевнені, що бажаєте скасувати це замовлення?",
+  "tour_detail_contact_title": "Ми доступні 24/7! Якщо у вас виникли запитання щодо цієї послуги, зв’яжіться з нами, використовуючи інформацію нижче. Ми відповімо протягом 2 годин!",
+  "tour_detail_rate_title_schedule": "Pозклад",
+  "tour_detail_rate_title_meal": "Харчування",
+  "tour_detail_review_there_are_no_reviews_yet": "Ще немає відгуків",
+  "tour_search_suggest_location_title": "Найпопулярніші напрямки",
+  "tour_detail_rate_title_property": "Власність",
+  "tour_detail_rate_title_tour_guide": "Туристичний путівник",
+  "tour_detail_rate_title_vehicle": "Транспортний засіб",
+  "tour_detail_choose_schedule_remain_slot": "Залишилося лише стільки місць: {slot}",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Дата",
+  "tour_detail_contact_text_hotline": "Гаряча лінія",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Відгуки",
+  "tour_search_place_suggestion_title": "Виберіть пункт призначення",
+  "tour_search_place_suggestion_hint_text": "Введіть відправлення...",
+  "tour_review_title_feedback": "Перегляньте свій досвід подорожі",
+  "tour_review_title_content": "Загальна оцінка поїздки",
+  "tour_review_title_see_review": "Перегляньте свій огляд подорожі",
+  "tour_review_schedule": "розклад",
+  "tour_review_meal": "Харчування",
+  "tour_review_accommodation": "Власність",
+  "tour_review_tour_guide": "Туристичний путівник",
+  "tour_review_vehicle": "транспортний засіб",
+  "tour_booking_screen_text_accept": "Погодьтеся",
+  "tour_lockup_up_tour_header_text": "Введіть номер бронювання, щоб переглянути інформацію про бронювання",
+  "banner_warning_installment_noti": "Ви досягнете наступного терміну платежу. Термін платежу {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Розширити",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Код купона не застосовано",
+  "voucher_search_on_select_voucher_fail": "Помилка незастосованого коду купона. Будь-ласка спробуйте пізніше.",
+  "voucher_search_coupon_code_incorrect": "Неправильний код купона",
+  "voucher_search_check_or_contact_cskh": "Перевірте ще раз або зв’яжіться з нашим центром обслуговування клієнтів",
+  "voucher_widget_item_voucher_discount": "Знижка: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "காТермін дії закінчується: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Термін придатності:",
+  "voucher_widget_item_voucher_info_detail_text_code": "код:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Акція:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Хвороба:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Застосовуйте до продуктів Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Обмежте один на одного клієнта.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Для замовлень від {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Продукти, що застосовуються до:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} вимкнено",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Максимальна знижка:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Ви врятували",
+  "voucher_apply_voucher_widget_order_from_discount": "на це замовлення з кодом купона",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Ваш рейс ще не заброньовано. Будь ласка, завершіть оплату, щоб зарезервувати та оформити квиток.",
+  "cart_screen_main_title": "Ваш кошик",
+  "cart_screen_main_tour_title": "Бронювання туру",
+  "cart_screen_main_flight_title": "політ",
+  "cart_screen_main_car_title": "Бронювання автомобіля",
+  "cart_screen_main_tour_title_1": "Бронювання туру (1)",
+  "cart_screen_main_flight_title_1": "політ (1)",
+  "cart_screen_main_car_title_1": "Бронювання автомобіля (1)",
+  "cart_screen_domestic_flight_num_passenger": "Кількість пасажирів",
+  "cart_screen_domestic_flight_subtotal": "Проміжний підсумок",
+  "cart_screen_domestic_flight_note": "Ваше бронювання авіаквитка зроблено. Будь ласка, зробіть платіж, щоб завершити оформлення квитка.",
+  "cart_screen_empty": "У вашому кошику немає товарів",
+  "cart_screen_empty_order_now": "Шукайте та бронюйте зараз!",
+  "cart_screen_car_delete_order": "Видалити замовлення",
+  "cart_screen_car_delete_order_confirm": "Ви бажаєте видалити це замовлення?",
+  "cart_screen_tour_schedule_title": "розклад",
+  "cart_screen_tour_type_title": "Тип туру",
+  "cart_tour_type_domestic": "Вітчизняний",
+  "cart_tour_type_international": "Міжнародний",
+  "cart_screen_tour_num_day_num_night": "{day} днів, {night} ночей",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Кількість пасажирів",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Використовуйте бали",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Місяць {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Під час перевірки сталася помилка. Повторіть спробу або торкніться \"Повторно надіслати код підтвердження\", щоб отримати новий код на {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Повторно надіслати код підтвердження",
+  "hand_note_input_verify": "Ми надіслали код підтвердження на адресу {email}. Введіть код, який ви отримали, щоб завершити цей крок",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Введіть код",
+  "hand_note_tour_detail_body_tour_info_title": "Інформація про тур",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Час розраховується за часовим поясом В''єтнаму)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Всього днів",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Кількість подорожуючих",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Політика скасування",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Графік безкоштовного скасування базується на часовому поясі бронювання туру та політиці Постачальника щодо скасування туру",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "У разі скасування туру з вас буде стягнуто наступну плату за скасування:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} днів до дати відправлення",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Безкоштовне скасування",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Комісія за скасування {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Акція на 100% оплату",
+  "hand_note_install_policy": "Розстрочка",
+  "hand_note_title_status_payment_failure": "Не вдалося",
+  "hand_process_extension": "Постійне розширення",
+  "hand_in_installment": "Активний",
+  "hand_installment_completed": "Виконано",
+  "hand_note_adults": "дорослі",
+  "hand_note_children": "діти",
+  "hand_note_baby": "Маленькі діти",
+  "hand_note_infant": "немовлята",
+  "hand_note_tour_service_price": "Вартість послуги",
+  "hand_note_total_price": "Загальна сума",
+  "hand_note_prepaid": "Передоплата",
+  "hand_note_remaining": "Залишковий баланс",
+  "hand_installment_status": "Статус розстрочки",
+  "hand_note_installment_payment_count_month_payment": "Кількість місяців розстрочки",
+  "hand_note_installment_payment_count_month_payment_num": "{month} місяців",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Інформація про розстрочку",
+  "hand_note_information_detail_total_value_title": "Всього замовлення",
+  "hand_note_information_detail_prepayment_amount_title": "Сума передоплати ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Загальна сума внеску",
+  "hand_note_information_detail_installment_tenor_title": "Тенор розстрочки",
+  "hand_note_information_detail_information_conversion_fee_title": "Плата за конвертацію інформації",
+  "hand_note_information_detail_bank_fee_title": "Банківська комісія",
+  "hand_note_information_detail_installment_interest_title": "Розстрочка відсотків",
+  "hand_note_information_detail_monthly_installment_amount_title": "Розмір місячного внеску",
+  "hand_note_information_detail_next_due_date_title": "Тенор наступного внеску",
+  "hand_note_installment": "Розстрочка",
+  "hand_note_postpaid": "Післяплата",
+  "hand_note_installment_history_title": "Історія платежів",
+  "hand_note_payment_installment_title": "Розстрочка оплати",
+  "hand_note_the_month_current_installment": "Місяць: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Перший внесок",
+  "hand_note_remaining_balance_title": "Залишковий баланс",
+  "hand_note_extension_info": "Інформація про розширення",
+  "hand_note_price_extension": "Розширена сума",
+  "hand_note_month_paid": "Оплачено {month} місяців",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "Залишилося {month} місяців",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Оновіть свою інформацію",
+  "hand_note_invalid_full_name": "Недійсний формат повного імені",
+  "hand_note_must_enter_full_name": "Ви повинні ввести своє повне ім''я",
+  "hand_note_adults_num": "Інформація для дорослих {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Інформація про дитину {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Інформація про дитину {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Інформація про маленьку дитину {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(Понад {age} років)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Від {ageFrom} до {ageTo} років)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "and_note_under_x_years_old": "(До {age} років)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} дн",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Частина: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Оновіть інформацію про мандрівника",
+  "hand_note_hotel_reservation_detail_title": "Деталі бронювання",
+  "hand_note_tour_installment_title": "Тур в розстрочку",
+  "hand_note_tour_extensions_payment_title": "Розширення платежу",
+  "hand_note_installment_period": "Тенор розстрочки",
+  "hand_note_installment_amount": "Сума розстрочки",
+  "hand_note_recommend_adjourn": "Запит на продовження",
+  "hand_note_number_extension": "Кількість днів продовження",
+  "hand_note_new_installment": "Нова дата платежу",
+  "hand_note_adjourn_notice": "Для кожного терміну платежу ви маєте лише один раз отримати відстрочку платежу на {day} дн. Якщо термін нового платежу закінчився, а поточний платіж не було здійснено, ваш тур буде скасовано.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Виправдання несвоєчасної оплати",
+  "hand_note_extension_successful": "Розширення успішне",
+  "hand_note_part_due_note": "Замовлення прострочено. Будь ласка, зверніться до нашого Центру обслуговування клієнтів.",
+  "hand_note_notify_error_extension": "Сталась помилка. Будь ласка спробуйте ще раз.",
+  "hand_note_dialog_input_verify_1": "Ми надіслали код підтвердження на адресу",
+  "hand_note_dialog_input_verify_2": "Введіть код, який ви отримали, щоб завершити цей крок.",
+  "hand_note_verify_input_code_hint": "Введіть код підтвердження",
+  "hand_note_title_hotel_order": "Замовлення на бронювання готелів",
+  "hand_note_title_apply_coin": "Використовуйте монети",
+  "hand_note_request_resent_code_confirm_must_1": "Зачекайте хвилину, перш ніж запитувати повторне надсилання коду підтвердження.",
+  "hand_note_request_resent_code_confirm_must_2": "Вам слід зачекати 5 хвилин, перш ніж запитувати повторне надсилання коду підтвердження.",
+  "hand_note_request_resent_code_confirm_must_3": "Вам слід зачекати день, перш ніж запитувати повторне надсилання коду підтвердження.",
+  "hand_note_request_resent_code_confirm_must_4": "Вам слід зачекати 9 хвилин, перш ніж запитувати повторне надсилання коду підтвердження.",
+  "hand_note_request_resent_code_confirm_must_5": "Під час надсилання коду підтвердження сталася помилка. Будь ласка спробуйте ще раз.",
+  "hand_note_history_new_order_created": "Нове замовлення створено",
+  "hand_note_history_change_customer_information": "Змінено інформацію про пасажира",
+  "hand_note_history_cancellation_of_passengers": "Скасований пасажир",
+  "hand_note_history_change_flights": "Змінив рейс",
+  "hand_note_history_cancel_the_flight": "Скасований рейс",
+  "fare_rule_toolbar_title": "Умови оплати проїзду",
+  "hand_note_detail_activity_history": "Історія активності:",
+  "hand_note_coin_refund_amount": "Очікувані монети повернення",
+  "hand_note_tour_title": "Тур",
+  "hand_note_hotel_title": "Готель",
+  "hand_note_flight_title": "політ",
+  "hand_note_car_title": "Прокат автомобілів",
+  "hand_note_title": "Нотатки",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Недійсний номер кредитної картки",
+  "payment_error_card_has_expired": "Термін дії картки закінчився",
+  "payment_error_card_has_expired_year": "Термін дії картки закінчився цього року",
+  "payment_error_card_date_must_only_number": "У датах має бути лише цифра",
+  "payment_error_card_date_is_3_digits": "Рік придатності складається з 3 цифр",
+  "payment_error_card_date_is_4_digits": "Рік придатності більше 4 цифр",
+  "payment_error_card_date_only_number_in_date": "У датах має бути лише цифра",
+  "payment_card_date_expired": "Термін придатності",
+  "payment_payme": "Гаманець Payme",
+  "payment_domestic": "Картка ATM або iBanking місцевих банків (у В’єтнамі)",
+  "payment_stripe": "Міжнародна платіжна картка (Visa/MasterCard)",
+  "payment_card_number_empty": "Необхідно вказати номер картки",
+  "payment_card_day_exit": "Необхідно вказати термін придатності",
+  "payment_ccv_empty": "Необхідно ввести код CVV",
+  "payment_error_secure_long": "Неправильний код безпеки",
+  "payment_error_secure_shorted": "Код безпеки закороткий для цього типу картки",
+  "payment_error_secure_alphabet": "Символи алфавіту не допускаються",
+  "payment_error_no_secure": "Код безпеки не надано",
+  "payment_error_no_card_number": "Не вводиться або містить нечислові символи",
+  "payment_error_connect_title": "Помилка з''єднання",
+  "payment_error_connect_message": "Ваше мережеве з’єднання нестабільне. Перевірте з’єднання на своєму пристрої ще раз",
+  "payment_error_not_load_title": "Помилка завантаження сторінки",
+  "payment_error_not_load_message": "Сталася помилка під час підключення до сторінки оформлення замовлення.",
+  "payment_error_card_number_lenght": "Номер картки має бути більше 19 цифр",
+  "payment_error_no_date": "Дата не введена",
+  "payment_error_invalid_date": "Недійсний формат дати або недійсна дата",
+  "payment_error_invalid_year": "У даті та місяці дозволено використовувати лише числа",
+  "payment_error_invalid_ccv": "Недійсний CVV",
+  "payment_error_invalid_card_holder": "Недійсний власник картки",
+  "payment_alert_select_payment_method_null": "Виберіть платіжний шлюз",
+  "payment_alert_card_information_incorrect": "Інформація про картку невірна. Будь ласка, перевірте ще раз",
+  "payment_alert_dialog_title": "Сповіщення",
+  "payment_alert_message_dialog_message": "Будь ласка, не закривайте та не виходьте з програми під час процесу оформлення замовлення, щоб забезпечити успішний платіж.",
+  "payment_alert_dialog_message_payment_error": "Під час обробки вашого платежу сталася помилка. Будь ласка, перевірте ще раз.",
+  "payment_hint_text_country": "Країна...",
+  "payment_hint_text_province": "Місто-держава...",
+  "payment_show_message_dialog_title": "Сповіщення",
+  "payment_show_message_dialog_message": "Бажаєте вийти з платежу?",
+  "payment_show_message_dialog_negative": "Скасувати",
+  "payment_show_message_dialog_action": "В порядку",
+  "payment_bank_page_title": "Для безперебійного процесу оплати не закривайте програму до успішного здійснення платежу!",
+  "payment_error_expired_date": "Термін дії вашої картки закінчився",
+  "payment_coin_not_available": "Монети недоступні. Перевірте та повторіть спробу.",
+  "payment_point_not_available": "Очки недоступні. Перевірте та повторіть спробу.",
+  "payment_voucher_not_available": "Код купона недоступний. Перевірте та повторіть спробу.",
+  "payment_fee_change_total_order": "Загальна сума замовлення змінилася з",
+  "payment_fee_change_to": "до",
+  "payment_fee_change_choose_voucher_point_coint": "Будь ласка, повторно виберіть код купона/монети/бали, якщо доступно.",
+  "payment_halo_wallet": "Платіжний рахунок Hahalolo",
+  "payment_available_balance": "Доступний залишок:",
+  "payment_card_holder_name": "Ім''я власника картки",
+  "payment_card_cvv_cvc_name": "Код CVV/CVC",
+  "payment_card_number": "Номер картки",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Подібні властивості",
+  "hotel_detail_hotel_images": "Зображення готелів",
+  "hotel_detail_reviews_latest": "Останній",
+  "hotel_detail_reviews_oldest": "Найстаріший",
+  "hotel_detail_reviews_highest": "Найвищий бал",
+  "hotel_detail_reviews_lowest": "Найнижчий бал",
+  "hotel_detail_review_sort_by": "Сортувати за",
+  "hotel_detail_reviews": "огляд",
+  "hotel_detail_rate_location": "Місцезнаходження",
+  "hotel_detail_rate_price": "Ціна",
+  "hotel_detail_rate_cleanliness": "Чистота",
+  "hotel_detail_rate_service": "Сервіс",
+  "hotel_detail_rate_facilities": "Зручності",
+  "hotel_detail_one_user_review": "1 відгук",
+  "hotel_detail_x_user_reviews": "{x} відгуків",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Бронювання не вдалося",
+  "hotel_detail_please_fill_ci_co_date": "Будь ласка, введіть дати заїзду та виїзду",
+  "hotel_detail_allow_pet_contact_hotel": "Допускається розміщення з домашніми тваринами. Щоб дізнатися правила розміщення домашніх тварин, звяжіться безпосередньо з адміністрацією закладу.",
+  "hotel_detail_allow_pet_and_x_fee": "Допускається розміщення з домашніми тваринами. Плата за домашню тварину: {x} (плата за домашню тварину оплачується в готелі).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "БЕЗКОШТОВНЕ скасування",
+  "hotel_detail_cancellation_with_refund": "Скасування стягується",
+  "hotel_detail_cancellation_without_refund": "Скасування без повернення коштів",
+  "hotel_detail_cancel_non_refund": "Ви не отримаєте відшкодування або сплачену суму після скасування.",
+  "hotel_detail_breakfast_served": "Сніданок надається",
+  "hotel_detail_lunch_served": "Обід надається",
+  "hotel_detail_dinner_served": "Вечеря забезпечена",
+  "hotel_detail_smoking_allow": "Куріння дозволено",
+  "hotel_detail_smoking_not_allow": "Куріння заборонено",
+  "hotel_detail_contact_hotel": "Звязатися з готелем",
+  "hotel_detail_book_first_pay_later": "Бронюй зараз, плати пізніше",
+  "hotel_detail_policy": "політики",
+  "hotel_detail_choose_the_bed_arrangement": "Виберіть шафу для ліжка",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Скасування, здійснене до {x} {y}: отримайте відшкодування {z}% вартості номера за першу ніч.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Обслуговування номерів",
+  "hotel_detail_amenities": "Зручності",
+  "hotel_detail_general_rules": "Правила дому",
+  "hotel_detail_change_reservation": "Змінити бронювання",
+  "hotel_detail_services_and_facilities": "Зручності та послуги",
+  "hotel_detail_x_room_and_y_night": "{x} кімната/{y} ніч",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} кімнат/{y} ночей",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 кімната/{x} ночей",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} кімнат/1 ніч",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 кімната/1 ніч",
+  "hotel_detail_x_rooms_and_y_adults": "{x} кімнат - {y} гостей",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 кімната - {x} гостей",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 кімната - 1 гість",
+  "hotel_detail_child_count": "1 дитина",
+  "hotel_detail_x_children": "{x} дітей",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Деталі кімнати",
+  "hotel_detail_room_policy_and_conditions": "Умови та політика",
+  "hotel_detail_person_count": "1 гість",
+  "hotel_detail_x_people": "{x} гостей",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} від центру",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} від місця пошуку",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "У центрі міста",
+  "hotel_detail_check_in": "Перевірь",
+  "hotel_detail_check_out": "Перевірити",
+  "hotel_detail_cancelation_policy": "Скасування",
+  "hotel_detail_child_policy": "діти",
+  "hotel_detail_pet_policy": "Домашні тварини",
+  "hotel_detail_check_in_x": "Після {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Перед {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Залишився лише 1",
+  "hotel_detail_only_x_room": "Залишилося лише {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Допускаються діти віком від {range}.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Допускається розміщення з домашніми тваринами. Плата за розміщення з тваринами оплачується в готелі.",
+  "hotel_detail_pet_policy_do_not_allow": "Домашні тварини не допускаються.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Скасування за {x} годин до часу заїзду: отримайте відшкодування {y}% від вартості номера за першу ніч.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Скасування за {x} годин до часу заїзду: отримайте відшкодування {y}% від вартості номера за всі ночі.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Безкоштовне скасування до {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Забронювати 1 кімнату",
+  "hotel_detail_book_x_room": "Забронюйте {x} кімнат",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Найкраща ціна",
+  "hotel_detail_bed": "1 ліжко",
+  "hotel_detail_x_beds": "{x} ліжок",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Лише сьогодні знижка {x}%.",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Виберіть кімнату",
+  "hotel_detail_has_x_room_types": "(Доступно {x} типів номерів",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Всього 1 номер доступний)",
+  "hotel_detail_children_policy_do_not_allow": "У готелі не діє порядок розміщення дітей. Діти не враховуватимуться в кількості пошуків. Будь ласка, звяжіться з адміністрацією готелю, якщо супроводжують дітей.",
+  "hotel_detail_children_policy_range_allow": "Політика готелю щодо дітей дозволяється дітям віком від {range}. Щоб отримати інформацію про політику та правила готелю, зверніться до розділу правил внутрішнього розпорядку готелю або зв’яжіться з адміністрацією готелю для отримання додаткової інформації.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Інформація про номер",
+  "hotel_detail_x_fee_person_and_day": "{x}/гість/день",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/автомобіль/день",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Сніданок",
+  "hotel_detail_lunch": "обід",
+  "hotel_detail_dinner": "Вечеря",
+  "hotel_detail_smoking": "Тютюн",
+  "hotel_detail_parking": "Паркінг",
+  "hotel_detail_local_time": "(Місцевий час)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Скасування, здійснене до {x} {y}: отримайте відшкодування {z}% від вартості номера за всі ночі.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Скасування до {x} {y}: отримайте відшкодування в розмірі {z} вартості номера.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Угоди",
+  "hotel_detail_free_breakfast": "Безкоштовний сніданок",
+  "hotel_detail_free_lunch": "Безкоштовний обід",
+  "hotel_detail_free_dinner": "Безкоштовна вечеря",
+  "hotel_detail_allow_smoking": "Куріння дозволено",
+  "hotel_detail_free_parking": "Безкоштовна парковка",
+  "hotel_detail_room_not_found": "Номерів не знайдено!",
+  "hotel_detail_no_result": "Ми не змогли знайти жодного результату, який відповідає вашому пошуку. Будь ласка спробуйте ще раз.",
+  "hotel_detail_similar_hotels_title": "Подібні властивості",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Замовлення не підлягає оплаті",
+  "hotel_booking_dialog_qualified_orders": "Замовлення прийнятне із загальною сумою",
+  "hotel_booking_dialog_coupon_code_coins_points": "Ви можете змінити код купона, монети або бали, щоб отримати право на оплату",
+  "hotel_booking_dialog_or_minimum": "або мінімум",
+  "hotel_booking_widget_dialog_cannot_used_information": "На даний момент ця інформація не може бути використана. Скористайтеся іншим або збережіть новий.",
+  "hotel_booking_component_applied_points_successfully": "Ви успішно застосували бали",
+  "hotel_booking_use_point": "Використовуйте бали",
+  "hotel_booking_point_switch_on_hint": "Вимкніть використання балів, щоб скасувати застосування балів для цього замовлення",
+  "hotel_booking_point_switch_off_hint": "Увімкніть використання балів, щоб ввести кількість балів, яку ви будете використовувати для цього замовлення",
+  "hotel_booking_point_user_point": "Доступні бали",
+  "hotel_booking_point_available_point": "Доступні до замовлень",
+  "hotel_booking_point_user_want_to_use_hint": "Кількість балів, яку ви хочете використати",
+  "hotel_booking_point_equivalent_to": "Дорівнює",
+  "hotel_booking_point_press": "Прес",
+  "hotel_booking_point_apply": "Застосувати",
+  "hotel_booking_point_apply_for_payment": "застосувати суму до виплати",
+  "hotel_booking_points_apply_hint": "Сума буде використана для оплати цього замовлення.",
+  "hotel_booking_payment_3001_error": "Картка не підтримується. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3002_error": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3003_error": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3004_error": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3005_error": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3006_error": "Термін дії картки закінчився. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3007_error": "Недійсний код CVC. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3008_error": "Недійсний номер картки. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3009_error": "Ця валюта не підтримується. Будь ласка спробуйте ще раз.",
+  "hotel_booking_payment_3010_error": "Під час процесу оплати сталася помилка. Будь ласка спробуйте ще раз.",
+  "hotel_booking_modify_coin_applied": "До оплати застосовано монети. Перегляньте деталі в розділі Total.",
+  "hotel_booking_modify_voucher_applied": "До оплати застосовано монети. Перегляньте деталі в розділі Total.",
+  "hotel_booking_modify_point_applied": "До оплати нараховано бали. Перегляньте деталі в розділі Total.",
+  "hotel_booking_modify_point_canceled": "Застосування балів до оплати за це замовлення скасовано.",
+  "hotel_booking_modify_4006_error": "Ваучер недоступний",
+  "hotel_booking_modify_4007_error": "Ваучер зберігся",
+  "hotel_booking_modify_4008_error": "Замовлення не відповідає вимогам для коду купона. Перевірте та повторіть спробу.",
+  "hotel_booking_modify_2004_error": "Не вдалося застосувати",
+  "hotel_booking_pay_1005_error": "Невірне значення",
+  "hotel_booking_pay_2002_error": "Замовлень не знайдено",
+  "hotel_booking_pay_2004_error": "Платіж не вдалося",
+  "hotel_booking_pay_6002_error": "Неправильна інформація картки",
+  "hotel_booking_pay_6003_error": "Картка не приймається",
+  "hotel_booking_pay_6004_error": "Помилка створення замовлення",
+  "hotel_booking_pay_6005_error": "Помилка бронювання TVP",
+  "hotel_booking_required_city": "Необхідно вказати місто",
+  "hotel_booking_sub_bed": "Додаткове ліжко",
+  "hotel_booking_information": "Інформація про бронювання",
+  "hotel_booking_room_information": "Інформація про номер",
+  "hotel_booking_room_hotel": "Готель",
+  "hotel_booking_x_nights": "{x} ночей",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 ніч",
+  "hotel_booking_change": "Зміна",
+  "hotel_booking_user_contact": "Контактна інформація",
+  "hotel_bookng_without_tone_marks": "(без тонових позначок)",
+  "hotel_booking_first_name": "Ім''я",
+  "hotel_booking_last_name": "Прізвище",
+  "hotel_booking_middle_name": "По батькові",
+  "hotel_booking_given_name": "По батькові та ім''я",
+  "hotel_booking_phone_number": "Телефонний номер",
+  "hotel_booking_email": "Електронна пошта",
+  "hotel_booking_country": "Країна",
+  "hotel_booking_im_a_guest": "Я гість",
+  "hotel_booking_guest_information": "Інформація про гостей",
+  "hotel_booking_fill_contact_information": "Введіть свою контактну інформацію або контактну інформацію особи, відповідальної за підтримку зв’язку з постачальником послуг розміщення.",
+  "hotel_booking_name_as_in_passport": "П.І.Б., зазначене в ID-картці/паспорті",
+  "hotel_booking_payments": "Варіанти оплати",
+  "hotel_booking_prepay": "Платити зараз",
+  "hotel_booking_postpaid": "Оплатіть пізніше",
+  "hotel_booking_prepay_description": "Hahalolo допоможе обробити ваш платіж. Ви сплатите повну суму сьогодні після завершення бронювання.",
+  "hotel_booking_postpaid_description": "Адміністрація готелю обробить ваш платіж. Залежно від умов бронювання, ви можете оплатити частково або повністю в готелі.",
+  "hotel_booking_bill_information": "Інформація про оплату",
+  "hotel_booking_use_contact_information": "Використовуйте контактну інформацію",
+  "hotel_booking_state": "Держава",
+  "hotel_booking_city": "Місто",
+  "hotel_booking_save_payment_information": "Збережіть платіжну інформацію для наступного разу",
+  "hotel_booking_use_x_y_to_pay": "Використовуйте {x} {y} для оплати",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Еквівалент {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Спосіб оплати",
+  "hotel_booking_payment_note": "Примітка: HAHALOLO підтримує користувачів БЕЗКОШТОВНИМИ банківськими комісіями",
+  "hotel_booking_free": "безкоштовно",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Чи можемо ми ще чимось вам допомогти?",
+  "hotel_booking_inform_the_accommodation": "Ми повідомимо адміністрацію, що ви зацікавлені в цих послугах. Будь ласка, запиши.",
+  "hotel_booking_can_not_guaranteed": "Ваш запит не може бути гарантований. Не хвилюйся! Готель намагатиметься задовольнити ваші потреби.",
+  "hotel_booking_additional_services": "Це додаткові послуги, які виникають поза вашим запитом на бронювання та можуть стягувати додаткову плату за нерухомість у разі використання.",
+  "hotel_booking_note": "Примітка",
+  "hotel_booking_promo_apply_rule": "Монети та коди купонів не застосовуються до наведених нижче форм оплати.",
+  "hotel_booking_saved_payment_information": "Платіжну інформацію збережено",
+  "hotel_booking_fill_new_payer_information": "Введіть нові дані платника",
+  "hotel_booking_maximum_coins_can_be_use": "Для цього замовлення можна використовувати максимальну кількість монет.",
+  "hotel_booking_coins": "Монети",
+  "hotel_booking_unknown": "Не знаю",
+  "hotel_booking_planning_arrive_after_x_date": "Якщо ви плануєте прибути після {x}, будь ласка, повідомте господарю запланований час заїзду:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Додаткові послуги можуть бути платними. Будь ласка, заздалегідь зв''яжіться з адміністрацією для отримання додаткової інформації.",
+  "hotel_booking_term_and_policies": "Умови - Політика",
+  "hotel_booking_privacy_policy": "Політика конфіденційності",
+  "hotel_booking_tp_and_pp": "Переходячи до наступного кроку, я підтверджую, що я прочитав і погодився з Умовами Hahalolo - Політика та Політика конфіденційності",
+  "hotel_booking_important_note": "Примітка",
+  "hotel_booking_select_time": "Виберіть час",
+  "hotel_booking_room_x_night": "Номер х 1, 1 ніч",
+  "hotel_booking_x_rooms_x_night": "Номер x {x}, 1 ніч",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Номер x {x}, {y} ночей",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Номер x 1, {x} ночей",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Податки та збори",
+  "hotel_booking_service_charge": "Плата за послуги",
+  "hotel_booking_payment_fees": "Комісія за оплату",
+  "hotel_booking_accommodation_currency": "Валюта власності",
+  "hotel_booking_points_fees": "Використовуйте бали",
+  "hotel_booking_coins_fees": "Використовуйте монети",
+  "hotel_booking_voucher_fees": "Код купона",
+  "hotel_booking_discount": "просування по службі",
+  "hotel_booking_meal_service": "Подача їжі",
+  "hotel_booking_meal_service_description": "Нижче наведено послуги зі сніданку, які готель може надати вам. Якщо ви бажаєте подати заявку на цю послугу, будь ласка, зв''яжіться безпосередньо зі стійкою реєстрації гостей.",
+  "hotel_booking_meal_price_per_breakfast": "Ціна за вид сніданку",
+  "hotel_booking_extended_service": "Додаткові послуги",
+  "hotel_booking_extended_service_description": "Виберіть загальну кількість додаткових ліжок, які ви хочете додати до цього замовлення. Ви можете додати не більше ніж {x} додаткових ліжок.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Кількість",
+  "hotel_booking_total": "Всього",
+  "hotel_booking_unit_price": "Ціна",
+  "hotel_booking_x_price_per_person_per_day": "{x} людей/день",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} ліжок/людина/день",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Деталі ціни",
+  "hotel_booking_billings_information": "Інформація про оплату",
+  "hotel_booking_service_charge_description": "Ми залишимо цю комісію як комісію за обслуговування та підтримку у ваших питаннях, пов’язаних із бронюванням, у системі Hahalolo.",
+  "hotel_booking_payment_fees_description": "Платіжна комісія – це сума комісії за транзакцію, яку потрібно сплатити постачальникам онлайн-платіжних послуг.",
+  "hotel_booking_taxes_and_fees_description": "Податки та збори — це грошові суми, що стягуються згідно з правилами власності (готелю), які ви зобов’язані сплачувати, користуючись послугами розміщення. Будь ласка, прочитайте Умови користування для отримання додаткової інформації.",
+  "hotel_booking_accommodation_currency_description": "Ціна була перерахована на основі доступної валюти Постачальника.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Курс обміну може бути змінений до оплати.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Емітент вашої картки може стягувати комісію за транзакцію за кордоном.",
+  "hotel_booking_enter_maximum_x_char": "Введіть максимум {x} символів",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Очки недоступні.",
+  "hotel_booking_coin_not_available": "Монети недоступні.",
+  "hotel_booking_voucher_not_available": "Код купона недоступний.",
+  "hotel_booking_please_check_again": "Будь ласка, перевірте ще раз.",
+  "hotel_booking_point_change": "Кількість застосованих балів змінилася через зміну загальної суми оплати.",
+  "hotel_booking_hold_warning": "Ваше майно заброньовано, тому ви не можете змінити інформацію про замовлення. Будь ласка, зробіть платіж, щоб завершити бронювання.",
+  "hotel_booking_total_point_change": "Ваші доступні бали змінилися. Будь ласка, введіть кількість балів, щоб подати заявку на замовлення.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Карта",
+  "hotel_list": "Список",
+  "hotel_from_the_center": "З центру",
+  "hotel_from_the_location": "З місця пошуку",
+  "hotel_right_in_the_center": "У центрі міста",
+  "hotel_breakfast_is_served": "Безкоштовний сніданок",
+  "hotel_no_breakfast_served": "Сніданок не надається",
+  "hotel_dinner_is_served": "Вечеря забезпечена",
+  "hotel_no_dinner_service": "Не надається обід",
+  "hotel_lunch_is_served": "Обід забезпечений",
+  "hotel_no_lunch_service": "Обід не надається",
+  "hotel_allow_smoking": "Куріння дозволено",
+  "hotel_no_smoking": "Палити заборонено",
+  "hotel_no_refund": "Скасування без повернення грошей",
+  "hotel_without_fee": "Скасування оплачується",
+  "hotel_free_cancel": "БЕЗКОШТОВНА скасування",
+  "hotel_pay_later": "Бронюйте зараз, платіть пізніше",
+  "hotel_fee": "Сніданок надається",
+  "hotel_free": "БЕЗКОШТОВНИЙ сніданок",
+  "hotel_not_refund": "При скасуванні ви не отримаєте відшкодування чи сплачену суму",
+  "hotel_no_vacancy": "Продано",
+  "hotel_choose_room": "Виберіть кімнату",
+  "hotel_change_date": "Змінити дату",
+  "hotel_change_price_display": "Показати ціну",
+  "hotel_continue": "Тільки",
+  "hotel_room_available": "ліворуч",
+  "hotel_room": "кімната",
+  "hotel_night": "ніч",
+  "hotel_date_checking": "Дата заїзду",
+  "hotel_date_checkout": "Дата виїзду",
+  "hotel_search": "Пошук",
+  "hotel_promotion": "просування по службі",
+  "hotel_promotions": "Акції",
+  "hotel_applying": "застосування",
+  "hotel_promotion_applying": "відповідна акція",
+  "hotel_promotions_applying": "відповідні акції",
+  "hotel_title_promotions_applying": "Відповідна акція",
+  "hotel_see_detail": "Докладніше",
+  "hotel_cancel": "У разі скасування протягом {x} годин до заїзду буде відшкодовано {y}% від вартості номера",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Отримайте знижку в розмірі {x} за ніч, якщо гості залишаться в період між {y}-{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Отримайте знижку {x} за добу (максимум {a} у замовленні на бронювання), якщо гості залишатимуться між {y}-{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "Знижка {x} на попередні бронювання на {y} дн. Застосовується, коли гості зупиняються з {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Знижка {x}, максимум {y} для попередніх бронювань на {z} дн. Застосовується, коли гості зупиняються з {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "Знижка {x} для попередніх бронювань на {z} дн. Застосовується, коли гості зупиняються з {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "Знижка {x} при бронюванні більше ніж на {y} ночей. Застосовується, коли гості зупиняються з {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Знижка {x}, максимум {y} для бронювань на більше ніж {z} ночей. Застосовується, коли гості зупиняються з {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "Знижка {x} при бронюванні більше ніж {z} ночей. Застосовується, коли гості зупиняються з {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "всі ночі",
+  "hotel_first_night": "перша ніч",
+  "hotel_rating": "Огляд",
+  "hotel_wonderful": "Відмінно",
+  "hotel_very_good": "Дуже добре",
+  "hotel_satisfied": "Задоволений",
+  "hotel_medium": "Середній",
+  "hotel_bad": "Бідний",
+  "hotel_hand_note_consult_book_room": "Шукайте бронювання",
+  "hotel_hand_note_enter_code_search_info": "Введіть номер свого бронювання, щоб переглянути інформацію про бронювання",
+  "hotel_hand_note_reservation_code": "Номер бронювання",
+  "hotel_hand_note_can_not_find_hotel": "На жаль, ми не змогли знайти готелі, які б відповідали вашому пошуку.",
+  "hotel_hand_note_search_night": "Кількість ночей",
+  "hotel_hand_note_num_room": "Кількість кімнат",
+  "hotel_hand_note_status_booking": "Статус бронювання",
+  "hotel_hand_note_booked": "Заброньовано",
+  "hotel_hand_note_dont_booked": "Ще не забронювали",
+  "hotel_hand_note_total_price": "Загальна сума",
+  "hotel_hand_note_status": "Статус",
+  "hotel_hand_note_payment_after": "Просимо оплатити заздалегідь",
+  "hotel_hand_note_pay_now": "Платити зараз",
+  "hotel_hand_note_info_book_room": "Інформація про бронювання",
+  "hotel_hand_note_code_book_room": "Номер бронювання:",
+  "hotel_hand_note_checking": "Перевірь",
+  "hotel_hand_note_checkout": "Перевірити",
+  "hotel_hand_note_detail": "Докладніше",
+  "hotel_hand_note_kind_room": "Тип кімнати",
+  "hotel_hand_note_quantity": "Кількість",
+  "hotel_hand_note_room": "кімната",
+  "hotel_hand_note_visited": "Гість",
+  "hotel_hand_note_adult": "дорослий",
+  "hotel_hand_note_children": "дітей",
+  "hotel_hand_note_number_nights": "Кількість ночей",
+  "hotel_hand_note_night": "ніч",
+  "hotel_hand_note_status_payment": "Стан оплати",
+  "hotel_hand_note_cancel_order": "Відмінити замовлення",
+  "hotel_hand_note_info_refund": "Інформація про повернення коштів",
+  "hotel_hand_note_rate_experience": "Перегляньте свій досвід на",
+  "hotel_hand_note_rate": "Огляд",
+  "hotel_hand_note_see_rate": "Дивіться відгуки",
+  "hotel_hand_note_rate_overall_rating": "Ваш загальний відгук про готель",
+  "hotel_hand_note_rate_average": "Середній",
+  "hotel_hand_note_position": "Місцезнаходження",
+  "hotel_hand_note_price": "Ціна",
+  "hotel_hand_note_clean": "Чистота",
+  "hotel_hand_note_serve": "Обслуговування",
+  "hotel_hand_note_material_facilities": "Засоби",
+  "hotel_hand_note_review": "Поділіться, будь ласка, своїми враженнями та відгуками.",
+  "hotel_hand_note_review_limit": "Рецензія повинна містити не менше 2 символів.",
+  "hotel_hand_note_cancel": "Скасувати",
+  "hotel_hand_note_submit_review": "Надіслати відгук",
+  "hotel_hand_note_room_rates": "Вартість номера",
+  "hotel_hand_note_extra_bed": "Додаткове ліжко",
+  "hotel_hand_note_service_charge": "Плата за обслуговування",
+  "hotel_hand_note_payment_fees": "Комісія за оплату",
+  "hotel_hand_note_promotion": "просування по службі",
+  "hotel_hand_note_voucher": "Код купона",
+  "hotel_hand_note_use_coins": "Використовуйте монети",
+  "hotel_hand_note_rates_include": "Ціна включена",
+  "hotel_hand_note_see_review_title": "Перегляньте свій відгук про {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Переглянуто {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Дякуємо за відгук",
+  "hotel_hand_note_use_point": "Використовуйте бали",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Безкоштовне скасування до {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Місцевий час)",
+  "hotel_hand_note_hotel_apartment": "Квартира",
+  "hotel_hand_note_hostel": "Хостел",
+  "hotel_hand_note_hotel": "Готель",
+  "hotel_hand_note_resort": "курорт",
+  "hotel_hand_note_other": "Інший",
+  "hotel_hand_note_motel": "Мотель",
+  "hotel_hand_note_villa": "Вілла",
+  "hotel_hand_note_vacation_home": "Будинок відпочинку",
+  "hotel_hand_note_homestay": "Проживання в сім''ї",
+  "hotel_hand_note_farmstay": "Фермерський будинок",
+  "hotel_hand_note_condotel": "Кондотель",
+  "hotel_hand_note_cruise_ship": "Круїз",
+  "hotel_hand_note_boathouse": "Човен",
+  "hotel_hand_note_countryhouse": "Заміський будинок",
+  "hotel_hand_note_campground": "Кемпінг",
+  "hotel_hand_note_camper": "Будинок на колесах",
+  "hotel_hand_note_lodge": "будиночок",
+  "hotel_hand_note_guesthouse": "Гостьовий будинок",
+  "hotel_hand_note_cancel_hotel": "Скасування",
+  "hotel_update_price": "Оновлення цін",
+  "hotel_distance_x_from_center": "{distance}{x} від центру",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} від місця пошуку",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Знижка {x} за ніч, якщо гості проживають у період з {y} до {z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Кількість кімнат і гостей",
+  "hotel_add_room_children": "діти",
+  "hotel_add_room_age_upto": "(0 - 17 років)",
+  "hotel_add_room_child": "дитина",
+  "hotel_add_room_age": "вік",
+  "hotel_add_room_cancel": "Скасувати",
+  "hotel_add_room_choose_age": "Виберіть вік",
+  "hotel_add_room_done": "Готово",
+  "hotel_add_room_room": "Кімната",
+  "hotel_add_room_adult": "Дорослий",
+  "hotel_add_room_adults": "дорослі",
+  "hotel_add_room_age_children": "Дитячий вік",
+  "hotel_add_room_age_child": "Дитячий вік",
+  "hotel_add_room_condition": "Кількість кімнат і гостей в кімнаті не повинна перевищувати 9.",
+  "hotel_add_room_note": "Примітка",
+  "hotel_add_room_save": "зберегти",
+  "hotel_cart_child": "дитина",
+  "hotel_cart_children": "діти",
+  "hotel_cart_delete": "Видалити",
+  "hotel_cart_change": "Зміна",
+  "hotel_cart_book_room": "Книжкова кімната",
+  "hotel_cart_night": "ніч",
+  "hotel_cart_title_included_texas_fee": "Включаючи податки та збори",
+  "hotel_cart_temporary_price": "Проміжний підсумок",
+  "hotel_cart_delete_order": "Видалити замовлення",
+  "hotel_screen_cart_delete_order_confirm": "Ви бажаєте видалити це замовлення?",
+  "hotel_order_detail_info_hotel": "Інформація про бронювання",
+  "hotel_order_detail_done": "Готово",
+  "hotel_order_detail_detail": "Докладніше",
+  "hotel_order_detail_book_new": "Забронюйте новий номер",
+  "hotel_order_detail_success": "Бронювання успішне",
+  "hotel_order_detail_requests_success": "Ваш запит на бронювання успішно виконано",
+  "hotel_order_detail_paid": "(Оплачено).",
+  "hotel_order_detail_reservation": "Ви можете перевірити деталі бронювання нижче.",
+  "hotel_order_detail_thank": "Дякуємо за довіру до послуг",
+  "hotel_order_detail_support": "Якщо у вас виникли запитання або потрібна додаткова допомога, зверніться до довідкового центру Hahalolo",
+  "hotel_order_detail_instructions": "для інструкцій.",
+  "hotel_order_detail_info_rest": "Інформація про власність",
+  "hotel_order_detail_hotel": "Готель",
+  "hotel_order_detail_type": "Тип кімнати",
+  "hotel_order_detail_check_in": "Перевірь",
+  "hotel_order_detail_check_out": "Перевірити",
+  "hotel_order_detail_visited": "Кількість гостей",
+  "hotel_order_detail_adult": "дорослий",
+  "hotel_order_detail_children": "дітей",
+  "hotel_order_detail_baby": "дитина (до 1 року)",
+  "hotel_order_detail_contact": "Контактна інформація",
+  "hotel_order_detail_lastname": "Повне ім''я",
+  "hotel_order_detail_tel_number": "Телефонний номер",
+  "hotel_order_detail_nationality": "Національність",
+  "hotel_order_detail_note": "Примітка",
+  "hotel_order_detail_guests": "Інформація про гостей",
+  "hotel_order_detail_trade": "Інформація про транзакцію",
+  "hotel_order_detail_order_form": "порядок",
+  "hotel_order_detail_payment": "Сума оплати",
+  "hotel_order_detail_bed_type": "Тип ліжка",
+  "hotel_order_detail_extra_bed": "Додаткове ліжко",
+  "hotel_order_detail_bed": "ліжко",
+  "hotel_order_detail_reservation_code": "Номер бронювання",
+  "hotel_order_detail_payer": "Платник",
+  "hotel_search_code_total_price": "Загальна сума",
+  "hotel_search_code_voucher": "Код купона",
+  "hotel_search_code_use_coin": "Використовуйте монети",
+  "hotel_search_code_use_point": "Використовуйте бали",
+  "hotel_search_code_total_pay": "Загальна оплата",
+  "hotel_search_code_detail_pay": "Платіжні реквізити",
+  "hotel_hand_note_hotel_policy_check_out": "- Виїзд до {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Заїзд після {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Політика скасування",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Графік безкоштовного скасування залежить від часового поясу закладу та визначений політикою скасування бронювання.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x кімната, {night} x ніч",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Податки та збори",
+  "hotel_hand_note_detail_total_amount": "Загальна оплата",
+  "hotel_hand_note_detail_success": "Успішний",
+  "hotel_hand_note_detail_failed": "Не вдалося",
+  "hotel_hand_note_detail_postpaid": "Післяплата",
+  "hotel_hand_note_detail_prepaid": "Передоплата",
+  "hotel_hand_note_detail_operation_history": "Історія діяльності",
+  "hotel_hand_note_detail_order_cancel_info": "Інформація про скасування замовлення",
+  "hotel_hand_note_detail_order_total_order": "Всього замовлення",
+  "hotel_hand_note_detail_total_money": "Загальна сплачена сума",
+  "hotel_hand_note_detail_coin": "монети",
+  "hotel_hand_note_detail_fee_cancel": "Комісія за скасування",
+  "hotel_hand_note_detail_refund_amount": "Орієнтовна сума відшкодування",
+  "hotel_hand_note_detail_coin_refund_amount": "Приблизні монети відшкодування",
+  "hotel_hand_note_detail_payment_info": "Інформація про оплату",
+  "hotel_hand_note_detail_customer_service": "Код купона не повертається. Щоб повернути код купона, зверніться до нашого Центру обслуговування клієнтів.",
+  "hotel_hand_note_detail_note_refund": "Час повернення коштів (з дати скасування): від 5 до 7 днів (для платіжних шлюзів Alepay і Payme) або від 7 до 15 днів (для платіжних шлюзів Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Причини скасування",
+  "hotel_hand_note_detail_checking_out": "Час заїзду та виїзду",
+  "hotel_hand_note_detail_check_in_after": "Заселення після",
+  "hotel_hand_note_detail_check_out_before": "Виїзд раніше",
+  "hotel_hand_note_detail_person_day": "особа/день",
+  "hotel_hand_note_detail_free": "безкоштовно.",
+  "hotel_hand_note_detail_day": "/день",
+  "hotel_hand_note_detail_note_hotel": "Графік безкоштовного скасування залежить від часового поясу закладу та визначений політикою скасування бронювання.",
+  "hotel_hand_note_detail_room_service": "Обслуговування номерів",
+  "hotel_hand_note_detail_facilities_service": "Зручності та обслуговування номерів",
+  "hotel_hand_note_detail_person_contact": "Контактна особа",
+  "hotel_hand_note_detail_telephone_num": "Телефонний номер",
+  "hotel_hand_note_detail_email": "Електронна пошта",
+  "hotel_hand_note_detail_nationality": "Національність",
+  "hotel_hand_note_detail_address": "Адреса",
+  "hotel_hand_note_detail_paid": "Сплачена сума",
+  "hotel_hand_note_detail_rest": "Невиплачена сума",
+  "hotel_hand_note_detail_payment_methods": "Спосіб оплати",
+  "hotel_hand_note_detail_check_in_info": "Інформація про реєстрацію",
+  "hotel_hand_note_detail_guest_name": "Гостьове ім''я",
+  "hotel_hand_note_detail_policy_cancel": "Скасування зроблені раніше",
+  "hotel_hand_note_detail_hour": "{hour} год",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} хвилин",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":буде повернено",
+  "hotel_hand_note_detail_price_room": "від вартості кімнати для",
+  "hotel_hand_note_detail_one_night": "перша ніч.",
+  "hotel_hand_note_detail_all_night": "всі ночі.",
+  "hotel_hand_note_detail_policy": "Політика скасування",
+  "hotel_hand_note_detail_children_note": "Допускаються діти віком від {age}.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Допускається розміщення з домашніми тваринами. Плата за домашню тварину: {fee} (плата за домашню тварину сплачується в готелі).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "діти",
+  "hotel_hand_note_detail_pet": "Домашні тварини",
+  "hotel_hand_note_detail_total_room_rate": "Загальна вартість номера",
+  "hotel_hand_note_detail_total_room_order": "Кількість кімнат",
+  "hotel_hand_note_detail_room_information": "Інформація про номер",
+  "hotel_hand_note_detail_person_x": "{x} людей",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Комунальні послуги, обслуговування номерів",
+  "hotel_hand_note_detail_waiting_service": "В очікуванні Виконання",
+  "hotel_hand_note_detail_in_service": "Триває",
+  "hotel_hand_note_detail_completed": "Виконано",
+  "hotel_hand_note_detail_waiting_cancellation": "Очікує скасування",
+  "hotel_hand_note_detail_canceled": "Скасовано",
+  "hotel_hand_note_detail_awaiting_confirmation": "В очікуванні підтвердження",
+  "hotel_hand_note_detail_not_refund": "Ви не отримаєте відшкодування або сплачену суму після скасування",
+  "hotel_hand_note_detail_other_required": "Інший запит",
+  "hotel_hand_note_detail_point_refund_amount": "Приблизні бали відшкодування",
+  "hotel_input_title_start_date": "Дата заїзду",
+  "hotel_input_title_end_date": "Дата виїзду",
+  "hotel_input_title_choose_date": "Виберіть дату",
+  "hotel_input_title_choose": "Виберіть",
+  "hotel_hand_note_price_detail_payment_type": "Форма оплати",
+  "hotel_hand_note_price_detail_payment_date": "Дата оплати",
+  "hotel_hand_note_price_detail_price": "Переглянути деталі ціни",
+  "hotel_hand_note_price_detail_title": "Деталі ціни",
+  "hotel_hand_note_price_detail_contact_info": "Контактна інформація",
+  "hotel_hand_note_utilities_title": "Зручності",
+  "hotel_hand_note_services_title": "Послуги",
+  "hotel_hand_note_search_required_code": "Необхідно вказати номер бронювання.",
+  "cart_screen_main_hotel_title": "Готель",
+  "cart_screen_main_hotel_title_1": "готель (1)",
+  "hotel_cancel_hotel": "Скасування",
+  "hotel_search_this_area ": "Пошук цієї області",
+  "hotel_where": "Де ти хочеш зупинитися?",
+  "hotel_people": "{y} кімнат - {x} гостей",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Кімната",
+  "hotel_hand_note_item_view_booking_code_title": "Номер бронювання",
+  "hotel_hand_note_title_hotel_order": "Замовлення на бронювання готелів",
+  "hotel_order_detail_view_information_order": "Інформація про замовлення",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Де ти хочеш зупинитися?",
+  "search_city_no_result": "Відповідних місць не знайдено...",
+  "search_city_choose_the_city": "Пошук готелів",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Виберіть готель",
+  "advanced_search_any_review": "Будь-який",
+  "advanced_search_star_rating": "Зірковий рейтинг",
+  "advanced_search_any_star": "Без рейтингу",
+  "advanced_search_a_star": "1 зірка",
+  "advanced_search_x_star": "{x} зірок",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Тип власності",
+  "advanced_search_reset_button": "Скинути",
+  "advanced_search_search_button": "Пошук",
+  "advanced_search_evaluation_point": "Оцінка огляду",
+  "advanced_search_no_city_error": "Ресурс не вибрано",
+  "advanced_search_title": "Розширений пошук",
+  "advanced_search_clear": "ясно",
+  "advanced_search_no_date_error": "Дата не вибрана",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Показати список",
+  "hotel_not_found": "Готелів не знайдено!",
+  "hotel_search_near_by": "Поруч",
+  "advanced_search_less_x_unit": "Менше {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Від {x}{unit} і більше",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Від {x}{unit} до менше {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Відстань від центру",
+  "hotel_booking_do_you_want_to_remove_a_user": "Ви справді хочете видалити {user} зі списку?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Доплата",
+  "hotel_map_filter": "Сортувати за",
+  "hotel_map_default": "За замовчуванням",
+  "hotel_map_high_star": "Рейтинг зірок: від високого до низького",
+  "hotel_map_low_star": "Рейтинг зірок: від низького до високого",
+  "hotel_map_distance_center": "Відстань від центру",
+  "hotel_map_high_rate": "Високо оцінений",	
+  "hotel_map_high_order": "Найбільш заброньовані",	
+  "hotel_hand_note_reply": "Відповідь власності",
+  "hotel_booking_payment_3011_error": "Картка була відхилена. Будь ласка, спробуйте іншу картку або зверніться по допомогу до емітента картки!",
+  "hotel_hand_note_utilities_title_room": "ЗРУЧНОСТІ В НОМЕРАХ",	
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Ви все наздогнали!",
+  "halo_error_wifi_error": "Помилка Wi-Fi",
+  "halo_error_something_wrong": "На жаль!\nЩось пішло не так, спробуйте ще раз",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

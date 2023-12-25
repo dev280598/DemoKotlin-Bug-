@@ -1,0 +1,3310 @@
+{
+  "@@locale": "sl",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Poskusi ponovno",
+  "common_see_more": "Poglej več",
+  "common_see_less": "Glej manj",
+  "common_search_hint": "Iskanje …",
+  "common_loading": "Nalaganje…",
+  "common_retry": "Poskusite znova",
+  "common_cancel": "Prekliči",
+  "common_ok": "V redu",
+  "common_save": "Shrani",
+  "common_decline": "Zavrni",
+  "common_done": "Končano",
+  "common_confirm": "Potrdi",
+  "common_close": "Zapri",
+  "common_continue": "Nadaljuj",
+  "common_detail": "Podrobnosti",
+  "common_enter_discount_code": "Vnesite kodo kupona",
+  "common_use_payment_or_contact_info": "Uporabite podatke plačnika ali kontaktne podatke",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Izbirnik časa",
+  "car_input_title_pick_up_place": "Vstopite na prevzemno mesto",
+  "car_input_title_pick_up_location": "Lokacija prevzema",
+  "car_title_return_to_different_location": "Vrnite se na drugo lokacijo",
+  "car_input_title_start_time": "Začetni čas",
+  "car_input_title_end_time": "Končni čas",
+  "car_input_title_start_date": "Začetni datum",
+  "car_input_title_end_date": "Končni datum",
+  "car_input_title_enter_drop_off_place": "Vnesite mesto za odlaganje",
+  "car_input_title_enter_drop_off_location": "Lokacija odhoda",
+  "car_title_advanced_search": "Napredno iskanje",
+  "car_title_look_up_booking_number": "Poiščite številko rezervacije",
+  "car_header_title_look_up_booking_number": "Vnesite številko rezervacije ali kodo naročila, da poiščete podatke o rezervaciji",
+  "car_title_search": "Iskanje",
+  "car_notice_empty_pick_up_location": "Izberite lokacijo prevzema in začetni datum za iskanje",
+  "car_title_ascending_price": "Naraščajoča cena",
+  "car_title_descending_price": "Padajoča cena",
+  "car_title_car_type": "Vrsta avtomobila",
+  "car_title_transmission": "Prenos",
+  "car_title_segment": "Segment",
+  "car_title_fuel_type": "Vrsta goriva",
+  "car_title_supplier": "Dobavitelj",
+  "car_title_price": "Cena",
+  "car_title_view_on_map": "Ogled na zemljevidu",
+  "car_title_deals": "Deals",
+  "car_title_seats": "Sedeži",
+  "car_title_filter_by": "Filtriraj po",
+  "car_title_un_filter": "Odstrani filtriranje",
+  "car_title_choose_this_car": "Izberite ta avto",
+  "car_title_rental_terms": "Pogoji najema",
+  "car_title_search_location": "Išči lokacijo",
+  "car_title_select_btn": "Izberite",
+  "car_title_select_date": "Izberite datum",
+  "car_title_select_time": "Izberite čas",
+  "car_title_reset_btn": "Ponastaviti",
+  "car_title_location_type": "Vrsta lokacije",
+  "car_title_number_of_seats": "Število sedežev",
+  "car_title_days": "Dnevi",
+  "car_title_unlimited_mileage": "Neomejena kilometrina",
+  "car_title_instant_confirmation": "Takojšnja potrditev",
+  "car_title_time_pick_up": "Izberi datum",
+  "car_title_time_drop_off": "Datum odhoda",
+  "car_title_air_conditioning": "Klima",
+  "car_title_number_of_bag": "Število kovčkov",
+  "car_hand_note_title_booking_order_code": "Koda naročila",
+  "car_hand_note_title_booking_code": "Številka rezervacije",
+  "car_hand_note_title_total_rental_car": "Skupno število dni najema",
+  "car_hand_note_title_status_order": "Status naročila",
+  "car_hand_note_title_total_price": "Celotno plačilo",
+  "car_hand_note_title_status_payment": "Stanje plačila",
+  "car_hand_note_title_reason_cancel": "Razlogi za odpoved",
+  "car_hand_note_title_view_details_btn": "Ogled podrobnosti",
+  "car_hand_note_notice_cancel_order": "Znesek vračila (če obstaja) preklicanega naročila bo nakazan na bančni račun stranke v roku, ki ga določi dobavitelj.",
+  "car_hand_note_title_tab_all": "Vse",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Čakanje na izpolnitev",
+  "car_hand_note_title_tab_ongoing": "V teku",
+  "car_hand_note_title_tab_completed": "Dokončano",
+  "car_hand_note_title_tab_canceled": "Prekinjeno",
+  "car_hand_note_title_order_manager": "Upravljanje naročil",
+  "car_hand_note_title_create_date": "Datum ustvarjanja",
+  "car_hand_note_title_view_more_btn": "Poglej več",
+  "car_hand_note_title_status_order_completed": "Dokončano",
+  "car_hand_note_title_status_payment_successful": "Uspešno",
+  "car_hand_note_title_details_order": "Podrobnosti naročila",
+  "car_hand_note_title_contact_info": "Kontaktni podatki",
+  "car_hand_note_title_info_rental_car": "Informacije o rezervaciji",
+  "car_hand_note_title_driver_info": "Podrobnosti o vozniku",
+  "car_hand_note_title_pirce_details": "Podrobnosti o ceni",
+  "car_hand_note_title_creator": "Ustvaril",
+  "car_hand_note_title_person_contact": "Kontaktna oseba",
+  "car_hand_note_title_phone": "Telefonska številka",
+  "car_hand_note_title_email": "E-naslov",
+  "car_hand_note_title_country": "Država",
+  "car_hand_note_title_address": "naslov",
+  "car_hand_note_title_price_of_car_rental": "Cena najema avtomobila",
+  "car_hand_note_title_price_payment_fee": "Pristojbina za plačilo",
+  "car_hand_note_title_info_extra_services": "Dodatne storitve",
+  "car_hand_note_title_type_insurance": "Vrsta zavarovanj",
+  "car_hand_note_title_info_insurance": "Informacije o zavarovanju",
+  "car_hand_note_title_car_info": "Podrobnosti o avtomobilu",
+  "car_search_result_not_found_title": "Oprostite, vozila, ki ga iščete, ni bilo mogoče najti.",
+  "car_search_result_not_found_sub_title": "Ne moremo najti ustreznega ujemanja za vašo zahtevo.\nPoskusite znova.",
+  "car_search_result_first_title_rental_car": "Najem avtomobila v",
+  "car_detail_btn_rent_now": "Rezervirajte zdaj",
+  "car_notice_title_check_connection": "Preverite povezavo in poskusite znova!",
+  "car_rent_input_title_details": "Podrobnosti",
+  "car_rent_input_title_total_payment": "Celotno plačilo",
+  "car_rent_input_title_payment": "Plačati",
+  "car_rent_form_input_last_name": "Priimek (brez tonskih oznak)",
+  "car_rent_form_input_first_name": "Srednje in ime/Ime (brez tonskih oznak)",
+  "car_rent_input_content_cb_use_contact_details": "Uporabite kontaktne podatke",
+  "car_rent_input_title_method_payment": "Plačati",
+  "car_rent_input_title_method_pay": "Možnost plačila",
+  "car_rent_input_title_late_payment": "Plačajte pozneje",
+  "car_rent_input_title_now_payment": "Plačaj zdaj",
+  "car_rent_input_title_information_card": "Podrobnosti kartice",
+  "car_rent_input_title_driver_age": "Voznikova starost",
+  "car_rent_input_title_Do_you_need_anything_else": "Potrebuješ še kaj?",
+  "car_rent_input_title_accept_policy": "Ko nadaljujem z naslednjim korakom, potrjujem, da sem prebral in se strinjam z Hahalolojevimi pogoji – pravilniki in politiko zasebnosti",
+  "car_rent_input_title_card_must_be_valid": "Vaša kartica mora biti veljavna za zavarovanje najema pri dobavitelju.",
+  "car_rent_input_title_accept_card_pay": "Sprejete plačilne kartice",
+  "car_rent_input_title_content_notice_later_pay": "Dobavitelj avtomobila bo obdelal vaše plačilo. Glede na pogoje rezervacije lahko plačate v celoti ali delno.",
+  "car_rent_input_title_select_type_card": "Izberite Vrsta kreditne kartice",
+  "car_rent_input_title_number_card": "Številka kartice",
+  "car_rent_input_title_enter_number_card": "Vnesite številko kartice",
+  "car_rent_input_title_name_card": "Ime imetnika kartice",
+  "car_rent_input_title_enter_name_card": "Vnesite ime imetnika kartice",
+  "car_rent_input_title_select_expiry_date": "Izberite datum poteka",
+  "car_rent_input_title_expiry_date": "Rok uporabnosti",
+  "car_rent_input_title_gate_ways": "Plačilni prehod",
+  "car_rent_input_title_ccv_code": "Koda CVC",
+  "car_rent_input_title_enter_ccv_code": "Vnesite kodo CVC",
+  "car_rent_input_title_first_notice_need_anything_else": "Ponudnika bomo obvestili, da vas te storitve zanimajo, da vam lahko zagotovi podrobne informacije.\n\n Vaše zahteve ni mogoče zagotoviti. Ne skrbi! Dobavitelj bo poskušal izpolniti vaše potrebe.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Vaše zahteve ni mogoče zagotoviti. Ne skrbi! Dobavitelj bo poskušal izpolniti vaše potrebe.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Vnesite največ 55 znakov",
+  "car_rent_input_noti_invalid_last_name": "Neveljaven priimek",
+  "car_rent_input_noti_invalid_first_name": "Neveljavno srednje in ime/ime",
+  "car_rent_input_noti_required_last_name": "Priimek je obvezen",
+  "car_rent_input_noti_required_first_name": "Srednje in ime/ime je obvezno",
+  "car_rent_input_noti_invalid_email": "Neveljaven e-poštni naslov",
+  "car_rent_input_noti_invalid_phone": "Neveljavna telefonska številka",
+  "car_rent_input_noti_required_email": "E-pošta je obvezna",
+  "car_rent_input_noti_required_phone": "Telefonska številka je obvezna",
+  "car_rent_input_noti_requried_address": "Naslov je obvezen",
+  "car_rent_input_noti_requried_country": "Država je obvezna",
+  "car_rent_input_noti_requried_number_card": "Številka kartice je obvezna",
+  "car_rent_input_noti_requried_card_holder_name": "Ime imetnika kartice je obvezno",
+  "car_rent_input_noti_requried_type_card": "Kreditna kartica je potrebna",
+  "car_rent_input_noti_requried_expiry": "Potreben je datum poteka",
+  "car_rent_input_title_type_card_credit": "Vrsta kreditne kartice",
+  "car_rent_input_title_currency_at_rental_car_place": "Valuta na prevzemnem mestu",
+  "car_rent_input_title_rule_age": "Starostna pravila",
+  "car_rent_input_notice_term_and_policy_first_string": "Ko nadaljujem z naslednjim korakom, potrjujem, da sem prebral in se strinjam z Hahalolo",
+  "car_rent_input_notice_term_and_policy_append__string": "Pogoji - Politike",
+  "car_rent_input_notice_term_and_policy_between_string": "in",
+  "car_rent_input_notice_term_and_policy_append___string": "Politika zasebnosti",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Prevzem",
+  "car_cart_title_drop_off": "Odstop",
+  "car_cart_title_included_texas_fee": "Vključeni davki in pristojbine",
+  "car_cart_title_btn_delete": "Izbriši",
+  "car_cart_title_btn_edit": "Spremenite svojo izbiro",
+  "car_cart_title_sub_total": "Vmesni seštevek",
+  "car_cart_title_car_types": "Vrsta avtomobila:",
+  "car_title_select_country": "Izberite državo",
+  "car_title_car_cart": "Rezervacija avtomobila",
+  "car_feed_input_hint_pick_up_place": "Vaše prevzemno mesto",
+  "car_feed_input_hint_drop_off_place": "Vaše mesto za odlaganje",
+  "car_feed_notice_empty_location_pick_up": "Prosimo, izberite kraj prevzema za iskanje",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Vnesite lokacijo odhoda",
+  "notify_error_occurred": "Prišlo je do napake. Preverite še enkrat.",
+  "car_hand_note_detail_order_full_name": "Polno ime",
+  "car_hand_note_detail_order_promotion": "Promocija",
+  "car_hand_note_detail_order_act_history": "Dnevnik aktivnosti",
+  "car_hand_note_detail_order_request_other": "Druge zahteve",
+  "car_hand_note_detail_order_order_payment": "Plačilo naročila",
+  "car_hand_note_detail_order_cancel_info": "Informacije o preklicu naročila",
+  "car_hand_note_detail_order_payment_info": "Informacije o plačilu",
+  "car_hand_note_detail_order_paid": "Plačano",
+  "car_hand_note_detail_order_unpaid": "Neplačano",
+  "car_hand_note_title_days_ago": "pred dnevi",
+  "car_hand_note_detail_order_cancel_fee": "Pristojbina za odpoved",
+  "car_hand_note_detail_order_amount_ongoing_return": "Predviden znesek vračila",
+  "car_hand_note_detail_order_time_ongoing_return": "Predviden čas vračila",
+  "car_hand_note_detail_order_info_transaction": "Informacije o transakciji",
+  "car_hand_note_detail_order_amount_payment": "Skupni znesek",
+  "car_hand_note_detail_order_total_order": "Skupaj naročila",
+  "car_hand_note_detail_content_define_vat": "DDV je davek in pristojbina, ki ju morate plačati dobavitelju avtomobila v skladu z njihovimi predpisi, ko uporabljate storitev najema avtomobila.",
+  "car_title_search_result_first_character": "Najem avtomobila v",
+  "car_title_tool_bar_pick_up_location": "Kje želite prevzeti?",
+  "car_title_tool_bar_drop_off_location": "Kam želite odložiti?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Cena najema avtomobila je preračunana glede na trenutno valuto, ki jo uporablja dobavitelj avtomobila.\nOpomba:\n- Menjalni tečaj se lahko spremeni, preden plačate.\n- Izdajatelj vaše kartice vam lahko zaračuna provizijo za transakcijo v tujini.",
+  "car_hand_note_detail_content_define_payment_fee": "Provizija za transakcijo, ki ustreza vsaki zahtevi za najem avtomobila, ki jo morate plačati ponudniku storitev spletnega plačilnega prehoda.",
+  "car_hand_note_detail_content_notice_insurance": "Opomba: Če se želite prijaviti za te zavarovalne pakete, se obrnite neposredno na recepcijo dobavitelja avtomobila.",
+  "car_hand_note_detail_title_header_insurance": "Številne pogodbe o zavarovanju in najemu avtomobila pokrivajo izključitve, ki so lahko drage, povezane s poškodbami ali krajo avtomobila pri najemu. Vendar pa vam bo spodnje zavarovanje pomagalo zaščititi in vam ponuditi finančno podporo s precejšnjo vsoto denarja.",
+  "car_result_booking_title_header_rental_car_success": "REZERVACIJA USPEŠNA",
+  "car_result_booking_title_btn_continue_rental_car": "Nadaljujte z rezervacijo",
+  "car_result_booking_title_btn_view_order_details": "Oglejte si podrobnosti naročila",
+  "car_result_booking_title_header_first_char": "Vaša zahteva za rezervacijo je bila uspešno izvedena",
+  "car_result_booking_title_header_second_char": "(plačano)",
+  "car_result_booking_title_header_third_char": ". Spodaj lahko preverite podrobnosti o najemu avtomobila.",
+  "car_result_booking_title_header__char": "Hvala za zaupanje",
+  "car_result_booking_title_header____char": "storitev. Če imate kakršna koli vprašanja ali potrebujete dodatno pomoč, se obrnite na naš center za pomoč na",
+  "car_result_booking_title_header_____char": "za navodila.",
+  "car_result_booking_title_header______char": ". Spodaj lahko preverite podrobnosti o najemu avtomobila.",
+  "car_result_booking_title_order": "Naročite",
+  "car_result_booking_title_billing_info": "Informacije o plačilu",
+  "car_result_booking_title_time": "Čas",
+  "car_result_booking_title_name_car": "Ime avtomobila",
+  "car_picker_time_from_the_date": "Od",
+  "car_picker_time_to_the_date": "Za",
+  "car_picker_time": "Čas",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Izberite mesto/državo",
+  "car_result_notice_no_data_found": "Žal ni podatkov",
+  "car_result_notice_no_flight_found_description": "Nismo mogli najti nobenega rezultata, ki bi ustrezal vašemu iskanju. Prosimo, poiščite znova.",
+  "car_extra_service": "Ponudnik avtomobila vam lahko ponudi nekatere dodatne storitve spodaj. Če jih želite zaprositi, se obrnite neposredno na recepcijo ponudnika.",
+  "car_extra_charges": "Dodatni stroški bodo veljali za voznike, mlajše ali starejše od starosti, ki jo določi dobavitelj avtomobila",
+  "car_note_driver_age": "Opomba: to pristojbino vam zaračunajo na recepciji ob vašem prihodu, da prevzamete avto.",
+  "car_rental_details": "Podrobnosti o najemu avtomobila",
+  "car_you_dont_have_any_car_rental_orders": "Nimate še nobenega naročila za najem avtomobila.",
+  "car_search_code_no_information": "Podatki o rezervaciji niso bili najdeni.\nPreverite in poskusite znova",
+  "car_input_code_message_empty": "Vnesite številko vaše rezervacije",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Sprejmi",
+  "aff_chart_day_ago": "pred {number} dnevi",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Od {from} do {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Trajanje piškotka: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Hotel",
+  "aff_tour": "Ogled",
+  "aff_product_name": "Ime izdelka",
+  "aff_anonymous_user": "Anonimni uporabnik",
+  "aff_unknown": "neznano",
+  "aff_product_unknown": "Neznana vrsta izdelka",
+  "aff_share": "Deliti",
+  "aff_fetch_data_failure": "Podatkov ni bilo mogoče pridobiti",
+  "aff_fetch_data_failure_try_later": "Podatkov ni bilo mogoče pridobiti. Prosim poskusite kasneje.",
+  "aff_detail": "Podrobnosti",
+  "aff_no_data": "Ni podatkov",
+  "aff_all": "vse",
+  "aff_country": "Država",
+  "aff_summary": "Pregled",
+  "aff_link_management": "Upravljanje povezav",
+  "aff_promotion_tool": "Marketinška orodja",
+  "aff_help": "Pomagaj",
+  "aff_notification": "Obvestila",
+  "aff_notification_no_data": "Nimate nobenih obvestil",
+  "aff_revenue": "Prihodki",
+  "aff_revenue_total": "Skupni prihodki",
+  "aff_customer_id": "identifikacijska številka stranke",
+  "aff_payment_total": "Skupni znesek",
+  "aff_commission_receive": "Skupno prejete provizije",
+  "aff_search_by_order": "Iskanje po kodi naročila",
+  "aff_reset": "Ponastaviti",
+  "aff_cancel": "Prekliči",
+  "aff_save": "Shrani",
+  "aff_search": "Iskanje",
+  "aff_continue": "Nadaljuj",
+  "aff_payment_account": "Plačilni račun",
+  "aff_profile": "Profil",
+  "aff_edit_profile": "Uredite informacije",
+  "aff_affiliate": "Affiliate",
+  "aff_setting": "Nastavitve",
+  "aff_resend": "Ponovno poslati",
+  "aff_verify_failure": "Preverjanje ni uspelo",
+  "aff_show_code": "Pokaži kodo",
+  "aff_sms_block_forever": "Funkcija preverjanja je bila začasno zaklenjena. Prosim poskusite kasneje.",
+  "aff_sms_wrong_code": "Nepravilna koda za preverjanje. Preverite še enkrat.",
+  "aff_sms_expired_code": "Koda za preverjanje je potekla. Pridobite drugo kodo",
+  "aff_sms_verify_failure": "Preverjanje ni uspelo. Prosim poskusite kasneje.",
+  "aff_enter_verify_code": "vnesi potrditveno kodo",
+  "aff_we_send_code_to_phone": "Poslali smo kodo za preverjanje na {phone}.\nVnesite kodo, ki ste jo prejeli, da dokončate ta korak.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Koda bo potekla čez:",
+  "aff_sms_block": "Funkcija pošiljanja kode prek SMS-a je začasno zaklenjena. Prosim poskusite kasneje.",
+  "aff_sms_resend_in": "Kodo lahko znova pošljete v:",
+  "aff_account_information": "PODATKI O RAČUNU",
+  "aff_account_information_subtitle": "Prosimo, posodobite svojo telefonsko številko v svojem plačilnem računu, da boste lahko še naprej uporabljali storitve na Hahalolo.",
+  "aff_account_name": "Ime računa",
+  "aff_search_county": "Išči državo",
+  "aff_wallet_create_failure": "Ustvarjanje plačilnega računa ni uspelo",
+  "aff_wallet_create_failure_try_again": "Ustvarjanje plačilnega računa ni uspelo. Prosim poskusite kasneje.",
+  "aff_information_general": "Splošne informacije",
+  "aff_information_unknown": "(neznano)",
+  "aff_information_full_name": "Polno ime {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "E-naslov {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Telefonska številka  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Datum rojstva {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Spol {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "naslov {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Država {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Več informacij",
+  "aff_information_city": "Pokrajina/mesto {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Poštna številka  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID kartica/potni list {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Datum veljavnosti {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Država izdajeX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "državljanstvo {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Kraj rojstva {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Telefonska koda",
+  "aff_gender_male": "moški",
+  "aff_gender_female": "Ženska",
+  "aff_gender_other": "Drugo",
+  "aff_validate_full_name": "Polno ime mora vsebovati vsaj 3 znake",
+  "aff_validate_email": "Neveljaven e-poštni naslov",
+  "aff_validate_phone": "Neveljavna telefonska številka",
+  "aff_validate_post_code": "Neveljavna poštna številka",
+  "aff_validate_id_code": "Neveljavna ID kartica/potni list",
+  "aff_validate_invalid_field": "Čas",
+  "aff_validate_phone_existed": "Telefonska številka je bila registrirana za drug plačilni račun.",
+  "aff_validate_unknown_country": "Neznana država",
+  "aff_date_time": "čas",
+  "aff_date_yesterday": "včeraj",
+  "aff_date_today": "danes",
+  "aff_date_unknown": "Neznan datum",
+  "aff_date_month": "mesec",
+  "aff_date_day": "dan",
+  "aff_date_hour": "uro",
+  "aff_date_minute": "minuta",
+  "aff_date_second": "drugič",
+  "aff_date_range": "Časovno obdobje",
+  "aff_report": "Poročilo",
+  "aff_report_summary": "Pregled poročila",
+  "aff_report_click": "Kliki",
+  "aff_report_click_number": "Kliki",
+  "aff_report_performance": "Izvedba",
+  "aff_report_customer": "Stranka",
+  "aff_report_payment": "Plačilo",
+  "aff_report_product_performance": "Učinkovitost izdelka",
+  "aff_report_product_type": "Tip izdelka",
+  "aff_report_customer_detail": "Podrobnosti o stranki",
+  "aff_report_commission_by_product": "Komisija po postavkah",
+  "aff_report_customer_total": "Skupno število kupcev, ki kupujejo",
+  "aff_report_customer_serving": "Skupno število strank v storitvi",
+  "aff_report_customer_served": "Skupaj postreženih strank",
+  "aff_report_payment_waiting": "Skupne provizije v postopku",
+  "aff_report_payment_pending": "Skupna nerešena provizija",
+  "aff_report_payment_available": "Skupne razpoložljive provizije",
+  "aff_report_payment_status_waiting": "Obravnavati",
+  "aff_report_payment_status_pending": "V teku",
+  "aff_report_payment_status_available": "Na voljo",
+  "aff_report_payment_status_cancel": "Prekinjeno",
+  "aff_report_payment_status": "Stanje",
+  "aff_report_description_click": "Statistični grafikon klikov partnerskih povezav, skupnih prejetih naročil in prihodkov",
+  "aff_report_description_customer": "Statistični grafikon informacij o strankah",
+  "aff_report_description_commission": "Statistični grafikon provizij",
+  "aff_link": "Povezava:",
+  "aff_link_copied": "Povezava je kopirana",
+  "aff_link_path": "Partnerska povezava",
+  "aff_link_paste_here": "Tukaj prilepite svojo povezavo",
+  "aff_flight_commission_itinerary": "Načrt poti",
+  "aff_flight_commission_itinerary_domestic": "Domače",
+  "aff_flight_commission_itinerary_international": "mednarodni",
+  "aff_flight_commission_itinerary_unknown": "Neznan načrt poti",
+  "aff_flight_commission_seat_class": "Razred sedeža",
+  "aff_flight_commission_seat_class_plus": "Plus",
+  "aff_flight_commission_seat_class_business": "Posel",
+  "aff_flight_commission_seat_class_unknown": "Neznan razred sedeža",
+  "aff_flight_ticket": "Letalska vozovnica",
+  "aff_flight_all_airlines": "Vse letalske družbe",
+  "aff_tooltip_flight_domestic": "Leti s cilji in odhodi znotraj ozemlja Vietnama",
+  "aff_tooltip_seller": "To kodo lahko uporabite, da dodate na konec vsake povezave pridruženega trženja. Hahalolo bo potrdil, da je to vaša povezava in nagradne provizije, ko iz te povezave izhajajo veljavna naročila.",
+  "aff_commission": "provizija",
+  "aff_commission_by_country": "Hotelske provizije po državah",
+  "aff_commission_flight_list": "Hotelske provizije po državah",
+  "aff_commission_max": "Najvišja provizija:",
+  "aff_commission_of_product": "Provizije {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Koda naročila",
+  "aff_order_total": "Skupaj naročil",
+  "aff_order_tooltip_click": "Kolikokrat uporabniki kliknejo vašo partnersko povezavo.",
+  "aff_order_conversion_rate": "Stopnja konverzije",
+  "aff_order_tooltip_conversion_rate": "Ukrep, s katerim lahko analizirate uspešnost promocije vašega izdelka.",
+  "aff_order_product_total": "Skupaj izdelkov",
+  "aff_order_click_total": "Skupno število klikov",
+  "aff_order_earnings_total": "Skupni zaslužek",
+  "aff_order_id_unknown": "Neznana koda naročila",
+  "aff_order_added": "dodana na plačilni račun",
+  "aff_order_type_waiting": "Obravnavati",
+  "aff_order_type_pending": "V teku",
+  "aff_order_type_available": "Na voljo",
+  "aff_order_type_cancel": "Prekinjeno",
+  "aff_ordered_total": "Skupno naročenih izdelkov",
+  "aff_order_receive_commission": "Skupno prejeta naročila provizij",
+  "aff_verify_do_not_have_account": "ŠE NI\n IMATE PLAČILNEGA RAČUNA",
+  "aff_guild": "Navodila",
+  "aff_seller_code": "Šifra prodajalca: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Koda prodajalca",
+  "aff_view_detail": "Ogled podrobnosti",
+  "aff_notification_turn_off_link_1": "Funkcija pridruženega trženja \n",
+  "aff_notification_turn_off_link_2": "je onemogočen, kar pomeni, da bodo povezane povezave, ki ste jih delili, neveljavne!",
+  "aff_notification_turn_on_link_success": "Funkcija pridruženega trženja za {type} je uspešno omogočena",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Provizije za letenje",
+  "aff_commission_list_hotel": "Hotelske provizije po državah",
+  "aff_tooltip_menu": "Odpri meni",
+  "aff_tooltip_dash_board": "Hiter dostop do armaturne plošče",
+  "aff_tooltip_guild": "Spustite se za navodila",
+  "aff_action_done": "Končano",
+  "aff_check_user_failed": "Uporabnika ni mogoče preveriti. Prosim poskusite kasneje.",
+  "aff_something_went_wrong": "Nekaj ​​je šlo narobe.",
+  "aff_page_not_found": "Stran ni najdena.",
+  "aff_and": "in",
+  "aff_month_summary": "Povzetek za ta mesec",
+  "aff_see_more": "Poglej več",
+  "aff_try_again": "Poskusi ponovno",
+  "aff_error_try_again": "Pojavila se je napaka. Prosim poskusite kasneje.",
+  "aff_tooltip_flight_international": "Leti z odhodi ali prihodi zunaj ozemlja Vietnama.",
+  "aff_area_code": "Telefonska koda",
+  "aff_phone_number": "Telefonska številka",
+  "aff_validate_sms_required": "Prosimo vnesite potrditveno kodo",
+  "aff_validate_sms_min_length": "Vnesite celotno potrditveno kodo",
+  "aff_welcome": "dobrodošli",
+  "aff_verify_update": "Posodobite plačilni račun",
+  "aff_verify_create_account": "Ustvarite plačilni račun",
+  "aff_verify_invalid_wallet": "Posodobite plačilni račun",
+  "aff_verify_do_not_have_account_subtitle": "Ustvarite plačilni račun za uporabo funkcije prodaje na Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Posodobite svojo telefonsko številko v svojem plačilnem računu, da boste lahko še naprej uporabljali storitve na Hahalolo",
+  "aff_guild_1": "Zdaj lahko s klikom hitro omogočite funkcijo pridruženega trženja",
+  "aff_guild_2": "v razdelku Hotel/Letal",
+  "aff_guild_3": "Ko vklopite affiliate marketing, lahko promovirate svoje izdelke prek:",
+  "aff_guild_4": "Povezava, ki jo privzeto nastavi Hahalolo v",
+  "aff_guild_5": "Vse povezave, povezane z razdelkom, katerega pridruženo trženje je omogočeno, pod pogojem, da je koda vašega prodajalca priložena ustrezni povezavi do izdelka.",
+  "aff_seller": "Prodajalec",
+  "aff_menu": "Kategorija",
+  "aff_dash_chart_title": "Statistični grafikon vaših zaslužkov in klikov za ta mesec",
+  "aff_dash_click": "Kliki",
+  "aff_dash_commission": "Zaslužki",
+  "aff_flight_commission_detail_customer_way": "/ potniški / segment",
+  "aff_flight_commission_detail_order_total": "/ skupaj naročil",
+  "aff_performance_chart_title": "Statistični grafikon klikov partnerskih povezav, skupno število prejetih naročil in provizije ter prihodek",
+  "aff_customer_chart_title": "Statistični grafikon informacij o strankah",
+  "aff_payment_chart_title": "Statistična tabela provizij",
+  "aff_action_exit": "Izhod",
+  "aff_action_update": "nadgradnja",
+  "aff_action_create": "ustvariti",
+  "aff_dialog_check_invalid_user": "Prosimo, {action} svoj plačilni račun, da boste lahko uporabljali storitve pridruženega trženja na Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Datum",
+  "aff_action_register": "register",
+  "aff_otp_time_left": "Še {number}-krat",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "USTVARI PLAČILNI RAČUN",
+  "wallet_create_payment_subtitle": "Nastavitev plačilnega računa je določena kot primarni plačilni račun, vključno s prejemanjem denarja, dvigom in plačilom po dodelitvi.",
+  "wallet_verify_otp_title": "Vnesi potrditveno kodo",
+  "wallet_verify_otp_subtitle": "Poslali smo potrditveno kodo na {phone}. \nVnesite kodo, ki ste jo prejeli, da dokončate ta korak.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Plačilni račun",
+  "wallet_start_subtitle": "Plačilni račun Hahalolo je plačilna rešitev na Hahalolo, ki vam pomaga do zanimivih in priročnih izkušenj z nami.",
+  "wallet_label_choose_business": "Izberite posel",
+  "wallet_label_account_name": "Ime računa",
+  "wallet_label_email": "E-naslov",
+  "wallet_label_phone": "Telefonska številka",
+  "wallet_label_choose_currency": "Izberite valuto",
+  "wallet_label_payment_country": "Država plačila",
+  "wallet_label_payment_method": "Način plačila",
+  "wallet_label_card_holder_name": "Ime imetnika kartice (brez tonskih oznak)",
+  "wallet_label_card_bank_name": "Ime banke",
+  "wallet_label_card_swift_code": "Koda SWIFT",
+  "wallet_label_bank_account_number": "Številka bančnega računa",
+  "wallet_label_account_type": "Vrsta računa",
+  "wallet_label_tax_code": "Davčna številka",
+  "wallet_label_tax_type": "Vrsta davka",
+  "wallet_label_address": "Naslov",
+  "wallet_label_address_2": "Naslov 2 (neobvezno)",
+  "wallet_label_country": "Država",
+  "wallet_label_city": "Pokrajina/Mesto",
+  "wallet_label_district": "okrožje",
+  "wallet_label_first_name": "Priimek",
+  "wallet_label_last_name": "Ime",
+  "wallet_label_middle_name": "srednje ime (neobvezno)",
+  "wallet_label_postal_code": "Poštna številka",
+  "wallet_label_city_more_description": "Zvezna država/Provinca/Regija",
+  "wallet_label_postal_code_more_description": "Zip/Poštna številka",
+  "wallet_label_district_more_description": "Mesto/Mesto",
+  "wallet_label_birthday_18_years_old": "Datum rojstva (vsaj 18 let)",
+  "wallet_label_date_of_birth": "Datum rojstva",
+  "wallet_label_enter_password": "Vnesite vaše geslo",
+  "wallet_label_password": "Geslo",
+  "wallet_label_enter_pin": "Vnesite PIN",
+  "wallet_label_re_enter_new_pin": "Znova vnesite novo kodo PIN",
+  "wallet_label_enter_new_pin": "Vnesite nov PIN",
+  "wallet_label_enter_current_pin": "Vnesite stari PIN",
+  "wallet_validate_pin_required": "Vnesite PIN",
+  "wallet_validate_otp_required": "Prosimo vnesite potrditveno kodo",
+  "wallet_validate_current_pin_required": "Vnesite svoj stari PIN",
+  "wallet_validate_new_pin_required": "Prosimo vnesite svoj novi PIN.",
+  "wallet_validate_re_enter_new_pin_required": "Ponovno vnesite vašo novo kodo PIN.",
+  "wallet_validate_re_enter_new_pin_not_match": "Potrditveni PIN se ne ujema",
+  "wallet_action_detail": "Podrobnosti",
+  "wallet_text_pick_date": "Izberite datum",
+  "wallet_text_email_address": "Email naslov",
+  "wallet_text_message_to": "Pošlji sporočilo na",
+  "wallet_text_recovery_method": "Metoda obnovitve",
+  "wallet_text_recovery_choose_method": "Izberite, kako pridobite obnovitveno kodo",
+  "wallet_text_change_pin": "Spremenite svoj PIN",
+  "wallet_text_forgot_pin": "Ste pozabili PIN?",
+  "wallet_text_show_pin": "Prikaži PIN",
+  "wallet_text_please_try_again_in": "Prosim poskusite kasneje:",
+  "wallet_text_remove_account": "Izbriši izplačilni račun",
+  "wallet_text_ineligible_payment": "Ni primerno za transakcijo",
+  "wallet_text_ineligible_payment_description": "Iz sistema ne boste mogli izvajati nobenih transakcij, dokler naš skrbnik ne sprejme podatkov o vašem računu za izplačilo. Posodobite podatke o računu za izplačilo.",
+  "wallet_text_address_2": "naslov 2",
+  "wallet_text_new_account": "Ustvari izplačilni račun",
+  "wallet_text_payout_account_detail": "Podrobnosti računa za izplačilo",
+  "wallet_text_middle_name": "Srednje ime",
+  "wallet_text_account_owner": "Imetnik računa",
+  "wallet_text_tax_form": "Davčni obrazec",
+  "wallet_text_tax_form_subtitle": "Na podlagi podatkov, ki ste jih posredovali, vam ni treba naložiti dodatnih davčnih obrazcev. Za nadaljevanje na naslednji korak kliknite Nadaljuj.",
+  "wallet_text_card_holder_name": "Ime imetnika kartice",
+  "wallet_text_otp_code_expire_in": "Koda bo potekla čez:",
+  "wallet_text_account_information": "Podatki o računu",
+  "wallet_text_welcome": "zdravo",
+  "wallet_text_payment_information": "Informacije o plačilu",
+  "wallet_text_policies_confirm": "Strinjam se s {termsAndPolicies}",
+  "wallet_terms_and_policies": "Pogoji in pravilniki Hahalolo.",
+  "wallet_text_default": "Privzeto",
+  "wallet_text_code_vie_sms": "Pošlji kodo prek SMS-a",
+  "wallet_text_pin_code_recovery_description": "Uporabite svojo e-pošto, da preverite, če ste pozabili PIN.",
+  "wallet_text_sms_recovery_description": "Uporabite svojo telefonsko številko, da preverite, ali ste pozabili PIN.",
+  "wallet_text_authority": "Strinjam se, da Hahalolo uporabi podatke o mojem računu za nadaljevanje nakazila denarja.",
+  "wallet_text_district_three_dot": "okrožje...",
+  "wallet_text_set_up_pin": "Nastavite PIN",
+  "wallet_text_established": "(Ustanovljeno)",
+  "wallet_text_not_have_pin_yet_title": "Nimate kode PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Za uporabo te funkcije ustvarite kodo PIN",
+  "wallet_text_security_pin_code_description": "PIN za plačilni račun Hahalolo je potreben za zaščito vašega računa in finančnih podatkov. Še več, ob ponovni prijavi vam ni treba znova vnašati podatkov o kartici.",
+  "wallet_text_check_password_locked": "Funkcija preverjanja gesla je začasno zaklenjena. Prosim poskusite kasneje.",
+  "wallet_text_enter_password_description": "Za potrditev spremembe morate vnesti geslo računa Hahalolo.",
+  "wallet_text_enter_sms_code": "Vnesi potrditveno kodo",
+  "wallet_text_send_sms_description_1": "Poslali smo potrditveno kodo na",
+  "wallet_text_send_sms_description_2": "\nVnesite kodo, ki ste jo prejeli, da dokončate ta korak.",
+  "wallet_text_resend": "Ponovno poslati",
+  "wallet_text_no_data": "Trenutno ni podatkov!",
+  "wallet_text_bank_transfer": "bančno nakazilo",
+  "wallet_text_tax_ptin": "Pripravljavec davčne številke",
+  "wallet_text_tax_atin": "Identifikacijska številka davčnega zavezanca za posvojitev",
+  "wallet_text_tax_ssn": "Številka socialnega zavarovanja",
+  "wallet_text_account_personal": "Osebni račun",
+  "wallet_text_account_business": "Poslovni račun",
+  "wallet_text_country_code_and": "kodo države in",
+  "wallet_text_resend_time": "Ponovno pošlji {time}",
+  "wallet_text_change_your": "Spremenite svoje {text}",
+  "wallet_start_person_button": "{action} osebni plačilni račun",
+  "wallet_start_business_button": "{action} poslovni plačilni račun",
+  "wallet_text_recovery_subtitle_1": "Vaše trenutno {text} je\n{value}",
+  "wallet_text_recovery_subtitle_2": "Vnesite novo {extra_text}{text}",
+  "wallet_text_enter_new": "Vnesite nov {title}",
+  "wallet_text_new": "nov {title}",
+  "wallet_succ_setup_pin": "PIN je bil uspešno nastavljen.",
+  "wallet_succ_setup_pin_content": "Uspešno ste nastavili PIN.",
+  "wallet_succ_change_pin": "PIN je bil uspešno spremenjen",
+  "wallet_succ_change_pin_content": "Uspešno ste spremenili svoj PIN",
+  "wallet_succ_change_information": "Podatki so bili uspešno posodobljeni in preverjeni",
+  "wallet_war_remove_payout_account": "Ali ste prepričani, da želite trajno izbrisati ta račun?",
+  "wallet_war_create_payment_title": "Ustvarite plačilni račun",
+  "wallet_war_create_payment_subtitle": "Preden ustvarite plačilni račun, ustvarite poslovni račun.",
+  "wallet_war_unsaved_information": "Podatki, ki ste jih uredili, morda ne bodo shranjeni. Ali želite izstopiti?",
+  "wallet_err_recovery": "Obnovitev ni uspela. Prosim poskusite kasneje.",
+  "wallet_err_recovery_no_user_data": "Obnovitev ni uspela. Ni podatkov o uporabniku.",
+  "wallet_err_recovery_phone_exists": "Obnovitev ni uspela. Ta telefonska številka že obstaja.",
+  "wallet_err_recovery_phone_invalid": "Obnovitev ni uspela. Telefonska številka je neveljavna.",
+  "wallet_err_recovery_password_invalid": "Obnovitev ni uspela. Vaše geslo ni pravilno.",
+  "wallet_err_pin_existed": "PIN že obstaja.",
+  "wallet_err_pin_wallet_not_exist": "Plačilni račun ne obstaja",
+  "wallet_err_pin_incorrect_or_exists": "PIN je napačen ali ne obstaja",
+  "wallet_err_pin_try_again": "Nastavitev kode PIN ni uspela. Prosim poskusite kasneje.",
+  "wallet_err_set_payout_default": "Izbira privzetega računa za izplačilo ni uspela. Prosim poskusite kasneje!",
+  "wallet_err_occurred_try_again": "Pojavila se je napaka. Prosim poskusite kasneje.",
+  "wallet_err_send_verify_title": "Kode za preverjanje ni bilo mogoče poslati",
+  "wallet_err_try_again": "Pojavila se je napaka. Prosim poskusite kasneje.",
+  "wallet_err_create_payout_title": "Računa za izplačilo ni bilo mogoče ustvariti. Prosim poskusite kasneje.",
+  "wallet_err_fetch_data_failed": "Podatkov ni bilo mogoče naložiti. Prosim poskusite kasneje!",
+  "wallet_err_occurred_processing": "Med obdelavo je prišlo do napake. Prosim poskusite kasneje.",
+  "wallet_err_remove_payout": "Računa ni bilo mogoče izbrisati. Prosim poskusite kasneje.",
+  "wallet_err_change_pin": "PIN ni bilo mogoče spremeniti",
+  "wallet_err_setup_pin": "Nastavitev kode PIN ni uspela",
+  "wallet_err_sms_code_expired": "Koda za preverjanje je potekla. Prosim poskusite ponovno.",
+  "wallet_err_sms_code_incorrect": "Koda za preverjanje ni pravilna. Prosim poskusite ponovno.",
+  "wallet_create_payout_title": "Ustvari izplačilni račun",
+  "wallet_action_continue": "Nadaljuj",
+  "wallet_action_create": "Ustvari",
+  "wallet_action_update": "Nadgradnja",
+  "wallet_action_ok": "Se strinjam",
+  "wallet_action_complete": "Popolna",
+  "wallet_action_next": "Nadaljuj",
+  "wallet_action_try_back": "Pojdi nazaj",
+  "wallet_action_try_again": "Poskusi ponovno",
+  "wallet_action_accept": "Sprejmi",
+  "wallet_action_remove": "Izbriši",
+  "wallet_action_change": "spremeniti",
+  "wallet_action_setup": "Nastaviti",
+  "wallet_action_confirm": "Potrdi",
+  "wallet_action_cancel": "Prekliči",
+  "wallet_action_close": "Zapri",
+  "wallet_overview": "Pregled",
+  "wallet_notification": "Obvestila",
+  "wallet_transaction_history": "Zgodovina transakcij",
+  "wallet_transfer_point": "Prestopne točke",
+  "wallet_payout_accounts": "Izplačilni račun",
+  "wallet_security": "Varnost",
+  "wallet_recovery_methods": "Metoda obnovitve",
+  "wallet_help_center": "Center pomoči",
+  "wallet_view_profile": "Ogled informacij",
+  "wallet_info_title": "Podatki o plačilnem računu",
+  "wallet_edit_identity_card": "ID kartica",
+  "wallet_edit_id_card": "ID kartica",
+  "wallet_edit_passport": "Potni list",
+  "wallet_edit_verify_status": "Stanje",
+  "wallet_edit_not_verify": "Nepreverjeno",
+  "wallet_edit_verified": "Preverjeno",
+  "wallet_edit_verify_waiting": "V teku",
+  "wallet_edit_gender": "Spol",
+  "wallet_edit_male": "moški",
+  "wallet_edit_female": "ženska",
+  "wallet_edit_other": "drugo",
+  "wallet_owner_title": "Informacije o uporabniku",
+  "wallet_edit_fullName": "Polno ime",
+  "wallet_edit_email": "E-naslov",
+  "wallet_edit_phoneNumber": "Telefonska številka",
+  "wallet_edit_dateOfBirth": "Datum rojstva",
+  "wallet_edit_dateOfBirth_13_yo": "Datum rojstva (vsaj 13 let)",
+  "wallet_edit_address": "Naslov",
+  "wallet_edit_country": "Država",
+  "wallet_edit_idType": "Vrsta identifikacije",
+  "wallet_edit_id_passport": "ID številka/Potni list",
+  "wallet_edit_country_issue": "Država izdaje",
+  "wallet_edit_id_document": "Slike kartice ID/Potni list",
+  "wallet_edit_front": "Prednja stran",
+  "wallet_edit_back": "Zadnja stran",
+  "wallet_edit_activate_date": "Datum začetka veljavnosti",
+  "wallet_edit_expiration_date": "Rok uporabnosti",
+  "wallet_waiting_balance": "Čakajoče stanje",
+  "wallet_pending_balance": "Bilanca v postopku",
+  "wallet_available_balance": "Razpoložljivo stanje",
+  "wallet_frozen_balance": "Zamrznjeno stanje",
+  "wallet_top10_trans": "Zadnjih 10 transakcij",
+  "wallet_source_withdrawal": "Odstop",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Denar noter",
+  "wallet_source_outcome": "Money out",
+  "wallet_source_point": "Točke",
+  "wallet_source_aff_commission": "Podružnica - provizija",
+  "wallet_source_aff_reward": "Affiliate – program nagrajevanja",
+  "wallet_source_recharge": "Dopolnite",
+  "wallet_source_order": "naročilo",
+  "wallet_status_waiting": "V teku",
+  "wallet_status_pending": "Čaka na odobritev",
+  "wallet_status_available": "Na voljo",
+  "wallet_status_frozen": "Zamrznjeno",
+  "wallet_status_cancel": "Prekinjeno",
+  "wallet_status_success": "Uspešno",
+  "wallet_status_error": "Ni uspelo",
+  "wallet_status_outcome": "Money out",
+  "wallet_status_transfer": "Prestopne točke",
+  "wallet_action_receive": "Prejmite točke",
+  "wallet_action_donate": "Daj točke",
+  "wallet_action_buy_point": "Kupite točke",
+  "wallet_action_payment": "Plačilo",
+  "wallet_filter_all": "Vse",
+  "wallet_filter_allTime": "Vse",
+  "wallet_filter_today": "Danes",
+  "wallet_filter_yesterday": "včeraj",
+  "wallet_filter_7days": "Zadnjih 7 dni",
+  "wallet_filter_30days": "Zadnjih 30 dni",
+  "wallet_filter_custom_date": "Neobvezen datum",
+  "wallet_filter_status": "Stanje",
+  "wallet_filter_time": "Čas",
+  "wallet_filter_action": "Akcija",
+  "wallet_validate_this_field": "To polje",
+  "wallet_validate_required": "{fieldName} je obvezno",
+  "wallet_validate_invalid_email": "Neveljaven e-poštni naslov",
+  "wallet_validate_invalid_phone_number": "Neveljavna telefonska številka",
+  "wallet_validate_invalid_number": "Neveljavna številka",
+  "wallet_validate_limit_length": "{fieldName} mora imeti najmanj {minLength} znakov",
+  "wallet_validate_not_contain_number": "{fieldName} ne sme vsebovati številskih znakov",
+  "wallet_validate_not_contain_special_char": "{fieldName} ne sme vsebovati posebnih znakov",
+  "wallet_validate_invalid_swift_code_length": "Koda Swift je sestavljena le iz 8 do 11 znakov",
+  "wallet_validate_invalid_swift_code": "Neveljavna swift koda",
+  "wallet_no_transaction": "Brez transakcij!",
+  "wallet_no_image": "Ni še fotografij",
+  "wallet_edit_quit_msg": "Podatki, ki ste jih uredili, morda ne bodo shranjeni. Ali želite izstopiti?",
+  "wallet_point_total": "Skupaj:",
+  "wallet_payment_methods": "Način plačila",
+  "wallet_payment_methods_note": "(Opomba: '{HAHALOLO}' podpira uporabnike z bančnimi stroški '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Število točk",
+  "wallet_points": "{number} točk",
+  "wallet_1point": "1 točka",
+  "wallet_msg_enter_number_of_points": "Vnesite število točk, ki jih želite kupiti",
+  "wallet_msg_pin_not_correct": "PIN je napačen ali ne obstaja",
+  "wallet_msg_balance_not_enough": "Nezadostno stanje",
+  "wallet_msg_error_while_buy_point": "Med nakupom točk je prišlo do napake",
+  "wallet_msg_fetch_error": "Pojavila se je napaka. Prosim poskusite kasneje.",
+  "wallet_msg_buy_point_success": "Uspešno ste kupili točke",
+  "wallet_withdrawal_req": "Zahteva za dvig:",
+  "wallet_withdrawal_payment_acc_id": "ID plačilnega računa:",
+  "wallet_withdrawal_balance": "Razpoložljivo stanje:",
+  "wallet_withdrawal_payout_acc": "izplačilni račun",
+  "wallet_withdrawal_amount": "Znesek ({currency})",
+  "wallet_label_desc": "Opis",
+  "wallet_btn_save": "Shrani",
+  "wallet_btn_edit_owner": "Uredi",
+  "wallet_btn_buy": "Nakup",
+  "wallet_btn_reset": "Ponovno vnesite",
+  "wallet_insufficient_available_balances": "Ni dovolj razpoložljivega stanja",
+  "wallet_msg_complete_info": "Prosimo, izpolnite podatke",
+  "wallet_msg_success": "Uspešno ste se umaknili",
+  "wallet_msg_wal_not_exist": "Plačilni račun ne obstaja",
+  "wallet_msg_wal_blocked": "Plačilni račun blokiran",
+  "wallet_msg_acc_incorrect": "Napačen plačilni račun",
+  "wallet_msg_total_not_available": "Skupni zahtevani znesek ni na voljo",
+  "wallet_msg_pin_locked": "PIN plačilnega računa je zaklenjen",
+  "wallet_msg_withdrawal_failed": "Dvig ni uspel. Prosim poskusite kasneje.",
+  "wallet_msg_fill_in_all_info": "Prosimo, izpolnite podatke",
+  "wallet_update_info_success": "Uspešno ste posodobili podatke",
+  "wallet_update_info_fail": "Informacij ni bilo mogoče posodobiti",
+  "wallet_no_notifications": "Nimate nobenih obvestil",
+  "wallet_buy_point_payment_method_note": "(Opomba: '{hahalo}' podpira uporabnike z '{free}' bančnimi stroški)",
+  "wallet_note_free": "PROST",
+  "wallet_buy_point_policy": "Strinjam se s {condition} in {privacy}",
+  "wallet_term_conditions": "Pogoji",
+  "wallet_privacy": "Zasebnost",
+  "wallet_msg_receiving_account_not_exist": "Plačilni račun prejemnika ne obstaja",
+  "wallet_msg_search_account_error": "Pri iskanju plačilnega računa je prišlo do napake",
+  "wallet_msg_sending_account_not_exist": "Plačilni račun pošiljatelja ne obstaja",
+  "wallet_msg_point_balance_not_enough": "Točkovno stanje plačilnega računa ni dovolj",
+  "wallet_msg_cannot_give_to_itself": "Točk ne morete prenesti nase",
+  "wallet_msg_cannot_give_to_business": "Plačilni račun prejemnika ne more biti poslovni račun",
+  "wallet_msg_transfer_point_err": "Med prenosom točk je prišlo do napake",
+  "wallet_msg_transfer_point_success": "Točke so bile uspešno prenesene",
+  "wallet_recipient_info": "Podatki o prejemniku",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Število točk",
+  "wallet_not_verified": "Nepreverjen plačilni račun",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} uro {minute} minuto",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 ustavi} other{{countStop} ustavi}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Tranzitni čas približno {time} v {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Odrasli (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Otroci (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Baby (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} odrasli} other{{count} odrasli}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} otrok} other{, {count} otroci}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} dojenček} other{, {count} dojenčki}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Tranzitni čas približno {times} v {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAM} other{{countBag} KILOGRAM}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Let v eno smer",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Odhodni let",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Povratni let",
+  "flight_fare_rule_title_fare_conditions": "Cenovni pogoji",
+  "flight_fare_rule_title_departure_flight": "Let",
+  "flight_fare_rule_title_segment": "Segment",
+  "flight_fare_rule_notice_empty_fare_rule": "Pogojev letalske družbe ni mogoče najti",
+  "flight_filter_by_title_filter": "Filter",
+  "flight_filter_by_content_btn_filter": "Filter",
+  "flight_filter_by_title_airline": "Letalska družba",
+  "flight_filter_by_title_flight_times": "Čas letenja",
+  "flight_filter_by_title_type_flight_times_early_morning": "Zgodaj zjutraj \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Zjutraj \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Popoldne \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Večer \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Število postankov",
+  "flight_filter_by_title_select_all": "Izberi vse",
+  "flight_filter_by_title_unselect_all": "Prekliči izbor vseh",
+  "flight_filter_by_title_type_segment_all": "vse",
+  "flight_filter_by_title_type_segment_direct": "Direktni let",
+  "flight_filter_by_title_type_segment_transit": "Tranzit",
+  "flight_sort_by_title_sort_by": "Razvrsti po",
+  "flight_sort_by_title_sort_by_ascending_price": "Naraščajoča cena",
+  "flight_sort_by_title_sort_by_descending_price": "Padajoča cena",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Najzgodnejši čas odhoda",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Najzgodnejši čas prihoda",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Zadnji čas prihoda",
+  "flight_search_result_title_count_adult": "odrasla oseba",
+  "flight_search_result_title_count_child": "otrok",
+  "flight_search_result_title_count_baby": "dojenček",
+  "flight_search_result_title_segment": "ustavi",
+  "flight_search_result_title_hours": "ure",
+  "flight_search_result_title_minutes": "minut",
+  "flight_search_result_title_view_detail_price": "Ogled podrobnosti",
+  "flight_search_result_title_hide_detail_price": "Skrij podrobnosti",
+  "flight_search_result_title_view_detail": "Podrobnosti",
+  "flight_search_result_title_btn_book_ticket": "knjiga",
+  "flight_search_result_title_basic_price_ticket": "Cena za vstopnico",
+  "flight_search_result_title_taxes_and_fee": "Davki in pristojbine",
+  "flight_search_result_title_total_amount": "Skupni znesek",
+  "flight_search_result_title_total": "Skupaj",
+  "flight_search_result_title_fare_details": "Podrobnosti o vozovnici",
+  "flight_search_result_title_quantity": "Količina",
+  "flight_search_result_title_passenger": "Potnik",
+  "flight_search_result_title_one_way_flight": "Let v eno smer",
+  "flight_search_result_title_round_trip_flight": "Povratni let",
+  "flight_change_search_title_btn_agree": "strinjam se",
+  "flight_change_search_title_btn_cancel": "Prekliči",
+  "flight_change_search_title_header_dialog": "Spremeni iskanje",
+  "flight_change_search_title_body_dialog": "Ali ste prepričani, da želite spremeniti podatke za iskanje?",
+  "flight_change_search_title_footer_dialog": "Če se strinjate s spremembo podatkov za iskanje, bodo vsi prejšnji podatki izbrisani.",
+  "flight_search_result_detail_title_flight_details": "Podrobnosti poleta",
+  "flight_search_result_detail_title_checked_baggage": "Oddana prtljaga",
+  "flight_search_result_detail_title_aircraft": "Letalo",
+  "flight_search_result_detail_title_seat_class": "Razred sedeža",
+  "flight_search_result_detail_title_class_seat_type_all": "vse",
+  "flight_search_result_detail_title_class_seat_type_economy": "Gospodarstvo",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Prvič",
+  "flight_search_result_detail_title_class_seat_type_business": "Posel",
+  "flight_search_result_detail_content_note_transit_body": "Opomba: Potniki bodo morda morali na zahtevo države gostiteljice opraviti carinjenje in predložiti svoj tranzitni vizum.",
+  "flight_transit_alter_note": "Opomba: Potniki bodo morda morali na zahtevo države gostiteljice opraviti carinjenje in predložiti svoj tranzitni vizum.",
+  "flight_luggage": "Prtljaga",
+  "flight_signed_luggage": "Oddana prtljaga",
+  "flight_service_package": "Paketi storitev",
+  "flight_run_by": "Upravlja ga",
+  "flight_result_notice_no_flight_found": "Najden ni bil noben let!",
+  "flight_result_notice_no_flight_found_filter": "Oprostite, ni letov, ki bi ustrezali vašim kriterijem",
+  "flight_result_notice_check_internet_again": "Vaša povezava je bila prekinjena. Ponovno preverite povezavo",
+  "flight_result_notice_error_authentication": "Vaša prijavna seja je potekla. Prosimo, prijavite se znova",
+  "flight_search_result_notice_booking_expired": "Obdobje rezervacije bo kmalu poteklo",
+  "flight_search_result_notice_click_continue_to_proceed": "Kliknite \"Nadaljuj\", da nadaljujete z rezervacijo.",
+  "flight_search_result_btn_continue": "Nadaljuj",
+  "flight_input_title_gender": "Spol",
+  "flight_input_title_gender_male": "moški",
+  "flight_input_title_gender_female": "ženska",
+  "flight_input_title_gender_other": "drugo",
+  "flight_search_price_info_bottom_sheet_tax_include": "Davek je vključen",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Prispevek je vključen",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Sistemsko in administrativno doplačilo",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Pristojbina za varnostni pregled",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Ugodno doplačilo za plačilo",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Letališka pristojbina",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Odrasli",
+  "flight_v2_model_booking_children": "Otroci",
+  "flight_v2_model_booking_infant": "Dojenček",
+  "flight_v2_model_detail_infant": "(mlajši od 2 let)",
+  "flight_v2_model_detail_children": "(od 02 do 12 let)",
+  "flight_v2_component_bonus_services_title_string": "Dodatne storitve",
+  "flight_v2_component_bonus_service_header": "Dodatne storitve",
+  "flight_v2_component_bonus_service_content_header_price": "Zavarovalnina",
+  "flight_v2_component_bonus_service_flight_table_header": "Skupna zavarovalnina",
+  "flight_v2_component_bonus_service_text1_introduce": "Uvod",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Vrsta zavarovanja:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Zavarovanje letov",
+  "flight_v2_component_bonus_service_text1_supplier": "Ponudnik:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance delniška družba (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "Na potovanju z našim zaupanja vrednim potovalnim zavarovanjem boste popolnoma samozavestni",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Predmet zavarovanja",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Posamezniki za potovanje z letalom uporabljajo storitev rezervacije letalskih vozovnic v sistemu Hahalolo.",
+  "flight_v2_component_bonus_service_text1_age": "Starost: od 07 dni.",
+  "flight_v2_component_bonus_service_text1_range": "Obseg",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Zavarovalno kritje vključuje naslednja tveganja:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Smrt ali telesna poškodba zaradi nesreče.",
+  "flight_v2_component_bonus_service_text1_impediments": "Potovalna tveganja, in sicer odpoved/skrajšanje potovanja, izguba ali poškodba prtljage, oblačil in osebnih stvari zavarovane osebe, zamuda leta letalske družbe, zamuda prtljage, izgubljene potne listine ali ugrabitev.",
+  "flight_v2_component_bonus_service_text1_benefit": "Prednosti",
+  "flight_v2_component_bonus_service_text1_small_amount": "Porabite le majhno količino denarja za večkratno zaščito.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Ugodnosti osebnega zavarovanja:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Zavarovanec, ki umre zaradi nezgode ali poškodbe, ki jo krije zavarovanje, prejme celotno zavarovalno vsoto do 1.000.000 VND",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Ugodnosti zavarovanja tveganega potovanja:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Zavarovanec bo prejel odškodnino do največ 20.000.000 VND",
+  "flight_v2_component_bonus_service_text1_rules": "Pogoji",
+  "flight_v2_component_bonus_service_text1_more_information": "Več podrobnosti najdete v priloženi datoteki ali pa se obrnite",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Pravila potovalnega zavarovanja",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Soglašajte s sodelovanjem pri zavarovanju letov",
+  "flight_v2_component_booking_flight_information": "Informacije o letu",
+  "flight_v2_component_booking_show": "Preberi več",
+  "flight_v2_component_booking_hide": "skrij",
+  "flight_v2_component_booking_adult": "Odrasli",
+  "flight_v2_component_booking_children": "Otroci",
+  "flight_v2_component_booking_infant": "Baby",
+  "flight_v2_component_booking_baggage": "Prtljaga",
+  "flight_v2_component_booking_main_content_service": "Storitve",
+  "flight_v2_component_booking_taxes_fees": "Pristojbine in davki",
+  "flight_v2_component_booking_title_booking_information": "Informacije o rezervaciji",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Odhodni let",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Povratni let",
+  "flight_v2_component_confirm_title_flight_information": "Informacije o letu",
+  "flight_v2_component_confirm_text_done": "Končano",
+  "flight_v2_component_detail_booking_information": "Informacije o rezervaciji",
+  "flight_v2_component_detail_flight_information": "Informacije o letu",
+  "flight_v2_component_detail_passenger_information": "Podatki o potnikih",
+  "flight_v2_component_payment_booking_information": "Informacije o rezervaciji",
+  "flight_v2_component_payment_information": "Informacije",
+  "flight_v2_component_payment_passenger_information": "Podatki o potnikih",
+  "flight_v2_component_payment_making_flight_payment": "Plačate plačilo leta za naslednje potnike:",
+  "flight_v2_component_payment_payment_now": "plačati",
+  "flight_v2_component_result_title_flight_details": "Podrobnosti poleta",
+  "flight_v2_component_result_title_fare_details": "Podrobnosti o vozovnici",
+  "flight_v2_component_result_type_direct_flight": "Direktni let",
+  "flight_v2_component_result_title_showMessDiaLog": "Obvestila",
+  "flight_v2_component_result_message_selected_return": "Izbrali ste povratni let",
+  "flight_v2_component_result_message_cancel_book": "Ali želite preklicati in rezervirati nov let?",
+  "flight_v2_component_result_actionMessage_yes": "da",
+  "flight_v2_component_result_negativeMessage_no": "št",
+  "flight_v2_component_result_trip_turn_departure": "Odhod",
+  "flight_v2_component_result_trip_turn_arrival": "Prihod",
+  "flight_v2_notify_day_invalid_cannot_choose": "Ne morete izbrati",
+  "flight_v2_notify_day_invalid_because": "Ker",
+  "flight_v2_notify_day_invalid_date_is": "je",
+  "flight_v2_component_result_actionMessage_btn": "strinjam se",
+  "flight_v2_component_result_message": "Prosimo, ne izberite datumov pred trenutnim datumom",
+  "flight_v2_component_search_text_guest": "Potnik",
+  "flight_v2_component_search_button_save": "Shrani",
+  "flight_v2_component_search_text_choose_a_date": "Izberite datum",
+  "flight_v2_component_search_button_choose": "Izberite",
+  "flight_v2_widget_booking_total_price": "Skupna cena",
+  "flight_v2_widget_booking_continue": "Nadaljuj",
+  "flight_v2_widget_booking_payer_information": "Podatki o plačniku",
+  "flight_v2_widget_booking_payer_use_contact_information": "Uporabite kontaktne podatke",
+  "flight_v2_widget_booking_save_payment": "Shranite te podatke o plačilu za naslednjič",
+  "flight_v2_widget_booking_title_contact_information": "Kontaktni podatki",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Uporabite podatke o trenutnem računu",
+  "flight_v2_widget_booking_title_checkbox_passenger": "sem potnik",
+  "flight_v2_widget_booking_radio_gender": "spol",
+  "flight_v2_widget_booking_radio_male": "moški",
+  "flight_v2_widget_booking_radio_female": "Ženska",
+  "flight_v2_widget_booking_field_card_bank_card": "Bančna kartica",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Oddana prtljaga",
+  "flight_v2_widget_booking_title_passenger_information": "Podatki o potnikih",
+  "flight_v2_widget_booking_information": "informacije",
+  "flight_v2_widget_common_one_way": "Ena smer",
+  "flight_v2_widget_common_details": "Podrobnosti",
+  "flight_v2_widget_common_text_price": "Cena",
+  "flight_v2_widget_common_text_fare_conditions": "Cenovni pogoji",
+  "flight_v2_widget_common_text_service_pack": "Paketi storitev",
+  "flight_v2_widget_common_item_tax_inclusive": "Z vključenim davkom",
+  "flight_v2_widget_common_item_vat": "DDV",
+  "flight_v2_widget_common_item_fee_inclusive": "Pristojbina vključuje",
+  "flight_v2_widget_common_item_fee_surcharge": "Sistemsko in administratorsko doplačilo",
+  "flight_v2_widget_common_item_fee_screening": "Doplačilo za varnostni pregled",
+  "flight_v2_widget_common_item_fee_convenient": "Ugodno doplačilo za plačilo",
+  "flight_v2_widget_common_item_fee_airport": "Letališka pristojbina",
+  "flight_v2_widget_common_text_price_per_ticket": "Osnovna cena vozovnice",
+  "flight_v2_widget_common_text_taxes_fees": "Davki in pristojbine",
+  "flight_v2_widget_common_service_service": "Storitve",
+  "flight_v2_widget_common_text_total_amount": "Skupna cena",
+  "flight_v2_widget_common_button_continue": "Nadaljuj",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Vključeni so davki in pristojbine)",
+  "flight_v2_widget_common_service_accommodation_service": "Nastanitvene storitve",
+  "flight_v2_widget_common_text_direct_flight": "Direktni let",
+  "flight_v2_widget_confirm_description": "spol",
+  "flight_v2_widget_confirm_description_full_name": "Polno ime",
+  "flight_v2_widget_confirm_description_email": "E-naslov",
+  "flight_v2_widget_confirm_description_phone_number": "Telefonska številka",
+  "address": "naslov",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Rezervacija uspešna",
+  "flight_v2_widget_confirm_text_reservation_request": "Vaša zahteva za rezervacijo je bila uspešno izvedena",
+  "flight_v2_widget_confirm_text_paid_already": "(plačano)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Podrobnosti poti si lahko ogledate spodaj.",
+  "flight_v2_widget_confirm_title_payment_information": "Informacije o plačilu",
+  "flight_v2_widget_confirm_description_orders": "Naročila",
+  "flight_v2_widget_confirm_description_price": "Cena",
+  "flight_v2_widget_confirm_description_payers": "Plačnik",
+  "flight_v2_widget_confirm_button_view_details": "Ogled podrobnosti",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Knjiga nova",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Hvala za zaupanje v našo storitev",
+  "flight_v2_widget_confirm_textspan_question_help": "Če imate kakršna koli vprašanja ali potrebujete dodatno pomoč, se obrnite na Hahalolo center za pomoč",
+  "flight_v2_widget_confirm_text_paid_instructions": "za navodila.",
+  "flight_v2_widget_confirm_title_passenger_information": "Podatki o potnikih",
+  "flight_v2_widget_confirm_title_flight_information": "Informacije o letu",
+  "flight_v2_widget_confirm_text_ticket_class": "razred",
+  "flight_v2_widget_confirm_text_booking_code": "Referenca rezervacije",
+  "flight_v2_widget_confirm_text_flight": "Let",
+  "flight_v2_widget_confirm_description_name": "ime",
+  "flight_v2_widget_confirm_description_guest_type": "Vrsta potnika",
+  "flight_v2_widget_confirm_description_baggage": "Prtljaga",
+  "flight_v2_widget_dialog_config_button_agree": "strinjam se",
+  "flight_v2_widget_dialog_config_button_deny": "Preskoči",
+  "flight_v2_widget_dialog_config_title": "Spremeni informacije",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Ali ste prepričani, da želite spremeniti podatke za iskanje\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Če se strinjate s spremembo vaših iskalnih podatkov, bodo vsi prejšnji podatki izbrisani",
+  "flight_v2_widget_dialog_config_title_delete_account": "Izbriši račun",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Račun ne bo prikazan v razdelku Izbira plačilnega računa. Ali želite izbrisati ta plačilni račun? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Izberite drug čas leta",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Spremeni iskanje",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Let je presegel dovoljeni čas",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Izbrani let je presegel dovoljeni čas rezervacije.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Kontaktirajte nas",
+  "flight_v2_widget_dialog_config_text_span_by_number": "preko",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Hotline",
+  "flight_v2_widget_dialog_config_text_span_or": "oz",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "spremenite iskanje novega leta.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Izberite drug let",
+  "flight_v2_widget_dialog_config_title_not_available": "Let ni\n na voljo",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Vaš izbran let žal ni več na voljo. prosim",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "izberite drug let ali spremenite iskanje.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Spremembe vozovnic",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Vaša cena vozovnice se je spremenila od",
+  "flight_v2_widget_dialog_config_text_span_to": "do",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nzaradi sprememb letalskih vozovnic",
+  "flight_v2_widget_field_fname_required": "Priimek je obvezen",
+  "flight_v2_widget_field_fname_invalid": "Neveljaven priimek",
+  "flight_v2_widget_field_fname_last_name": "Priimek (brez tonskih oznak)",
+  "flight_v2_widget_field_lname_required": "Srednje in ime/ime sta obvezna",
+  "flight_v2_widget_field_lname_invalid": "Neveljavno srednje in ime/ime",
+  "flight_v2_widget_field_lname_middle_first_name": "Srednje in ime/ime (brez tonskih oznak)",
+  "flight_v2_widget_field_email_required": "E-pošta je obvezna",
+  "flight_v2_widget_field_email_invalid": "Neveljaven e-poštni naslov",
+  "flight_v2_widget_field_email_email": "E-naslov",
+  "flight_v2_widget_field_phone_required": "Telefonska številka je obvezna",
+  "flight_v2_widget_field_phone_invalid": "Neveljavna telefonska številka",
+  "flight_v2_widget_field_phone_phone": "Telefonska številka",
+  "flight_v2_widget_field_address_required": "Naslov je obvezen",
+  "flight_v2_widget_field_address_invalid": "Neveljaven naslov",
+  "flight_v2_widget_field_address_address": "naslov",
+  "flight_v2_widget_field_city_required": "Obvezna je država/mesto",
+  "flight_v2_widget_field_city_invalid": "Neveljavna država/mesto",
+  "flight_v2_widget_field_city_city": "Država/mesto",
+  "flight_v2_widget_field_city_snackbar_text": "Prosimo, izberite svojo državljanstvo, preden izberete mesto",
+  "flight_v2_widget_field_country_required": "Državljanstvo je obvezno",
+  "flight_v2_widget_field_country_invalid": "Neveljavno državljanstvo",
+  "flight_v2_widget_field_country_country": "državljanstvo",
+  "flight_v2_widget_field_field_card_hint": "Številka članske izkaznice",
+  "flight_v2_widget_field_field_card_error_input": "Neveljavna kartica",
+  "flight_v2_widget_field_field_card_default_error": "Kartica je potrebna",
+  "flight_v2_widget_field_field_date_hint": "Datum rojstva",
+  "flight_v2_widget_field_field_date_error_input": "Prosim, ne pustite praznega",
+  "flight_v2_widget_field_field_date_default_error": "Prosim, ne pustite praznega",
+  "flight_v2_widget_field_field_date_default_error_infant": "Dojenčki morajo biti mlajši od 2 let",
+  "flight_v2_widget_field_field_date_default_error_children": "Otroci morajo biti stari od 2 do 12 let",
+  "flight_v2_widget_payment_contact_information": "Kontaktni podatki",
+  "flight_v2_widget_payment_full_name": "Polno ime",
+  "flight_v2_widget_payment_gender": "spol",
+  "flight_v2_widget_payment_phone_number": "Telefonska številka",
+  "flight_v2_widget_payment_address": "naslov",
+  "flight_v2_widget_payment_birthday": "Datum rojstva",
+  "flight_v2_widget_payment_male": "moški",
+  "flight_v2_widget_payment_female": "Ženska",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Polno ime:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "spol:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Datum rojstva:",
+  "flight_v2_widget_payment_checked_baggage": "Oddana prtljaga",
+  "flight_v2_widget_payment_note": "Opomba",
+  "flight_v2_widget_payment_information": "Informacije",
+  "flight_v2_widget_payment_adult": "odrasli",
+  "flight_v2_widget_payment_children": "Otrok",
+  "flight_v2_widget_payment_infant": "Baby",
+  "flight_v2_widget_payment_title_adult_information": "Informacije za odrasle",
+  "flight_v2_widget_payment_title_children_information": "Informacije o otroku",
+  "flight_v2_widget_payment_title_infant_information": "Informacije o dojenčkih",
+  "flight_v2_widget_payment_customer_information": "Podatki o potnikih",
+  "flight_v2_widget_payment_edit_information": "Uredite informacije",
+  "flight_v2_widget_payment_bonus_services": "Dodatne storitve",
+  "flight_v2_widget_payment_membership_card_number": "Številka članske izkaznice",
+  "flight_v2_widget_payment_text_loyal_customer": "Pogosti letalci",
+  "flight_v2_widget_payment_text_making_flight_payment": "Plačate plačilo leta za naslednje potnike:",
+  "flight_v2_widget_result_total_amount": "Skupna cena",
+  "flight_v2_widget_result_taxes_fees": "(Vključeni so davki in pristojbine)",
+  "flight_v2_widget_result_elevate_button_book": "knjiga",
+  "flight_v2_widget_result_text_flight": "Segment",
+  "flight_v2_widget_result_text_departure_flight": "Odhodni let",
+  "flight_v2_widget_result_text_return_flight": "Povratni let",
+  "flight_v2_component_code_title": "Poiščite rezervacijo",
+  "flight_v2_component_code_retype": "Ponovno vnesite",
+  "flight_v2_component_code_search_btn": "Poglej gor",
+  "flight_v2_component_code_error": "Podatkov o rezervaciji ni bilo mogoče najti.\nPreverite in poskusite znova.",
+  "flight_v2_widget_detail_text_booking_code": "Referenca rezervacije:",
+  "flight_v2_widget_detail_text_status": "Stanje:",
+  "flight_v2_widget_detail_text_booked": "Rezervirano",
+  "flight_v2_widget_detail_text_cancelled": "Prekinjeno",
+  "flight_v2_widget_detail_text_paid": "Plačano",
+  "flight_v2_widget_detail_text_unpaid": "Neplačano",
+  "flight_showcase_domestic_round_trip_step1": "Čas je prikazan z najnižjo ceno dneva",
+  "flight_showcase_domestic_round_trip_step2": "Povlecite na obe strani, da ponovno izberete čas leta",
+  "flight_showcase_domestic_round_trip_step3": "Izberite odhodni let",
+  "flight_showcase_domestic_round_trip_step4": "Izberite povratni let",
+  "flight_showcase_domestic_round_trip_step5": "Odhodni in povratni let lahko kadar koli znova izberete",
+  "flight_showcase_domestic_round_trip_step6": "Pred rezervacijo morate izbrati dovolj letov",
+  "flight_showcase_inter_round_trip_step1": "Izberite primerno letalsko potovanje zase",
+  "flight_showcase_inter_round_trip_step1_desc": "Potovanje z letalom je sestavljeno iz odhodnega in povratnega leta",
+  "flight_showcase_place_from": "Od",
+  "flight_showcase_place_to": "Za",
+  "flight_showcase_tutorial": "Vadnica",
+  "flight_showcase_back": "Nazaj",
+  "flight_showcase_done": "Popolna",
+  "flight_showcase_continue": "Naslednji",
+  "flight_v2_component_code_hint_text": "Vnesite referenco rezervacije",
+  "flight_v2_component_booking_text_note_upon": "Kdaj",
+  "flight_v2_component_booking_text_payment_after": "PLAČAJTE POZNEJE",
+  "flight_v2_component_booking_text_your_booking": ", bo vaša rezervacija opravljena v 12 urah. Plačilo bo samodejno preklicano, če še vedno ne izvedete plačila v dodeljenem času. Prosimo, da plačilo opravite v predvidenem času za dokončanje postopka rezervacije.",
+  "flight_v2_dialog_default_payment_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite kasneje.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Obrnite se na službo za stranke Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Plačilo ni uspelo",
+  "flight_v2_component_result_message_appropriate_flight": "Čas vzleta za povratni let mora biti najmanj 02 uri po času pristanka za odhodni let. Izberite ustrezen let.",
+  "flight_v2_component_notification_not_available": "Let nie je k dispozícii",
+  "flight_v2_search_enter_your_reservation": "Vnesite referenco rezervacije, da poiščete podatke o rezervaciji",
+  "flight_v2_search_booking_reference": "Referenca rezervacije",
+  "flight_v2_search_title_booking_code": "Vnesite referenco rezervacije, da poiščete svojo rezervacijo leta",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Priimek (brez tonskih oznak)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Srednje ime in ime (brez tonskih oznak)",
+  "flight_v2_widget_common_rules_1": "Za mednarodne lete ali mednarodne tranzite mora biti vaš potni list veljaven vsaj 6 mesecev pred datumom odhoda.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines in Bamboo Airways: Zavrnite prevoz nosečih potnic, katerih obdobje nosečnosti je od 36 tednov. Vietjet Air in Vietravel Airlines: Zavrnitev prevoza nosečih potnic z obdobjem nosečnosti po 32 tednih.",
+  "flight_v2_widget_common_rules_3": "Dojenček od 14 dni do starosti 2 let mora biti v spremstvu odrasle osebe, starejše od 18 let.",
+  "flight_v2_widget_common_rules_4": "Starost otrok/dojenčkov bo izračunana od datuma rojstva do datuma odhoda letala na podlagi rojstnega lista/potnega lista otroka.",
+  "flight_v2_widget_common_rules_5": "Za otroke, ki letijo sami, se obrnite neposredno na agenta za več informacij o storitvah za mladoletne osebe brez spremstva.",
+  "flight_range_slider_price_range": "Cenovni razpon",
+  "flight_v2_common_done": "Končano",
+  "flight_v2_detail_airline_operator_by": "Upravlja '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Opomba: od potnikov se bo morda zahtevalo, da na zahtevo države gostiteljice opravijo carinjenje in predložijo svoj tranzitni vizum.",
+  "flight_v2_detail_airline_total_price": "Skupaj",
+  "flight_v2_detail_airline_title_tax_and_fee": "(vključno z davki in pristojbinami)",
+  "flight_v2_detail_airline_button_add_ticket": "Dodaj vstopnico",
+  "flight_v2_detail_airline_button_change_ticket": "Spremeni vozovnico",
+  "flight_v2_detail_airline_button_booking_ticket": "Rezervirajte vstopnico",
+  "flight_v2_detail_airline_departure_flight": "Odhodni let",
+  "flight_v2_detail_airline_return_flight": "Povratni let",
+  "flight_v2_information_contact_email": "E-naslov",
+  "flight_v2_information_customer_title_full_name": "Polno ime: {fullName}",
+  "flight_v2_information_customer_title_gender": "Spol: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Datum rojstva: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Opomba: {HAHALOLO} podpira uporabnike z {free} bančnimi provizijami)",
+  "flight_v2_payment_include_free_fee_payment": "PROST",
+  "flight_v2_payment_use_saved_info_user": "Uporabite kontaktne podatke ali shranjene podatke o plačilu",
+  "flight_v2_payment_success_thank_user": "Hvala za zaupanje v storitev '{HAHALOLO}'. Če imate kakršna koli vprašanja ali potrebujete dodatno pomoč, se za navodila obrnite na center za pomoč Hahalolo na {phone}.",
+  "flight_v2_payment_success_notifier": "Vaša zahteva za rezervacijo je bila uspešno izvedena '{wasPayment}'. Spodaj lahko preverite podrobnosti načrta poti.",
+  "flight_v2_payment_success_was_payment": "(plačano)",
+  "flight_v2_payment_success_flight_information": "Informacije o letu",
+  "flight_v2_payment_success_outbound_flight_information": "Informacije o odhodnem letu",
+  "flight_v2_payment_success_return_flight_information": "Informacije o povratnem letu",
+  "flight_v2_information_bottom_sheet_adult": "{count} x odrasli",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x otrok",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Baby",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Informacije za odrasle {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Informacije o otroku {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Informacije o dojenčku {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} odraslih",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} otrok",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} dojenčkov",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Tranzitni čas približno {time} v {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Davki in pristojbine (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Osnovna cena (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Zadnji čas odhoda",
+  "flight_v2_widget_detail_text_departure_flight": "Odhodni let",
+  "flight_v2_widget_detail_text_return_flight": "Povratni let",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(vključno z davki in pristojbinami)",
+  "flight_input_title_note_1": "Upoštevajte, da mora biti potni list veljaven vsaj 6 mesecev pred datumom odhoda prvega segmenta v itinerarju.",
+  "flight_input_title_note_2": "Potniki morajo imeti ustrezne dokumente ter izpolnjevati predpise in imigracijske postopke ciljne države.",
+  "flight_input_title_note_3": "Letalski prevoznik si pridržuje pravico do zavrnitve prevoza, če potniki nimajo predpisanih veljavnih dokumentov.",
+  "flight_input_title_note_4": "Letalska družba ne prevzema odgovornosti, če potnikom zavrnejo vstop.",
+  "flight_input_title_note_5": "Potniki se morajo pravočasno prijaviti na letališču.",
+  "flight_input_title_note_6": "Mladoletni potniki brez spremstva se morajo obrniti neposredno na letalsko družbo.",
+  "flight_input_title_note_7": "Noseče potnice z obdobjem nosečnosti od 32 tednov se morajo obrniti neposredno na letalsko družbo.",
+  "flight_input_title_note_8": "Starost potnikov se izračuna glede na časovni interval med datumom rojstva in datumom odhoda prvega odseka leta v načrtu potovanja na podlagi potnikovih identifikacijskih dokumentov, kot sta potni list in rojstni list.",
+  "flight_input_passenger_choose_birth_day": "Izberite svoj datum rojstva",
+  "flight_input_payment_show_passenger_title": "Rezervirate let za naslednje potnike:",
+  "flight_input_payment_reservation": "Knjiga",
+  "flight_v2_model_booking_luggage_handle": "Ročna prtljaga",
+  "flight_search_result_progress_searching_title": "Iskanje ...",
+  "flight_v2_dialog_unavailable_ticket": "Let ni na voljo",
+  "flight_v2_dialog_choose_ticket": "Izbrali ste let",
+  "flight_v2_dialog_from": "od",
+  "flight_v2_dialog_time_take_off_flight": "Čas vzleta letala",
+  "flight_v2_dialog_happening": "se mora zgoditi",
+  "flight_v2_dialog_minimum_hour": "vsaj 02 uri",
+  "flight_v2_dialog_after_trip": "po letu",
+  "flight_v2_dialog_landed": "pristal.",
+  "flight_v2_dialog_choose_again_ticket": "Ali želite izbrati drug let?",
+  "flight_passenger_view_service_packages": "Paketi storitev",
+  "flight_passenger_view_check_in_baggage": "Oddana prtljaga:",
+  "flight_v2_widget_detail_text_departure": "Odhod",
+  "flight_v2_widget_detail_text_destination": "Destinacija",
+  "flight_handnote_international_item_view_order_code": "Koda naročila",
+  "flight_handnote_international_order_vieư": "Posodobljen datum",
+  "flight_order_detail_view_booking_code": "Referenca rezervacije",
+  "flight_handnote_international_item_view_departure_date": "Datum odhoda",
+  "flight_handnote_international_item_view_booking_status": "Stanje rezervacije",
+  "flight_input_passenger_infor_title": "Informacije o potnikih",
+  "flight_input_payment_show_contact_full_name": "Polno ime",
+  "flight_passenger_view_guest_type": "Vrsta potnika",
+  "flight_passenger_view_ticket_number": "Številka vozovnice",
+  "flight_order_detail_title_flight_information": "Informacije o letu",
+  "flight_v2_dialog_common_agree": "Se strinjam",
+  "flight_v2_dialog_common_confirm": "Potrdi",
+  "flight_v2_dialog_common_skip": "Preskoči",
+  "flight_v2_dialog_common_cancel": "Prekliči",
+  "flight_v2_dialog_common_exit": "Izhod",
+  "flight_v2_dialog_common_change_flight": "Se strinjam",
+  "flight_v2_dialog_common_change_search": "Spremeni iskanje",
+  "flight_v2_dialog_title_change_information": "Spremenite informacije",
+  "flight_v2_dialog_sub_title_change_information": "Ali ste prepričani, da želite spremeniti informacije o iskanju?",
+  "flight_v2_dialog_message_change_information": "Če se strinjate s spremembo informacij o iskanju, bodo vsi prejšnji podatki izbrisani",
+  "flight_v2_dialog_title_not_available": "Let ni na voljo",
+  "flight_v2_dialog_message_not_available": "Oprostite, let, ki ste ga izbrali, trenutno ni na voljo. Prosimo '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "izberite drug let ali spremenite iskanje",
+  "flight_v2_dialog_title_exceed_time_allow": "Let je presegel dovoljeni čas",
+  "flight_v2_dialog_message_exceed_time_allow": "Let, ki ste ga izbrali, je presegel dovoljeni čas rezervacije. Obrnite se na '{HAHALOLO}' prek vroče linije '{hotline}' ali '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "spremenite iskanje novih letov",
+  "flight_v2_dialog_title_delete_account": "Izbriši plačilni račun",
+  "flight_v2_dialog_sub_title_delete_account": "Ali ste prepričani, da želite izbrisati ta plačilni račun?",
+  "flight_v2_dialog_message_delete_account": "Račun ne bo več prikazan pri izbiri plačilnega računa.",
+  "flight_v2_dialog_title_change_ticket_price": "Sprememba vozovnice",
+  "flight_v2_dialog_message_change_ticket_price": "Skupna cena naročila se je spremenila iz '{oldPrice}' v '{newPrice}'. Ponovno izberite kodo kupona/kovance/točke, če so na voljo.",
+  "flight_v2_dialog_title_min_support_payment": "Naročilo ni primerno za plačilo",
+  "flight_v2_dialog_message_min_support_payment": "Primerno naročilo ima skupno plačilo '{minRange}' ali najmanj '{maxRange}'. Za izpolnjevanje plačilnih pogojev lahko spremenite kodo kupona, kovance ali točke",
+  "flight_v2_dialog_title_order_not_found": "Obvestila",
+  "flight_v2_dialog_message_order_not_found": "Ni naročil",
+  "flight_v2_dialog_title_exit_order": "Izstop iz naročila",
+  "flight_v2_dialog_message_exit_order_cart": "Vaš voziček",
+  "flight_v2_dialog_title_payment_error_default": "Plačilo ni uspelo",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Obrnite se na službo za stranke Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "tukaj",
+  "flight_v2_dialog_title_voucher_fee_change": "Sprememba vozovnice",
+  "flight_v2_dialog_message_voucher_fee_change": "Cena vozovnice se je spremenila iz '{oldPrice}' v '{newPrice}'. Za pomoč se obrnite na službo za stranke Hahalolo '{here}'.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "tukaj",
+  "flight_v2_dialog_title_system_error": "Obvestila",
+  "flight_v2_dialog_message_system_error": "Vaše naročilo je bilo uspešno plačano in bo kmalu posodobljeno v vaših beležkah.",
+  "flight_v2_dialog_title_voucher_not_available": "Obvestila",
+  "flight_v2_dialog_message_voucher_not_available": "Koda kupona ni na voljo. Preverite in poskusite znova.",
+  "flight_v2_dialog_title_point_not_available": "Obvestila",
+  "flight_v2_dialog_message_point_not_available": "Točke niso na voljo. Preverite in poskusite znova.",
+  "flight_v2_dialog_title_coin_not_available": "Obvestila",
+  "flight_v2_dialog_message_coin_not_available": "Kovanci niso na voljo. Preverite in poskusite znova.",
+  "flight_v2_dialog_halo_support": "'{message}'. Obrnite se na službo za stranke Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "tukaj",
+  "flight_v2_dialog_title_stripe_error": "Obvestila",
+  "flight_v2_price_info_read_more": "Poglej več",
+  "flight_v2_price_info_total_payment": "Skupno plačilo",
+  "flight_v2_price_info_before_payment": "Predplačniški znesek",
+  "flight_v2_component_booking_title_payment_information": "Informacije o plačilu",
+  "flight_v2_model_booking_checked_baggage": "Oddana prtljaga (lahko kupite več)",
+  "flight_v2_widget_booking_coupon_code": "Koda kupona",
+  "flight_v2_widget_booking_use_coins": "Uporabite kovance",
+  "flight_v2_component_booking_use_point": "Uporabite točke",
+  "flight_v2_widget_booking_title_fare_details": "Podrobnosti o ceni vozovnice",
+  "flight_v2_widget_confirm_title_contact_information": "Kontaktni podatki",
+  "flight_input_passenger_hint_birth_day": "Datum rojstva",
+  "flight_v2_widget_booking_membership_card_number": "Številka članske izkaznice",
+  "flight_passenger_view_baggage": "Prtljaga",
+  "flight_v2_dialog_message_exit_order": "Vaša rezervacija leta je v pripravi. Če izstopite, bo vaše naročilo še vedno shranjeno v '{cart}'. To naročilo lahko plačate pred '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Vaša rezervacija leta ni bila opravljena. Če izstopite, bo vaše naročilo še vedno shranjeno v '{cart}'. Za dokončanje izdaje vstopnice lahko izvedete plačilo",
+  "flight_v2_payment_back_from_payment": "Vaša rezervacija leta je v pripravi. Podatkov o naročilu ne morete spremeniti. Izvedite plačilo pred '{time}', da dokončate izdajo vstopnice.",
+  "flight_v2_payment_back_from_payment_no_hold": "Vaša rezervacija leta ni bila opravljena. Za dokončanje rezervacije in izdaje vstopnice izvedite plačilo.",
+  "flight_price_detail_view_total_fare": "Skupna cena",
+  "flight_price_detail_view_service_fee": "Pristojbina za storitev",
+  "flight_price_detail_view_payment_fee": "Provizija za plačilo",
+  "flight_v2_notification_baggage": "Izbrali ste {baggage}. Prosimo, glejte podrobnosti spodaj.",
+  "flight_check_the_details": "Podrobnosti lahko preverite spodaj.",
+  "flight_order_detail_view_information_order": "Informacije o naročilu",
+  "flight_v2_search_code_no_reservation_yet": "Še ni rezervirano",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Opomba: Podatki o stranki še niso izpolnjeni",
+  "tour_booking_screen_update_information": "Posodobi zdaj",
+  "tour_booking_screen_textspan_note": "(Opomba: provizija za plačilo)",
+  "tour_booking_loading_message": "Pridobivanje podatkov o naročilu, počakajte trenutek",
+  "tour_booking_last_name": "Priimek",
+  "tour_booking_middle_and_first_name": "Srednje in ime/ime",
+  "tour_booking_or_detail_phone_number": "Telefonska številka",
+  "tour_booking_or_detail_address": "naslov",
+  "tour_booking_province_city": "Pokrajina/mesto",
+  "tour_booking_country": "Država",
+  "tour_booking_title_booking_information": "Informacije o rezervaciji",
+  "tour_booking_bottom_detail_price_error": "Podatki o kartici so napačni. Preverite še enkrat.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Kode kupona ni mogoče uporabiti",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Neveljavna koda kupona",
+  "tour_booking_update_item_cart_action_message": "Zapri",
+  "tour_booking_update_item_cart_title": "Obvestila",
+  "tour_booking_update_item_cart_msg_error_last": "Pri posodabljanju naročila je prišlo do napake, poskusite znova.",
+  "tour_booking_screen_payment_methods": "Možnost plačila",
+  "tour_booking_screen_accept": "Sprejmi",
+  "tour_booking_screen_coupon_code": "Koda kupona",
+  "tour_booking_screen_insert_code": "Vnesite kodo",
+  "tour_booking_screen_default_msgError": "Pojavila se je napaka. Prosim poskusite ponovno.",
+  "tour_booking_screen_on_failed_error_2008": "Razpored izletov po mesecih, ki ste jih izbrali, trenutno ni na voljo. Izberite drug urnik izleta.",
+  "tour_booking_screen_on_failed_error_2202": "Stran ni bila objavljena ali pa niste nastavili starosti.",
+  "tour_booking_screen_on_failed_error_2301": "Ogled ni na voljo.",
+  "tour_booking_screen_on_failed_error_2303": "Ogled ne pripada strani.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Obdobje rezervacije je poteklo.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Obrnite se na center za pomoč uporabnikom Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "tukaj",
+  "tour_booking_screen_content_apply_voucher_failed_help": "za pomoč.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Največje število kovancev, ki jih je mogoče uporabiti za to naročilo.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Uporaba",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} Kovanci",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "za plačilo.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Ustreza",
+  "tour_booking_success_text_done": "Končano",
+  "tour_booking_success_header_booking_success": "Rezervacija uspešna",
+  "tour_booking_success_header_textspan_reservation_success": "Vaša zahteva za rezervacijo je bila uspešno izvedena",
+  "tour_booking_success_header_textspan_paid": "(Plačano).",
+  "tour_booking_success_header_textspan_itinerary_details": "Podrobnosti poti si lahko ogledate spodaj.",
+  "tour_booking_success_title_tour_information": "Informacije o izletu",
+  "tour_booking_success_tour_information_tour_name": "Ime turneje",
+  "tour_booking_success_tour_information_departure": "Odhod",
+  "tour_booking_success_tour_information_departure_date": "Datum odhoda",
+  "tour_booking_success_tour_information_end_date": "Končni datum",
+  "tour_booking_success_tour_information_Number_of_days": "Število dni",
+  "tour_booking_success_tour_information_passengers": "Število potnikov",
+  "tour_booking_success_tour_information_detail_Passengers": "1 odrasla oseba",
+  "tour_booking_success_title_contact_information": "Kontaktne informacije",
+  "tour_booking_success_contact_information_full_name": "Polno ime:",
+  "tour_booking_success_contact_information_email": "E-naslov:",
+  "tour_booking_success_contact_information_phone_number": "Telefonska številka:",
+  "tour_booking_success_contact_information_address": "naslov:",
+  "tour_booking_success_title_installment_information": "Informacije o naročilu na obroke",
+  "tour_booking_success_installment_information_total_order_value": "Skupna vrednost naročila:",
+  "tour_booking_success_installment_information_prepaid_rate": "Predplačniška cena:",
+  "tour_booking_success_installment_information_prepayment_amount": "Vnaprej plačan znesek:",
+  "tour_booking_success_installment_information_remaining_amount": "Ostati v ravnotežju:",
+  "tour_booking_success_installment_information_conversion_information": "Pristojbina za pretvorbo informacij:",
+  "tour_booking_success_installment_information_banking_fee": "bančna provizija:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Obrestna mera (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Obročne obresti (mesec):",
+  "tour_booking_success_installment_information_total_amount": "Skupno obročno plačilo:",
+  "tour_booking_success_installment_information_payment_term": "Trajanje obroka (mesec):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} mesecev",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Znesek mesečnega obroka:",
+  "tour_booking_success_installment_information_next_installment_period": "Naslednji obrok tenor",
+  "tour_booking_success_title_transaction_information": "Informacije o transakciji",
+  "tour_booking_success_transaction_information_tour_id": "ID potovanja:",
+  "tour_booking_success_transaction_information_booking_code": "Številka rezervacije:",
+  "tour_booking_success_transaction_information_total_payment": "Skupno plačilo:",
+  "tour_booking_success_transaction_information_payer": "Plačnik:",
+  "tour_booking_success_transaction_information_address": "naslov:",
+  "tour_booking_success_transaction_information_content_billing": "Vsebina plačila:",
+  "tour_booking_success_transaction_information_order_payment": "Plačilo naročila",
+  "tour_booking_success_transaction_information_order_advance": "Predplačilo obročnega naročila",
+  "tour_booking_success_textspan_footer_thanks": "Hvala za zaupanje v storitev Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Če imate kakršna koli vprašanja ali potrebujete dodatno pomoč, se obrnite na center za pomoč Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "za navodila.",
+  "tour_booking_success_bottomview_view_details": "Ogled podrobnosti",
+  "tour_booking_success_bottomview_new_booking": "Knjiga nova",
+  "tour_booking_title_info_detail_tour": "Podrobnosti o izletu",
+  "tour_booking_info_detail_tour_title_info_tour": "Informacije",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Ime turneje",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Odkritje otoka Phu Quy",
+  "tour_booking_or_detail_tour_id": "ID potovanja",
+  "tour_booking_or_detail_tour_time": "Čas",
+  "tour_booking_or_detail_departure_date": "Datum odhoda",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Končni datum",
+  "tour_booking_or_detail_tour_departure": "Odhod",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Destinacija",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Vrsta izleta",
+  "tour_booking_info_detail_tour_info_tour_description": "Opis",
+  "tour_booking_info_detail_tour_title_table_price": "Cenik izletov",
+  "tour_booking_starttext_adult": "odrasli",
+  "tour_booking_starttext_child": "Otrok",
+  "tour_booking_starttext_young_child": "Majhen otrok",
+  "tour_booking_starttext_baby": "Baby",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Seznam delov",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Informacije o uredbi",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Zasebni predpisi",
+  "tour_booking_info_detail_tour_title_installment_policy": "Obročni načrt",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Skupni znesek",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Vnaprej plačan znesek",
+  "tour_booking_bottom_detail_price_collapsed_pay": "plačati",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Storitve",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Promocija",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Uporabite promocijo",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Uporabite kovance",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Skupni znesek",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Vključen popust za 100% predplačilo",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Vrednost promocije:",
+  "tour_booking_title_item_count_passenger": "Število potnikov",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Starejši od {age} let",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} – {end_age} let",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Mlajši od {age} let",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Vprašajte za podporo pri vnašanju podatkov o popotniku",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Vnesite podatke o popotniku",
+  "tour_booking_title_item_info_billing": "Podatki o plačniku",
+  "tour_booking_item_info_billing_use_contact_info": "Uporabite kontaktne podatke",
+  "tour_booking_title_item_info_contact_person": "Kontaktni podatki",
+  "tour_booking_title_item_method_payment": "Način plačila",
+  "tour_booking_item_method_payment_text_full_payment": "100% plačilo",
+  "tour_booking_item_method_payment_text_installment_payment": "Obročno plačilo",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Dobiš {discount}% popusta",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Skupni plačljivi znesek vrednosti naročila po popustu:",
+  "tour_booking_title_item_select_service": "Spremljevalne storitve",
+  "tour_booking_item_select_service_add_service": "Dodajte storitev",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Po e-pošti bomo poslali potrditveno kodo plačila za obročno naročilo v naslednjih terminih:",
+  "tour_booking_pay_installment_check_email": "Prosimo, še enkrat preverite svoj e-poštni naslov.",
+  "tour_booking_pay_installment_number_installments_months": "Število mesecev obrokov",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Obročna stopnja",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Potrebno je delno predplačilo vrednosti potovanja. Znesek mesečnega obroka se izračuna na podlagi neplačanega zneska po uspešnem predplačilu.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Vnesite želeni odstotek predplačila",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Podrobnosti o obrokih",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "št.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Informacije",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "vrednost",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Vrednost naročila",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Predplačniška cena",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Vnaprej plačana vrednost",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Ostati v ravnotežju",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Pristojbina za pretvorbo informacij",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Provizija za bančno plačilo",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Obrestna mera (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Obročne obresti",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Skupni znesek obroka",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Trajanje obroka (mesec)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Naslednji obrok tenor",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Znesek mesečnega obroka",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} mesecev",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Obročni načrt",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Podrobnosti obročnega načrta",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Spremljevalne storitve",
+  "tour_booking_item_service_init_service_number_of_travelers": "Število potnikov",
+  "tour_booking_group_months_installment_label": "{month} mesecev",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Potovalne sanje",
+  "tour_detail_text_number_people_haha_page": "1.839.017 ljudi Haha ta stran",
+  "tour_detail_screen_theme_text_indochina_discovery": "Odkritje Indokine: morja in ulična hrana",
+  "tour_detail_text_installment_tour": "OGLED NA OBLOGE",
+  "tour_detail_text_view_details": "Ogled podrobnosti",
+  "tour_detail_number_promotions": "{promotions} Promocije",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "na voljo",
+  "tour_detail_tab_info": "Informacije",
+  "tour_detail_tab_tour_parts": "Podrobnosti o poti",
+  "tour_detail_tab_promotion": "Promocija",
+  "tour_detail_tab_privacy_policy": "Politika zasebnosti",
+  "tour_detail_tab_separate_regulations": "Zasebni predpisi",
+  "tour_detail_tab_contact": "Kontakt",
+  "tour_detail_view_tab_installment": "Obročni načrt",
+  "tour_detail_text_only_from": "Samo od",
+  "tour_detail_view_emptyTitle": "Ogled ni več na voljo",
+  "tour_detail_text_change_date": "Spremeni datum",
+  "tour_detail_text_book_now": "Rezervirajte zdaj",
+  "tour_detail_view_action_menu_time_line": "Časovnica",
+  "tour_detail_view_action_menu_tour_List": "Seznam izletov",
+  "tour_detail_view_action_menu_introduction": "Uvod",
+  "tour_detail_view_action_menu_promotion": "Promocija",
+  "tour_detail_view_action_menu_appraise": "Ocene",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} oseb Haha ta stran",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Razpored izletov po mesecih, ki ste jih izbrali, trenutno ni na voljo.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Izberite drug urnik izleta.",
+  "tour_detail_choose_schedule_title": "Izberite urnik",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Urnik odhodov",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Urnik odhodov ni na voljo",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Datum odhoda: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Od",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Iz {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Konec",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "V {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Promocija",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Cena",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Rezervirajte zdaj",
+  "tour_detail_contact_infor_view_empty_title": "Kontaktni podatki se posodabljajo",
+  "tour_detail_contact_infor_view_company_name": "Ime podjetja",
+  "tour_detail_infor_view_text_starting_from": "Začnite od",
+  "tour_detail_infor_view_text_ends_at": "Konec ob",
+  "tour_detail_infor_view_tour_type_domestic": "Domača tura",
+  "tour_detail_infor_view_tour_type_international": "Mednarodna turneja",
+  "tour_detail_infor_view_tour_text_info": "Informacije",
+  "tour_detail_infor_view_tour_types": "Vrsta",
+  "tour_detail_infor_view_tour_service": "Turistične storitve",
+  "tour_detail_emptyTitle_no_data_found": "Ni podatkov",
+  "tour_detail_promotion_view_empty_title": "Promocij ni na voljo",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Promocijske stopnje {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price} % popusta",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} popust",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Najmanjša vrednost naročila: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Najmanjše število odraslih: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "nazaj",
+  "tour_detail_shimmer_loading_message": "... ljudje Haha ta stran",
+  "tour_hand_note_tabs_verify_sent_to_email": "Poslali smo vam potrditveno kodo na pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Cena",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Prekliči naročilo",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Ali želite izvesti to dejanje?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Potrdi",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Prekliči",
+  "tour_hand_note_footer_action_total_amount": "Skupni znesek",
+  "tour_hand_note_footer_action_pay": "plačati",
+  "tour_hand_note_order_payment_view_order_id": "Koda naročila",
+  "tour_hand_note_order_payment_view_paid": "Plačano",
+  "tour_hand_note_order_payment_view_total_price": "Skupna cena",
+  "tour_hand_note_order_payment_view_remaining_amount": "Ostati v ravnotežju",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Dolžina obroka",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Mesec: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Znesek obroka",
+  "tour_hand_note_order_payment_view_next_installment_period": "Naslednji obrok tenor",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Celotno plačilo",
+  "tour_handnote_banner_waring_input_verify_error": "Med preverjanjem je prišlo do napake. Poskusite znova ali tapnite ",
+  "tour_lockup_empty_title": "Informacije o izletu niso bile najdene",
+  "tour_lockup_title_info": "Informacije o izletu",
+  "tour_lockup_form_search_hind_text_enter_promo": "Vnesite promocijsko kodo",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} dnevi} other{{days} dnevi}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "vse",
+  "tour_handnote_tab_awaiting": "Čakanje na potrditev",
+  "tour_handnote_tab_awaiting_fulfilment": "Čakanje na izpolnitev",
+  "tour_handnote_tab_ongoing": "V teku",
+  "tour_handnote_tab_completed": "Dokončano",
+  "tour_handnote_tab_canceled": "Prekinjeno",
+  "tour_detail_page_programs_detail": "Podrobnosti o programu",
+  "tour_detail_page_passenger_title": "Stranka",
+  "tour_detail_info_guest_edit_title": "Uredi",
+  "tour_detail_info_guest_update_title": "Nadgradnja",
+  "tab_tour_detail_order_cancel_order": "Prekliči naročilo",
+  "tab_tour_detail_order_cancel_order_confirm": "Ali želite izvesti to dejanje?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Potrdi",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Prekliči",
+  "tab_tour_detail_order_waiting_confirmation": "Čakanje na potrditev",
+  "tab_tour_detail_order_code_order_tour_title": "Številka rezervacije",
+  "tour_detail_stage_view_title": "del {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Za plačilo so bili uporabljeni kovanci. Glejte podrobnosti spodaj",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Koda kupona je bila uporabljena za plačilo. Glejte podrobnosti spodaj",
+  "tour_hand_note_banner_warning_update_success": "Podatki o stranki so izpolnjeni",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Informacije o plačilu",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Plačano",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Promocija odpovedi turneje\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Uporabi kovance ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Strošek odpovedi {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Predviden znesek vračila",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Čas vračila kupnine (od dneva preklica): 5-7 dni (za plačilna prehoda Alepay in Payme) ali 7-15 dni (za plačilni prehod Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Razlog za odpoved:",
+  "tour_booking_validation_province_or_city_is_required": "Obvezna je pokrajina/mesto",
+  "tour_booking_screen_on_failed_error_2801": "Ogled morate rezervirati {numberDay} dni pred datumom odhoda. Prosimo izberite drug datum odhoda.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Vaš izbrani čas odhoda je v skladu z našim pravilnikom krajši ali daljši. Prosimo, izberite ogled z ustreznim časom odhoda.",
+  "tour_booking_bottom_view_error": "Prosimo, izpolnite podatke o popotniku ali prosite za podporo Hahalolo pri kasnejšem vnosu podatkov o popotniku.",
+  "tour_booking_on_start_payment_message": "Oprostite, datum odhoda, ki ste ga izbrali, je razprodan. Prosimo, izberite drug datum odhoda.",
+  "tour_detail_text_full_load": "Razprodano",
+  "tour_cancel_order_info_reason_cancel": "Vnesite razlog za odpoved.",
+  "tour_cancel_order_info_validate_reason_cancel": "Potreben je razlog za odpoved",
+  "tour_cancel_order_info_refound_invalid_card": "Številka računa je obvezna",
+  "tour_cancel_bank_name_required": "Ime banke je obvezno",
+  "tour_cancel_bank_wrong_format": "Oblika imena banke ni pravilna",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo vam bo vrnil denar na podlagi podatkov o bančnem računu, ki jih vnesete spodaj)",
+  "tour_cancel_enter_bank_name": "Vnesite ime banke",
+  "tour_cancel_cancel_order_success": "Vaše naročilo je bilo uspešno preklicano.",
+  "tour_bank_identifier_required": "Koda SWIFT je obvezna",
+  "tour_detail_title_select_departure_month": "Izberite mesec odhoda",
+  "tour_detail_title_upcoming_departure_schedule": "Prihodnji razpored odhodov",
+  "tour_detail_schedule_title_departure": "Odhod",
+  "tour_detail_schedule_title_destination": "Destinacija",
+  "tour_booking_fail_payment_price_change": "Cena potovanja se je spremenila iz {oldPay} v {newPay}. Ali želite nadaljevati s plačilom?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Cena potovanja se je spremenila iz {oldPay} v {newPay} in plačati morate {payAmount} vnaprej. Ali želite nadaljevati s plačilom?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Znesek predplačila se je spremenil iz {oldPay} v {newPay}. Ali želite nadaljevati s plačilom?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Znesek, uporabljen iz kovancev, se je spremenil iz {oldPay} v {newPay}. Ali želite nadaljevati s plačilom?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Uporabite točke",
+  "tour_booking_screen_have_apply_points": "Točke so bile uporabljene za plačilo. Prosimo, glejte podrobnosti spodaj.",
+  "tour_booking_warning_promotion": "Vaše potovanje je rezervirano in podatkov o naročilu ni mogoče spremeniti. Prosimo, izvedite plačilo, da dokončate rezervacijo izleta.",
+  "tour_booking_warning_back_text_normal": "Vaše naročilo je rezervirano. Če zaprete, bo vaše naročilo še vedno shranjeno",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Zavrni naročilo",
+  "tour_booking_warning_back_when_hold_ticket_card": "Vaš voziček.",
+  "tour_booking_warning_back_exit": "Prenehati",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Naročilo je šlo skozi plačilni prehod. Kode kupona ni mogoče preklicati.",
+  "tour_booking_point_not_available": "Točke niso na voljo",
+  "tour_payment_voucher_exit_dialog_title": "Plačilo ni uspelo",
+  "tour_total_point_change": "Vaše razpoložljive točke so se spremenile. Vnesite število točk za prijavo na naročilo.",
+  "tour_hand_note_text_tour": "Tour",
+  "tour_hand_note_text_amount_installment_payment": "Znesek obročnega plačila",
+  "tour_detail_tour_has_no_available_schedule": "Ni razpoložljivih urnikov za to turnejo",
+  "tour_detail_promotion_view_time_application": "Veljavno obdobje:",
+  "tour_detail_promotion_view_up_to_off_title": "Do",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% popusta",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Poiščite številko rezervacije",
+  "tour_you_can_sure_cancel_order": "Ali ste prepričani, da želite preklicati to naročilo?",
+  "tour_detail_contact_title": "Dosegljivi smo 24/7! Če imate kakršna koli vprašanja o tej storitvi, se obrnite na nas z uporabo spodnjih informacij. Odgovorili vam bomo v 2 urah!",
+  "tour_detail_rate_title_schedule": "Urnik",
+  "tour_detail_rate_title_meal": "Obrok",
+  "tour_detail_review_there_are_no_reviews_yet": "Ni še nobene ocene",
+  "tour_search_suggest_location_title": "Top destinacije",
+  "tour_detail_rate_title_property": "Lastnina",
+  "tour_detail_rate_title_tour_guide": "Vodič",
+  "tour_detail_rate_title_vehicle": "Vozilo",
+  "tour_detail_choose_schedule_remain_slot": "Samo {slot} prostih mest",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Datum",
+  "tour_detail_contact_text_hotline": "Vroča linija",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Ocene",
+  "tour_search_place_suggestion_title": "Izberite destinacijo",
+  "tour_search_place_suggestion_hint_text": "Vnesite odhod ...",
+  "tour_review_title_feedback": "Preglejte svoje izkušnje s potovanjem",
+  "tour_review_title_content": "Skupna ocena potovanja",
+  "tour_review_title_see_review": "Oglejte si oceno svojega potovanja",
+  "tour_review_schedule": "Urnik",
+  "tour_review_meal": "Obrok",
+  "tour_review_accommodation": "Lastnina",
+  "tour_review_tour_guide": "Vodič",
+  "tour_review_vehicle": "Vozilo",
+  "tour_booking_screen_text_accept": "Se strinjam",
+  "tour_lockup_up_tour_header_text": "Vnesite svojo številko rezervacije, da poiščete podatke o rezervaciji",
+  "banner_warning_installment_noti": "Dosegli boste rok za plačilo naslednjega obroka. Datum zapadlosti obroka {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Podaljšaj",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Koda kupona ni bila uspešno uporabljena",
+  "voucher_search_on_select_voucher_fail": "Neuporabljena koda kupona ni uspela. Prosim poskusite kasneje.",
+  "voucher_search_coupon_code_incorrect": "Nepravilna koda kupona",
+  "voucher_search_check_or_contact_cskh": "Preverite še enkrat ali se obrnite na naš center za pomoč strankam",
+  "voucher_widget_item_voucher_discount": "Popust: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Poteče: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Rok uporabnosti:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Koda:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Promocija:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Pogoj:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Velja za izdelke Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Omejite enega na stranko.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Za naročila od {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Izdelki, ki se nanašajo na:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} izklopljeno",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Maksimalni popust:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Shranili ste",
+  "voucher_apply_voucher_widget_order_from_discount": "pri tem naročilu s kodo kupona",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Vaš let še ni bil rezerviran. Za rezervacijo in izdajo vozovnice izvedite plačilo.",
+  "cart_screen_main_title": "Vaš voziček",
+  "cart_screen_main_tour_title": "Rezervacija izleta",
+  "cart_screen_main_flight_title": "Polet",
+  "cart_screen_main_car_title": "Rezervacija avtomobila",
+  "cart_screen_main_tour_title_1": "Rezervacija potovanja (1)",
+  "cart_screen_main_flight_title_1": "Let (1)",
+  "cart_screen_main_car_title_1": "Rezervacija avtomobila (1)",
+  "cart_screen_domestic_flight_num_passenger": "Število potnikov",
+  "cart_screen_domestic_flight_subtotal": "Vmesni seštevek",
+  "cart_screen_domestic_flight_note": "Vaša rezervacija leta je bila opravljena. Za dokončanje izdaje vstopnice izvedite plačilo.",
+  "cart_screen_empty": "V vašem vozičku ni artiklov",
+  "cart_screen_empty_order_now": "Poiščite in rezervirajte zdaj!",
+  "cart_screen_car_delete_order": "Izbriši naročilo",
+  "cart_screen_car_delete_order_confirm": "Ali želite izbrisati to naročilo?",
+  "cart_screen_tour_schedule_title": "Urnik",
+  "cart_screen_tour_type_title": "Vrsta turneje",
+  "cart_tour_type_domestic": "Domače",
+  "cart_tour_type_international": "Mednarodni",
+  "cart_screen_tour_num_day_num_night": "{day} dni, {night} noči",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Število potnikov",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Uporabite točke",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(mesec {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Med preverjanjem je prišlo do napake. Poskusite znova ali tapnite \"Znova pošlji potrditveno kodo\", da prejmete novo kodo prek {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Ponovno pošlji potrditveno kodo",
+  "hand_note_input_verify": "Poslali smo potrditveno kodo na {email}. Vnesite kodo, ki ste jo prejeli, da dokončate ta korak",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Vnesite kodo",
+  "hand_note_tour_detail_body_tour_info_title": "Informacije o izletu",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Čas se izračuna v vietnamskem časovnem pasu)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Skupaj dni",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Število popotnikov",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Politika odpovedi",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Časovnice brezplačnih odpovedi temeljijo na časovnem pasu rezervacije potovanja in dobaviteljevi politiki odpovedi potovanj",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Za odpoved potovanja vam bomo zaračunali naslednjo odpovedno pristojbino:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} dni pred datumom odhoda",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Brezplačna odpoved",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Strošek odpovedi v višini {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Promocija za 100% plačilo",
+  "hand_note_install_policy": "Obročno načrtovanje",
+  "hand_note_title_status_payment_failure": "Ni uspelo",
+  "hand_process_extension": "Podaljšanje v teku",
+  "hand_in_installment": "Aktiven",
+  "hand_installment_completed": "Dokončano",
+  "hand_note_adults": "Odrasli",
+  "hand_note_children": "otroci",
+  "hand_note_baby": "Mladi otroci",
+  "hand_note_infant": "dojenčki",
+  "hand_note_tour_service_price": "Cena storitve",
+  "hand_note_total_price": "Skupna cena",
+  "hand_note_prepaid": "Predplačniško",
+  "hand_note_remaining": "Ostati v ravnotežju",
+  "hand_installment_status": "Stanje obroka",
+  "hand_note_installment_payment_count_month_payment": "Število obrokov mesecev",
+  "hand_note_installment_payment_count_month_payment_num": "{month} mesecev",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Informacije o obrokih",
+  "hand_note_information_detail_total_value_title": "Skupaj naročilo",
+  "hand_note_information_detail_prepayment_amount_title": "Predplačniški znesek ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Skupni znesek obroka",
+  "hand_note_information_detail_installment_tenor_title": "Obročni tenor",
+  "hand_note_information_detail_information_conversion_fee_title": "Pristojbina za pretvorbo informacij",
+  "hand_note_information_detail_bank_fee_title": "Bančna provizija",
+  "hand_note_information_detail_installment_interest_title": "Obročne obresti",
+  "hand_note_information_detail_monthly_installment_amount_title": "Znesek mesečnega obroka",
+  "hand_note_information_detail_next_due_date_title": "Naslednji obrok tenor",
+  "hand_note_installment": "Obrok",
+  "hand_note_postpaid": "Naročniško",
+  "hand_note_installment_history_title": "Zgodovina obrokov",
+  "hand_note_payment_installment_title": "Obročno plačilo",
+  "hand_note_the_month_current_installment": "Mesec: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Prvo plačilo",
+  "hand_note_remaining_balance_title": "Ostati v ravnotežju",
+  "hand_note_extension_info": "Informacije o razširitvi",
+  "hand_note_price_extension": "Podaljšan znesek",
+  "hand_note_month_paid": "Plačano {month} mesecev",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "Še {month} mesecev",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Posodobite svoje podatke",
+  "hand_note_invalid_full_name": "Neveljavna oblika polnega imena",
+  "hand_note_must_enter_full_name": "Vnesti morate svoje polno ime",
+  "hand_note_adults_num": "Informacije za odrasle {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Podatki o otroku {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Informacije o dojenčku {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Informacije o mlajšem otroku {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(Starejši od {age} let)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Od {ageFrom} do {ageTo} let)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "and_note_under_x_years_old": "(Mlajši od {age} let)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} dni",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Del: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Posodobite podatke o potnikih",
+  "hand_note_hotel_reservation_detail_title": "Podrobnosti o rezervaciji",
+  "hand_note_tour_installment_title": "Tura na obroke",
+  "hand_note_tour_extensions_payment_title": "Podaljšanje plačila",
+  "hand_note_installment_period": "Obročni tenor",
+  "hand_note_installment_amount": "Znesek obroka",
+  "hand_note_recommend_adjourn": "Prošnja za podaljšanje",
+  "hand_note_number_extension": "Število podaljšanih dni",
+  "hand_note_new_installment": "Nov rok zapadlosti obroka",
+  "hand_note_adjourn_notice": "Za vsak obrok imate samo enkrat čas, da dobite podaljšanje plačila za {day} dni. Če je datum zapadlosti novega obroka potekel in trenutno plačilo ni bilo opravljeno, bo vaše potovanje odpovedano.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Opravičilo za zamudo pri plačilu",
+  "hand_note_extension_successful": "Podaljšanje uspešno",
+  "hand_note_part_due_note": "Naročilo je zapadlo. Obrnite se na naš center za pomoč strankam.",
+  "hand_note_notify_error_extension": "Pojavila se je napaka. Prosim poskusite ponovno.",
+  "hand_note_dialog_input_verify_1": "Poslali smo potrditveno kodo na",
+  "hand_note_dialog_input_verify_2": "Vnesite kodo, ki ste jo prejeli, da dokončate ta korak.",
+  "hand_note_verify_input_code_hint": "Vnesi potrditveno kodo",
+  "hand_note_title_hotel_order": "Naročila za rezervacijo hotela",
+  "hand_note_title_apply_coin": "Uporabite kovance",
+  "hand_note_request_resent_code_confirm_must_1": "Počakajte minuto, preden zahtevate ponovno pošiljanje potrditvene kode.",
+  "hand_note_request_resent_code_confirm_must_2": "Počakajte 5 minut, preden zahtevate ponovno pošiljanje potrditvene kode.",
+  "hand_note_request_resent_code_confirm_must_3": "Počakajte en dan, preden zahtevate ponovno pošiljanje potrditvene kode.",
+  "hand_note_request_resent_code_confirm_must_4": "Počakajte 9 minut, preden zahtevate ponovno pošiljanje potrditvene kode.",
+  "hand_note_request_resent_code_confirm_must_5": "Med pošiljanjem potrditvene kode je prišlo do napake. Prosim poskusite ponovno.",
+  "hand_note_history_new_order_created": "Novo naročilo ustvarjeno",
+  "hand_note_history_change_customer_information": "Spremenjeni podatki o potnikih",
+  "hand_note_history_cancellation_of_passengers": "Odpovedan potnik",
+  "hand_note_history_change_flights": "Spremenjen let",
+  "hand_note_history_cancel_the_flight": "Odpovedan let",
+  "fare_rule_toolbar_title": "Pogoji prevoznine",
+  "hand_note_detail_activity_history": "Zgodovina dejavnosti:",
+  "hand_note_coin_refund_amount": "Pričakovano vračilo kovancev",
+  "hand_note_tour_title": "Tour",
+  "hand_note_hotel_title": "Hotel",
+  "hand_note_flight_title": "Polet",
+  "hand_note_car_title": "Najem avtomobila",
+  "hand_note_title": "Ročne opombe",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Neveljavna številka kreditne kartice",
+  "payment_error_card_has_expired": "Kartica je potekla",
+  "payment_error_card_has_expired_year": "Kartica je letos potekla",
+  "payment_error_card_date_must_only_number": "V datumih mora imeti samo številke",
+  "payment_error_card_date_is_3_digits": "Leto poteka je 3-mestno",
+  "payment_error_card_date_is_4_digits": "Leto poteka je daljše od 4 števk",
+  "payment_error_card_date_only_number_in_date": "V datumih mora imeti samo številke",
+  "payment_card_date_expired": "Rok trajanja",
+  "payment_payme": "Payme denarnica",
+  "payment_domestic": "Kartica bankomata ali iBanking domačih bank (v Vietnamu)",
+  "payment_stripe": "Mednarodna plačilna kartica (Visa/MasterCard)",
+  "payment_card_number_empty": "Zahtevana je številka kartice",
+  "payment_card_day_exit": "Zahtevan je datum poteka",
+  "payment_ccv_empty": "Koda CVV je obvezna",
+  "payment_error_secure_long": "Napačna varnostna koda",
+  "payment_error_secure_shorted": "Varnostna koda je prekratka za to vrsto kartice",
+  "payment_error_secure_alphabet": "Abecedni znaki niso dovoljeni",
+  "payment_error_no_secure": "Varnostna koda ni na voljo",
+  "payment_error_no_card_number": "Brez vnosa ali vsebuje neštevilske znake",
+  "payment_error_connect_title": "Napaka v povezavi",
+  "payment_error_connect_message": "Vaša omrežna povezava je nestabilna. Znova preverite povezavo na vaši napravi",
+  "payment_error_not_load_title": "Napaka pri nalaganju strani",
+  "payment_error_not_load_message": "Med povezovanjem s stranjo za dokončanje nakupa je prišlo do napake.",
+  "payment_error_card_number_lenght": "Številka kartice mora biti večja od 19 števk",
+  "payment_error_no_date": "Ni vpisanega datuma",
+  "payment_error_invalid_date": "Neveljavna oblika datuma ali neveljaven datum",
+  "payment_error_invalid_year": "V datumu in mesecu so dovoljene samo številke",
+  "payment_error_invalid_ccv": "Neveljaven CVV",
+  "payment_error_invalid_card_holder": "Neveljaven imetnik kartice",
+  "payment_alert_select_payment_method_null": "Prosimo izberite plačilni prehod",
+  "payment_alert_card_information_incorrect": "Podatki o kartici so napačni. Preverite še enkrat",
+  "payment_alert_dialog_title": "Obvestila",
+  "payment_alert_message_dialog_message": "Prosimo, da ne zaprete ali zapustite aplikacije med postopkom nakupa, da zagotovite uspešno plačilo.",
+  "payment_alert_dialog_message_payment_error": "Med obdelavo vašega plačila je prišlo do napake. Preverite še enkrat.",
+  "payment_hint_text_country": "Država...",
+  "payment_hint_text_province": "Mesto/država...",
+  "payment_show_message_dialog_title": "Obvestilo",
+  "payment_show_message_dialog_message": "Ali želite zapustiti svoje plačilo?",
+  "payment_show_message_dialog_negative": "Prekliči",
+  "payment_show_message_dialog_action": "V redu",
+  "payment_bank_page_title": "Zaradi nemotenega plačilnega procesa vas prosimo, da ne zaprete aplikacije, dokler plačilo ni uspešno!",
+  "payment_error_expired_date": "Vaša kartica je potekla",
+  "payment_coin_not_available": "Kovanci niso na voljo. Preverite in poskusite znova.",
+  "payment_point_not_available": "Točke niso na voljo. Preverite in poskusite znova.",
+  "payment_voucher_not_available": "Koda kupona ni na voljo. Preverite in poskusite znova.",
+  "payment_fee_change_total_order": "Skupni znesek naročila se je spremenil od",
+  "payment_fee_change_to": "do",
+  "payment_fee_change_choose_voucher_point_coint": "Ponovno izberite kodo kupona/kovance/točke, če so na voljo.",
+  "payment_halo_wallet": "Plačilni račun Hahalolo",
+  "payment_available_balance": "Razpoložljivo stanje:",
+  "payment_card_holder_name": "Ime imetnika kartice",
+  "payment_card_cvv_cvc_name": "Koda CVV/CVC",
+  "payment_card_number": "Številka kartice",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Podobne lastnosti",
+  "hotel_detail_hotel_images": "Slike hotela",
+  "hotel_detail_reviews_latest": "Zadnje",
+  "hotel_detail_reviews_oldest": "Najstarejši",
+  "hotel_detail_reviews_highest": "Najvišji rezultat",
+  "hotel_detail_reviews_lowest": "Najnižja ocena",
+  "hotel_detail_review_sort_by": "Razvrsti po",
+  "hotel_detail_reviews": "Pregled",
+  "hotel_detail_rate_location": "Lokacija",
+  "hotel_detail_rate_price": "Cena",
+  "hotel_detail_rate_cleanliness": "Čistoča",
+  "hotel_detail_rate_service": "Storitev",
+  "hotel_detail_rate_facilities": "Objekti",
+  "hotel_detail_one_user_review": "1 ocena",
+  "hotel_detail_x_user_reviews": "{x} ocen",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Rezervacija ni uspela",
+  "hotel_detail_please_fill_ci_co_date": "Vnesite datume prijave in odjave",
+  "hotel_detail_allow_pet_contact_hotel": "Hišni ljubljenčki so dovoljeni. Za pravila o hišnih ljubljenčkih se obrnite neposredno na nastanitev.",
+  "hotel_detail_allow_pet_and_x_fee": "Hišni ljubljenčki so dovoljeni. Pristojbina za hišne ljubljenčke: {x} (Pristojbina za hišne ljubljenčke se plača v nastanitvi).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "BREZPLAČNA odpoved",
+  "hotel_detail_cancellation_with_refund": "Odpoved se zaračuna",
+  "hotel_detail_cancellation_without_refund": "Odpoved brez vračila",
+  "hotel_detail_cancel_non_refund": "Ob preklicu ne boste prejeli povračila ali plačanega zneska.",
+  "hotel_detail_breakfast_served": "Zajtrk zagotovljen",
+  "hotel_detail_lunch_served": "Kosilo zagotovljeno",
+  "hotel_detail_dinner_served": "Večerja zagotovljena",
+  "hotel_detail_smoking_allow": "Kajenje je dovoljeno",
+  "hotel_detail_smoking_not_allow": "Kajenje ni dovoljeno",
+  "hotel_detail_contact_hotel": "Obrnite se na hotel",
+  "hotel_detail_book_first_pay_later": "Rezervirajte zdaj, plačajte pozneje",
+  "hotel_detail_policy": "Pravila",
+  "hotel_detail_choose_the_bed_arrangement": "Izberite posteljno prevleko",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Odpovedi pred {x} dne {y}: prejmete {z}% vračila cene sobe za prvo noč.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Sobne storitve",
+  "hotel_detail_amenities": "Udobje",
+  "hotel_detail_general_rules": "hišni red",
+  "hotel_detail_change_reservation": "Spremeni rezervacijo",
+  "hotel_detail_services_and_facilities": "Objekti in storitve",
+  "hotel_detail_x_room_and_y_night": "{x} soba/{y} noč",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} sob/{y} nočitev",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 soba/{x} nočitev",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} sob/1 noč",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 soba/1 noč",
+  "hotel_detail_x_rooms_and_y_adults": "{x} sob - {y} gostov",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 soba - {x} gostov",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 soba- 1 gost",
+  "hotel_detail_child_count": "1 otrok",
+  "hotel_detail_x_children": "{x} otrok",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Podrobnosti sobe",
+  "hotel_detail_room_policy_and_conditions": "Pogoji in politike",
+  "hotel_detail_person_count": "1 gost",
+  "hotel_detail_x_people": "{x} gostov",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} od središča",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} od lokacije iskanja",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "V centru mesta",
+  "hotel_detail_check_in": "Prijava",
+  "hotel_detail_check_out": "Preveri",
+  "hotel_detail_cancelation_policy": "Odpoved",
+  "hotel_detail_child_policy": "otroci",
+  "hotel_detail_pet_policy": "Domače živali",
+  "hotel_detail_check_in_x": "Po {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Pred {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Samo še 1",
+  "hotel_detail_only_x_room": "Samo še {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Dovoljeni so otroci, stari od {range}.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Hišni ljubljenčki so dovoljeni. Pristojbina za hišne ljubljenčke se plača v hotelu.",
+  "hotel_detail_pet_policy_do_not_allow": "Hišni ljubljenčki niso dovoljeni.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Odpovedi {x}ur pred prihodomčasom prijave: prejmete {y}% vračila cene sobe za prvo noč.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Odpovedi {x}ur pred prihodomčasom prijave: prejmete {y}% vračila cene sobe za vse nočitve.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Brezplačna odpoved pred {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Rezervirajte 1 sobo",
+  "hotel_detail_book_x_room": "Rezervirajte {x} sob",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Najboljša cena",
+  "hotel_detail_bed": "1 postelja",
+  "hotel_detail_x_beds": "{x} postelj",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "{x}% popust samo danes",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Izberite sobo",
+  "hotel_detail_has_x_room_types": "(Na voljo je skupno {x} vrst sob",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Na voljo je skupaj 1 tip sobe)",
+  "hotel_detail_children_policy_do_not_allow": "Hotel nima pravil za otroke. Otroci ne bodo upoštevani pri številu iskanj. Prosimo, da se obrnete na hotel, če vas spremljajo otroci.",
+  "hotel_detail_children_policy_range_allow": "Hotelska politika za otroke dovoljuje otrokom, starim od {range}. Za informacije o hotelski politiki in predpisih glejte razdelek o hišnem redu hotela ali se za dodatne informacije obrnite na hotel.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Informacije o sobi",
+  "hotel_detail_x_fee_person_and_day": "{x}/gost/dan",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/avto/dan",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Zajtrk",
+  "hotel_detail_lunch": "Kosilo",
+  "hotel_detail_dinner": "Večerja",
+  "hotel_detail_smoking": "Tobak",
+  "hotel_detail_parking": "Parkiranje",
+  "hotel_detail_local_time": "(Lokalni čas)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Odpovedi pred {x} dne {y}: pridobite {z} % vračila cene sobe za vse nočitve.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Odpovedi pred {x} dne {y}: pridobite vračilo {z} cene sobe.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Ponudbe",
+  "hotel_detail_free_breakfast": "Brezplačen zajtrk",
+  "hotel_detail_free_lunch": "Brezplačno kosilo",
+  "hotel_detail_free_dinner": "Brezplačna večerja",
+  "hotel_detail_allow_smoking": "Kajenje je dovoljeno",
+  "hotel_detail_free_parking": "Brezplačno parkiranje",
+  "hotel_detail_room_not_found": "Ni najdenih sob!",
+  "hotel_detail_no_result": "Nismo mogli najti nobenega rezultata, ki bi ustrezal vašemu iskanju. Prosim poskusite ponovno.",
+  "hotel_detail_similar_hotels_title": "Podobne lastnosti",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Naročilo ni primerno za plačilo",
+  "hotel_booking_dialog_qualified_orders": "Naročilo je primerno s skupnim zneskom",
+  "hotel_booking_dialog_coupon_code_coins_points": "Spremenite lahko kodo kupona, kovance ali točke, da bodo upravičeni do plačila",
+  "hotel_booking_dialog_or_minimum": "ali najmanj",
+  "hotel_booking_widget_dialog_cannot_used_information": "Teh informacij trenutno ni mogoče uporabiti. Uporabite drugega ali shranite novega.",
+  "hotel_booking_component_applied_points_successfully": "Uspešno ste uporabili točke",
+  "hotel_booking_use_point": "Uporabite točke",
+  "hotel_booking_point_switch_on_hint": "Izklopite uporabo točk, če želite preklicati uporabo točk za to naročilo",
+  "hotel_booking_point_switch_off_hint": "Vklopite uporabo točk, da vnesete število točk, ki jih boste porabili za to naročilo",
+  "hotel_booking_point_user_point": "Razpoložljive točke",
+  "hotel_booking_point_available_point": "Na voljo za naročila",
+  "hotel_booking_point_user_want_to_use_hint": "Število točk, ki jih želite uporabiti",
+  "hotel_booking_point_equivalent_to": "Enakovreden",
+  "hotel_booking_point_press": "Pritisnite",
+  "hotel_booking_point_apply": "Prijavite se",
+  "hotel_booking_point_apply_for_payment": "za uporabo zneska pri plačilu",
+  "hotel_booking_points_apply_hint": "Znesek bo uporabljen za plačilo tega naročila.",
+  "hotel_booking_payment_3001_error": "Kartica ni podprta. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3002_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3003_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3004_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3005_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3006_error": "Kartica je potekla. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3007_error": "Neveljavna koda CVC. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3008_error": "Neveljavna številka kartice. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3009_error": "Ta valuta ni podprta. Prosim poskusite ponovno.",
+  "hotel_booking_payment_3010_error": "Med postopkom plačila je prišlo do napake. Prosim poskusite ponovno.",
+  "hotel_booking_modify_coin_applied": "Za plačilo so bili uporabljeni kovanci. Oglejte si podrobnosti v Total.",
+  "hotel_booking_modify_voucher_applied": "Za plačilo so bili uporabljeni kovanci. Oglejte si podrobnosti v Total.",
+  "hotel_booking_modify_point_applied": "Točke so bile uporabljene za plačilo. Oglejte si podrobnosti v Total.",
+  "hotel_booking_modify_point_canceled": "Uporaba točk pri plačilu za to naročilo je bila preklicana.",
+  "hotel_booking_modify_4006_error": "Vavčer ni na voljo",
+  "hotel_booking_modify_4007_error": "Bon je ohranjen",
+  "hotel_booking_modify_4008_error": "Naročilo ne izpolnjuje pogojev za kodo kupona. Preverite in poskusite znova.",
+  "hotel_booking_modify_2004_error": "Uveljavitev ni uspela",
+  "hotel_booking_pay_1005_error": "Nepravilna vrednost",
+  "hotel_booking_pay_2002_error": "Ni naročil",
+  "hotel_booking_pay_2004_error": "Plačilo ni uspelo",
+  "hotel_booking_pay_6002_error": "Napačni podatki o kartici",
+  "hotel_booking_pay_6003_error": "Kartica ni sprejeta",
+  "hotel_booking_pay_6004_error": "Napaka pri ustvarjanju naročila",
+  "hotel_booking_pay_6005_error": "Napaka pri rezervaciji TVP",
+  "hotel_booking_required_city": "Mesto je obvezno",
+  "hotel_booking_sub_bed": "Dodatna postelja",
+  "hotel_booking_information": "Informacije o rezervaciji",
+  "hotel_booking_room_information": "Informacije o sobi",
+  "hotel_booking_room_hotel": "Hotel",
+  "hotel_booking_x_nights": "{x} noči",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 nočitev",
+  "hotel_booking_change": "spremeniti",
+  "hotel_booking_user_contact": "Kontaktni podatki",
+  "hotel_bookng_without_tone_marks": "(brez tonskih oznak)",
+  "hotel_booking_first_name": "Ime",
+  "hotel_booking_last_name": "Priimek",
+  "hotel_booking_middle_name": "Srednje ime",
+  "hotel_booking_given_name": "Srednje in ime/priimek",
+  "hotel_booking_phone_number": "Telefonska številka",
+  "hotel_booking_email": "E-naslov",
+  "hotel_booking_country": "Država",
+  "hotel_booking_im_a_guest": "Jaz sem gost",
+  "hotel_booking_guest_information": "Informacije o gostu",
+  "hotel_booking_fill_contact_information": "Vnesite svoje kontaktne podatke ali kontaktne podatke osebe, odgovorne za ohranjanje stika s ponudnikom nastanitvenih storitev.",
+  "hotel_booking_name_as_in_passport": "Polno ime, kot je navedeno na osebni izkaznici/potnem listu",
+  "hotel_booking_payments": "Možnosti plačila",
+  "hotel_booking_prepay": "Plačaj zdaj",
+  "hotel_booking_postpaid": "Plačaj pozneje",
+  "hotel_booking_prepay_description": "Hahalolo vam bo pomagal obdelati vaše plačilo. Celoten znesek boste plačali danes po zaključku rezervacije.",
+  "hotel_booking_postpaid_description": "Nastanitev bo obdelala vaše plačilo. Odvisno od pogojev rezervacije lahko delno ali celotno plačate v nastanitvi.",
+  "hotel_booking_bill_information": "Informacije o plačilu",
+  "hotel_booking_use_contact_information": "Uporabite kontaktne podatke",
+  "hotel_booking_state": "Država",
+  "hotel_booking_city": "Mesto",
+  "hotel_booking_save_payment_information": "Podatke o plačilu shranite za naslednjič",
+  "hotel_booking_use_x_y_to_pay": "Za plačilo uporabite {x} {y}",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Enakovredno {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Način plačila",
+  "hotel_booking_payment_note": "Opomba: HAHALOLO podpira uporabnike z BREZPLAČNIMI bančnimi stroški",
+  "hotel_booking_free": "prost",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Vam lahko še kaj pomagamo?",
+  "hotel_booking_inform_the_accommodation": "Osebje nepremičnine bomo obvestili, da vas te storitve zanimajo. Prosimo, upoštevajte.",
+  "hotel_booking_can_not_guaranteed": "Vaše zahteve ni mogoče zagotoviti. Ne skrbi! Lastnina bo poskušala izpolniti vaše potrebe.",
+  "hotel_booking_additional_services": "To so dodatne storitve, ki nastanejo poleg vaše zahteve za rezervacijo in lahko povzročijo dodatne stroške za nepremičnino, če jih uporabljate.",
+  "hotel_booking_note": "Opomba",
+  "hotel_booking_promo_apply_rule": "Kovanci in koda kupona se ne uporabljajo za naslednje oblike plačila.",
+  "hotel_booking_saved_payment_information": "Podatki o plačilu so shranjeni",
+  "hotel_booking_fill_new_payer_information": "Vnesite podatke o novem plačniku",
+  "hotel_booking_maximum_coins_can_be_use": "Za to naročilo lahko uporabite največje število kovancev.",
+  "hotel_booking_coins": "Kovanci",
+  "hotel_booking_unknown": "Nevem",
+  "hotel_booking_planning_arrive_after_x_date": "Če nameravate prispeti po {x}, obvestite gostitelja o načrtovanem času prijave:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Dodatne storitve se lahko zaračunajo. Za dodatne informacije se predhodno obrnite na nastanitev.",
+  "hotel_booking_term_and_policies": "Pogoji – Politike",
+  "hotel_booking_privacy_policy": "Politika zasebnosti",
+  "hotel_booking_tp_and_pp": "Z nadaljevanjem naslednjega koraka potrjujem, da sem prebral in se strinjal s pogoji Hahalolo – pravilniki in politiko zasebnosti",
+  "hotel_booking_important_note": "Opomba",
+  "hotel_booking_select_time": "Izberite čas",
+  "hotel_booking_room_x_night": "Soba x 1, 1 nočitev",
+  "hotel_booking_x_rooms_x_night": "Soba x {x}, 1 nočitev",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Soba x {x}, {y} nočitev",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Soba x 1, {x} nočitev",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Davki in pristojbine",
+  "hotel_booking_service_charge": "Pristojbina za storitev",
+  "hotel_booking_payment_fees": "Provizija za plačilo",
+  "hotel_booking_accommodation_currency": "Valuta lastnine",
+  "hotel_booking_points_fees": "Uporabite točke",
+  "hotel_booking_coins_fees": "Uporabite kovance",
+  "hotel_booking_voucher_fees": "Koda kupona",
+  "hotel_booking_discount": "Napredovanje",
+  "hotel_booking_meal_service": "Postrežba obrokov",
+  "hotel_booking_meal_service_description": "Spodaj so storitve zajtrka, ki vam jih lahko zagotovi nastanitev. Če se želite prijaviti za to storitev, se obrnite neposredno na recepcijo nastanitve.",
+  "hotel_booking_meal_price_per_breakfast": "Cena po vrsti zajtrka",
+  "hotel_booking_extended_service": "Dodatne storitve",
+  "hotel_booking_extended_service_description": "Izberite skupno število dodatnih ležišč, ki jih želite dodati temu naročilu. Dodate lahko največ {x} dodatnih ležišč.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Količina",
+  "hotel_booking_total": "Skupaj",
+  "hotel_booking_unit_price": "Cena",
+  "hotel_booking_x_price_per_person_per_day": "{x} ljudi/dan",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} postelj/osebo/dan",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Podrobnosti o ceni",
+  "hotel_booking_billings_information": "Informacije o plačilu",
+  "hotel_booking_service_charge_description": "To pristojbino bomo obdržali kot provizijo za storitev in podporo pri vaših težavah, povezanih z rezervacijo v sistemu Hahalolo.",
+  "hotel_booking_payment_fees_description": "Provizija za plačilo je znesek provizije za transakcijo na transakcijo, ki jo morate plačati ponudnikom spletnih plačilnih storitev.",
+  "hotel_booking_taxes_and_fees_description": "Davki in pristojbine so denarni zneski, ki se zaračunajo v skladu s predpisi nastanitve (hotela), ki jih morate plačati, ko uporabljate njihove nastanitvene storitve. Prosimo, preberite pogoje uporabe za več podrobnosti.",
+  "hotel_booking_accommodation_currency_description": "Cena je bila pretvorjena glede na razpoložljivo valuto dobavitelja.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Menjalni tečaj se lahko spremeni, preden plačate.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Izdajatelj vaše kartice lahko zaračuna provizijo za tujo transakcijo.",
+  "hotel_booking_enter_maximum_x_char": "Vnesite največ {x} znakov",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Točke niso na voljo.",
+  "hotel_booking_coin_not_available": "Kovanci niso na voljo.",
+  "hotel_booking_voucher_not_available": "Koda kupona ni na voljo.",
+  "hotel_booking_please_check_again": "Preverite še enkrat.",
+  "hotel_booking_point_change": "Število točk se je spremenilo zaradi spremembe celotnega plačila.",
+  "hotel_booking_hold_warning": "Vaša nepremičnina je bila rezervirana, zato ne morete spremeniti podatkov o naročilu. Za dokončanje rezervacije izvedite plačilo.",
+  "hotel_booking_total_point_change": "Vaše razpoložljive točke so se spremenile. Vnesite število točk za prijavo na naročilo.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Zemljevid",
+  "hotel_list": "Seznam",
+  "hotel_from_the_center": "Iz središča",
+  "hotel_from_the_location": "Z lokacije iskanja",
+  "hotel_right_in_the_center": "V središču mesta",
+  "hotel_breakfast_is_served": "Brezplačen zajtrk",
+  "hotel_no_breakfast_served": "Zajtrk ni na voljo",
+  "hotel_dinner_is_served": "Zagotovljena večerja",
+  "hotel_no_dinner_service": "Večerja ni zagotovljena",
+  "hotel_lunch_is_served": "Zagotovljeno kosilo",
+  "hotel_no_lunch_service": "Kosilo ni predvideno",
+  "hotel_allow_smoking": "Kajenje je dovoljeno",
+  "hotel_no_smoking": "Kajenje ni dovoljeno",
+  "hotel_no_refund": "Odpoved brez povračila",
+  "hotel_without_fee": "Odpoved se zaračuna",
+  "hotel_free_cancel": "BREZPLAČNA odpoved",
+  "hotel_pay_later": "Rezervirajte zdaj, plačajte pozneje",
+  "hotel_fee": "Zajtrk zagotovljen",
+  "hotel_free": "BREZPLAČEN zajtrk",
+  "hotel_not_refund": "Ob preklicu ne boste prejeli povračila ali plačanega zneska",
+  "hotel_no_vacancy": "Razprodano",
+  "hotel_choose_room": "Izberite sobo",
+  "hotel_change_date": "Spremeni datum",
+  "hotel_change_price_display": "Pokaži ceno",
+  "hotel_continue": "Samo",
+  "hotel_room_available": "levo",
+  "hotel_room": "soba",
+  "hotel_night": "noč",
+  "hotel_date_checking": "Datum prijave",
+  "hotel_date_checkout": "Datum odjave",
+  "hotel_search": "Iskanje",
+  "hotel_promotion": "Promocija",
+  "hotel_promotions": "Promocije",
+  "hotel_applying": "prijavljanje",
+  "hotel_promotion_applying": "veljavna promocija",
+  "hotel_promotions_applying": "veljavne promocije",
+  "hotel_title_promotions_applying": "Veljavna promocija",
+  "hotel_see_detail": "Ogled podrobnosti",
+  "hotel_cancel": "Za odpoved v {x} urah pred prijavo bo povrnjeno {y} % cene sobe",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Če gostje ostanejo med {y}–{z}, prejmete {x} popusta na noč.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Prejmite {x} popusta na ceno nočitve (največ {a} pri naročilu za rezervacijo), če gostje ostanejo med {y}–{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{x} popusta za {y} dni vnaprej. Velja, ko gostje bivajo od {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Popust {x}, največ {y} za {z} dni vnaprej. Velja, ko gostje bivajo od {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{x} popusta za {z} dni vnaprej. Velja, ko gostje bivajo od {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{x} popusta za rezervacije za več kot {y} nočitev. Velja, ko gostje bivajo od {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Popust {x}, največ {y} za rezervacije za več kot {z} noči. Velja, ko gostje bivajo od {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{x} popusta za rezervacije za več kot {z} nočitev. Velja, ko gostje bivajo od {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "vse noči",
+  "hotel_first_night": "prvo noč",
+  "hotel_rating": "Pregled",
+  "hotel_wonderful": "Odlično",
+  "hotel_very_good": "Zelo dobro",
+  "hotel_satisfied": "zadovoljen",
+  "hotel_medium": "povprečno",
+  "hotel_bad": "Ubogi",
+  "hotel_hand_note_consult_book_room": "Poiščite rezervacijo",
+  "hotel_hand_note_enter_code_search_info": "Vnesite svojo številko rezervacije, da poiščete podatke o rezervaciji",
+  "hotel_hand_note_reservation_code": "Številka rezervacije",
+  "hotel_hand_note_can_not_find_hotel": "Žal nismo našli nobenega hotela, ki bi ustrezal vašemu iskanju.",
+  "hotel_hand_note_search_night": "Št. noči",
+  "hotel_hand_note_num_room": "Št. sob",
+  "hotel_hand_note_status_booking": "Stanje rezervacije",
+  "hotel_hand_note_booked": "Rezervirano",
+  "hotel_hand_note_dont_booked": "Nisem še rezerviran",
+  "hotel_hand_note_total_price": "Skupna cena",
+  "hotel_hand_note_status": "Stanje",
+  "hotel_hand_note_payment_after": "Prosimo, plačajte vnaprej",
+  "hotel_hand_note_pay_now": "Plačaj zdaj",
+  "hotel_hand_note_info_book_room": "Informacije o rezervaciji",
+  "hotel_hand_note_code_book_room": "Številka rezervacije:",
+  "hotel_hand_note_checking": "Prijava",
+  "hotel_hand_note_checkout": "Preveri",
+  "hotel_hand_note_detail": "Ogled podrobnosti",
+  "hotel_hand_note_kind_room": "Vrsta sobe",
+  "hotel_hand_note_quantity": "Količina",
+  "hotel_hand_note_room": "soba",
+  "hotel_hand_note_visited": "Gost",
+  "hotel_hand_note_adult": "odrasli",
+  "hotel_hand_note_children": "otrok",
+  "hotel_hand_note_number_nights": "Št. nočitev",
+  "hotel_hand_note_night": "noč",
+  "hotel_hand_note_status_payment": "Stanje plačila",
+  "hotel_hand_note_cancel_order": "Prekliči naročilo",
+  "hotel_hand_note_info_refund": "Podatki o vračilu",
+  "hotel_hand_note_rate_experience": "Preglejte svojo izkušnjo na",
+  "hotel_hand_note_rate": "Pregled",
+  "hotel_hand_note_see_rate": "Glej ocene",
+  "hotel_hand_note_rate_overall_rating": "Vaša splošna ocena o hotelu",
+  "hotel_hand_note_rate_average": "povprečno",
+  "hotel_hand_note_position": "Lokacija",
+  "hotel_hand_note_price": "Cena",
+  "hotel_hand_note_clean": "Čistoča",
+  "hotel_hand_note_serve": "Storitev",
+  "hotel_hand_note_material_facilities": "Objekti",
+  "hotel_hand_note_review": "Prosimo, delite svoje občutke in ocene.",
+  "hotel_hand_note_review_limit": "Pregled mora imeti vsaj 2 znaka.",
+  "hotel_hand_note_cancel": "Prekliči",
+  "hotel_hand_note_submit_review": "Pošlji pregled",
+  "hotel_hand_note_room_rates": "Cena sobe",
+  "hotel_hand_note_extra_bed": "Dodatna postelja",
+  "hotel_hand_note_service_charge": "Pristojbina za storitev",
+  "hotel_hand_note_payment_fees": "Pristojbina za plačilo",
+  "hotel_hand_note_promotion": "Promocija",
+  "hotel_hand_note_voucher": "Koda kupona",
+  "hotel_hand_note_use_coins": "Uporabite kovance",
+  "hotel_hand_note_rates_include": "Vključena cena",
+  "hotel_hand_note_see_review_title": "Oglejte si svoje mnenje o {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Pregledano dne {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Hvala za vaš pregled",
+  "hotel_hand_note_use_point": "Uporabite točke",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Brezplačna odpoved pred {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Lokalni čas)",
+  "hotel_hand_note_hotel_apartment": "Apartma",
+  "hotel_hand_note_hostel": "Hostel",
+  "hotel_hand_note_hotel": "Hotel",
+  "hotel_hand_note_resort": "Letovišče",
+  "hotel_hand_note_other": "drugo",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Vila",
+  "hotel_hand_note_vacation_home": "Počitniška hiša",
+  "hotel_hand_note_homestay": "Bivanje pri družini",
+  "hotel_hand_note_farmstay": "Bivanje na kmetiji",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Križarjenje",
+  "hotel_hand_note_boathouse": "Čoln",
+  "hotel_hand_note_countryhouse": "Podeželska hiša",
+  "hotel_hand_note_campground": "Kamp",
+  "hotel_hand_note_camper": "Avtodom",
+  "hotel_hand_note_lodge": "Loža",
+  "hotel_hand_note_guesthouse": "Hiša za goste",
+  "hotel_hand_note_cancel_hotel": "Odpoved",
+  "hotel_update_price": "Posodabljanje cen",
+  "hotel_distance_x_from_center": "{distance}{x} od središča",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} od lokacije iskanja",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "{x} popusta na nočitev, če gostje bivajo med {y}–{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Število sob in gostov",
+  "hotel_add_room_children": "otroci",
+  "hotel_add_room_age_upto": "(Starost 0–17 let)",
+  "hotel_add_room_child": "Otrok",
+  "hotel_add_room_age": "starost",
+  "hotel_add_room_cancel": "Prekliči",
+  "hotel_add_room_choose_age": "Izberite starost",
+  "hotel_add_room_done": "Končano",
+  "hotel_add_room_room": "Soba",
+  "hotel_add_room_adult": "Odrasel",
+  "hotel_add_room_adults": "Odrasli",
+  "hotel_add_room_age_children": "Otroška starost",
+  "hotel_add_room_age_child": "Otroška starost",
+  "hotel_add_room_condition": "Število sob in gostov v sobi ne sme biti večje od 9.",
+  "hotel_add_room_note": "Opomba",
+  "hotel_add_room_save": "Shrani",
+  "hotel_cart_child": "Otrok",
+  "hotel_cart_children": "otroci",
+  "hotel_cart_delete": "Izbriši",
+  "hotel_cart_change": "spremeniti",
+  "hotel_cart_book_room": "Soba za knjige",
+  "hotel_cart_night": "noč",
+  "hotel_cart_title_included_texas_fee": "Vključno z davki in pristojbinami",
+  "hotel_cart_temporary_price": "Vmesni seštevek",
+  "hotel_cart_delete_order": "Izbriši naročilo",
+  "hotel_screen_cart_delete_order_confirm": "Ali želite izbrisati to naročilo?",
+  "hotel_order_detail_info_hotel": "Informacije o rezervaciji",
+  "hotel_order_detail_done": "Končano",
+  "hotel_order_detail_detail": "Ogled podrobnosti",
+  "hotel_order_detail_book_new": "Rezervirajte novo sobo",
+  "hotel_order_detail_success": "Rezervacija uspešna",
+  "hotel_order_detail_requests_success": "Vaša zahteva za rezervacijo je bila uspešno podana",
+  "hotel_order_detail_paid": "(Plačano).",
+  "hotel_order_detail_reservation": "Podrobnosti o rezervaciji lahko preverite spodaj.",
+  "hotel_order_detail_thank": "Zahvaljujemo se vam za zaupanje v storitve",
+  "hotel_order_detail_support": "Če imate kakršna koli vprašanja ali potrebujete dodatno pomoč, se obrnite na center za pomoč Hahalolo",
+  "hotel_order_detail_instructions": "za navodila.",
+  "hotel_order_detail_info_rest": "Informacije o nepremičnini",
+  "hotel_order_detail_hotel": "Hotel",
+  "hotel_order_detail_type": "Tip sobe",
+  "hotel_order_detail_check_in": "Prijava",
+  "hotel_order_detail_check_out": "Preveri",
+  "hotel_order_detail_visited": "Število gostov",
+  "hotel_order_detail_adult": "odrasli",
+  "hotel_order_detail_children": "otroci",
+  "hotel_order_detail_baby": "dojenček (mlajši od 1 leta)",
+  "hotel_order_detail_contact": "Kontaktni podatki",
+  "hotel_order_detail_lastname": "Polno ime",
+  "hotel_order_detail_tel_number": "Telefonska številka",
+  "hotel_order_detail_nationality": "Narodnost",
+  "hotel_order_detail_note": "Opomba",
+  "hotel_order_detail_guests": "Informacije o gostu",
+  "hotel_order_detail_trade": "Informacije o transakciji",
+  "hotel_order_detail_order_form": "naročilo",
+  "hotel_order_detail_payment": "Znesek plačila",
+  "hotel_order_detail_bed_type": "Vrsta postelje",
+  "hotel_order_detail_extra_bed": "Dodatna postelja",
+  "hotel_order_detail_bed": "postelja",
+  "hotel_order_detail_reservation_code": "Številka rezervacije",
+  "hotel_order_detail_payer": "Plačnik",
+  "hotel_search_code_total_price": "Skupna cena",
+  "hotel_search_code_voucher": "Koda kupona",
+  "hotel_search_code_use_coin": "Uporabite kovance",
+  "hotel_search_code_use_point": "Uporabite točke",
+  "hotel_search_code_total_pay": "Skupno plačilo",
+  "hotel_search_code_detail_pay": "Podatki o plačilu",
+  "hotel_hand_note_hotel_policy_check_out": "- Odjava pred {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Prijava po {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Politika odpovedi",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Časovnice brezplačne odpovedi temeljijo na časovnem pasu nastanitve in so določene v pravilniku nastanitve o odpovedih.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x soba, {night} x noč",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Davki in pristojbine",
+  "hotel_hand_note_detail_total_amount": "Skupno plačilo",
+  "hotel_hand_note_detail_success": "Uspešno",
+  "hotel_hand_note_detail_failed": "Ni uspelo",
+  "hotel_hand_note_detail_postpaid": "Naročniško",
+  "hotel_hand_note_detail_prepaid": "Predplačniško",
+  "hotel_hand_note_detail_operation_history": "Zgodovina dejavnosti",
+  "hotel_hand_note_detail_order_cancel_info": "Informacije o preklicu naročila",
+  "hotel_hand_note_detail_order_total_order": "Skupaj naročilo",
+  "hotel_hand_note_detail_total_money": "Skupni plačani znesek",
+  "hotel_hand_note_detail_coin": "kovanci",
+  "hotel_hand_note_detail_fee_cancel": "Strošek odpovedi",
+  "hotel_hand_note_detail_refund_amount": "Ocenjeni znesek vračila",
+  "hotel_hand_note_detail_coin_refund_amount": "Ocenjeni kovanci povračila",
+  "hotel_hand_note_detail_payment_info": "Informacije o plačilu",
+  "hotel_hand_note_detail_customer_service": "Koda kupona ni vračljiva. Za vrnitev kode kupona se obrnite na naš center za pomoč strankam.",
+  "hotel_hand_note_detail_note_refund": "Čas vračila (od datuma preklica): 5 do 7 dni (za plačilna prehoda Alepay in Payme) ali 7 do 15 dni (za plačilni prehod Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Razlogi za odpoved",
+  "hotel_hand_note_detail_checking_out": "Čas prijave in odjave",
+  "hotel_hand_note_detail_check_in_after": "Prijava po",
+  "hotel_hand_note_detail_check_out_before": "Odjava pred",
+  "hotel_hand_note_detail_person_day": "oseba/dan",
+  "hotel_hand_note_detail_free": "Prost.",
+  "hotel_hand_note_detail_day": "/dan",
+  "hotel_hand_note_detail_note_hotel": "Časovnice brezplačne odpovedi temeljijo na časovnem pasu nastanitve in so določene v pravilniku nastanitve o odpovedih.",
+  "hotel_hand_note_detail_room_service": "Sobne storitve",
+  "hotel_hand_note_detail_facilities_service": "Objekti in sobne storitve",
+  "hotel_hand_note_detail_person_contact": "Kontaktna oseba",
+  "hotel_hand_note_detail_telephone_num": "Telefonska številka",
+  "hotel_hand_note_detail_email": "E-naslov",
+  "hotel_hand_note_detail_nationality": "Narodnost",
+  "hotel_hand_note_detail_address": "Naslov",
+  "hotel_hand_note_detail_paid": "Plačan znesek",
+  "hotel_hand_note_detail_rest": "Neplačan znesek",
+  "hotel_hand_note_detail_payment_methods": "Način plačila",
+  "hotel_hand_note_detail_check_in_info": "Informacije o prijavi",
+  "hotel_hand_note_detail_guest_name": "Ime gosta",
+  "hotel_hand_note_detail_policy_cancel": "Preklici opravljeni prej",
+  "hotel_hand_note_detail_hour": "{hour} ur",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} minut",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": bo povrnjeno",
+  "hotel_hand_note_detail_price_room": "cene sobe za",
+  "hotel_hand_note_detail_one_night": "prvo noč.",
+  "hotel_hand_note_detail_all_night": "vse noči.",
+  "hotel_hand_note_detail_policy": "Politika odpovedi",
+  "hotel_hand_note_detail_children_note": "Dovoljeni so otroci, stari od {age}.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Hišni ljubljenčki so dovoljeni. Pristojbina za hišne ljubljenčke: {fee} (Pristojbina za hišne ljubljenčke se plača v nastanitvi).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "otroci",
+  "hotel_hand_note_detail_pet": "Domače živali",
+  "hotel_hand_note_detail_total_room_rate": "Skupna cena sobe",
+  "hotel_hand_note_detail_total_room_order": "Št. sob",
+  "hotel_hand_note_detail_room_information": "Informacije o sobi",
+  "hotel_hand_note_detail_person_x": "{x} oseb",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Komunale, sobna postrežba",
+  "hotel_hand_note_detail_waiting_service": "Čakanje na izpolnitev",
+  "hotel_hand_note_detail_in_service": "V teku",
+  "hotel_hand_note_detail_completed": "Dokončano",
+  "hotel_hand_note_detail_waiting_cancellation": "Čakanje na odpoved",
+  "hotel_hand_note_detail_canceled": "Prekinjeno",
+  "hotel_hand_note_detail_awaiting_confirmation": "Čakanje na potrditev",
+  "hotel_hand_note_detail_not_refund": "Ob preklicu ne boste prejeli povračila ali plačanega zneska",
+  "hotel_hand_note_detail_other_required": "Druga zahteva",
+  "hotel_hand_note_detail_point_refund_amount": "Ocenjene točke vračila",
+  "hotel_input_title_start_date": "Datum prijave",
+  "hotel_input_title_end_date": "Datum odjave",
+  "hotel_input_title_choose_date": "Izberite datum",
+  "hotel_input_title_choose": "Izberite",
+  "hotel_hand_note_price_detail_payment_type": "Način plačila",
+  "hotel_hand_note_price_detail_payment_date": "Dan plačila",
+  "hotel_hand_note_price_detail_price": "Oglejte si podrobnosti o ceni",
+  "hotel_hand_note_price_detail_title": "Podrobnosti o ceni",
+  "hotel_hand_note_price_detail_contact_info": "Kontaktni podatki",
+  "hotel_hand_note_utilities_title": "Udobje",
+  "hotel_hand_note_services_title": "Storitve",
+  "hotel_hand_note_search_required_code": "Zahtevana je številka rezervacije.",
+  "cart_screen_main_hotel_title": "Hotel",
+  "cart_screen_main_hotel_title_1": "Hotel (1)",
+  "hotel_cancel_hotel": "Odpoved",
+  "hotel_search_this_area ": "Poiščite to območje",
+  "hotel_where": "Kje želite ostati?",
+  "hotel_people": "{y} sob - {x} gostov",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Soba",
+  "hotel_hand_note_item_view_booking_code_title": "Številka rezervacije",
+  "hotel_hand_note_title_hotel_order": "Naročila za rezervacijo hotela",
+  "hotel_order_detail_view_information_order": "Informacije o naročilu",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Kje želite ostati?",
+  "search_city_no_result": "Ni ustreznih lokacij ...",
+  "search_city_choose_the_city": "Iskanje hotelov",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Izberite hotel",
+  "advanced_search_any_review": "Kaj",
+  "advanced_search_star_rating": "Ocena z zvezdicami",
+  "advanced_search_any_star": "Brez ocene",
+  "advanced_search_a_star": "1 zvezdica",
+  "advanced_search_x_star": "{x} zvezdic",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Vrsta nepremičnine",
+  "advanced_search_reset_button": "Ponastaviti",
+  "advanced_search_search_button": "Iskanje",
+  "advanced_search_evaluation_point": "Ocena ocene",
+  "advanced_search_no_city_error": "Izbrana ni nobena lastnost",
+  "advanced_search_title": "Napredno iskanje",
+  "advanced_search_clear": "jasno",
+  "advanced_search_no_date_error": "Izbran ni noben datum",
+
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Pokaži seznam",
+  "hotel_not_found": "Ni hotelov!",
+  "hotel_search_near_by": "V bližini",
+  "advanced_search_less_x_unit": "Pod {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Od {x}{unit} in več",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Od {x}{unit} do manj kot {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Oddaljenost od centra",
+  "hotel_booking_do_you_want_to_remove_a_user": "Ali res želite odstraniti uporabnika {user} s seznama?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Doplačilo",
+  "hotel_map_filter": "Razvrsti po",
+  "hotel_map_default": "Privzeto",
+  "hotel_map_high_star": "Število zvezdic: visoko do nizko",
+  "hotel_map_low_star": "Število zvezdic: od nizke do visoke",
+  "hotel_map_distance_center": "Oddaljenost od centra",
+  "hotel_map_high_rate": "Najbolje ocenjeno",	
+  "hotel_map_high_order": "Najbolj rezervirano",	
+  "hotel_hand_note_reply": "Odgovor nepremičnine",
+  "hotel_booking_payment_3011_error": "Kartica je bila zavrnjena. Poskusite z drugo kartico ali se za pomoč obrnite na izdajatelja kartice!",
+  "hotel_hand_note_utilities_title_room": "OPREMA V SOBI",	
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Vse ste dojeli!",
+  "halo_error_wifi_error": "Napaka Wi-Fi",
+  "halo_error_something_wrong": "Ups!\nNekaj je šlo narobe, poskusite znova",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

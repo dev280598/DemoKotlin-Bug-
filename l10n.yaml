@@ -1,0 +1,8 @@
+arb-dir: lib/content/l10n
+output-dir: lib/content/gen
+template-arb-file: app_en.arb
+output-localization-file: halo_localizations.dart
+output-class: Str
+synthetic-package: false
+nullable-getter: false
+use-escaping: true

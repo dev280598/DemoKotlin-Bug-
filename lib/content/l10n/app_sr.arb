@@ -1,0 +1,3311 @@
+{
+  "@@locale": "sr",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Покушајте поново",
+  "common_see_more": "Види више",
+  "common_see_less": "Видите мање",
+  "common_search_hint": "Претрага …",
+  "common_loading": "Учитавање…",
+  "common_retry": "Покушај поново",
+  "common_cancel": "Поништити, отказати",
+  "common_ok": "У реду",
+  "common_save": "сачувати",
+  "common_decline": "Одбити",
+  "common_done": "Готово",
+  "common_confirm": "Потврди",
+  "common_close": "Близу",
+  "common_continue": "Настави",
+  "common_detail": "Детаљи",
+  "common_enter_discount_code": "Унесите купон код",
+  "common_use_payment_or_contact_info": "Користите податке платиоца или контакт",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Бирач времена",
+  "car_input_title_pick_up_place": "Унесите место преузимања",
+  "car_input_title_pick_up_location": "Покупи локације",
+  "car_title_return_to_different_location": "Вратите се на другу локацију",
+  "car_input_title_start_time": "Почетно време",
+  "car_input_title_end_time": "Време завршетка",
+  "car_input_title_start_date": "Датум почетка",
+  "car_input_title_end_date": "Крајњи датум",
+  "car_input_title_enter_drop_off_place": "Унесите место за одлагање",
+  "car_input_title_enter_drop_off_location": "Одбацити локације",
+  "car_title_advanced_search": "Напредна претрага",
+  "car_title_look_up_booking_number": "Потражите број резервације",
+  "car_header_title_look_up_booking_number": "Унесите број резервације или шифру поруџбине да бисте пронашли информације о резервацији",
+  "car_title_search": "Претрага",
+  "car_notice_empty_pick_up_location": "Изаберите локацију преузимања и датум почетка претраге",
+  "car_title_ascending_price": "Растућа цена",
+  "car_title_descending_price": "Опадајућа цена",
+  "car_title_car_type": "Тип аутомобила",
+  "car_title_transmission": "Преношење",
+  "car_title_segment": "Сегмент",
+  "car_title_fuel_type": "Тип горива",
+  "car_title_supplier": "Добављач",
+  "car_title_price": "Цена",
+  "car_title_view_on_map": "Погледај на мапи",
+  "car_title_deals": "Деалс",
+  "car_title_seats": "Седишта",
+  "car_title_filter_by": "Филтер од",
+  "car_title_un_filter": "Унфилтер",
+  "car_title_choose_this_car": "Изаберите овај ауто",
+  "car_title_rental_terms": "Услови изнајмљивања",
+  "car_title_search_location": "Претражите локацију",
+  "car_title_select_btn": "Изаберите",
+  "car_title_select_date": "Изаберите датум",
+  "car_title_select_time": "Изаберите време",
+  "car_title_reset_btn": "Ресетовати",
+  "car_title_location_type": "Тип локације",
+  "car_title_number_of_seats": "Број места",
+  "car_title_days": "Дани",
+  "car_title_unlimited_mileage": "Неограничена километража",
+  "car_title_instant_confirmation": "Тренутна потврда",
+  "car_title_time_pick_up": "Датум преузимања",
+  "car_title_time_drop_off": "Датум одласка",
+  "car_title_air_conditioning": "Клима уређај",
+  "car_title_number_of_bag": "Број кофера",
+  "car_hand_note_title_booking_order_code": "Шифра налога",
+  "car_hand_note_title_booking_code": "Број резервација",
+  "car_hand_note_title_total_rental_car": "Укупно дана изнајмљивања",
+  "car_hand_note_title_status_order": "Статус поруџбине",
+  "car_hand_note_title_total_price": "Укупан износ",
+  "car_hand_note_title_status_payment": "Статус плаћање",
+  "car_hand_note_title_reason_cancel": "Разлози за отказивање",
+  "car_hand_note_title_view_details_btn": "Приказ детаља",
+  "car_hand_note_notice_cancel_order": "Износ повраћаја (ако постоји) отказане поруџбине биће пребачен на банковни рачун купца у року који одреди добављач.",
+  "car_hand_note_title_tab_all": "Све",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Очекујем Испуњење",
+  "car_hand_note_title_tab_ongoing": "У току, сталан",
+  "car_hand_note_title_tab_completed": "Завршено",
+  "car_hand_note_title_tab_canceled": "Отказано",
+  "car_hand_note_title_order_manager": "Менаџмент налог",
+  "car_hand_note_title_create_date": "Датум креирања",
+  "car_hand_note_title_view_more_btn": "Погледај још",
+  "car_hand_note_title_status_order_completed": "Завршено",
+  "car_hand_note_title_status_payment_successful": "Успешан",
+  "car_hand_note_title_details_order": "Детаљи поруџбине",
+  "car_hand_note_title_contact_info": "Детаљи контакта",
+  "car_hand_note_title_info_rental_car": "Информације о резервацији",
+  "car_hand_note_title_driver_info": "Детаљи о возачу",
+  "car_hand_note_title_pirce_details": "Детаљи о цени",
+  "car_hand_note_title_creator": "Цреатед би",
+  "car_hand_note_title_person_contact": "Контакт особа",
+  "car_hand_note_title_phone": "Број телефона",
+  "car_hand_note_title_email": "Емаил",
+  "car_hand_note_title_country": "Држава",
+  "car_hand_note_title_address": "Адреса",
+  "car_hand_note_title_price_of_car_rental": "Цена најма аутомобила",
+  "car_hand_note_title_price_payment_fee": "Накнада за плаћање",
+  "car_hand_note_title_info_extra_services": "Додатне услуге",
+  "car_hand_note_title_type_insurance": "Врста осигурања",
+  "car_hand_note_title_info_insurance": "Информације о осигурању",
+  "car_hand_note_title_car_info": "Детаљи аутомобила",
+  "car_search_result_not_found_title": "Жао нам је, возило које тражите није пронађено.",
+  "car_search_result_not_found_sub_title": "Не можемо да пронађемо одговарајуће подударање за ваш захтев.\\Пробајте поново.",
+  "car_search_result_first_title_rental_car": "Изнајмљивање аутомобила у",
+  "car_detail_btn_rent_now": "Резервишите одмах",
+  "car_notice_title_check_connection": "Проверите своју везу и покушајте поново!",
+  "car_rent_input_title_details": "Детаљи",
+  "car_rent_input_title_total_payment": "Укупан износ",
+  "car_rent_input_title_payment": "Плати",
+  "car_rent_form_input_last_name": "Презиме (без тонских ознака)",
+  "car_rent_form_input_first_name": "Средње и име/име (без тонских ознака)",
+  "car_rent_input_content_cb_use_contact_details": "Користите детаље контакта",
+  "car_rent_input_title_method_payment": "Плати",
+  "car_rent_input_title_method_pay": "Могућност плаћања",
+  "car_rent_input_title_late_payment": "Платити касније",
+  "car_rent_input_title_now_payment": "Платити сада",
+  "car_rent_input_title_information_card": "Детаљи картице",
+  "car_rent_input_title_driver_age": "Старост возача",
+  "car_rent_input_title_Do_you_need_anything_else": "Да ли треба још нешто?",
+  "car_rent_input_title_accept_policy": "Настављајући са следећим кораком, потврђујем да сам прочитао и да се слажем са Хахалоло-овим условима - смернице и политика приватности",
+  "car_rent_input_title_card_must_be_valid": "Ваша картица мора бити важећа да бисте осигурали изнајмљивање код добављача.",
+  "car_rent_input_title_accept_card_pay": "Прихваћене платне картице",
+  "car_rent_input_title_content_notice_later_pay": "Добављач аутомобила ће обрадити вашу уплату. У зависности од услова резервације, можете платити у целости или делимично.",
+  "car_rent_input_title_select_type_card": "Изаберите тип кредитне картице",
+  "car_rent_input_title_number_card": "Број картице",
+  "car_rent_input_title_enter_number_card": "Унесите број картице",
+  "car_rent_input_title_name_card": "Име власника картице",
+  "car_rent_input_title_enter_name_card": "Унесите име власника картице",
+  "car_rent_input_title_select_expiry_date": "Изаберите датум истека",
+  "car_rent_input_title_expiry_date": "Датум истека",
+  "car_rent_input_title_gate_ways": "Паимент гатеваи",
+  "car_rent_input_title_ccv_code": "ЦВЦ код",
+  "car_rent_input_title_enter_ccv_code": "Унесите ЦВЦ код",
+  "car_rent_input_title_first_notice_need_anything_else": "Обавестићемо добављача да сте заинтересовани за ове услуге, како би вам пружио детаљне информације.\\н\\н Ваш захтев се не може гарантовати. Не брини! Добављач ће покушати да испуни ваше потребе.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Ваш захтев се не може гарантовати. Не брини! Добављач ће покушати да испуни ваше потребе.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Унесите највише 55 знакова",
+  "car_rent_input_noti_invalid_last_name": "Неважеће презиме",
+  "car_rent_input_noti_invalid_first_name": "Неважеће средње и име/име",
+  "car_rent_input_noti_required_last_name": "Презиме је обавезно",
+  "car_rent_input_noti_required_first_name": "Средње и име/име је обавезно",
+  "car_rent_input_noti_invalid_email": "Неважећа е-маил",
+  "car_rent_input_noti_invalid_phone": "Неважећи број телефона",
+  "car_rent_input_noti_required_email": "Емаил је обавезан",
+  "car_rent_input_noti_required_phone": "Број телефона је обавезан",
+  "car_rent_input_noti_requried_address": "Адреса је обавезна",
+  "car_rent_input_noti_requried_country": "Држава је обавезна",
+  "car_rent_input_noti_requried_number_card": "Број картице је обавезан",
+  "car_rent_input_noti_requried_card_holder_name": "Име власника картице је обавезно",
+  "car_rent_input_noti_requried_type_card": "Кредитна картица је обавезна",
+  "car_rent_input_noti_requried_expiry": "Датум истека је обавезан",
+  "car_rent_input_title_type_card_credit": "Кредитна картица Тип",
+  "car_rent_input_title_currency_at_rental_car_place": "Валута на месту преузимања",
+  "car_rent_input_title_rule_age": "Правила узраста",
+  "car_rent_input_notice_term_and_policy_first_string": "Настављајући са следећим кораком, потврђујем да сам прочитао и пристао на Хахалоло",
+  "car_rent_input_notice_term_and_policy_append__string": "Услови - Политике",
+  "car_rent_input_notice_term_and_policy_between_string": "и",
+  "car_rent_input_notice_term_and_policy_append___string": "Правила о приватности",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Покупити",
+  "car_cart_title_drop_off": "Одбацити",
+  "car_cart_title_included_texas_fee": "Укључени су порези и накнаде",
+  "car_cart_title_btn_delete": "Избриши",
+  "car_cart_title_btn_edit": "Промените свој избор",
+  "car_cart_title_sub_total": "Међузбир",
+  "car_cart_title_car_types": "Тип аутомобила:",
+  "car_title_select_country": "Изаберите земљу",
+  "car_title_car_cart": "Резервација аутомобила",
+  "car_feed_input_hint_pick_up_place": "Ваше место преузимања",
+  "car_feed_input_hint_drop_off_place": "Ваше место за одлазак",
+  "car_feed_notice_empty_location_pick_up": "Изаберите место преузимања за претрагу",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Унесите локацију одласка",
+  "notify_error_occurred": "Грешке. Проверите поново.",
+  "car_hand_note_detail_order_full_name": "Пуно име",
+  "car_hand_note_detail_order_promotion": "Промоција",
+  "car_hand_note_detail_order_act_history": "Активности",
+  "car_hand_note_detail_order_request_other": "Остали захтеви",
+  "car_hand_note_detail_order_order_payment": "Плаћање налога",
+  "car_hand_note_detail_order_cancel_info": "Информације о отказивању поруџбине",
+  "car_hand_note_detail_order_payment_info": "Информације о плаћању",
+  "car_hand_note_detail_order_paid": "Плаћено",
+  "car_hand_note_detail_order_unpaid": "Неплаћено",
+  "car_hand_note_title_days_ago": "пре дана",
+  "car_hand_note_detail_order_cancel_fee": "Накнада за отказивање",
+  "car_hand_note_detail_order_amount_ongoing_return": "Процењени износ рефундирања",
+  "car_hand_note_detail_order_time_ongoing_return": "Процењено време поврата новца",
+  "car_hand_note_detail_order_info_transaction": "Информације о трансакцији",
+  "car_hand_note_detail_order_amount_payment": "Укупна сума",
+  "car_hand_note_detail_order_total_order": "Укупно наруџбине",
+  "car_hand_note_detail_content_define_vat": "VAT је порез и накнада коју сте дужни да платите добављачу аутомобила према њиховим прописима када користите услугу изнајмљивања аутомобила.",
+  "car_title_search_result_first_character": "Изнајмљивање аутомобила у",
+  "car_title_tool_bar_pick_up_location": "Где желите да покупите?",
+  "car_title_tool_bar_drop_off_location": "Где желиш да одеш?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Цена изнајмљивања аутомобила се конвертује на основу тренутне валуте коју користи добављач аутомобила.\nНапомена:\n- Курс је подложан промени пре него што платите.\n- Издавалац ваше картице може да вам наплати накнаду за трансакцију у иностранству.",
+  "car_hand_note_detail_content_define_payment_fee": "Накнада за трансакцију која одговара сваком захтеву за изнајмљивање аутомобила коју треба да платите добављачу услуге мрежног пролаза за плаћање.",
+  "car_hand_note_detail_content_notice_insurance": "Напомена: Ако желите да се пријавите за ове пакете осигурања, контактирајте директно рецепцију добављача аутомобила.",
+  "car_hand_note_detail_title_header_insurance": "Многи уговори о осигурању и изнајмљивању аутомобила покривају искључења која могу бити скупа у вези са оштећењем или крађом аутомобила. Међутим, осигурање у наставку ће вам помоћи да заштитите и понудите вам финансијску подршку значајном количином новца.",
+  "car_result_booking_title_header_rental_car_success": "РЕЗЕРВАЦИЈА УСПЕШНА",
+  "car_result_booking_title_btn_continue_rental_car": "Наставите да резервишете",
+  "car_result_booking_title_btn_view_order_details": "Погледајте детаље поруџбине",
+  "car_result_booking_title_header_first_char": "Ваш захтев за резервацију је успешно послат",
+  "car_result_booking_title_header_second_char": "(плаћено)",
+  "car_result_booking_title_header_third_char": ". У наставку можете проверити детаље о најму аутомобила.",
+  "car_result_booking_title_header__char": "Хвала вам на поверењу",
+  "car_result_booking_title_header____char": "услуга. Ако имате било каквих питања или вам је потребна додатна помоћ, контактирајте наш центар за помоћ на",
+  "car_result_booking_title_header_____char": "за упутства.",
+  "car_result_booking_title_header______char": ". У наставку можете проверити детаље о најму аутомобила.",
+  "car_result_booking_title_order": "Ред",
+  "car_result_booking_title_billing_info": "Информације о плаћању",
+  "car_result_booking_title_time": "време",
+  "car_result_booking_title_name_car": "Име аутомобила",
+  "car_picker_time_from_the_date": "Од",
+  "car_picker_time_to_the_date": "До",
+  "car_picker_time": "време",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Изаберите град/државу",
+  "car_result_notice_no_data_found": "Жао нам је, нису пронађени подаци",
+  "car_result_notice_no_flight_found_description": "Нисмо могли да пронађемо ниједан резултат који одговара вашој претрази. Потражите поново.",
+  "car_extra_service": "Провајдер аутомобила вам може понудити неке додатне услуге у наставку. Ако желите да се пријавите за њих, контактирајте директно рецепцију провајдера.",
+  "car_extra_charges": "Додатне накнаде ће се примењивати на возаче испод или старије од старости коју је навео добављач аутомобила",
+  "car_note_driver_age": "Напомена: Ова такса ће се наплатити на рецепцији по доласку да преузмете аутомобил.",
+  "car_rental_details": "Детаљи изнајмљивања аутомобила",
+  "car_you_dont_have_any_car_rental_orders": "Још увек немате ниједну наруџбу за изнајмљивање аутомобила.",
+  "car_search_code_no_information": "Нису пронађене информације о резервацији.\nПроверите и покушајте поново",
+  "car_input_code_message_empty": "Унесите свој број резервације",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Прихвати",
+  "aff_chart_day_ago": "пре {number} дана",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Од {from} до {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Трајање колачића:{duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Хотел",
+  "aff_tour": "Тоур",
+  "aff_product_name": "Назив производа",
+  "aff_anonymous_user": "Анонимни корисник",
+  "aff_unknown": "Непознат",
+  "aff_product_unknown": "Непозната врста производа",
+  "aff_share": "Објави",
+  "aff_fetch_data_failure": "Преузимање података није успело",
+  "aff_fetch_data_failure_try_later": "Преузимање података није успело. Покушајте поново касније.",
+  "aff_detail": "Детаљи",
+  "aff_no_data": "Није пронађен ниједан Подаци",
+  "aff_all": "Све",
+  "aff_country": "Држава",
+  "aff_summary": "Преглед",
+  "aff_link_management": "Линк Манагемент",
+  "aff_promotion_tool": "Маркетинг Тоолс",
+  "aff_help": "Помоћ",
+  "aff_notification": "Обавештења",
+  "aff_notification_no_data": "Немате никаква обавештења",
+  "aff_revenue": "Приход",
+  "aff_revenue_total": "Укупан приход",
+  "aff_customer_id": "идентификација купца",
+  "aff_payment_total": "Укупан износ",
+  "aff_commission_receive": "Укупно примљене провизије",
+  "aff_search_by_order": "Претрага по коду наруџбе",
+  "aff_reset": "Ресетовање",
+  "aff_cancel": "Поништити, отказати",
+  "aff_save": "сачувати",
+  "aff_search": "Претрага",
+  "aff_continue": "Настави",
+  "aff_payment_account": "Плаћање рачуна",
+  "aff_profile": "Профил",
+  "aff_edit_profile": "Уредите информације",
+  "aff_affiliate": "Аффилиате",
+  "aff_setting": "Подешавања",
+  "aff_resend": "Поново послати",
+  "aff_verify_failure": "Верификација није успела",
+  "aff_show_code": "Прикажи код",
+  "aff_sms_block_forever": "Функција верификације је привремено закључана. Покушајте поново касније.",
+  "aff_sms_wrong_code": "Нетачан верификациони код. Проверите поново.",
+  "aff_sms_expired_code": "Верификациони код је истекао. Молимо узмите други код",
+  "aff_sms_verify_failure": "Верификација није успела. Покушајте поново касније.",
+  "aff_enter_verify_code": "Унесите верификациони код",
+  "aff_we_send_code_to_phone": "Послали смо верификациони код на {phone}.\nУнесите код који сте добили да бисте довршили овај корак.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Код ће истећи за:",
+  "aff_sms_block": "Функција слања кода путем СМС-а је привремено закључана. Покушајте поново касније.",
+  "aff_sms_resend_in": "Можете изабрати да поново пошаљете код у:",
+  "aff_account_information": "ИНФОРМАЦИЈЕ О НАЛОГУ",
+  "aff_account_information_subtitle": "Ажурирајте свој број телефона на налогу за плаћање да бисте могли да наставите да користите услуге на Hahalolo.",
+  "aff_account_name": "Назив налога",
+  "aff_search_county": "Тражи земљу",
+  "aff_wallet_create_failure": "Креирање налога за плаћање није успело",
+  "aff_wallet_create_failure_try_again": "Креирање налога за плаћање није успело. Покушајте поново касније.",
+  "aff_information_general": "Опште информације",
+  "aff_information_unknown": "(Непознат)",
+  "aff_information_full_name": "Пуно име {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "Пошаљи имејл {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Број телефона {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Датум рођења {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Пол {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Адреса {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Земља {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Више информација",
+  "aff_information_city": "Покрајина/град {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Поштански број {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID картица/пасош {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Датум истека {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Земља издавањаКс {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "националност {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Место рођења {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Телефонски код",
+  "aff_gender_male": "Мушки",
+  "aff_gender_female": "Женско",
+  "aff_gender_other": "Остало",
+  "aff_validate_full_name": "Пуно име мора да има најмање 3 знака",
+  "aff_validate_email": "Неважећа е-маил",
+  "aff_validate_phone": "Неважећи број телефона",
+  "aff_validate_post_code": "Неважећи поштански број",
+  "aff_validate_id_code": "Неважећа ID картица/пасош",
+  "aff_validate_invalid_field": "време",
+  "aff_validate_phone_existed": "Број телефона је регистрован за други рачун за плаћање.",
+  "aff_validate_unknown_country": "Непозната земља",
+  "aff_date_time": "време",
+  "aff_date_yesterday": "Јучер",
+  "aff_date_today": "Данас",
+  "aff_date_unknown": "Непознати датум",
+  "aff_date_month": "месец дана",
+  "aff_date_day": "дан",
+  "aff_date_hour": "сат",
+  "aff_date_minute": "минут",
+  "aff_date_second": "друго",
+  "aff_date_range": "Опсег датума",
+  "aff_report": "Извештај",
+  "aff_report_summary": "Преглед извештаја",
+  "aff_report_click": "Кликови",
+  "aff_report_click_number": "Кликови",
+  "aff_report_performance": "Перформансе",
+  "aff_report_customer": "Купац",
+  "aff_report_payment": "Плаћање",
+  "aff_report_product_performance": "Перформансе производа",
+  "aff_report_product_type": "Врста производа",
+  "aff_report_customer_detail": "Детаљи о купцу",
+  "aff_report_commission_by_product": "Комисија по ставкама",
+  "aff_report_customer_total": "Укупан број купаца који купују",
+  "aff_report_customer_serving": "Укупан број купаца у услузи",
+  "aff_report_customer_served": "Укупан број услужених купаца",
+  "aff_report_payment_waiting": "Укупне провизије у процесу",
+  "aff_report_payment_pending": "Укупне провизије на чекању",
+  "aff_report_payment_available": "Укупне доступне провизије",
+  "aff_report_payment_status_waiting": "Обрада",
+  "aff_report_payment_status_pending": "нерешен",
+  "aff_report_payment_status_available": "На располагању",
+  "aff_report_payment_status_cancel": "Отказано",
+  "aff_report_payment_status": "Статус",
+  "aff_report_description_click": "Статистички графикон кликова на аффилиате линкове, укупне примљене провизије и приход",
+  "aff_report_description_customer": "Статистички графикон информација о купцима",
+  "aff_report_description_commission": "Статистички графикон провизија",
+  "aff_link": "Линк:",
+  "aff_link_copied": "Линк је копиран",
+  "aff_link_path": "Аффилиате линк",
+  "aff_link_paste_here": "Налепите своју везу овде",
+  "aff_flight_commission_itinerary": "Итинерар",
+  "aff_flight_commission_itinerary_domestic": "Домаћи",
+  "aff_flight_commission_itinerary_international": "Интернатионал",
+  "aff_flight_commission_itinerary_unknown": "Непознати итинерар",
+  "aff_flight_commission_seat_class": "Класа седишта",
+  "aff_flight_commission_seat_class_plus": "Плус",
+  "aff_flight_commission_seat_class_business": "Посао",
+  "aff_flight_commission_seat_class_unknown": "Непозната класа седишта",
+  "aff_flight_ticket": "Авио карту",
+  "aff_flight_all_airlines": "Све авио компаније",
+  "aff_tooltip_flight_domestic": "Летови са дестинацијама и поласци на територији Вијетнама",
+  "aff_tooltip_seller": "Можете користити овај код да га додате на крај сваке придружене маркетиншке везе. Hahalolo ће потврдити да је то ваша веза и наградити провизије када постоје важећи налози који произилазе из те везе.",
+  "aff_commission": "Комисија",
+  "aff_commission_by_country": "Хотелске провизије по земљама",
+  "aff_commission_flight_list": "Хотелске провизије по земљама",
+  "aff_commission_max": "Највиша комисија:",
+  "aff_commission_of_product": "провизије {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Шифра налога",
+  "aff_order_total": "Тотал ордерс",
+  "aff_order_tooltip_click": "Колико пута корисници кликну на ваш партнерски линк.",
+  "aff_order_conversion_rate": "Стопа конверзије",
+  "aff_order_tooltip_conversion_rate": "Мера за анализу учинка промоције вашег производа.",
+  "aff_order_product_total": "Укупни производи",
+  "aff_order_click_total": "Укупно кликова",
+  "aff_order_earnings_total": "Целокупна зарада",
+  "aff_order_id_unknown": "Непозната шифра наруџбе",
+  "aff_order_added": "додато на рачун за плаћање",
+  "aff_order_type_waiting": "Обрада",
+  "aff_order_type_pending": "нерешен",
+  "aff_order_type_available": "На располагању",
+  "aff_order_type_cancel": "Отказано",
+  "aff_ordered_total": "Укупно наручених производа",
+  "aff_order_receive_commission": "Укупно примљене поруџбине провизије",
+  "aff_verify_do_not_have_account": "ЈОШ НЕ\n ИМАТЕ НАЛОГ ЗА ПЛАЋАЊЕ",
+  "aff_guild": "Упутства",
+  "aff_seller_code": "Шифра продавца: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Шифра продавца",
+  "aff_view_detail": "Приказ детаља",
+  "aff_notification_turn_off_link_1": "Функција придруженог маркетинга \n",
+  "aff_notification_turn_off_link_2": "је онемогућен, што значи да ће партнерске везе које делите бити неважеће!",
+  "aff_notification_turn_on_link_success": "Функција придруженог маркетинга за {type} је успешно омогућена",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Провизије за летење",
+  "aff_commission_list_hotel": "Хотелске провизије по земљама",
+  "aff_tooltip_menu": "Отворите мени",
+  "aff_tooltip_dash_board": "Брз приступ контролној табли",
+  "aff_tooltip_guild": "Спустите се за упутства",
+  "aff_action_done": "Готово",
+  "aff_check_user_failed": "Није могуће проверити корисника. Покушајте поново касније.",
+  "aff_something_went_wrong": "Нешто је кренуло наопако.",
+  "aff_page_not_found": "Страница није пронађена.",
+  "aff_and": "и",
+  "aff_month_summary": "Резиме за овај месец",
+  "aff_see_more": "Види више",
+  "aff_try_again": "Покушајте поново",
+  "aff_error_try_again": "Дошло је до грешке. Покушајте поново касније.",
+  "aff_tooltip_flight_international": "Летови са поласцима или доласцима ван територије Вијетнама.",
+  "aff_area_code": "Телефонски код",
+  "aff_phone_number": "Број телефона",
+  "aff_validate_sms_required": "Унесите верификациони код",
+  "aff_validate_sms_min_length": "Унесите цео верификациони код",
+  "aff_welcome": "Добродошли",
+  "aff_verify_update": "Ажурирајте рачун за плаћање",
+  "aff_verify_create_account": "Креирајте рачун за плаћање",
+  "aff_verify_invalid_wallet": "Ажурирајте рачун за плаћање",
+  "aff_verify_do_not_have_account_subtitle": "Направите налог за плаћање да бисте користили функцију продаје на Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Ажурирајте свој број телефона на налогу за плаћање да бисте могли да наставите да користите услуге на Hahalolo",
+  "aff_guild_1": "Сада можете брзо да омогућите функцију придруженог маркетинга кликом",
+  "aff_guild_2": "у одељку Хотел/Лет",
+  "aff_guild_3": "Након што укључите аффилиате маркетинг, можете промовисати своје производе путем:",
+  "aff_guild_4": "Веза коју је подразумевано поставио Hahalolo у",
+  "aff_guild_5": "Свака веза у вези са одељком чији је придружени маркетинг омогућен, под условом да је ваш код продавца приложен уз одговарајући линк до производа.",
+  "aff_seller": "продавац",
+  "aff_menu": "Категорија",
+  "aff_dash_chart_title": "Статистички графикон ваше зараде и кликова за овај месец",
+  "aff_dash_click": "Кликови",
+  "aff_dash_commission": "Зарада",
+  "aff_flight_commission_detail_customer_way": "/ путник / сегмент",
+  "aff_flight_commission_detail_order_total": "/ укупно наруџбине",
+  "aff_performance_chart_title": "Статистички графикон кликова на аффилиате линкове, укупна примљена провизија и приход",
+  "aff_customer_chart_title": "Статистички графикон информација о купцима",
+  "aff_payment_chart_title": "Статистички графикон провизија",
+  "aff_action_exit": "Изађи",
+  "aff_action_update": "ажурирање",
+  "aff_action_create": "Креирај",
+  "aff_dialog_check_invalid_user": "Молимо {action} свој налог за плаћање да бисте могли да користите услуге придруженог маркетинга на Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Датум",
+  "aff_action_register": "регистровати",
+  "aff_otp_time_left": "Преостало је {number} пута",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "НАПРАВИТЕ НАЛОГ ЗА ПЛАЋАЊЕ",
+  "wallet_create_payment_subtitle": "Подешавање рачуна за плаћање је одређено као примарни рачун за плаћање, укључујући примање новца, подизање и плаћање након што је додељен.",
+  "wallet_verify_otp_title": "Унесите код за потврду",
+  "wallet_verify_otp_subtitle": "Послали смо код за потврду на {phone}. \nУнесите код који сте добили да бисте довршили овај корак.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Плаћање рачуна",
+  "wallet_start_subtitle": "Hahalolo рачун за плаћање је решење за плаћање на Hahalolo које вам помаже да имате занимљива и згодна искуства са нама.",
+  "wallet_label_choose_business": "Изаберите посао",
+  "wallet_label_account_name": "Назив налога",
+  "wallet_label_email": "Емаил",
+  "wallet_label_phone": "Број телефона",
+  "wallet_label_choose_currency": "Изаберите валуту",
+  "wallet_label_payment_country": "Земља плаћања",
+  "wallet_label_payment_method": "Начин плаћања",
+  "wallet_label_card_holder_name": "Име власника картице (без тонских ознака)",
+  "wallet_label_card_bank_name": "име банке",
+  "wallet_label_card_swift_code": "SWIFT код",
+  "wallet_label_bank_account_number": "број рачуна",
+  "wallet_label_account_type": "Тип налога",
+  "wallet_label_tax_code": "Порески закон",
+  "wallet_label_tax_type": "Врста пореза",
+  "wallet_label_address": "Адреса",
+  "wallet_label_address_2": "Адреса 2 (опционо)",
+  "wallet_label_country": "Држава",
+  "wallet_label_city": "Покрајина/Град",
+  "wallet_label_district": "Дистрицт",
+  "wallet_label_first_name": "Презиме",
+  "wallet_label_last_name": "Име",
+  "wallet_label_middle_name": "Средње име (опционално)",
+  "wallet_label_postal_code": "Поштански код",
+  "wallet_label_city_more_description": "Држава/Провинција/Регион",
+  "wallet_label_postal_code_more_description": "Zip/Поштански број",
+  "wallet_label_district_more_description": "Град/Град",
+  "wallet_label_birthday_18_years_old": "Датум рођења (најмање 18 година)",
+  "wallet_label_date_of_birth": "Датум рођења",
+  "wallet_label_enter_password": "Унесите лозинку",
+  "wallet_label_password": "Лозинка",
+  "wallet_label_enter_pin": "Унесите PIN",
+  "wallet_label_re_enter_new_pin": "Поново унесите нови PIN",
+  "wallet_label_enter_new_pin": "Унесите нови PIN",
+  "wallet_label_enter_current_pin": "Унесите стари PIN",
+  "wallet_validate_pin_required": "Унесите свој PIN",
+  "wallet_validate_otp_required": "Унесите верификациони код",
+  "wallet_validate_current_pin_required": "Унесите свој стари PIN",
+  "wallet_validate_new_pin_required": "Унесите свој нови PIN.",
+  "wallet_validate_re_enter_new_pin_required": "Поново унесите свој нови PIN.",
+  "wallet_validate_re_enter_new_pin_not_match": "PIN за потврду се не подудара",
+  "wallet_action_detail": "Детаљи",
+  "wallet_text_pick_date": "Изаберите датум",
+  "wallet_text_email_address": "Адреса Е-поште",
+  "wallet_text_message_to": "Пошаљи поруку на",
+  "wallet_text_recovery_method": "Метода опоравка",
+  "wallet_text_recovery_choose_method": "Одаберите како да добијете свој код за опоравак",
+  "wallet_text_change_pin": "Промените свој PIN",
+  "wallet_text_forgot_pin": "Заборавили сте PIN?",
+  "wallet_text_show_pin": "Прикажи PIN",
+  "wallet_text_please_try_again_in": "Покушајте поново касније:",
+  "wallet_text_remove_account": "Избришите налог за исплату",
+  "wallet_text_ineligible_payment": "Не испуњава услове за трансакцију",
+  "wallet_text_ineligible_payment_description": "Нећете моћи да извршите никакве трансакције из система док наш администратор не прихвати информације о вашем налогу за исплату. Ажурирајте информације о налогу за исплату.",
+  "wallet_text_address_2": "Адреса 2",
+  "wallet_text_new_account": "Креирајте налог за исплату",
+  "wallet_text_payout_account_detail": "Детаљи рачуна за исплату",
+  "wallet_text_middle_name": "Средње име",
+  "wallet_text_account_owner": "Власник рачуна",
+  "wallet_text_tax_form": "Порески образац",
+  "wallet_text_tax_form_subtitle": "На основу информација које сте дали, не морате да отпремате додатне пореске обрасце. Кликните на Настави да бисте прешли на следећи корак.",
+  "wallet_text_card_holder_name": "Име власника картице",
+  "wallet_text_otp_code_expire_in": "Код ће истећи за:",
+  "wallet_text_account_information": "Информације о налогу",
+  "wallet_text_welcome": "Здраво!",
+  "wallet_text_payment_information": "Информације о плаћању",
+  "wallet_text_policies_confirm": "Слажем се са {termsAndPolicies}",
+  "wallet_terms_and_policies": "Hahalolo услови и политике.",
+  "wallet_text_default": "Уобичајено",
+  "wallet_text_code_vie_sms": "Пошаљите код путем СМС-а",
+  "wallet_text_pin_code_recovery_description": "Користите своју е-пошту да потврдите да ли сте заборавили PIN.",
+  "wallet_text_sms_recovery_description": "Користите свој број телефона да потврдите да ли сте заборавили PIN.",
+  "wallet_text_authority": "Слажем се да дозволим Hahalolo да користи информације о мом налогу да би наставио са трансфером новца.",
+  "wallet_text_district_three_dot": "округ...",
+  "wallet_text_set_up_pin": "Подесите PIN",
+  "wallet_text_established": "(Основано)",
+  "wallet_text_not_have_pin_yet_title": "Немате PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Направите PIN да бисте користили ову функцију",
+  "wallet_text_security_pin_code_description": "PIN за Hahalolo рачун за плаћање је неопходан за заштиту вашег налога и финансијских информација. Штавише, не морате поново да уносите детаље картице када се поново пријавите.",
+  "wallet_text_check_password_locked": "Функција провере лозинке је привремено закључана. Покушајте поново касније.",
+  "wallet_text_enter_password_description": "Морате да унесете лозинку за Hahalolo налог да бисте потврдили промену.",
+  "wallet_text_enter_sms_code": "Унесите код за потврду",
+  "wallet_text_send_sms_description_1": "Послали смо код за потврду на",
+  "wallet_text_send_sms_description_2": "\nУнесите код који сте добили да бисте довршили овај корак.",
+  "wallet_text_resend": "Поново послати",
+  "wallet_text_no_data": "Тренутно нема доступних података!",
+  "wallet_text_bank_transfer": "банкарски трансфер",
+  "wallet_text_tax_ptin": "Идентификациони број пореског обвезника припремаоца",
+  "wallet_text_tax_atin": "Идентификациони број пореског обвезника за усвајање",
+  "wallet_text_tax_ssn": "Број социјалног осигурања",
+  "wallet_text_account_personal": "Лични рачун",
+  "wallet_text_account_business": "Пословни рачун",
+  "wallet_text_country_code_and": "позивни број земље и",
+  "wallet_text_resend_time": "Поново пошаљи {time}",
+  "wallet_text_change_your": "Промените свој {text}",
+  "wallet_start_person_button": "{action} лични рачун за плаћање",
+  "wallet_start_business_button": "{action} пословни рачун за плаћање",
+  "wallet_text_recovery_subtitle_1": "Ваш тренутни {text} је\n{value}",
+  "wallet_text_recovery_subtitle_2": "Унесите нови {extra_text}{text}",
+  "wallet_text_enter_new": "Унесите нови {title}",
+  "wallet_text_new": "нови {title}",
+  "wallet_succ_setup_pin": "PIN је успешно подешен.",
+  "wallet_succ_setup_pin_content": "Успешно сте подесили свој PIN.",
+  "wallet_succ_change_pin": "PIN је промењен",
+  "wallet_succ_change_pin_content": "Успешно сте променили свој PIN",
+  "wallet_succ_change_information": "Информације су успешно ажуриране и верификоване",
+  "wallet_war_remove_payout_account": "Да ли сте сигурни да желите да трајно избришете овај налог?",
+  "wallet_war_create_payment_title": "Креирајте налог за плаћање",
+  "wallet_war_create_payment_subtitle": "Отворите пословни налог пре отварања налога за плаћање.",
+  "wallet_war_unsaved_information": "Информације које сте изменили можда неће бити сачуване. Да ли желите да изађете?",
+  "wallet_err_recovery": "Опоравак није успео. Покушајте поново касније.",
+  "wallet_err_recovery_no_user_data": "Опоравак није успео. Нису пронађене информације о кориснику.",
+  "wallet_err_recovery_phone_exists": "Опоравак није успео. Овај број телефона већ постоји.",
+  "wallet_err_recovery_phone_invalid": "Опоравак није успео. Број телефона је неважећи.",
+  "wallet_err_recovery_password_invalid": "Опоравак није успео. Ваша лозинка је нетачна.",
+  "wallet_err_pin_existed": "PIN већ постоји.",
+  "wallet_err_pin_wallet_not_exist": "Рачун за плаћање не постоји",
+  "wallet_err_pin_incorrect_or_exists": "PIN је нетачан или не постоји",
+  "wallet_err_pin_try_again": "Подешавање PIN није успело. Покушајте поново касније.",
+  "wallet_err_set_payout_default": "Избор подразумеваног налога за исплату није успео. Покушајте поново касније!",
+  "wallet_err_occurred_try_again": "Дошло је до грешке. Покушајте поново касније.",
+  "wallet_err_send_verify_title": "Слање верификационог кода није успело",
+  "wallet_err_try_again": "Дошло је до грешке. Покушајте поново касније.",
+  "wallet_err_create_payout_title": "Креирање налога за исплату није успело. Покушајте поново касније.",
+  "wallet_err_fetch_data_failed": "Учитавање података није успело. Покушајте поново касније!",
+  "wallet_err_occurred_processing": "Дошло је до грешке током обраде. Покушајте поново касније.",
+  "wallet_err_remove_payout": "Брисање налога није успело. Покушајте поново касније.",
+  "wallet_err_change_pin": "Промена PIN није успела",
+  "wallet_err_setup_pin": "Подешавање PIN није успело",
+  "wallet_err_sms_code_expired": "Верификациони код је истекао. Молим вас, покушајте поново.",
+  "wallet_err_sms_code_incorrect": "Верификациони код је нетачан. Молим вас, покушајте поново.",
+  "wallet_create_payout_title": "Креирајте налог за исплату",
+  "wallet_action_continue": "Настави",
+  "wallet_action_create": "Креирај",
+  "wallet_action_update": "ажурирање",
+  "wallet_action_ok": "Договорити се",
+  "wallet_action_complete": "комплетан",
+  "wallet_action_next": "Настави",
+  "wallet_action_try_back": "Вратити се",
+  "wallet_action_try_again": "Покушајте поново",
+  "wallet_action_accept": "Прихвати",
+  "wallet_action_remove": "Избриши",
+  "wallet_action_change": "Промена",
+  "wallet_action_setup": "Подесити",
+  "wallet_action_confirm": "Потврди",
+  "wallet_action_cancel": "Поништити, отказати",
+  "wallet_action_close": "Близу",
+  "wallet_overview": "Преглед",
+  "wallet_notification": "Обавештења",
+  "wallet_transaction_history": "Трансакције",
+  "wallet_transfer_point": "Преносне тачке",
+  "wallet_payout_accounts": "Рачун за исплату",
+  "wallet_security": "Безбедност",
+  "wallet_recovery_methods": "Метода опоравка",
+  "wallet_help_center": "Центар за помоћ",
+  "wallet_view_profile": "Погледајте информације",
+  "wallet_info_title": "Информације о рачуну за плаћање",
+  "wallet_edit_identity_card": "ID карта",
+  "wallet_edit_id_card": "ID карта",
+  "wallet_edit_passport": "Пасош",
+  "wallet_edit_verify_status": "Статус",
+  "wallet_edit_not_verify": "Неверификовано",
+  "wallet_edit_verified": "Проверено",
+  "wallet_edit_verify_waiting": "нерешен",
+  "wallet_edit_gender": "Пол",
+  "wallet_edit_male": "Мушки",
+  "wallet_edit_female": "Женско",
+  "wallet_edit_other": "Остало",
+  "wallet_owner_title": "Корисничке информације",
+  "wallet_edit_fullName": "Пуно име",
+  "wallet_edit_email": "Емаил",
+  "wallet_edit_phoneNumber": "Број телефона",
+  "wallet_edit_dateOfBirth": "Датум рођења",
+  "wallet_edit_dateOfBirth_13_yo": "Датум рођења (најмање 13 година)",
+  "wallet_edit_address": "Адреса",
+  "wallet_edit_country": "Држава",
+  "wallet_edit_idType": "Врста идентификације",
+  "wallet_edit_id_passport": "ID број/Пасош",
+  "wallet_edit_country_issue": "Земља издавања",
+  "wallet_edit_id_document": "Слике ID картице/Пасош",
+  "wallet_edit_front": "Предња страна",
+  "wallet_edit_back": "Задња страна",
+  "wallet_edit_activate_date": "Датум ступања на снагу",
+  "wallet_edit_expiration_date": "Датум истека",
+  "wallet_waiting_balance": "Стање на чекању",
+  "wallet_pending_balance": "Биланс у процесу",
+  "wallet_available_balance": "Доступно Стање",
+  "wallet_frozen_balance": "Замрзнуто стање",
+  "wallet_top10_trans": "Последњих 10 трансакција",
+  "wallet_source_withdrawal": "Повлачење",
+  "wallet_source_grad": "Град",
+  "wallet_source_income": "Новац у",
+  "wallet_source_outcome": "Монеи оут",
+  "wallet_source_point": "Бодова",
+  "wallet_source_aff_commission": "Аффилиате - Комисија",
+  "wallet_source_aff_reward": "Аффилиате - Програм награђивања",
+  "wallet_source_recharge": "Надмашити",
+  "wallet_source_order": "Ред",
+  "wallet_status_waiting": "нерешен",
+  "wallet_status_pending": "Чека одобрење",
+  "wallet_status_available": "Доступан",
+  "wallet_status_frozen": "Фрозен",
+  "wallet_status_cancel": "Отказано",
+  "wallet_status_success": "Успешан",
+  "wallet_status_error": "Није успео",
+  "wallet_status_outcome": "Монеи оут",
+  "wallet_status_transfer": "Преносне тачке",
+  "wallet_action_receive": "Примите бодове",
+  "wallet_action_donate": "Дајте бодове",
+  "wallet_action_buy_point": "Купи поене",
+  "wallet_action_payment": "Плаћање",
+  "wallet_filter_all": "Све",
+  "wallet_filter_allTime": "Све",
+  "wallet_filter_today": "Данас",
+  "wallet_filter_yesterday": "Јучер",
+  "wallet_filter_7days": "Последњих 7 дана",
+  "wallet_filter_30days": "Последњих 30 дана",
+  "wallet_filter_custom_date": "Опциони датум",
+  "wallet_filter_status": "Статус",
+  "wallet_filter_time": "време",
+  "wallet_filter_action": "поступак",
+  "wallet_validate_this_field": "Ово поље",
+  "wallet_validate_required": "{fieldName} је обавезан",
+  "wallet_validate_invalid_email": "Неважећа е-маил",
+  "wallet_validate_invalid_phone_number": "Неважећи број телефона",
+  "wallet_validate_invalid_number": "Неважећи број",
+  "wallet_validate_limit_length": "{fieldName} мора да има најмање {minLength} знакова",
+  "wallet_validate_not_contain_number": "{fieldName} не сме да садржи нумеричке знакове",
+  "wallet_validate_not_contain_special_char": "{fieldName} не сме да садржи посебне знакове",
+  "wallet_validate_invalid_swift_code_length": "Свифт код се састоји само од 8 до 11 знакова",
+  "wallet_validate_invalid_swift_code": "Неважећи свифт код",
+  "wallet_no_transaction": "Нема трансакција!",
+  "wallet_no_image": "Још нема фотографија",
+  "wallet_edit_quit_msg": "Информације које сте изменили можда неће бити сачуване. Да ли желите да изађете?",
+  "wallet_point_total": "Укупно:",
+  "wallet_payment_methods": "Начин плаћања",
+  "wallet_payment_methods_note": "(Напомена: '{HAHALOLO}' ће подржати кориснике са банковним трошковима од '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Број бодова",
+  "wallet_points": "{number} поена",
+  "wallet_1point": "1 бод",
+  "wallet_msg_enter_number_of_points": "Унесите број поена које желите да купите",
+  "wallet_msg_pin_not_correct": "PIN је нетачан или не постоји",
+  "wallet_msg_balance_not_enough": "Недовољна равнотежа",
+  "wallet_msg_error_while_buy_point": "Дошло је до грешке приликом куповине поена",
+  "wallet_msg_fetch_error": "Дошло је до грешке. Покушајте поново касније.",
+  "wallet_msg_buy_point_success": "Успешно сте купили бодове",
+  "wallet_withdrawal_req": "Захтев за повлачење:",
+  "wallet_withdrawal_payment_acc_id": "Плаћање рачуна ID:",
+  "wallet_withdrawal_balance": "Доступно Стање:",
+  "wallet_withdrawal_payout_acc": "рачун за исплату",
+  "wallet_withdrawal_amount": "Износ ({currency})",
+  "wallet_label_desc": "Опис",
+  "wallet_btn_save": "сачувати",
+  "wallet_btn_edit_owner": "Уредити",
+  "wallet_btn_buy": "Купи",
+  "wallet_btn_reset": "Поново уђите",
+  "wallet_insufficient_available_balances": "Нема довољно расположивог стања",
+  "wallet_msg_complete_info": "Молимо попуните информације",
+  "wallet_msg_success": "Успешно сте се повукли",
+  "wallet_msg_wal_not_exist": "Рачун за плаћање не постоји",
+  "wallet_msg_wal_blocked": "Рачун за плаћање блокиран",
+  "wallet_msg_acc_incorrect": "Нетачан рачун за плаћање",
+  "wallet_msg_total_not_available": "Укупан тражени износ није доступан",
+  "wallet_msg_pin_locked": "PIN рачуна за плаћање је закључан",
+  "wallet_msg_withdrawal_failed": "Повлачење није успело. Покушајте поново касније.",
+  "wallet_msg_fill_in_all_info": "Молимо попуните информације",
+  "wallet_update_info_success": "Успешно сте ажурирали информације",
+  "wallet_update_info_fail": "Ажурирање информација није успело",
+  "wallet_no_notifications": "Немате никаква обавештења",
+  "wallet_buy_point_payment_method_note": "(Напомена: '{hahalo}' ће подржати кориснике са '{free}' банковним трошковима)",
+  "wallet_note_free": "БЕСПЛАТНО",
+  "wallet_buy_point_policy": "Слажем се са {condition} и {privacy}",
+  "wallet_term_conditions": "Услови",
+  "wallet_privacy": "Приватност",
+  "wallet_msg_receiving_account_not_exist": "Рачун за плаћање примаоца не постоји",
+  "wallet_msg_search_account_error": "Дошло је до грешке при тражењу рачуна за плаћање",
+  "wallet_msg_sending_account_not_exist": "Рачун за плаћање пошиљаоца не постоји",
+  "wallet_msg_point_balance_not_enough": "Бодовано стање платног рачуна није довољно",
+  "wallet_msg_cannot_give_to_itself": "Не можете пренети бодове на себе",
+  "wallet_msg_cannot_give_to_business": "Рачун за плаћање примаоца не може бити пословни рачун",
+  "wallet_msg_transfer_point_err": "Дошло је до грешке при преносу поена",
+  "wallet_msg_transfer_point_success": "Поени су успешно пренети",
+  "wallet_recipient_info": "Информације о примаоцу",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Број бодова",
+  "wallet_not_verified": "Неверификован рачун за плаћање",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} сат {minute} минута",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 стоп} other{{countStop} стоп}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Транзитно време од око {time} ин {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Одрасли (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Деца (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Беба (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} одрасли} other{{count} одрасли}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} дете} other{, {count} деца}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} беба} other{, {count} бебе}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Транзитно време од око {times} ин {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} КИЛОГРАМ} other{{countBag} КИЛОГРАМ}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Лет у једном правцу",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Полазни лет",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Повратни лет",
+  "flight_fare_rule_title_fare_conditions": "Услови тарифе",
+  "flight_fare_rule_title_departure_flight": "Лет",
+  "flight_fare_rule_title_segment": "Сегмент",
+  "flight_filter_by_title_filter": "Филтер",
+  "flight_filter_by_content_btn_filter": "Филтер",
+  "flight_filter_by_title_airline": "Ваздушна линија",
+  "flight_filter_by_title_flight_times": "Време лета",
+  "flight_filter_by_title_type_flight_times_early_morning": "Рано јутро \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Јутро \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Поподне \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Вечерње \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Број заустављања",
+  "flight_filter_by_title_select_all": "Изабери све",
+  "flight_filter_by_title_unselect_all": "Поништи све",
+  "flight_filter_by_title_type_segment_all": "Све",
+  "flight_filter_by_title_type_segment_direct": "Директан лет",
+  "flight_filter_by_title_type_segment_transit": "Транзит",
+  "flight_sort_by_title_sort_by": "Сортирај по",
+  "flight_sort_by_title_sort_by_ascending_price": "Растућа цена",
+  "flight_sort_by_title_sort_by_descending_price": "Опадајућа цена",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Најраније време поласка",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Најраније време доласка",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Најновије време доласка",
+  "flight_search_result_title_count_adult": "одрасла особа",
+  "flight_search_result_title_count_child": "дете",
+  "flight_search_result_title_count_baby": "беба",
+  "flight_search_result_title_segment": "зауставити",
+  "flight_search_result_title_hours": "сати",
+  "flight_search_result_title_minutes": "минута",
+  "flight_search_result_title_view_detail_price": "Приказ детаља",
+  "flight_search_result_title_hide_detail_price": "Сакриј детаље",
+  "flight_search_result_title_view_detail": "Детаљи",
+  "flight_search_result_title_btn_book_ticket": "Боок",
+  "flight_search_result_title_basic_price_ticket": "Цена по карти",
+  "flight_search_result_title_taxes_and_fee": "Порези и накнаде",
+  "flight_search_result_title_total_amount": "Укупна сума",
+  "flight_search_result_title_total": "Укупно",
+  "flight_search_result_title_fare_details": "Детаљи о тарифи",
+  "flight_search_result_title_quantity": "Количина",
+  "flight_search_result_title_passenger": "Пассенгер",
+  "flight_search_result_title_one_way_flight": "Лет у једном правцу",
+  "flight_search_result_title_round_trip_flight": "Повратни лет",
+  "flight_change_search_title_btn_agree": "Договорити се",
+  "flight_change_search_title_btn_cancel": "Поништити, отказати",
+  "flight_change_search_title_header_dialog": "Промените претрагу",
+  "flight_change_search_title_body_dialog": "Да ли сте сигурни да желите да промените информације за претрагу?",
+  "flight_change_search_title_footer_dialog": "Ако пристанете да промените информације о претраживању, сви претходни подаци ће бити избрисани.",
+  "flight_search_result_detail_title_flight_details": "Детаљи лета",
+  "flight_search_result_detail_title_checked_baggage": "Пртљаг",
+  "flight_search_result_detail_title_aircraft": "Авион",
+  "flight_search_result_detail_title_seat_class": "Класа седишта",
+  "flight_search_result_detail_title_class_seat_type_all": "Све",
+  "flight_search_result_detail_title_class_seat_type_economy": "Економија",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Први",
+  "flight_search_result_detail_title_class_seat_type_business": "Посао",
+  "flight_search_result_detail_content_note_transit_body": "Напомена: Од путника се може захтевати да изврше царињење и предају своју транзитну визу на захтев земље домаћина.",
+  "flight_transit_alter_note": "Напомена: Од путника се може захтевати да изврше царињење и предају своју транзитну визу на захтев земље домаћина.",
+  "flight_luggage": "Баггаге",
+  "flight_signed_luggage": "Пртљаг",
+  "flight_service_package": "Пакети услуга",
+  "flight_run_by": "Управља",
+  "flight_result_notice_no_flight_found": "Није пронађен ниједан лет!",
+  "flight_result_notice_no_flight_found_filter": "Жао нам је, нема летова који одговарају вашим критеријумима",
+  "flight_result_notice_check_internet_again": "Ваша веза је прекинута. Проверите поново везу",
+  "flight_result_notice_error_authentication": "Ваша сесија за пријаву је истекла. Молимо пријавите се поново",
+  "flight_search_result_notice_booking_expired": "Период резервације ускоро истиче",
+  "flight_search_result_notice_click_continue_to_proceed": "Кликните на „Настави“ да бисте наставили са резервацијом.",
+  "flight_search_result_btn_continue": "Настави",
+  "flight_input_title_gender": "Пол",
+  "flight_input_title_gender_male": "Мушки",
+  "flight_input_title_gender_female": "Женско",
+  "flight_input_title_gender_other": "Остало",
+  "flight_search_price_info_bottom_sheet_tax_include": "Са порезом",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Укључена накнада",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Систем и админ доплата",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Накнада за безбедносни преглед",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Погодна доплата за плаћање",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Аеродромска такса",
+  "flight_fare_rule_notice_empty_fare_rule": "Услови карте од авио компаније нису пронађени",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Одрасли",
+  "flight_v2_model_booking_children": "Деца",
+  "flight_v2_model_booking_infant": "Инфант",
+  "flight_v2_model_detail_infant": "(испод 2 године)",
+  "flight_v2_model_detail_children": "(од 02 - 12 година)",
+  "flight_v2_component_bonus_services_title_string": "Додатне услуге",
+  "flight_v2_component_bonus_service_header": "Додатне услуге",
+  "flight_v2_component_bonus_service_content_header_price": "Провизија осигурања",
+  "flight_v2_component_bonus_service_flight_table_header": "Укупна накнада за осигурање",
+  "flight_v2_component_bonus_service_text1_introduce": "Увод",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Врста осигурања:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Осигурање лета",
+  "flight_v2_component_bonus_service_text1_supplier": "Провајдер:",
+  "flight_v2_component_bonus_service_text2_company": "Виетинбанк осигурање акционарско друштво (Виетинбанк осигурање)",
+  "flight_v2_component_bonus_service_text1_trusted": "Бићете потпуно сигурни када путујете са нашим поузданим путним осигурањем",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Предмет осигурања",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Појединци користе услугу резервације авио карата на систему Hahalolo да путују авионом.",
+  "flight_v2_component_bonus_service_text1_age": "Старост: Од 07 дана.",
+  "flight_v2_component_bonus_service_text1_range": "Обим",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Осигурање укључује следеће ризике:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Смрт или телесна повреда проузрокована несрећом.",
+  "flight_v2_component_bonus_service_text1_impediments": "Ризици путовања, односно отказивање/скраћивање путовања, губитак или оштећење пртљага, одеће и личних ствари Осигураног лица, кашњење лета авио-компаније, одложени пртљаг, изгубљена путна документа или отмица.",
+  "flight_v2_component_bonus_service_text1_benefit": "Предности",
+  "flight_v2_component_bonus_service_text1_small_amount": "Потрошите само малу количину новца за вишеструку заштиту.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Предности личног осигурања:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Осигураник који умре од незгоде или повреде покривене осигурањем добиће пуну осигурану суму до 1.000.000 ВНД",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Предности путног осигурања од ризика:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Осигуранику ће бити обештећена максимална висина од 20.000.000 ВНД",
+  "flight_v2_component_bonus_service_text1_rules": "Услови",
+  "flight_v2_component_bonus_service_text1_more_information": "Више детаља потражите у приложеној датотеци или контактирајте",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Правила путног осигурања",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Слажете се да учествујете у осигурању лета",
+  "flight_v2_component_booking_flight_information": "Информације лета",
+  "flight_v2_component_booking_show": "Опширније",
+  "flight_v2_component_booking_hide": "Сакрити",
+  "flight_v2_component_booking_adult": "Одрасли",
+  "flight_v2_component_booking_children": "Деца",
+  "flight_v2_component_booking_infant": "Беба",
+  "flight_v2_component_booking_baggage": "Баггаге",
+  "flight_v2_component_booking_main_content_service": "Услуге",
+  "flight_v2_component_booking_taxes_fees": "Накнаде и порези",
+  "flight_v2_component_booking_title_booking_information": "Информације о резервацији",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Полазни лет",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Повратни лет",
+  "flight_v2_component_confirm_title_flight_information": "Информације лета",
+  "flight_v2_component_confirm_text_done": "Готово",
+  "flight_v2_component_detail_booking_information": "Информације о резервацији",
+  "flight_v2_component_detail_flight_information": "Информације лета",
+  "flight_v2_component_detail_passenger_information": "Информације о путницима",
+  "flight_v2_component_payment_booking_information": "Информације о резервацији",
+  "flight_v2_component_payment_information": "Информације",
+  "flight_v2_component_payment_passenger_information": "Информације о путницима",
+  "flight_v2_component_payment_making_flight_payment": "Плаћате лет за следеће путнике:",
+  "flight_v2_component_payment_payment_now": "Плати",
+  "flight_v2_component_result_title_flight_details": "Детаљи лета",
+  "flight_v2_component_result_title_fare_details": "Детаљи о тарифи",
+  "flight_v2_component_result_type_direct_flight": "Директан лет",
+  "flight_v2_component_result_title_showMessDiaLog": "Обавештења",
+  "flight_v2_component_result_message_selected_return": "Изабрали сте повратни лет",
+  "flight_v2_component_result_message_cancel_book": "Да ли желите да откажете и резервишете нови лет?",
+  "flight_v2_component_result_actionMessage_yes": "да",
+  "flight_v2_component_result_negativeMessage_no": "Не",
+  "flight_v2_component_result_trip_turn_departure": "Одлазак",
+  "flight_v2_component_result_trip_turn_arrival": "Долазак",
+  "flight_v2_notify_day_invalid_cannot_choose": "Не можете изабрати",
+  "flight_v2_notify_day_invalid_because": "јер",
+  "flight_v2_notify_day_invalid_date_is": "је",
+  "flight_v2_component_result_actionMessage_btn": "Договорити се",
+  "flight_v2_component_result_message": "Немојте бирати датуме пре тренутног датума",
+  "flight_v2_component_search_text_guest": "Пассенгер",
+  "flight_v2_component_search_button_save": "сачувати",
+  "flight_v2_component_search_text_choose_a_date": "Изаберите датум",
+  "flight_v2_component_search_button_choose": "Изаберите",
+  "flight_v2_widget_booking_total_price": "Укупна цена",
+  "flight_v2_widget_booking_continue": "Настави",
+  "flight_v2_widget_booking_payer_information": "Информације о платиоцу",
+  "flight_v2_widget_booking_payer_use_contact_information": "Користите информације о контакту",
+  "flight_v2_widget_booking_save_payment": "Сачувајте ове информације о плаћању за следећи пут",
+  "flight_v2_widget_booking_title_contact_information": "Контакт информације",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Користите информације о актуелном рачуну",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Ја сам путник",
+  "flight_v2_widget_booking_radio_gender": "Пол",
+  "flight_v2_widget_booking_radio_male": "Мушки",
+  "flight_v2_widget_booking_radio_female": "Женско",
+  "flight_v2_widget_booking_field_card_bank_card": "банкарска картица",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Пртљаг",
+  "flight_v2_widget_booking_title_passenger_information": "Информације о путницима",
+  "flight_v2_widget_booking_information": "информације",
+  "flight_v2_widget_common_one_way": "Једносмерно",
+  "flight_v2_widget_common_details": "Детаљи",
+  "flight_v2_widget_common_text_price": "Цена",
+  "flight_v2_widget_common_text_fare_conditions": "Услови тарифе",
+  "flight_v2_widget_common_text_service_pack": "Пакети услуга",
+  "flight_v2_widget_common_item_tax_inclusive": "Са порезом",
+  "flight_v2_widget_common_item_vat": "ПДВ",
+  "flight_v2_widget_common_item_fee_inclusive": "Укључена накнада",
+  "flight_v2_widget_common_item_fee_surcharge": "Систем и админ доплата",
+  "flight_v2_widget_common_item_fee_screening": "Доплата за безбедносни преглед",
+  "flight_v2_widget_common_item_fee_convenient": "Погодна доплата за плаћање",
+  "flight_v2_widget_common_item_fee_airport": "Аеродромска такса",
+  "flight_v2_widget_common_text_price_per_ticket": "Основна цена",
+  "flight_v2_widget_common_text_taxes_fees": "Порези и таксе",
+  "flight_v2_widget_common_service_service": "Услуге",
+  "flight_v2_widget_common_text_total_amount": "Укупна цена",
+  "flight_v2_widget_common_button_continue": "Настави",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Укључени су порези и накнаде)",
+  "flight_v2_widget_common_service_accommodation_service": "Услуге смештаја",
+  "flight_v2_widget_common_text_direct_flight": "Директан лет",
+  "flight_v2_widget_confirm_description": "Пол",
+  "flight_v2_widget_confirm_description_full_name": "Пуно име",
+  "flight_v2_widget_confirm_description_email": "Емаил",
+  "flight_v2_widget_confirm_description_phone_number": "Број телефона",
+  "address": "Адреса",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Резервација је успела",
+  "flight_v2_widget_confirm_text_reservation_request": "Ваш захтев за резервацију је успешно поднет",
+  "flight_v2_widget_confirm_text_paid_already": "(плаћено)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Детаље о путу можете погледати испод.",
+  "flight_v2_widget_confirm_title_payment_information": "Информације о плаћању",
+  "flight_v2_widget_confirm_description_orders": "Наређења",
+  "flight_v2_widget_confirm_description_price": "Цена",
+  "flight_v2_widget_confirm_description_payers": "Паиер",
+  "flight_v2_widget_confirm_button_view_details": "Приказ детаља",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Боок нев",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Хвала вам на поверењу у нашу услугу",
+  "flight_v2_widget_confirm_textspan_question_help": "Ако имате било каквих питања или вам је потребна додатна помоћ, контактирајте Hahalolo Центар за помоћ",
+  "flight_v2_widget_confirm_text_paid_instructions": "за упутства.",
+  "flight_v2_widget_confirm_title_passenger_information": "Информације о путницима",
+  "flight_v2_widget_confirm_title_flight_information": "Информације лета",
+  "flight_v2_widget_confirm_text_ticket_class": "Класа",
+  "flight_v2_widget_confirm_text_booking_code": "Референца за резервацију",
+  "flight_v2_widget_confirm_text_flight": "Лет",
+  "flight_v2_widget_confirm_description_name": "Име",
+  "flight_v2_widget_confirm_description_guest_type": "Тип путника",
+  "flight_v2_widget_confirm_description_baggage": "Баггаге",
+  "flight_v2_widget_dialog_config_button_agree": "Договорити се",
+  "flight_v2_widget_dialog_config_button_deny": "Скип",
+  "flight_v2_widget_dialog_config_title": "Промените информације",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Да ли сте сигурни да желите да промените информације за претрагу\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Ако пристанете да промените информације о претраживању, сви претходни подаци ће бити избрисани",
+  "flight_v2_widget_dialog_config_title_delete_account": "Обришите налог",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Налог се неће појавити у одељку Изаберите налог за плаћање. Да ли желите да избришете овај налог за плаћање? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Изаберите друго време лета",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Промените претрагу",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Лет је прекорачио дозвољено време",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Лет који сте изабрали је премашио дозвољено време резервације.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Молимо Вас да нас контактирате",
+  "flight_v2_widget_dialog_config_text_span_by_number": "преко",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Врућа линија",
+  "flight_v2_widget_dialog_config_text_span_or": "или",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "промените претрагу за нови лет.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Изаберите други лет",
+  "flight_v2_widget_dialog_config_title_not_available": "Лет није\n доступан",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Жао нам је, ваш изабрани лет више није доступан. Молимо вас",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "изаберите други лет или промените претрагу.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Промене цене",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Ваша цена карте се променила од",
+  "flight_v2_widget_dialog_config_text_span_to": "до",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nзбог промена цена авио-компаније",
+  "flight_v2_widget_field_fname_required": "Презиме је обавезно",
+  "flight_v2_widget_field_fname_invalid": "Неважеће презиме",
+  "flight_v2_widget_field_fname_last_name": "Презиме (без тонских ознака)",
+  "flight_v2_widget_field_lname_required": "Средње и име/име су обавезни",
+  "flight_v2_widget_field_lname_invalid": "Неважеће средње и име/име",
+  "flight_v2_widget_field_lname_middle_first_name": "Средње и име/име (без тонских ознака)",
+  "flight_v2_widget_field_email_required": "Емаил је обавезан",
+  "flight_v2_widget_field_email_invalid": "Неважећа е-маил",
+  "flight_v2_widget_field_email_email": "Емаил",
+  "flight_v2_widget_field_phone_required": "Број телефона је обавезан",
+  "flight_v2_widget_field_phone_invalid": "Неважећи број телефона",
+  "flight_v2_widget_field_phone_phone": "Број телефона",
+  "flight_v2_widget_field_address_required": "Адреса је обавезна",
+  "flight_v2_widget_field_address_invalid": "Погрешна адреса",
+  "flight_v2_widget_field_address_address": "Адреса",
+  "flight_v2_widget_field_city_required": "Држава/град је обавезан",
+  "flight_v2_widget_field_city_invalid": "Неважећа држава/град",
+  "flight_v2_widget_field_city_city": "Држава Град",
+  "flight_v2_widget_field_city_snackbar_text": "Молимо изаберите своју националност пре него што изаберете град",
+  "flight_v2_widget_field_country_required": "Држављанство је обавезно",
+  "flight_v2_widget_field_country_invalid": "Неважеће држављанство",
+  "flight_v2_widget_field_country_country": "националност",
+  "flight_v2_widget_field_field_card_hint": "Број чланске карте",
+  "flight_v2_widget_field_field_card_error_input": "Неважећа картица",
+  "flight_v2_widget_field_field_card_default_error": "Картица је обавезна",
+  "flight_v2_widget_field_field_date_hint": "Датум рођења",
+  "flight_v2_widget_field_field_date_error_input": "Молим вас не остављајте празно",
+  "flight_v2_widget_field_field_date_default_error": "Молим вас не остављајте празно",
+  "flight_v2_widget_field_field_date_default_error_infant": "Бебе морају бити млађе од 2 године",
+  "flight_v2_widget_field_field_date_default_error_children": "Деца морају бити од 2 до 12 година",
+  "flight_v2_widget_payment_contact_information": "Контакт информације",
+  "flight_v2_widget_payment_full_name": "Пуно име",
+  "flight_v2_widget_payment_gender": "Пол",
+  "flight_v2_widget_payment_phone_number": "Број телефона",
+  "flight_v2_widget_payment_address": "Адреса",
+  "flight_v2_widget_payment_birthday": "Датум рођења",
+  "flight_v2_widget_payment_male": "Мушки",
+  "flight_v2_widget_payment_female": "Женско",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Пуно име:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Пол:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Датум рођења:",
+  "flight_v2_widget_payment_checked_baggage": "Пртљаг",
+  "flight_v2_widget_payment_note": "Белешка",
+  "flight_v2_widget_payment_information": "Информације",
+  "flight_v2_widget_payment_adult": "Адулт",
+  "flight_v2_widget_payment_children": "дете",
+  "flight_v2_widget_payment_infant": "Беба",
+  "flight_v2_widget_payment_title_adult_information": "Информације за одрасле",
+  "flight_v2_widget_payment_title_children_information": "Информације о деци",
+  "flight_v2_widget_payment_title_infant_information": "Информације о бебама",
+  "flight_v2_widget_payment_customer_information": "Информације о путницима",
+  "flight_v2_widget_payment_edit_information": "Уредите информације",
+  "flight_v2_widget_payment_bonus_services": "Додатне услуге",
+  "flight_v2_widget_payment_membership_card_number": "Број чланске карте",
+  "flight_v2_widget_payment_text_loyal_customer": "Фрекуент флиерс",
+  "flight_v2_widget_payment_text_making_flight_payment": "Плаћате лет за следеће путнике:",
+  "flight_v2_widget_result_total_amount": "Укупна цена",
+  "flight_v2_widget_result_taxes_fees": "(Укључени су порези и накнаде)",
+  "flight_v2_widget_result_elevate_button_book": "Боок",
+  "flight_v2_widget_result_text_flight": "Сегмент",
+  "flight_v2_widget_result_text_departure_flight": "Полазни лет",
+  "flight_v2_widget_result_text_return_flight": "Повратни лет",
+  "flight_v2_component_code_title": "Потражите резервацију",
+  "flight_v2_component_code_retype": "Поново уђи",
+  "flight_v2_component_code_search_btn": "Потражити",
+  "flight_v2_component_code_error": "Нису пронађене информације о резервацији.\nПроверите и покушајте поново.",
+  "flight_v2_widget_detail_text_booking_code": "Референца за резервацију:",
+  "flight_v2_widget_detail_text_status": "Статус:",
+  "flight_v2_widget_detail_text_booked": "Резервисан",
+  "flight_v2_widget_detail_text_cancelled": "Отказано",
+  "flight_v2_widget_detail_text_paid": "Плаћено",
+  "flight_v2_widget_detail_text_unpaid": "Неплаћено",
+  "flight_showcase_domestic_round_trip_step1": "Време је приказано са најнижом ценом у току дана",
+  "flight_showcase_domestic_round_trip_step2": "Превуците прстом на обе стране да бисте поново изабрали време лета",
+  "flight_showcase_domestic_round_trip_step3": "Изаберите лет за одлазак",
+  "flight_showcase_domestic_round_trip_step4": "Изаберите повратни лет",
+  "flight_showcase_domestic_round_trip_step5": "У било ком тренутку можете поново да изаберете летове за одлазак и повратак",
+  "flight_showcase_domestic_round_trip_step6": "Морате да изаберете довољно летова пре резервисања",
+  "flight_showcase_inter_round_trip_step1": "Изаберите за себе одговарајуће путовање",
+  "flight_showcase_inter_round_trip_step1_desc": "Летовање се састоји од одлазног и повратног лета",
+  "flight_showcase_place_from": "Од",
+  "flight_showcase_place_to": "До",
+  "flight_showcase_tutorial": "Приручник",
+  "flight_showcase_back": "Назад",
+  "flight_showcase_done": "комплетан",
+  "flight_showcase_continue": "Следећи",
+  "flight_v2_component_code_hint_text": "Унесите референцу за резервацију",
+  "flight_v2_component_booking_text_note_upon": "Када",
+  "flight_v2_component_booking_text_payment_after": "ПЛАТИТИ КАСНИЈЕ",
+  "flight_v2_component_booking_text_your_booking": ", ваша резервација ће бити одржана у року од 12 сати. Биће аутоматски отказан ако и даље не извршите уплату у предвиђеном року. Молимо извршите уплату у предвиђеном року да бисте завршили процес резервације.",
+  "flight_v2_dialog_default_payment_error": "Дошло је до грешке током процеса плаћања. Покушајте поново касније.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Контактирајте Hahalolo корисничку подршку",
+  "flight_v2_dialog_default_payment_not_success": "Уплата није успела",
+  "flight_v2_component_result_message_appropriate_flight": "Време полетања за повратни лет мора да наступи најмање 02 сата након времена слетања за одлазни лет. Изаберите одговарајући лет.",
+  "flight_v2_component_notification_not_available": "Лет није доступан",
+  "flight_v2_search_enter_your_reservation": "Унесите своју референцу за резервацију да бисте потражили информације о резервацији",
+  "flight_v2_search_booking_reference": "Референца за резервацију",
+  "flight_v2_search_title_booking_code": "Унесите своју референцу за резервацију да бисте потражили резервацију лета",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Презиме (без тонских ознака)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Средње име и име (без тонских ознака)",
+  "flight_v2_widget_common_rules_1": "За међународне летове или међународне транзите, ваш пасош мора да важи најмање 6 месеци пре датума поласка.",
+  "flight_v2_widget_common_rules_2": "Вијетнам Аирлинес и Бамбоо Аирваис: Одбијте да превозите трудне путнице са периодом трудноће од 36 недеља. Виетјет Аир и Виетравел Аирлинес: Одбијте да превозите трудне путнице са периодом трудноће од 32 недеље.",
+  "flight_v2_widget_common_rules_3": "Беба од 14 дана до млађе од 02 године мора бити у пратњи одрасле особе старије од 18 година.",
+  "flight_v2_widget_common_rules_4": "Старост деце/беба ће се рачунати од датума рођења до датума поласка лета, на основу извода из матичне књиге рођених/пасоша детета.",
+  "flight_v2_widget_common_rules_5": "За децу која лете соло, контактирајте директно агента за више информација о малолетној служби без пратње.",
+  "flight_range_slider_price_range": "Распон цена",
+  "flight_v2_common_done": "Готово",
+  "flight_v2_detail_airline_operator_by": "Управља '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Напомена: Од путника се може захтевати да изврше царињење и предају своју транзитну визу на захтев земље домаћина.",
+  "flight_v2_detail_airline_total_price": "Укупно",
+  "flight_v2_detail_airline_title_tax_and_fee": "(укључујући порезе и накнаде)",
+  "flight_v2_detail_airline_button_add_ticket": "Додајте карту",
+  "flight_v2_detail_airline_button_change_ticket": "Промени карту",
+  "flight_v2_detail_airline_button_booking_ticket": "Резервишите карту",
+  "flight_v2_detail_airline_departure_flight": "Полазни лет",
+  "flight_v2_detail_airline_return_flight": "Повратни лет",
+  "flight_v2_information_contact_email": "Емаил",
+  "flight_v2_information_customer_title_full_name": "Пуно име: {fullName}",
+  "flight_v2_information_customer_title_gender": "Пол: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Датум рођења: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Напомена: {HAHALOLO} ће подржати кориснике са {free} банкарским накнадама)",
+  "flight_v2_payment_include_free_fee_payment": "БЕСПЛАТНО",
+  "flight_v2_payment_use_saved_info_user": "Користите информације о контакту или сачуване информације о плаћању",
+  "flight_v2_payment_success_thank_user": "Хвала вам на поверењу у услугу '{HAHALOLO}'. Ако имате питања или вам је потребна додатна помоћ, контактирајте Hahalolo центар за помоћ на {phone} за упутства.",
+  "flight_v2_payment_success_notifier": "Ваш захтев за резервацију је успешно послат '{wasPayment}'. Детаље итинерара можете погледати у наставку.",
+  "flight_v2_payment_success_was_payment": "(плаћено)",
+  "flight_v2_payment_success_flight_information": "Информације лета",
+  "flight_v2_payment_success_outbound_flight_information": "Информације о одласку",
+  "flight_v2_payment_success_return_flight_information": "Информације о повратном лету",
+  "flight_v2_information_bottom_sheet_adult": "{count} к одрасли",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} к дете",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} к Беба",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Информације за одрасле {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Информације о деци {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Информације о бебама {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Одрасли",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Деца",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Бебе",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Транзитно време од око {time} у {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Порези и накнаде (к{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Основна цена (к{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Најновије време поласка",
+  "flight_v2_widget_detail_text_departure_flight": "Полазни лет",
+  "flight_v2_widget_detail_text_return_flight": "Повратни лет",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(укључујући порезе и накнаде)",
+  "flight_input_title_note_1": "Имајте на уму да пасош мора да важи најмање 06 месеци пре датума поласка првог сегмента у итинерару.",
+  "flight_input_title_note_2": "Од путника се тражи да поседују одговарајућа документа и да испуњавају прописе и имиграционе процедуре земље одредишта.",
+  "flight_input_title_note_3": "Авио-компанија задржава право да одбије превоз ако путници немају прописана валидна документа.",
+  "flight_input_title_note_4": "Авио-компанија не сноси одговорност ако се путницима ускрати улазак.",
+  "flight_input_title_note_5": "Путници се морају пријавити на аеродрому на време.",
+  "flight_input_title_note_6": "Од малолетних путника без пратње се захтева да директно контактирају авио-компанију.",
+  "flight_input_title_note_7": "Трудне путнице са периодом трудноће од 32 недеље су обавезне да директно контактирају авио-компанију.",
+  "flight_input_title_note_8": "Старост путника се рачуна према временском интервалу између датума рођења и датума поласка првог сегмента лета у итинерару, на основу идентификационих докумената путника као што су пасош и извод из матичне књиге рођених.",
+  "flight_input_passenger_choose_birth_day": "Изаберите свој датум рођења",
+  "flight_input_payment_show_passenger_title": "Резервишете лет за следеће путнике:",
+  "flight_input_payment_reservation": "Боок",
+  "flight_v2_model_booking_luggage_handle": "Ручни пртљаг",
+  "flight_search_result_progress_searching_title": "У потрази...",
+  "flight_v2_dialog_unavailable_ticket": "Лет није доступан",
+  "flight_v2_dialog_choose_ticket": "Изабрали сте лет",
+  "flight_v2_dialog_from": "из",
+  "flight_v2_dialog_time_take_off_flight": "Време полетања лета",
+  "flight_v2_dialog_happening": "мора да се деси",
+  "flight_v2_dialog_minimum_hour": "најмање 02 сата",
+  "flight_v2_dialog_after_trip": "после лета",
+  "flight_v2_dialog_landed": "слетео.",
+  "flight_v2_dialog_choose_again_ticket": "Да ли желите да изаберете други лет?",
+  "flight_passenger_view_service_packages": "Пакети услуга",
+  "flight_passenger_view_check_in_baggage": "Пртљаг:",
+  "flight_v2_widget_detail_text_departure": "Одлазак",
+  "flight_v2_widget_detail_text_destination": "Одредиште",
+  "flight_handnote_international_item_view_order_code": "Шифра налога",
+  "flight_handnote_international_order_vieư": "Ажуриран датум",
+  "flight_order_detail_view_booking_code": "Референца за резервацију",
+  "flight_handnote_international_item_view_departure_date": "Дан одласка",
+  "flight_handnote_international_item_view_booking_status": "Статус резервације",
+  "flight_input_passenger_infor_title": "Информације о путницима",
+  "flight_input_payment_show_contact_full_name": "Пуно име",
+  "flight_passenger_view_guest_type": "Врста путника",
+  "flight_passenger_view_ticket_number": "Број улазница",
+  "flight_order_detail_title_flight_information": "Информације лета",
+  "flight_v2_dialog_common_agree": "Договорити се",
+  "flight_v2_dialog_common_confirm": "Потврди",
+  "flight_v2_dialog_common_skip": "Скип",
+  "flight_v2_dialog_common_cancel": "Поништити, отказати",
+  "flight_v2_dialog_common_exit": "Изађи",
+  "flight_v2_dialog_common_change_flight": "Договорити се",
+  "flight_v2_dialog_common_change_search": "Промените претрагу",
+  "flight_v2_dialog_title_change_information": "Промените информације",
+  "flight_v2_dialog_sub_title_change_information": "Да ли сте сигурни да желите да промените информације за претрагу?",
+  "flight_v2_dialog_message_change_information": "Ако пристанете да промените информације о претраживању, сви претходни подаци ће бити избрисани",
+  "flight_v2_dialog_title_not_available": "Лет није доступан",
+  "flight_v2_dialog_message_not_available": "Жао нам је, лет који сте изабрали тренутно није доступан. Молимо '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "изаберите други лет или промените претрагу",
+  "flight_v2_dialog_title_exceed_time_allow": "Лет је прекорачио дозвољено време",
+  "flight_v2_dialog_message_exceed_time_allow": "Лет који сте изабрали је премашио дозвољено време резервације. Контактирајте '{HAHALOLO}' преко хотлине '{hotline}' или '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "промените претрагу за нове летове",
+  "flight_v2_dialog_title_delete_account": "Избришите рачун за плаћање",
+  "flight_v2_dialog_sub_title_delete_account": "Да ли сте сигурни да желите да избришете овај налог за плаћање?",
+  "flight_v2_dialog_message_delete_account": "Налог се више неће појављивати у избору налога за плаћање.",
+  "flight_v2_dialog_title_change_ticket_price": "Промена цене карте",
+  "flight_v2_dialog_message_change_ticket_price": "Укупан износ поруџбине је промењен са '{oldPrice}' на '{newPrice}'. Поново изаберите код купона/кованице/поени ако су доступни.",
+  "flight_v2_dialog_title_min_support_payment": "Поруџбина не испуњава услове за плаћање",
+  "flight_v2_dialog_message_min_support_payment": "Поруџбина која испуњава услове има укупну уплату од '{minRange}' или минимум од '{maxRange}'. Можете променити код купона, новчиће или поене да бисте испунили услове плаћања",
+  "flight_v2_dialog_title_order_not_found": "Обавештења",
+  "flight_v2_dialog_message_order_not_found": "Наруџбине нису пронађене",
+  "flight_v2_dialog_title_exit_order": "Изађите из налога",
+  "flight_v2_dialog_message_exit_order_cart": "Ваша колица",
+  "flight_v2_dialog_title_payment_error_default": "Уплата није успела",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Контактирајте Hahalolo корисничку подршку '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "овде",
+  "flight_v2_dialog_title_voucher_fee_change": "Промена цене карте",
+  "flight_v2_dialog_message_voucher_fee_change": "Цена карте је промењена са '{oldPrice}' на '{newPrice}'. Обратите се корисничкој служби Hahalolo '{here}' за помоћ.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "овде",
+  "flight_v2_dialog_title_system_error": "Обавештења",
+  "flight_v2_dialog_message_system_error": "Ваша поруџбина је успешно плаћена и ускоро ће бити ажурирана у вашим белешкама.",
+  "flight_v2_dialog_title_voucher_not_available": "Обавештења",
+  "flight_v2_dialog_message_voucher_not_available": "Код купона није доступан. Проверите и покушајте поново.",
+  "flight_v2_dialog_title_point_not_available": "Обавештења",
+  "flight_v2_dialog_message_point_not_available": "Поени нису доступни. Проверите и покушајте поново.",
+  "flight_v2_dialog_title_coin_not_available": "Обавештења",
+  "flight_v2_dialog_message_coin_not_available": "Новчићи нису доступни. Проверите и покушајте поново.",
+  "flight_v2_dialog_halo_support": "'{message}'. Контактирајте Hahalolo корисничку подршку '{here}'.",
+  "flight_v2_dialog_halo_support_here": "овде",
+  "flight_v2_dialog_title_stripe_error": "Обавештења",
+  "flight_v2_price_info_read_more": "Погледај још",
+  "flight_v2_price_info_total_payment": "Укупан износ",
+  "flight_v2_price_info_before_payment": "Препаид износ",
+  "flight_v2_component_booking_title_payment_information": "Информације о плаћању",
+  "flight_v2_model_booking_checked_baggage": "Предани пртљаг (можете купити више)",
+  "flight_v2_widget_booking_coupon_code": "Код купона",
+  "flight_v2_widget_booking_use_coins": "Користите новчиће",
+  "flight_v2_component_booking_use_point": "Користите поене",
+  "flight_v2_widget_booking_title_fare_details": "Детаљи о тарифи",
+  "flight_v2_widget_confirm_title_contact_information": "Контакт информације",
+  "flight_input_passenger_hint_birth_day": "Датум рођења",
+  "flight_v2_widget_booking_membership_card_number": "Број чланске карте",
+  "flight_passenger_view_baggage": "Баггаге",
+  "flight_v2_dialog_message_exit_order": "Ваша резервација лета је у току. Ако изађете, ваша поруџбина ће и даље бити сачувана у '{cart}'. Можете да платите ову поруџбину пре '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Ваша резервација лета није направљена. Ако изађете, ваша поруџбина ће и даље бити сачувана у '{cart}'. Можете извршити уплату да бисте завршили издавање карте",
+  "flight_v2_payment_back_from_payment": "Ваша резервација лета је у току. Не можете променити информације о поруџбини. Извршите уплату пре '{time}' да бисте довршили издавање карте.",
+  "flight_v2_payment_back_from_payment_no_hold": "Ваша резервација лета није направљена. Молимо вас да извршите уплату да бисте завршили резервацију и издавање карте.",
+  "flight_price_detail_view_total_fare": "Укупна цена",
+  "flight_price_detail_view_service_fee": "Такса услуге",
+  "flight_price_detail_view_payment_fee": "Накнада за плаћање",
+  "flight_v2_notification_baggage": "Изабрали сте {baggage}. Молимо погледајте детаље у наставку.",
+  "flight_check_the_details": "Детаље можете проверити у наставку.",
+  "flight_order_detail_view_information_order": "Информације за наруџбу",
+  "flight_v2_search_code_no_reservation_yet": "Још није резервисано",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Напомена: Информације о клијентима још нису завршене",
+  "tour_booking_screen_update_information": "Ажурирање сада",
+  "tour_booking_screen_textspan_note": "(Напомена: накнада за плаћање)",
+  "tour_booking_loading_message": "Преузимање информација о поруџбини, сачекајте тренутак",
+  "tour_booking_last_name": "Презиме",
+  "tour_booking_middle_and_first_name": "Средње и име/име",
+  "tour_booking_or_detail_phone_number": "Број телефона",
+  "tour_booking_or_detail_address": "Адреса",
+  "tour_booking_province_city": "Покрајина/Град",
+  "tour_booking_country": "Држава",
+  "tour_booking_title_booking_information": "Информације о резервацији",
+  "tour_booking_bottom_detail_price_error": "Информације о картици су нетачне. Проверите поново.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Није могуће применити код купона",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Неважећи код купона",
+  "tour_booking_update_item_cart_action_message": "Близу",
+  "tour_booking_update_item_cart_title": "Обавештења",
+  "tour_booking_update_item_cart_msg_error_last": "Дошло је до грешке при ажурирању поруџбине, покушајте поново.",
+  "tour_booking_screen_payment_methods": "Могућност плаћања",
+  "tour_booking_screen_accept": "Прихвати",
+  "tour_booking_screen_coupon_code": "Код купона",
+  "tour_booking_screen_insert_code": "Унесите код",
+  "tour_booking_screen_default_msgError": "Дошло је до грешке. Молим вас, покушајте поново.",
+  "tour_booking_screen_on_failed_error_2008": "Распоред обиласка по месецима који сте изабрали тренутно није доступан. Изаберите други распоред обиласка.",
+  "tour_booking_screen_on_failed_error_2202": "Страница није објављена или нисте подесили узраст.",
+  "tour_booking_screen_on_failed_error_2301": "Тура није доступна.",
+  "tour_booking_screen_on_failed_error_2303": "Обилазак не припада страници.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Период резервације је истекао.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Молимо контактирајте Hahalolo центар за корисничку подршку",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "овде",
+  "tour_booking_screen_content_apply_voucher_failed_help": "за помоћ.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Максималан број новчића који се може користити за ову наруџбу.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Користите",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number}  Новчићи",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "за плаћање.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Одговара",
+  "tour_booking_success_text_done": "Готово",
+  "tour_booking_success_header_booking_success": "Резервација је успела",
+  "tour_booking_success_header_textspan_reservation_success": "Ваш захтев за резервацију је успешно поднет",
+  "tour_booking_success_header_textspan_paid": "(Плаћено).",
+  "tour_booking_success_header_textspan_itinerary_details": "Детаље итинерара можете погледати у наставку.",
+  "tour_booking_success_title_tour_information": "Информације о обиласку",
+  "tour_booking_success_tour_information_tour_name": "Назив турнеје",
+  "tour_booking_success_tour_information_departure": "Одлазак",
+  "tour_booking_success_tour_information_departure_date": "Дан одласка",
+  "tour_booking_success_tour_information_end_date": "Крајњи датум",
+  "tour_booking_success_tour_information_Number_of_days": "Број дана",
+  "tour_booking_success_tour_information_passengers": "Број путника",
+  "tour_booking_success_tour_information_detail_Passengers": "1 одрасла особа",
+  "tour_booking_success_title_contact_information": "Контакт информације",
+  "tour_booking_success_contact_information_full_name": "Пуно име:",
+  "tour_booking_success_contact_information_email": "Емаил:",
+  "tour_booking_success_contact_information_phone_number": "Број телефона:",
+  "tour_booking_success_contact_information_address": "Адреса:",
+  "tour_booking_success_title_installment_information": "Информације о налогу на рате",
+  "tour_booking_success_installment_information_total_order_value": "Укупна вредност поруџбине:",
+  "tour_booking_success_installment_information_prepaid_rate": "Препаид тарифа:",
+  "tour_booking_success_installment_information_prepayment_amount": "Уплаћени износ:",
+  "tour_booking_success_installment_information_remaining_amount": "Преостали износ:",
+  "tour_booking_success_installment_information_conversion_information": "Накнада за конверзију информација:",
+  "tour_booking_success_installment_information_banking_fee": "Накнада банке:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Каматна стопа на рате (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Камата на рате (месечно):",
+  "tour_booking_success_installment_information_total_amount": "Укупно плаћање на рате:",
+  "tour_booking_success_installment_information_payment_term": "Рок рате (месец):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} месеци",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Износ месечне рате:",
+  "tour_booking_success_installment_information_next_installment_period": "Тенор следеће рате",
+  "tour_booking_success_title_transaction_information": "Информације о трансакцији",
+  "tour_booking_success_transaction_information_tour_id": "Обилазак ID:",
+  "tour_booking_success_transaction_information_booking_code": "Број резервација:",
+  "tour_booking_success_transaction_information_total_payment": "Укупан износ:",
+  "tour_booking_success_transaction_information_payer": "Платилац:",
+  "tour_booking_success_transaction_information_address": "Адреса:",
+  "tour_booking_success_transaction_information_content_billing": "Садржај плаћања:",
+  "tour_booking_success_transaction_information_order_payment": "Плаћање налога",
+  "tour_booking_success_transaction_information_order_advance": "Авансно плаћање налога на рате",
+  "tour_booking_success_textspan_footer_thanks": "Хвала вам на поверењу у услугу Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Ако имате било каквих питања или вам је потребна додатна помоћ, контактирајте Hahalolo центар за помоћ",
+  "tour_booking_success_textspan_footer_last_text": "за упутства.",
+  "tour_booking_success_bottomview_view_details": "Приказ детаља",
+  "tour_booking_success_bottomview_new_booking": "Боок нев",
+  "tour_booking_title_info_detail_tour": "Детаљи обиласка",
+  "tour_booking_info_detail_tour_title_info_tour": "Информације",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Назив турнеје",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Откриће острва Пху Куи",
+  "tour_booking_or_detail_tour_id": "Обилазак ID",
+  "tour_booking_or_detail_tour_time": "време",
+  "tour_booking_or_detail_departure_date": "Дан одласка",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Крајњи датум",
+  "tour_booking_or_detail_tour_departure": "Одлазак",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Одредиште",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Врста туре",
+  "tour_booking_info_detail_tour_info_tour_description": "Опис",
+  "tour_booking_info_detail_tour_title_table_price": "Ценовник тура",
+  "tour_booking_starttext_adult": "Адулт",
+  "tour_booking_starttext_child": "дете",
+  "tour_booking_starttext_young_child": "Мало дете",
+  "tour_booking_starttext_baby": "Беба",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Списак делова",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Информације о прописима",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Приватни прописи",
+  "tour_booking_info_detail_tour_title_installment_policy": "Лизинг",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Укупан износ",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Препаид износ",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Плати",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Услуге",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Промоција",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Користите промоцију",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Користите новчиће",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Укупан износ",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Попуст укључен за 100% аванс",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Вредност промоције:",
+  "tour_booking_title_item_count_passenger": "Број путника",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Старији од {age} година",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} – {end_age} година",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Мање од {age} година",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Питајте за подршку при уносу информација о путнику",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Унесите информације о путнику",
+  "tour_booking_title_item_info_billing": "Информације о платиоцу",
+  "tour_booking_item_info_billing_use_contact_info": "Користите информације о контакту",
+  "tour_booking_title_item_info_contact_person": "Контакт информације",
+  "tour_booking_title_item_method_payment": "Начин плаћања",
+  "tour_booking_item_method_payment_text_full_payment": "100% плаћање",
+  "tour_booking_item_method_payment_text_installment_payment": "Плаћање на рате",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Добијате {discount}% попуста",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Укупан износ наплате вредности поруџбине након попуста:",
+  "tour_booking_title_item_select_service": "Пратеће услуге",
+  "tour_booking_item_select_service_add_service": "Додајте услугу",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Послаћемо код за потврду плаћања за наруџбу на рате у наредним роковима путем е-поште:",
+  "tour_booking_pay_installment_check_email": "Проверите још једном своју адресу е-поште.",
+  "tour_booking_pay_installment_number_installments_months": "Број месеци рата",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Стопа рате",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Морате извршити дјелимичну авансну уплату вриједности турнеје. Износ месечне рате ће се обрачунавати на основу преосталог стања након успешне авансне отплате.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Унесите жељени проценат плаћања унапред",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Детаљи о рате",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Не.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Информације",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Валуе",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Вредност поруџбине",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Препаид рате",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Препаид валуе",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Преостали износ",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Накнада за конверзију информација",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Банкарска накнада за плаћање",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Каматна стопа (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Камата на рате",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Укупан износ рате",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Трајање рате (месец)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Тенор следеће рате",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Износ месечне рате",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} месеци",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Лизинг",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Детаљи плана на рате",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Пратеће услуге",
+  "tour_booking_item_service_init_service_number_of_travelers": "Број путника",
+  "tour_booking_group_months_installment_label": "{month} месеци",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Путовање снова",
+  "tour_detail_text_number_people_haha_page": "1,839,017 људи Haha ову страницу",
+  "tour_detail_screen_theme_text_indochina_discovery": "Откриће Индокине: море и улична храна",
+  "tour_detail_text_installment_tour": "ОБИЛАЗАК НА ИНСТАЛАЦИЈУ",
+  "tour_detail_text_view_details": "Приказ детаља",
+  "tour_detail_number_promotions": "{promotions}Промоције",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "на располагању",
+  "tour_detail_tab_info": "Информације",
+  "tour_detail_tab_tour_parts": "Детаљи о итинерару",
+  "tour_detail_tab_promotion": "Промоција",
+  "tour_detail_tab_privacy_policy": "Правила о приватности",
+  "tour_detail_tab_separate_regulations": "Приватни прописи",
+  "tour_detail_tab_contact": "Контакт",
+  "tour_detail_view_tab_installment": "Лизинг",
+  "tour_detail_text_only_from": "Само од",
+  "tour_detail_view_emptyTitle": "Обилазак више није доступан",
+  "tour_detail_text_change_date": "Датум последње промене",
+  "tour_detail_text_book_now": "Резервишите одмах",
+  "tour_detail_view_action_menu_time_line": "Временска линија",
+  "tour_detail_view_action_menu_tour_List": "Листа обилазака",
+  "tour_detail_view_action_menu_introduction": "Увод",
+  "tour_detail_view_action_menu_promotion": "Промоција",
+  "tour_detail_view_action_menu_appraise": "Коментара",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} људи Haha ова страница",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Распоред обиласка по месецима који сте изабрали тренутно није доступан.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Изаберите други распоред обиласка.",
+  "tour_detail_choose_schedule_title": "Изаберите распоред",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Распоред полазака",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Распоред полазака није доступан",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Датум поласка: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Од",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Из {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Крај",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "у {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Промоција",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Цена",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Резервишите одмах",
+  "tour_detail_contact_infor_view_empty_title": "Контакт информације се ажурирају",
+  "tour_detail_contact_infor_view_company_name": "Име компаније",
+  "tour_detail_infor_view_text_starting_from": "Почети од",
+  "tour_detail_infor_view_text_ends_at": "Крај у",
+  "tour_detail_infor_view_tour_type_domestic": "Домаћа турнеја",
+  "tour_detail_infor_view_tour_type_international": "Међународна турнеја",
+  "tour_detail_infor_view_tour_text_info": "Информације",
+  "tour_detail_infor_view_tour_types": "Тип",
+  "tour_detail_infor_view_tour_service": "Туристичке услуге",
+  "tour_detail_emptyTitle_no_data_found": "Није пронађен ниједан Подаци",
+  "tour_detail_promotion_view_empty_title": "Нема доступних промоција",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Нивои промоције {level}::",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% попуста",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} попуста",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Минимална вредност поруџбине: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Минимални број одраслих: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Назад",
+  "tour_detail_shimmer_loading_message": "... људи Haha ова страница",
+  "tour_hand_note_tabs_verify_sent_to_email": "Послали смо вам потврдни код на пхам54833@гмаил.цом",
+  "tour_hand_note_tabs_price": "Цена",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Откажите наруџбу",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Да ли желите да извршите ову радњу?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Потврди",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Поништити, отказати",
+  "tour_hand_note_footer_action_total_amount": "Укупан износ",
+  "tour_hand_note_footer_action_pay": "Плати",
+  "tour_hand_note_order_payment_view_order_id": "Шифра налога",
+  "tour_hand_note_order_payment_view_paid": "Плаћено",
+  "tour_hand_note_order_payment_view_total_price": "Укупна цена",
+  "tour_hand_note_order_payment_view_remaining_amount": "Преостали износ",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Тенор рате",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Месец: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Износ рате",
+  "tour_hand_note_order_payment_view_next_installment_period": "Тенор следеће рате",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Укупан износ",
+  "tour_handnote_banner_waring_input_verify_error": "Дошло је до грешке током верификације. Покушајте поново или додирните ",
+  "tour_lockup_empty_title": "Нису пронађене информације о обиласку",
+  "tour_lockup_title_info": "Информације о обиласку",
+  "tour_lockup_form_search_hind_text_enter_promo": "Унесите промотивни код",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} дана} other{{days} дана}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Све",
+  "tour_handnote_tab_awaiting": "Чека потврда",
+  "tour_handnote_tab_awaiting_fulfilment": "Очекујем Испуњење",
+  "tour_handnote_tab_ongoing": "У току, сталан",
+  "tour_handnote_tab_completed": "Завршено",
+  "tour_handnote_tab_canceled": "Отказано",
+  "tour_detail_page_programs_detail": "Детаљи програма",
+  "tour_detail_page_passenger_title": "Купац",
+  "tour_detail_info_guest_edit_title": "Уредити",
+  "tour_detail_info_guest_update_title": "ажурирање",
+  "tab_tour_detail_order_cancel_order": "Откажите наруџбу",
+  "tab_tour_detail_order_cancel_order_confirm": "Да ли желите да извршите ову радњу?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Потврди",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Поништити, отказати",
+  "tab_tour_detail_order_waiting_confirmation": "Чека потврда",
+  "tab_tour_detail_order_code_order_tour_title": "Број резервација",
+  "tour_detail_stage_view_title": "Део {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Кованице су примењене на плаћање. Погледајте детаље у наставку",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Код купона је примењен на плаћање. Погледајте детаље у наставку",
+  "tour_hand_note_banner_warning_update_success": "Информације о клијентима су завршене",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Информације о плаћању",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Плаћено",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Промоција отказивања турнеје\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Користите новчиће ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Накнада за отказивање {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Процењени износ рефундирања",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Време повраћаја (од датума отказивања): 5-7 дана (за Алепаи и Паиме платне пролазе) или 7-15 дана (за Стрипе платни пролаз).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Разлог за отказивање:",
+  "tour_booking_validation_province_or_city_is_required": "Покрајина/Град је обавезан",
+  "tour_booking_screen_on_failed_error_2801": "Треба да резервишете обилазак {numberDay} дана пре датума поласка. Молимо изаберите други датум поласка.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Ваше одабрано време поласка је краће или дуже у складу са нашом политиком. Молимо изаберите туру са одговарајућим временом поласка.",
+  "tour_booking_bottom_view_error": "Молимо вас да попуните информације о путнику или затражите подршку Hahalolo за касније уношење информација о путнику.",
+  "tour_booking_on_start_payment_message": "Жао нам је, датум поласка који сте изабрали је распродат. Молимо изаберите други датум поласка.",
+  "tour_detail_text_full_load": "Распродато",
+  "tour_cancel_order_info_reason_cancel": "Унесите разлог за отказивање.",
+  "tour_cancel_order_info_validate_reason_cancel": "Потребан је разлог за отказивање",
+  "tour_cancel_order_info_refound_invalid_card": "Број рачуна је обавезан",
+  "tour_cancel_bank_name_required": "Назив банке је обавезан",
+  "tour_cancel_bank_wrong_format": "Формат назива банке је нетачан",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo ће вам вратити средства на основу информација о банковном рачуну које унесете испод)",
+  "tour_cancel_enter_bank_name": "Унесите назив банке",
+  "tour_cancel_cancel_order_success": "Ваша поруџбина је успешно отказана.",
+  "tour_bank_identifier_required": "SWIFT код је обавезан",
+  "tour_detail_title_select_departure_month": "Изаберите месец поласка",
+  "tour_detail_title_upcoming_departure_schedule": "Предстојећи распоред полазака",
+  "tour_detail_schedule_title_departure": "Одлазак",
+  "tour_detail_schedule_title_destination": "Одредиште",
+  "tour_booking_fail_payment_price_change": "Цена турнеје је промењена са {oldPay} на {newPay}. Да ли желите да наставите са плаћањем?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Цена турнеје је промењена са {oldPay} на {newPay} и морате унапред да платите {payAmount} . Да ли желите да наставите са плаћањем?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Износ авансне уплате је промењен са {oldPay} на {newPay}. Да ли желите да наставите са плаћањем?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Износ примењен од новчића је промењен са {oldPay} на {newPay}. Да ли желите да наставите са плаћањем?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Користите поене",
+  "tour_booking_screen_have_apply_points": "Поени су примењени на плаћање. Молимо погледајте детаље у наставку.",
+  "tour_booking_warning_promotion": "Ваш обилазак се резервише и информације о поруџбини се не могу променити. Молимо извршите уплату да бисте довршили резервацију туре.",
+  "tour_booking_warning_back_text_normal": "Ваша поруџбина је резервисана. Ако одустанете, ваша поруџбина ће и даље бити сачувана",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Прекините ред",
+  "tour_booking_warning_back_when_hold_ticket_card": "Ваша колица.",
+  "tour_booking_warning_back_exit": "Одустати",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Налог је прошао кроз пролаз за плаћање. Код купона се не може поништити.",
+  "tour_booking_point_not_available": "Поени нису доступни",
+  "tour_payment_voucher_exit_dialog_title": "Уплата није успела",
+  "tour_total_point_change": "Ваши доступни поени су се променили. Унесите број поена да бисте се пријавили за поруџбину.",
+  "tour_hand_note_text_tour": "Тоур",
+  "tour_hand_note_text_amount_installment_payment": "Износ плаћања на рате",
+  "tour_detail_tour_has_no_available_schedule": "Нема доступних распореда за ову турнеју",
+  "tour_detail_promotion_view_time_application": "Применљиви период:",
+  "tour_detail_promotion_view_up_to_off_title": "Све до",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% попуста",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Потражите број резервације",
+  "tour_you_can_sure_cancel_order": "Да ли сте сигурни да желите да откажете ову поруџбину?",
+  "tour_detail_contact_title": "Доступни смо 24/7! Ако имате било каквих питања у вези са овом услугом, контактирајте нас користећи доле наведене информације. Одговорићемо у року од 2 сата!",
+  "tour_detail_rate_title_schedule": "Распоред",
+  "tour_detail_rate_title_meal": "Оброк",
+  "tour_detail_review_there_are_no_reviews_yet": "Још нема рецензија",
+  "tour_search_suggest_location_title": "Топ дестинације",
+  "tour_detail_rate_title_property": "Имовина",
+  "tour_detail_rate_title_tour_guide": "Водич",
+  "tour_detail_rate_title_vehicle": "Возило",
+  "tour_detail_choose_schedule_remain_slot": "Још само {slot} слотова",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Датум",
+  "tour_detail_contact_text_hotline": "Врућа линија",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Коментара",
+  "tour_search_place_suggestion_title": "Одаберите дестинацију",
+  "tour_search_place_suggestion_hint_text": "Унесите полазак...",
+  "tour_review_title_feedback": "Прегледајте своје искуство са путовања",
+  "tour_review_title_content": "Укупна оцена путовања",
+  "tour_review_title_see_review": "Погледајте рецензију свог путовања",
+  "tour_review_schedule": "Распоред",
+  "tour_review_meal": "Оброк",
+  "tour_review_accommodation": "Имовина",
+  "tour_review_tour_guide": "Водич",
+  "tour_review_vehicle": "Возило",
+  "tour_booking_screen_text_accept": "Договорити се",
+  "tour_lockup_up_tour_header_text": "Унесите свој број резервације да бисте потражили информације о резервацији",
+  "banner_warning_installment_noti": "Доћи ћете до датума плаћања следеће рате. Датум доспећа рате {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Проширити",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Код купона није примењен",
+  "voucher_search_on_select_voucher_fail": "Непримењени код купона није успео. Покушајте поново касније.",
+  "voucher_search_coupon_code_incorrect": "Нетачан код купона",
+  "voucher_search_check_or_contact_cskh": "Проверите поново или контактирајте наш центар за корисничку подршку",
+  "voucher_widget_item_voucher_discount": "Попуст: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Истиче: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Датум истека:",
+  "voucher_widget_item_voucher_info_detail_text_code": "код:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Промоција:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Стање:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Примените на Хахалоло производе.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Ограничите једну по купцу.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "За поруџбине од {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Производи који се примењују на:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} искључено",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Максимални попуст:",
+  "voucher_apply_voucher_widget_you_save": "Hahа! Сачували сте",
+  "voucher_apply_voucher_widget_order_from_discount": "на овој наруџбини са кодом купона",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART____________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Ваш лет још није резервисан. Молимо довршите уплату да бисте резервисали и издали карту.",
+  "cart_screen_main_title": "Ваша колица",
+  "cart_screen_main_tour_title": "Резервација туре",
+  "cart_screen_main_flight_title": "Лет",
+  "cart_screen_main_car_title": "Резервација аутомобила",
+  "cart_screen_main_tour_title_1": "Резервација обиласка (1)",
+  "cart_screen_main_flight_title_1": "Лет (1)",
+  "cart_screen_main_car_title_1": "Резервација аутомобила (1)",
+  "cart_screen_domestic_flight_num_passenger": "Број путника",
+  "cart_screen_domestic_flight_subtotal": "Међузбир",
+  "cart_screen_domestic_flight_note": "Ваша резервација лета је направљена. Молимо извршите уплату да бисте завршили издавање карте.",
+  "cart_screen_empty": "Нема артикала у вашој корпи",
+  "cart_screen_empty_order_now": "Претражите и резервишите одмах!",
+  "cart_screen_car_delete_order": "Избриши налог",
+  "cart_screen_car_delete_order_confirm": "Да ли желите да избришете ову наруџбу?",
+  "cart_screen_tour_schedule_title": "Распоред",
+  "cart_screen_tour_type_title": "Врста туре",
+  "cart_tour_type_domestic": "Домаћи",
+  "cart_tour_type_international": "Интернатионал",
+  "cart_screen_tour_num_day_num_night": "{day} дана, {night} ноћи",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Број путника",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Користите поене",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Месец {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Дошло је до грешке током верификације. Покушајте поново или додирните \"Поново пошаљи код за потврду\" да бисте добили нови код путем {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Поново пошаљи код за потврду",
+  "hand_note_input_verify": "Послали смо код за потврду на {email}. Унесите код који сте добили да бисте довршили овај корак",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Унесите код",
+  "hand_note_tour_detail_body_tour_info_title": "Информације о обиласку",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Време се рачуна у временској зони Вијетнама)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Укупно дана",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Број путника",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Политика отказивања",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Временски рокови бесплатног отказивања су засновани на временској зони резервације путовања и политици отказивања обиласка добављача",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "За отказивање турнеје, биће вам наплаћена следећа накнада за отказивање:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} дана пре датума поласка",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Бесплатно отказивање",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Накнада за отказивање од {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Промоција за 100% плаћање",
+  "hand_note_install_policy": "Лизинг",
+  "hand_note_title_status_payment_failure": "Није успео",
+  "hand_process_extension": "Продужење у току",
+  "hand_in_installment": "Активан",
+  "hand_installment_completed": "Завршено",
+  "hand_note_adults": "Одрасли",
+  "hand_note_children": "Деца",
+  "hand_note_baby": "Млада деца",
+  "hand_note_infant": "Бебе",
+  "hand_note_tour_service_price": "Цена услуге",
+  "hand_note_total_price": "Укупна цена",
+  "hand_note_prepaid": "Препаид",
+  "hand_note_remaining": "Преостали износ",
+  "hand_installment_status": "Статус рате",
+  "hand_note_installment_payment_count_month_payment": "Број месеци рата",
+  "hand_note_installment_payment_count_month_payment_num": "{month} месеци",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Информације о рате",
+  "hand_note_information_detail_total_value_title": "Укупно наруџбине",
+  "hand_note_information_detail_prepayment_amount_title": "Уплаћени износ ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Укупан износ рате",
+  "hand_note_information_detail_installment_tenor_title": "Тенор рате",
+  "hand_note_information_detail_information_conversion_fee_title": "Накнада за конверзију информација",
+  "hand_note_information_detail_bank_fee_title": "накнада банке",
+  "hand_note_information_detail_installment_interest_title": "Камата на рате",
+  "hand_note_information_detail_monthly_installment_amount_title": "Износ месечне рате",
+  "hand_note_information_detail_next_due_date_title": "Тенор следеће рате",
+  "hand_note_installment": "рата",
+  "hand_note_postpaid": "Постпаид",
+  "hand_note_installment_history_title": "Историја рата",
+  "hand_note_payment_installment_title": "Плаћање на рате",
+  "hand_note_the_month_current_installment": "Месец: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Прва уплата",
+  "hand_note_remaining_balance_title": "Преостали износ",
+  "hand_note_extension_info": "Информације о проширењу",
+  "hand_note_price_extension": "Проширени износ",
+  "hand_note_month_paid": "Плаћено {month} месеци",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "Преостало је {month} месеци",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Ажурирајте своје податке",
+  "hand_note_invalid_full_name": "Неважећи формат пуног имена",
+  "hand_note_must_enter_full_name": "Морате унети своје пуно име",
+  "hand_note_adults_num": "Информације за одрасле {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Информације о детету {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Информације о беби {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Информације о малој деци {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(Старији од {age} година)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Од {ageFrom} - {ageTo} година)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "and_note_under_x_years_old": "(испод {age} година)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} дана",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Део: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Ажурирајте информације о путницима",
+  "hand_note_hotel_reservation_detail_title": "Детаљи резервације",
+  "hand_note_tour_installment_title": "Обилазак на рате",
+  "hand_note_tour_extensions_payment_title": "Продужетак плаћања",
+  "hand_note_installment_period": "Тенор рате",
+  "hand_note_installment_amount": "Износ рате",
+  "hand_note_recommend_adjourn": "Захтев за продужење",
+  "hand_note_number_extension": "Број дана продужења",
+  "hand_note_new_installment": "Датум доспећа нове рате",
+  "hand_note_adjourn_notice": "За сваки рок рате, имате само једном да добијете продужење плаћања од {day} дана. Ако је датум доспећа нове рате истекао и тренутна уплата није извршена, ваша турнеја ће бити отказана.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Изговор за кашњење плаћања",
+  "hand_note_extension_successful": "Проширење је успешно",
+  "hand_note_part_due_note": "Налог је каснио. Молимо контактирајте наш центар за корисничку подршку.",
+  "hand_note_notify_error_extension": "Дошло је до грешке. Молим вас, покушајте поново.",
+  "hand_note_dialog_input_verify_1": "Послали смо код за потврду на",
+  "hand_note_dialog_input_verify_2": "Унесите код који сте добили да бисте довршили овај корак.",
+  "hand_note_verify_input_code_hint": "Унесите код за потврду",
+  "hand_note_title_hotel_order": "Налози за резервацију хотела",
+  "hand_note_title_apply_coin": "Користите новчиће",
+  "hand_note_request_resent_code_confirm_must_1": "Требало би да сачекате минут пре него што затражите да поново пошаљете код за потврду.",
+  "hand_note_request_resent_code_confirm_must_2": "Требало би да сачекате 5 минута пре него што затражите да поново пошаљете код за потврду.",
+  "hand_note_request_resent_code_confirm_must_3": "Требало би да сачекате дан пре него што затражите да поново пошаљете код за потврду.",
+  "hand_note_request_resent_code_confirm_must_4": "Требало би да сачекате 9 минута пре него што затражите да поново пошаљете код за потврду.",
+  "hand_note_request_resent_code_confirm_must_5": "Дошло је до грешке при слању кода за потврду. Молим вас, покушајте поново.",
+  "hand_note_history_new_order_created": "Нова поруџбина је направљена",
+  "hand_note_history_change_customer_information": "Промењене информације о путницима",
+  "hand_note_history_cancellation_of_passengers": "Отказани путник",
+  "hand_note_history_change_flights": "Промењен лет",
+  "hand_note_history_cancel_the_flight": "Отказано лет",
+  "fare_rule_toolbar_title": "Услови тарифе",
+  "hand_note_detail_activity_history": "Историја активности:",
+  "hand_note_coin_refund_amount": "Очекивани новчићи за повраћај новца",
+  "hand_note_tour_title": "Тоур",
+  "hand_note_hotel_title": "Хотел",
+  "hand_note_flight_title": "Лет",
+  "hand_note_car_title": "Изнајмљивање аутомобила",
+  "hand_note_title": "Ханднотес",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Неважећи број кредитне картице",
+  "payment_error_card_has_expired": "Картица је истекла",
+  "payment_error_card_has_expired_year": "Картица је истекла ове године",
+  "payment_error_card_date_must_only_number": "Мора имати само бројеве у датумима",
+  "payment_error_card_date_is_3_digits": "Година истека је 3 цифре",
+  "payment_error_card_date_is_4_digits": "Година истека је дужа од 4 цифре",
+  "payment_error_card_date_only_number_in_date": "Мора имати само бројеве у датумима",
+  "payment_card_date_expired": "Рок употребе",
+  "payment_payme": "Payme новчаник",
+  "payment_domestic": "АТМ картица или иБанкинг домаћих банака (у Вијетнаму)",
+  "payment_stripe": "Међународна платна картица (Виса/МастерЦард)",
+  "payment_card_number_empty": "Број картице је обавезан",
+  "payment_card_day_exit": "Датум истека је обавезан",
+  "payment_ccv_empty": "CVV код је обавезан",
+  "payment_error_secure_long": "Нетачан сигурносни код",
+  "payment_error_secure_shorted": "Сигурносни код је прекратак за овај тип картице",
+  "payment_error_secure_alphabet": "Абецедни знакови нису дозвољени",
+  "payment_error_no_secure": "Безбедносни код није наведен",
+  "payment_error_no_card_number": "Нема уноса или садржи ненумеричке знакове",
+  "payment_error_connect_title": "Грешка у вези",
+  "payment_error_connect_message": "Ваша мрежна веза је нестабилна. Поново проверите везу на свом уређају",
+  "payment_error_not_load_title": "Грешка при учитавању странице",
+  "payment_error_not_load_message": "Дошло је до грешке при повезивању са страницом за плаћање.",
+  "payment_error_card_number_lenght": "Број картице мора бити већи од 19 цифара",
+  "payment_error_no_date": "Није унет датум",
+  "payment_error_invalid_date": "Неважећи формат датума или неважећи датум",
+  "payment_error_invalid_year": "У датуму и месецу су дозвољени само бројеви",
+  "payment_error_invalid_ccv": "Неважећи CVV",
+  "payment_error_invalid_card_holder": "Неважећи власник картице",
+  "payment_alert_select_payment_method_null": "Изаберите пролаз за плаћање",
+  "payment_alert_card_information_incorrect": "Информације о картици су нетачне. Проверите поново",
+  "payment_alert_dialog_title": "Обавештења",
+  "payment_alert_message_dialog_message": "Молимо вас да не затварате или напуштате апликацију током процеса плаћања да бисте осигурали успешну уплату.",
+  "payment_alert_dialog_message_payment_error": "Дошло је до грешке приликом обраде ваше уплате. Проверите поново.",
+  "payment_hint_text_country": "Држава...",
+  "payment_hint_text_province": "Град-држава...",
+  "payment_show_message_dialog_title": "Нотифицатион",
+  "payment_show_message_dialog_message": "Да ли желите да напустите плаћање?",
+  "payment_show_message_dialog_negative": "Поништити, отказати",
+  "payment_show_message_dialog_action": "У реду",
+  "payment_bank_page_title": "За несметан процес плаћања, молимо вас да не затварате апликацију пре него што плаћање буде успешно!",
+  "payment_error_expired_date": "Ваша картица је истекла",
+  "payment_coin_not_available": "Новчићи нису доступни. Проверите и покушајте поново.",
+  "payment_point_not_available": "Поени нису доступни. Проверите и покушајте поново.",
+  "payment_voucher_not_available": "Код купона није доступан. Проверите и покушајте поново.",
+  "payment_fee_change_total_order": "Укупан износ поруџбине је промењен од",
+  "payment_fee_change_to": "до",
+  "payment_fee_change_choose_voucher_point_coint": "Поново изаберите код купона/кованице/поене ако су доступни.",
+  "payment_halo_wallet": "Хахалоло рачун за плаћање",
+  "payment_available_balance": "Доступно Стање:",
+  "payment_card_holder_name": "Име власника картице",
+  "payment_card_cvv_cvc_name": "CVV/CVC код",
+  "payment_card_number": "Број картице",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Слична својства",
+  "hotel_detail_hotel_images": "Слике хотела",
+  "hotel_detail_reviews_latest": "Најновије",
+  "hotel_detail_reviews_oldest": "Најстарији",
+  "hotel_detail_reviews_highest": "Највиша оцена",
+  "hotel_detail_reviews_lowest": "Најнижи резултат",
+  "hotel_detail_review_sort_by": "Сортирај по",
+  "hotel_detail_reviews": "Преглед",
+  "hotel_detail_rate_location": "Локација",
+  "hotel_detail_rate_price": "Цена",
+  "hotel_detail_rate_cleanliness": "Чистоћа",
+  "hotel_detail_rate_service": "Услуга",
+  "hotel_detail_rate_facilities": "Објекти",
+  "hotel_detail_one_user_review": "1 рецензија",
+  "hotel_detail_x_user_reviews": "{x} рецензија",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Резервација није успела",
+  "hotel_detail_please_fill_ci_co_date": "Унесите датуме пријављивања и одјаве",
+  "hotel_detail_allow_pet_contact_hotel": "Кућни љубимци су дозвољени. За правила за кућне љубимце контактирајте директно смештај.",
+  "hotel_detail_allow_pet_and_x_fee": "Кућни љубимци су дозвољени. Накнада за кућне љубимце: {x} (накнада за кућне љубимце се плаћа у смештају).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "БЕСПЛАТНО отказивање",
+  "hotel_detail_cancellation_with_refund": "Отказивање се наплаћује",
+  "hotel_detail_cancellation_without_refund": "Отказивање без повраћаја новца",
+  "hotel_detail_cancel_non_refund": "Нећете добити повраћај новца или уплаћени износ након отказивања.",
+  "hotel_detail_breakfast_served": "Обезбеђен доручак",
+  "hotel_detail_lunch_served": "Обезбеђен ручак",
+  "hotel_detail_dinner_served": "Обезбеђена вечера",
+  "hotel_detail_smoking_allow": "Пушење је дозвољено",
+  "hotel_detail_smoking_not_allow": "Пушење није дозвољено",
+  "hotel_detail_contact_hotel": "Контактирајте хотел",
+  "hotel_detail_book_first_pay_later": "Резервишите сада, платите касније",
+  "hotel_detail_policy": "Политике",
+  "hotel_detail_choose_the_bed_arrangement": "Изаберите кутију за кревет",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Отказивање извршено пре {x}дана {y}: добијте {z}% рефундирања цене собе за прву ноћ.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Собне услуге",
+  "hotel_detail_amenities": "Садржаји",
+  "hotel_detail_general_rules": "Кућни ред",
+  "hotel_detail_change_reservation": "Промените резервацију",
+  "hotel_detail_services_and_facilities": "Објекти и услуге",
+  "hotel_detail_x_room_and_y_night": "{x} соба/{y} ноћ",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} соба/{y} ноћења",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 соба/{x} ноћења",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} соба/1 ноћење",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 соба/1 ноћење",
+  "hotel_detail_x_rooms_and_y_adults": "{x} соба - {y} гостију",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 соба - {x} гостију",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 соба - 1 гост",
+  "hotel_detail_child_count": "1 дете",
+  "hotel_detail_x_children": "{x} деце",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Детаљи собе",
+  "hotel_detail_room_policy_and_conditions": "Услови и политике",
+  "hotel_detail_person_count": "1 гост",
+  "hotel_detail_x_people": "{x} гостију",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x}од центра",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} од локације претраге",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "У центру града",
+  "hotel_detail_check_in": "Пријавити",
+  "hotel_detail_check_out": "Проверити",
+  "hotel_detail_cancelation_policy": "Отказивање",
+  "hotel_detail_child_policy": "Деца",
+  "hotel_detail_pet_policy": "Кућни љубимци",
+  "hotel_detail_check_in_x": "После {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "пре {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Само 1 лево",
+  "hotel_detail_only_x_room": "Остало је само {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Дозвољена су деца узраста од {range}.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Кућни љубимци су дозвољени. Накнада за кућне љубимце се плаћа у хотелу.",
+  "hotel_detail_pet_policy_do_not_allow": "Кућни љубимци нису дозвољени.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Отказивање извршено {x}сати пре времена за пријаву: добијте {y}% рефундирања цене собе за прву ноћ.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Отказивање извршено {x} сати пре времена за пријаву: добијте {y}% рефундирања цене собе за све ноћи.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Бесплатно отказивање пре {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Резервишите 1 собу",
+  "hotel_detail_book_x_room": "Резервишите {x} соба",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Најповољнија цена",
+  "hotel_detail_bed": "1 кревет",
+  "hotel_detail_x_beds": "{x} кревета",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "{x}% попуста само данас",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Изаберите собу",
+  "hotel_detail_has_x_room_types": "(Укупно доступних типова соба: {x}",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Доступан је укупно 1 тип собе)",
+  "hotel_detail_children_policy_do_not_allow": "Хотел нема правила за децу. Деца се неће рачунати у број претрага. Молимо контактирајте хотел ако има деце у пратњи.",
+  "hotel_detail_children_policy_range_allow": "Политика хотела за децу дозвољава децу узраста од {range}. За информације о хотелским правилима и прописима, погледајте одељак о кућним правилима хотела или контактирајте хотел за додатне информације.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Информације о соби",
+  "hotel_detail_x_fee_person_and_day": "{x}/гост/дан",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/ауто/дан",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Доручак",
+  "hotel_detail_lunch": "Ручак",
+  "hotel_detail_dinner": "Вечера",
+  "hotel_detail_smoking": "Дуван",
+  "hotel_detail_parking": "Паркинг",
+  "hotel_detail_local_time": "(Локално време)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Отказивање извршено пре {x} дана {y}: Добијте {z}% рефундирања цене собе за сва ноћења.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Отказивање извршено пре {x} дана {y}: Добијте повраћај од {z} цене собе.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Деалс",
+  "hotel_detail_free_breakfast": "Бесплатан доручак",
+  "hotel_detail_free_lunch": "Бесплатан ручак",
+  "hotel_detail_free_dinner": "Бесплатна вечера",
+  "hotel_detail_allow_smoking": "Пушење је дозвољено",
+  "hotel_detail_free_parking": "Бесплатан паркинг",
+  "hotel_detail_room_not_found": "Нема пронађених соба!",
+  "hotel_detail_no_result": "Нисмо могли да пронађемо ниједан резултат који одговара вашој претрази. Молим вас, покушајте поново.",
+  "hotel_detail_similar_hotels_title": "Слична својства",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Наруџбина не подлеже плаћању",
+  "hotel_booking_dialog_qualified_orders": "Наруџбина је прихватљива са укупним износом од",
+  "hotel_booking_dialog_coupon_code_coins_points": "Можете да промените код купона, новчиће или поене да бисте испуњавали услове за плаћање",
+  "hotel_booking_dialog_or_minimum": "или минимум од",
+  "hotel_booking_widget_dialog_cannot_used_information": "Ове информације се тренутно не могу користити. Користите другу или сачувајте нову.",
+  "hotel_booking_component_applied_points_successfully": "Успешно сте применили бодове",
+  "hotel_booking_use_point": "Користите поене",
+  "hotel_booking_point_switch_on_hint": "Искључите коришћење поена да бисте отказали примену поена за ову поруџбину",
+  "hotel_booking_point_switch_off_hint": "Укључите коришћење поена да бисте унели број поена које ћете користити за ову наруџбу",
+  "hotel_booking_point_user_point": "Доступни поени",
+  "hotel_booking_point_available_point": "Доступан за наруџбине",
+  "hotel_booking_point_user_want_to_use_hint": "Број поена које желите да користите",
+  "hotel_booking_point_equivalent_to": "Еквивалентно са",
+  "hotel_booking_point_press": "Притисните",
+  "hotel_booking_point_apply": "Применити",
+  "hotel_booking_point_apply_for_payment": "да се износ примени на плаћање",
+  "hotel_booking_points_apply_hint": "Износ ће се користити за плаћање ове поруџбине.",
+  "hotel_booking_payment_3001_error": "Картица није подржана. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3002_error": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3003_error": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3004_error": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3005_error": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3006_error": "Картица је истекла. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3007_error": "Неважећи CVC код. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3008_error": "Неважећи број картице. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3009_error": "Ова валута није подржана. Молим вас, покушајте поново.",
+  "hotel_booking_payment_3010_error": "Дошло је до грешке током процеса плаћања. Молим вас, покушајте поново.",
+  "hotel_booking_modify_coin_applied": "Кованице су примењене на плаћање. Молимо погледајте детаље у Тотал.",
+  "hotel_booking_modify_voucher_applied": "Кованице су примењене на плаћање. Молимо погледајте детаље у Тотал.",
+  "hotel_booking_modify_point_applied": "Поени су примењени на плаћање. Молимо погледајте детаље у Тотал.",
+  "hotel_booking_modify_point_canceled": "Примена поена за плаћање за ову поруџбину је отказана.",
+  "hotel_booking_modify_4006_error": "Ваучер није доступан",
+  "hotel_booking_modify_4007_error": "Ваучер је сачуван",
+  "hotel_booking_modify_4008_error": "Поруџбина не испуњава услове за купон код. Проверите и покушајте поново.",
+  "hotel_booking_modify_2004_error": "Примена није успела",
+  "hotel_booking_pay_1005_error": "Нетачна вредност",
+  "hotel_booking_pay_2002_error": "Наруџбине нису пронађене",
+  "hotel_booking_pay_2004_error": "Уплата није успела",
+  "hotel_booking_pay_6002_error": "Нетачне информације о картици",
+  "hotel_booking_pay_6003_error": "Картица се не прихвата",
+  "hotel_booking_pay_6004_error": "Грешка при креирању поруџбине",
+  "hotel_booking_pay_6005_error": "Грешка при резервацији TVP-а",
+  "hotel_booking_required_city": "Град је обавезан",
+  "hotel_booking_sub_bed": "Помоћни лежај",
+  "hotel_booking_information": "Информације о резервацији",
+  "hotel_booking_room_information": "Информације о соби",
+  "hotel_booking_room_hotel": "Хотел",
+  "hotel_booking_x_nights": "{x} ноћи",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 ноћ",
+  "hotel_booking_change": "Промена",
+  "hotel_booking_user_contact": "Контакт информације",
+  "hotel_bookng_without_tone_marks": "(без тонских ознака)",
+  "hotel_booking_first_name": "Име",
+  "hotel_booking_last_name": "Презиме",
+  "hotel_booking_middle_name": "Средње име",
+  "hotel_booking_given_name": "Средње и име/име",
+  "hotel_booking_phone_number": "Број телефона",
+  "hotel_booking_email": "Емаил",
+  "hotel_booking_country": "Држава",
+  "hotel_booking_im_a_guest": "Ја сам гост",
+  "hotel_booking_guest_information": "Информације о гостима",
+  "hotel_booking_fill_contact_information": "Унесите контакт податке вас или особе одговорне за одржавање контакта са пружаоцем услуга смештаја.",
+  "hotel_booking_name_as_in_passport": "Пуно име као што је наведено на личној карти/пасошу",
+  "hotel_booking_payments": "Опције Плаћања",
+  "hotel_booking_prepay": "Платити сада",
+  "hotel_booking_postpaid": "Платити касније",
+  "hotel_booking_prepay_description": "Hahalolo ће вам помоћи да обрадимо вашу уплату. Цео износ ћете платити данас по завршетку резервације.",
+  "hotel_booking_postpaid_description": "Објекат ће обрадити вашу уплату. У зависности од услова резервације, можете платити делимично или у целости у објекту.",
+  "hotel_booking_bill_information": "Информације о плаћању",
+  "hotel_booking_use_contact_information": "Користите информације о контакту",
+  "hotel_booking_state": "Стање",
+  "hotel_booking_city": "Цити",
+  "hotel_booking_save_payment_information": "Сачувајте информације о плаћању за следећи пут",
+  "hotel_booking_use_x_y_to_pay": "Користите {x} {y} за плаћање",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Еквивалентно {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Начин плаћања",
+  "hotel_booking_payment_note": "Напомена: HAHALOLO ће подржати кориснике са БЕСПЛАТНИМ банковним накнадама",
+  "hotel_booking_free": "бесплатно",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Можемо ли вам још нешто помоћи?",
+  "hotel_booking_inform_the_accommodation": "Обавестићемо некретнину да сте заинтересовани за ове услуге. Молим обратите пажњу.",
+  "hotel_booking_can_not_guaranteed": "Ваш захтев се не може гарантовати. Не брини! Некретнина ће покушати да испуни ваше потребе.",
+  "hotel_booking_additional_services": "Ово су додатне услуге које настају изван вашег захтева за резервацију и могу изазвати додатне накнаде за некретнину када се користе.",
+  "hotel_booking_note": "Белешка",
+  "hotel_booking_promo_apply_rule": "Кованице и код купона се не примењују на следеће облике плаћања.",
+  "hotel_booking_saved_payment_information": "Информације о плаћању су сачуване",
+  "hotel_booking_fill_new_payer_information": "Унесите нове податке о платиоцу",
+  "hotel_booking_maximum_coins_can_be_use": "Максималан број новчића се може користити за ову наруџбу.",
+  "hotel_booking_coins": "Новчићи",
+  "hotel_booking_unknown": "Не знам",
+  "hotel_booking_planning_arrive_after_x_date": "Ако планирате да стигнете после {x}, обавестите домаћина о заказаном времену за пријаву:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Додатне услуге се могу наплатити. Молимо вас да унапред контактирате смештај за додатне информације.",
+  "hotel_booking_term_and_policies": "Услови - Правила",
+  "hotel_booking_privacy_policy": "Правила о приватности",
+  "hotel_booking_tp_and_pp": "Настављајући са следећим кораком, потврђујем да сам прочитао и да се слажем са Hahalolo-овим условима - Политиком и Политиком приватности",
+  "hotel_booking_important_note": "Белешка",
+  "hotel_booking_select_time": "Изаберите време",
+  "hotel_booking_room_x_night": "Соба к 1, 1 ноћ",
+  "hotel_booking_x_rooms_x_night": "Соба к {x}, 1 ноћ",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Соба к {x}, {y} ноћи",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Соба к 1, {x} ноћења",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Порези и накнаде",
+  "hotel_booking_service_charge": "Такса услуге",
+  "hotel_booking_payment_fees": "Накнада за плаћање",
+  "hotel_booking_accommodation_currency": "Валута имовине",
+  "hotel_booking_points_fees": "Користите поене",
+  "hotel_booking_coins_fees": "Користите новчиће",
+  "hotel_booking_voucher_fees": "Код купона",
+  "hotel_booking_discount": "Промоција",
+  "hotel_booking_meal_service": "Услуга оброка",
+  "hotel_booking_meal_service_description": "Испод су услуге доручка које вам смештај може пружити. Ако желите да се пријавите за ову услугу, контактирајте директно рецепцију смештаја.",
+  "hotel_booking_meal_price_per_breakfast": "Цена по врсти доручка",
+  "hotel_booking_extended_service": "Додатне услуге",
+  "hotel_booking_extended_service_description": "Изаберите укупан број додатних кревета које желите да додате овој поруџбини. Дозвољено вам је да додате највише {x} додатних кревета.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Количина",
+  "hotel_booking_total": "Укупно",
+  "hotel_booking_unit_price": "Цена",
+  "hotel_booking_x_price_per_person_per_day": "{x} људи/дан",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} кревета/особи/дан",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Детаљи о цени",
+  "hotel_booking_billings_information": "Информације о плаћању",
+  "hotel_booking_service_charge_description": "Задржаћемо ову накнаду као провизију за услугу и подршку у вашим питањима везаним за резервације на Hahalolo систему.",
+  "hotel_booking_payment_fees_description": "Накнада за плаћање је износ трансакционих накнада по трансакцији који треба да платите добављачима услуга плаћања на мрежи.",
+  "hotel_booking_taxes_and_fees_description": "Порези и накнаде су износ новца који се наплаћује према прописима објекта (хотела) који сте дужни да платите приликом коришћења њихових услуга смештаја. Молимо прочитајте Услове коришћења за више детаља.",
+  "hotel_booking_accommodation_currency_description": "Цена је конвертована на основу расположиве валуте Добављача.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Курс је подложан промени пре него што платите.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Издавалац ваше картице може да наплати накнаду за трансакције у иностранству.",
+  "hotel_booking_enter_maximum_x_char": "Унесите највише {x} знакова",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Поени нису доступни.",
+  "hotel_booking_coin_not_available": "Новчићи нису доступни.",
+  "hotel_booking_voucher_not_available": "Код купона није доступан.",
+  "hotel_booking_please_check_again": "Проверите поново.",
+  "hotel_booking_point_change": "Број примењених поена је промењен због промене укупне уплате.",
+  "hotel_booking_hold_warning": "Ваша резервација имовине је направљена, тако да не можете променити информације о поруџбини. Молимо извршите уплату да бисте довршили резервацију.",
+  "hotel_booking_total_point_change": "Ваши доступни поени су се променили. Унесите број поена да бисте се пријавили за поруџбину.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Мапа",
+  "hotel_list": "Листа",
+  "hotel_from_the_center": "Из центра",
+  "hotel_from_the_location": "Са локације претраге",
+  "hotel_right_in_the_center": "У центру града",
+  "hotel_breakfast_is_served": "Бесплатан доручак",
+  "hotel_no_breakfast_served": "Није обезбеђен доручак",
+  "hotel_dinner_is_served": "Обезбеђена вечера",
+  "hotel_no_dinner_service": "Није обезбеђена вечера",
+  "hotel_lunch_is_served": "Обезбеђен ручак",
+  "hotel_no_lunch_service": "Ручак није обезбеђен",
+  "hotel_allow_smoking": "Пушење је дозвољено",
+  "hotel_no_smoking": "Пушење није дозвољено",
+  "hotel_no_refund": "Отказивање без повраћаја новца",
+  "hotel_without_fee": "Отказивање се наплаћује",
+  "hotel_free_cancel": "БЕСПЛАТНО отказивање",
+  "hotel_pay_later": "Резервишите сада, платите касније",
+  "hotel_fee": "Обезбеђен доручак",
+  "hotel_free": "БЕСПЛАТАН доручак",
+  "hotel_not_refund": "Нећете добити повраћај новца или уплаћени износ након отказивања",
+  "hotel_no_vacancy": "Распродато",
+  "hotel_choose_room": "Изаберите собу",
+  "hotel_change_date": "Датум последње промене",
+  "hotel_change_price_display": "Прикажи цену",
+  "hotel_continue": "Само",
+  "hotel_room_available": "лево",
+  "hotel_room": "соба",
+  "hotel_night": "ноћ",
+  "hotel_date_checking": "Датум пријаве",
+  "hotel_date_checkout": "Датум одјаве",
+  "hotel_search": "Претрага",
+  "hotel_promotion": "Промоција",
+  "hotel_promotions": "Промоције",
+  "hotel_applying": "применом",
+  "hotel_promotion_applying": "применљива промоција",
+  "hotel_promotions_applying": "применљиве промоције",
+  "hotel_title_promotions_applying": "Применљива промоција",
+  "hotel_see_detail": "Приказ детаља",
+  "hotel_cancel": "Отказивање у року од {x}сати пре времена за пријаву биће рефундирано {y}% цене собе за",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Добијте попуст од {x} по ноћењу када гости бораве између {y}-{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Добијте {x} попуста по цени ноћења (максимално {a} на налогу за резервацију) када гости бораве између {y}-{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "Попуст од {x} за резервације од {y} дана унапред. Применљиво када гости бораве од {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Попуст од {x}, максимално {y} за резервације од {z} дана унапред. Применљиво када гости бораве од {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "Попуст од {x} за резервације од {z} дана унапред. Применљиво када гости бораве од {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "Попуст од {x} за резервације дуже од {z} ноћења. Применљиво када гости бораве од  {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Попуст од {x}, максимално {y} за резервације дуже од {z} ноћења. Применљиво када гости бораве од {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "Попуст од {x} за резервације дуже од {z} ноћења. Применљиво када гости бораве од {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "целе ноћи",
+  "hotel_first_night": "Прву ноћ",
+  "hotel_rating": "Преглед",
+  "hotel_wonderful": "Одлично",
+  "hotel_very_good": "Врло добар",
+  "hotel_satisfied": "Задовољан",
+  "hotel_medium": "Просек",
+  "hotel_bad": "Јадно",
+  "hotel_hand_note_consult_book_room": "Потражите резервацију",
+  "hotel_hand_note_enter_code_search_info": "Унесите свој број резервације да бисте потражили информације о резервацији",
+  "hotel_hand_note_reservation_code": "Број резервација",
+  "hotel_hand_note_can_not_find_hotel": "Жао нам је, нисмо могли да пронађемо ниједан хотел који одговара вашој претрази.",
+  "hotel_hand_note_search_night": "Број ноћења",
+  "hotel_hand_note_num_room": "Број соба",
+  "hotel_hand_note_status_booking": "Статус резервације",
+  "hotel_hand_note_booked": "Резервисан",
+  "hotel_hand_note_dont_booked": "Још нисам резервисао",
+  "hotel_hand_note_total_price": "Укупна цена",
+  "hotel_hand_note_status": "Статус",
+  "hotel_hand_note_payment_after": "Молимо платите унапред",
+  "hotel_hand_note_pay_now": "Платити сада",
+  "hotel_hand_note_info_book_room": "Информације о резервацији",
+  "hotel_hand_note_code_book_room": "Број резервација:",
+  "hotel_hand_note_checking": "Пријавити",
+  "hotel_hand_note_checkout": "Проверити",
+  "hotel_hand_note_detail": "Приказ детаља",
+  "hotel_hand_note_kind_room": "Врста собе",
+  "hotel_hand_note_quantity": "Количина",
+  "hotel_hand_note_room": "соба",
+  "hotel_hand_note_visited": "Гост",
+  "hotel_hand_note_adult": "одрасла особа",
+  "hotel_hand_note_children": "деца",
+  "hotel_hand_note_number_nights": "Број ноћења",
+  "hotel_hand_note_night": "ноћ",
+  "hotel_hand_note_status_payment": "Статус плаћање",
+  "hotel_hand_note_cancel_order": "Откажите наруџбу",
+  "hotel_hand_note_info_refund": "Поврат информације",
+  "hotel_hand_note_rate_experience": "Прегледајте своје искуство на",
+  "hotel_hand_note_rate": "Преглед",
+  "hotel_hand_note_see_rate": "Погледајте рецензије",
+  "hotel_hand_note_rate_overall_rating": "Ваша укупна рецензија о хотелу",
+  "hotel_hand_note_rate_average": "Просек",
+  "hotel_hand_note_position": "Локација",
+  "hotel_hand_note_price": "Цена",
+  "hotel_hand_note_clean": "Чистоћа",
+  "hotel_hand_note_serve": "Услуга",
+  "hotel_hand_note_material_facilities": "Објекти",
+  "hotel_hand_note_review": "Молимо вас да поделите своја осећања и критике.",
+  "hotel_hand_note_review_limit": "Рецензија треба да има најмање 2 знака.",
+  "hotel_hand_note_cancel": "Поништити, отказати",
+  "hotel_hand_note_submit_review": "Пошаљи коментар",
+  "hotel_hand_note_room_rates": "Цена собе",
+  "hotel_hand_note_extra_bed": "Помоћни лежај",
+  "hotel_hand_note_service_charge": "Такса услуге",
+  "hotel_hand_note_payment_fees": "Накнада за плаћање",
+  "hotel_hand_note_promotion": "Промоција",
+  "hotel_hand_note_voucher": "Код купона",
+  "hotel_hand_note_use_coins": "Користите новчиће",
+  "hotel_hand_note_rates_include": "Инцлусиве прице",
+  "hotel_hand_note_see_review_title": "Погледајте своју рецензију о '{а}'",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Рецензирано '{а}'",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Хвала вам на рецензији",
+  "hotel_hand_note_use_point": "Користите поене",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Бесплатно отказивање пре {x}..",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Локално време)",
+  "hotel_hand_note_hotel_apartment": "Стан",
+  "hotel_hand_note_hostel": "Хостел",
+  "hotel_hand_note_hotel": "Хотел",
+  "hotel_hand_note_resort": "Ресорт",
+  "hotel_hand_note_other": "Остало",
+  "hotel_hand_note_motel": "Мотел",
+  "hotel_hand_note_villa": "Вилла",
+  "hotel_hand_note_vacation_home": "Кућа за одмор",
+  "hotel_hand_note_homestay": "Хоместаи",
+  "hotel_hand_note_farmstay": "Сеоски боравак",
+  "hotel_hand_note_condotel": "Цондотел",
+  "hotel_hand_note_cruise_ship": "Крстарење",
+  "hotel_hand_note_boathouse": "Брод",
+  "hotel_hand_note_countryhouse": "Летњиковац",
+  "hotel_hand_note_campground": "Камп",
+  "hotel_hand_note_camper": "Кућа на точковима",
+  "hotel_hand_note_lodge": "Лодге",
+  "hotel_hand_note_guesthouse": "Кућа за госте",
+  "hotel_hand_note_cancel_hotel": "Отказивање",
+  "hotel_update_price": "Ажурирање цена",
+  "hotel_distance_x_from_center": "{distance}{x} од центра",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} од локације претраге",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Попуст од {x}. по ноћењу када гости бораве између {y}-{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Број соба и гостију",
+  "hotel_add_room_children": "Деца",
+  "hotel_add_room_age_upto": "(узраст 0 - 17)",
+  "hotel_add_room_child": "дете",
+  "hotel_add_room_age": "старости",
+  "hotel_add_room_cancel": "Поништити, отказати",
+  "hotel_add_room_choose_age": "Изаберите узраст",
+  "hotel_add_room_done": "Готово",
+  "hotel_add_room_room": "Соба",
+  "hotel_add_room_adult": "Адулт",
+  "hotel_add_room_adults": "Одрасли",
+  "hotel_add_room_age_children": "Дјечије доба",
+  "hotel_add_room_age_child": "Дјечије доба",
+  "hotel_add_room_condition": "Број соба и гостију по соби не сме бити већи од 9.",
+  "hotel_add_room_note": "Белешка",
+  "hotel_add_room_save": "сачувати",
+  "hotel_cart_child": "дете",
+  "hotel_cart_children": "Деца",
+  "hotel_cart_delete": "Избриши",
+  "hotel_cart_change": "Промена",
+  "hotel_cart_book_room": "Соба за књиге",
+  "hotel_cart_night": "ноћ",
+  "hotel_cart_title_included_texas_fee": "Укључујући порезе и накнаде",
+  "hotel_cart_temporary_price": "Међузбир",
+  "hotel_cart_delete_order": "Избриши налог",
+  "hotel_screen_cart_delete_order_confirm": "Да ли желите да избришете ову наруџбу?",
+  "hotel_order_detail_info_hotel": "Информације о резервацији",
+  "hotel_order_detail_done": "Готово",
+  "hotel_order_detail_detail": "Приказ детаља",
+  "hotel_order_detail_book_new": "Резервишите нову собу",
+  "hotel_order_detail_success": "Резервација је успела",
+  "hotel_order_detail_requests_success": "Ваш захтев за резервацију је успешно послат",
+  "hotel_order_detail_paid": "(Плаћено).",
+  "hotel_order_detail_reservation": "Можете проверити детаље резервације испод.",
+  "hotel_order_detail_thank": "Хвала вам на поверењу у услуге",
+  "hotel_order_detail_support": "Ако имате било каквих питања или вам је потребна додатна помоћ, контактирајте Hahalolo центар за помоћ",
+  "hotel_order_detail_instructions": "за упутства.",
+  "hotel_order_detail_info_rest": "Информације о имовини",
+  "hotel_order_detail_hotel": "Хотел",
+  "hotel_order_detail_type": "Врста собе",
+  "hotel_order_detail_check_in": "Пријавити",
+  "hotel_order_detail_check_out": "Проверити",
+  "hotel_order_detail_visited": "Број гостију",
+  "hotel_order_detail_adult": "одрасла особа",
+  "hotel_order_detail_children": "деца",
+  "hotel_order_detail_baby": "беба (испод 1 године)",
+  "hotel_order_detail_contact": "Контакт информације",
+  "hotel_order_detail_lastname": "Пуно име",
+  "hotel_order_detail_tel_number": "Број телефона",
+  "hotel_order_detail_nationality": "националност",
+  "hotel_order_detail_note": "Белешка",
+  "hotel_order_detail_guests": "Информације о гостима",
+  "hotel_order_detail_trade": "Информације о трансакцији",
+  "hotel_order_detail_order_form": "Ред",
+  "hotel_order_detail_payment": "Плаћање износ",
+  "hotel_order_detail_bed_type": "Тип кревета",
+  "hotel_order_detail_extra_bed": "Помоћни лежај",
+  "hotel_order_detail_bed": "кревет",
+  "hotel_order_detail_reservation_code": "Број резервација",
+  "hotel_order_detail_payer": "Платилац",
+  "hotel_search_code_total_price": "Укупна цена",
+  "hotel_search_code_voucher": "Код купона",
+  "hotel_search_code_use_coin": "Користите новчиће",
+  "hotel_search_code_use_point": "Користите поене",
+  "hotel_search_code_total_pay": "Укупан износ",
+  "hotel_search_code_detail_pay": "Подаци о плаћању",
+  "hotel_hand_note_hotel_policy_check_out": "– Одјава пре {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "– Пријављивање после {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Политика отказивања",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Временски рокови бесплатног отказивања су засновани на временској зони објекта и наведени су у политици отказивања објекта.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} к соба, {night} к ноћ",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Порези и таксе",
+  "hotel_hand_note_detail_total_amount": "Укупан износ",
+  "hotel_hand_note_detail_success": "Успешан",
+  "hotel_hand_note_detail_failed": "Није успео",
+  "hotel_hand_note_detail_postpaid": "Постпаид",
+  "hotel_hand_note_detail_prepaid": "Препаид",
+  "hotel_hand_note_detail_operation_history": "Историја активности",
+  "hotel_hand_note_detail_order_cancel_info": "Информације о отказивању поруџбине",
+  "hotel_hand_note_detail_order_total_order": "Укупно наруџбине",
+  "hotel_hand_note_detail_total_money": "Укупан износ уплаћен",
+  "hotel_hand_note_detail_coin": "кованице",
+  "hotel_hand_note_detail_fee_cancel": "Накнада за отказивање",
+  "hotel_hand_note_detail_refund_amount": "Процењени износ рефундирања",
+  "hotel_hand_note_detail_coin_refund_amount": "Процењени новчићи за повраћај новца",
+  "hotel_hand_note_detail_payment_info": "Информације о плаћању",
+  "hotel_hand_note_detail_customer_service": "Код купона се не враћа. Молимо контактирајте наш центар за корисничку подршку ради враћања кода купона.",
+  "hotel_hand_note_detail_note_refund": "Време повраћаја (од датума отказивања): 5 до 7 дана (за Алепаи и Паиме платне пролазе) или 7 до 15 дана (за Стрипе платни пролаз).",
+  "hotel_hand_note_detail_reason_cancel": "Разлози за отказивање",
+  "hotel_hand_note_detail_checking_out": "Време пријаве и одјаве",
+  "hotel_hand_note_detail_check_in_after": "Цхецк-ин после",
+  "hotel_hand_note_detail_check_out_before": "Одјава пре",
+  "hotel_hand_note_detail_person_day": "особа/дан",
+  "hotel_hand_note_detail_free": "Бесплатно.",
+  "hotel_hand_note_detail_day": "/дан",
+  "hotel_hand_note_detail_note_hotel": "Временски рокови бесплатног отказивања су засновани на временској зони објекта и наведени су у политици отказивања објекта.",
+  "hotel_hand_note_detail_room_service": "Собне услуге",
+  "hotel_hand_note_detail_facilities_service": "Садржаји и услуге у собама",
+  "hotel_hand_note_detail_person_contact": "Контакт особа",
+  "hotel_hand_note_detail_telephone_num": "Број телефона",
+  "hotel_hand_note_detail_email": "Емаил",
+  "hotel_hand_note_detail_nationality": "националност",
+  "hotel_hand_note_detail_address": "Адреса",
+  "hotel_hand_note_detail_paid": "Плаћени износ",
+  "hotel_hand_note_detail_rest": "Неплаћени износ",
+  "hotel_hand_note_detail_payment_methods": "Начин плаћања",
+  "hotel_hand_note_detail_check_in_info": "Информације о пријави",
+  "hotel_hand_note_detail_guest_name": "Име госта",
+  "hotel_hand_note_detail_policy_cancel": "Отказивање направљено раније",
+  "hotel_hand_note_detail_hour": "{hour} сати",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} минута",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":биће враћено",
+  "hotel_hand_note_detail_price_room": "цене собе за",
+  "hotel_hand_note_detail_one_night": "прве ноћи.",
+  "hotel_hand_note_detail_all_night": "целе ноћи.",
+  "hotel_hand_note_detail_policy": "Политика отказивања",
+  "hotel_hand_note_detail_children_note": "Дозвољена су деца узраста од {age}.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Кућни љубимци су дозвољени. Накнада за кућне љубимце: {fee} (накнада за кућне љубимце се плаћа у смештају).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Деца",
+  "hotel_hand_note_detail_pet": "Кућни љубимци",
+  "hotel_hand_note_detail_total_room_rate": "Укупна цена собе",
+  "hotel_hand_note_detail_total_room_order": "Бр. соба",
+  "hotel_hand_note_detail_room_information": "Информације о соби",
+  "hotel_hand_note_detail_person_x": "{x} људи",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Комуналне услуге, собне услуге",
+  "hotel_hand_note_detail_waiting_service": "Очекујем Испуњење",
+  "hotel_hand_note_detail_in_service": "У току, сталан",
+  "hotel_hand_note_detail_completed": "Завршено",
+  "hotel_hand_note_detail_waiting_cancellation": "Чека се отказивање",
+  "hotel_hand_note_detail_canceled": "Отказано",
+  "hotel_hand_note_detail_awaiting_confirmation": "Чека потврда",
+  "hotel_hand_note_detail_not_refund": "Нећете добити повраћај новца или уплаћени износ након отказивања",
+  "hotel_hand_note_detail_other_required": "Други захтев",
+  "hotel_hand_note_detail_point_refund_amount": "Процењени поени за рефундирање",
+  "hotel_input_title_start_date": "Датум пријаве",
+  "hotel_input_title_end_date": "Датум одјаве",
+  "hotel_input_title_choose_date": "Изаберите датум",
+  "hotel_input_title_choose": "Изаберите",
+  "hotel_hand_note_price_detail_payment_type": "Облик плаћања",
+  "hotel_hand_note_price_detail_payment_date": "Датум исплате",
+  "hotel_hand_note_price_detail_price": "Погледајте детаље о цени",
+  "hotel_hand_note_price_detail_title": "Детаљи о цени",
+  "hotel_hand_note_price_detail_contact_info": "Информације о контакту",
+  "hotel_hand_note_utilities_title": "Садржаји",
+  "hotel_hand_note_services_title": "Услуге",
+  "hotel_hand_note_search_required_code": "Број резервације је обавезан.",
+  "cart_screen_main_hotel_title": "Хотел",
+  "cart_screen_main_hotel_title_1": "Хотел (1)",
+  "hotel_cancel_hotel": "Отказивање",
+  "hotel_search_this_area ": "Потражите ову област",
+  "hotel_where": "Где желиш да останеш?",
+  "hotel_people": "{y} соба - {x} гостију",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Соба",
+  "hotel_hand_note_item_view_booking_code_title": "Број резервација",
+  "hotel_hand_note_title_hotel_order": "Налози за резервацију хотела",
+  "hotel_order_detail_view_information_order": "Информације за наруџбу",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Где желиш да останеш?",
+  "search_city_no_result": "Нису пронађене одговарајуће локације...",
+  "search_city_choose_the_city": "Тражите хотеле",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Изаберите хотел",
+  "advanced_search_any_review": "Било који",
+  "advanced_search_star_rating": "Звјездице",
+  "advanced_search_any_star": "Унратед",
+  "advanced_search_a_star": "1 звездица",
+  "advanced_search_x_star": "{x} звездица",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Тип некретнине",
+  "advanced_search_reset_button": "Ресетовање",
+  "advanced_search_search_button": "Претрага",
+  "advanced_search_evaluation_point": "Оцена оцене",
+  "advanced_search_no_city_error": "Није изабрано својство",
+  "advanced_search_title": "Напредна претрага",
+  "advanced_search_clear": "Јасно",
+  "advanced_search_no_date_error": "Није изабран датум",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Прикажи листу",
+  "hotel_not_found": "Нема пронађених хотела!",
+  "hotel_search_near_by": "У близини",
+  "advanced_search_less_x_unit": "Под {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Од {x}{unit} и више",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Од {x}{unit} до испод {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Удаљеност од центра",
+  "hotel_booking_do_you_want_to_remove_a_user": "Да ли заиста желите да уклоните {user} са листе?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Доплата",
+  "hotel_map_filter": "Сортирај по",
+  "hotel_map_default": "Уобичајено",
+  "hotel_map_high_star": "Оцена у звездицама: висока до ниска",
+  "hotel_map_low_star": "Оцена звездицама: од ниске до високе",
+  "hotel_map_distance_center": "Удаљеност од центра",
+  "hotel_map_high_rate": "Најбоље оцењен",	
+  "hotel_map_high_order": "Највише резервисано",	
+  "hotel_hand_note_reply": "Одговор имовине",
+  "hotel_booking_payment_3011_error": "Картица је одбијена. Покушајте са другом картицом или контактирајте издаваоца картице за помоћ!",
+  "hotel_hand_note_utilities_title_room": "САДРЖАЈИ СОБЕ",
+
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Сви сте ухваћени!",
+  "halo_error_wifi_error": "ВиФи грешка",
+  "halo_error_something_wrong": "Упс!\nНешто није у реду, покушајте поново",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

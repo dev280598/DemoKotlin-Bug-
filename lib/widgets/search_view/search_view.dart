@@ -1,0 +1,1 @@
+export 'widgets/anim_search_app_bar_view.dart';

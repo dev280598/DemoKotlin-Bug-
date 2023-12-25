@@ -1,0 +1,3309 @@
+{
+  "@@locale": "my",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "ထပ်ကြိုးစားပါ",
+  "common_see_more": "ပိုကြည့်",
+  "common_see_less": "လျှော့ကြည့်ပါ။",
+  "common_search_hint": "ရှာဖွေပါ…",
+  "common_loading": "ဖွင့်နေသည်…",
+  "common_retry": "ပြန်ကြိုးစားပါ။",
+  "common_cancel": "မလုပ်တော့",
+  "common_ok": "အဆင်ပြေလား",
+  "common_save": "သိမ်းဆည်းပါ။",
+  "common_decline": "ငြင်းသည်။",
+  "common_done": "ပြီးပြီ။",
+  "common_confirm": "အတည်ပြုပါ။",
+  "common_close": "ပိတ်လိုက်",
+  "common_continue": "ဆက်လက်",
+  "common_detail": "အသေးစိတ်",
+  "common_enter_discount_code": "ကူပွန်ကုဒ်ကို ထည့်ပါ။",
+  "common_use_payment_or_contact_info": "ငွေပေးသူ၏ သို့မဟုတ် အဆက်အသွယ်၏ အချက်အလက်ကို အသုံးပြုပါ။",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "အချိန်ရွေးချယ်မှု",
+  "car_input_title_pick_up_place": "လာယူမည့်နေရာကို ဝင်ပါ။",
+  "car_input_title_pick_up_location": "လာယူမည့်နေရာ",
+  "car_title_return_to_different_location": "မတူညီသော တည်နေရာသို့ ပြန်သွားရန်",
+  "car_input_title_start_time": "စတင်ချိန်",
+  "car_input_title_end_time": "ကုန်ဆုံးချိန်",
+  "car_input_title_start_date": "စတင်သည့်ရက်စွဲ",
+  "car_input_title_end_date": "ကုန်ဆုံးရက်",
+  "car_input_title_enter_drop_off_place": "ဆင်းမည့်နေရာကိုဝင်ပါ။",
+  "car_input_title_enter_drop_off_location": "ဆင်းမည့်နေရာ",
+  "car_title_advanced_search": "အဆင့်မြင့်ရှာဖွေမှု",
+  "car_title_look_up_booking_number": "ဘွတ်ကင်နံပါတ်ကိုရှာပါ။",
+  "car_header_title_look_up_booking_number": "သင်၏ဘွတ်ကင်အချက်အလက်ကိုရှာဖွေရန် ဘွတ်ကင်နံပါတ် သို့မဟုတ် မှာယူမှုကုဒ်ကို ထည့်ပါ။",
+  "car_title_search": "ရှာရန်",
+  "car_notice_empty_pick_up_location": "လာယူမည့်နေရာကို ရွေးပြီး ရှာဖွေရန် စတင်မည့်ရက်စွဲကို ရွေးချယ်ပါ။",
+  "car_title_ascending_price": "စျေးတက်သည်။",
+  "car_title_descending_price": "ကျဆင်းနေသောစျေးနှုန်း",
+  "car_title_car_type": "ကားအမျိုးအစား",
+  "car_title_transmission": "ကူးစက်ခြင်း",
+  "car_title_segment": "အပိုင်း",
+  "car_title_fuel_type": "လောင်စာအမျိုးအစား",
+  "car_title_supplier": "ပေးသွင်းသည်။",
+  "car_title_price": "စျေးနှုန်း",
+  "car_title_view_on_map": "မြေပုံပေါ်တွင်ကြည့်ပါ။",
+  "car_title_deals": "အပေးအယူ",
+  "car_title_seats": "ထိုင်ခုံ",
+  "car_title_filter_by": "အလိုက် စစ်ထုတ်ပါ။",
+  "car_title_un_filter": "စစ်ထုတ်ခြင်း",
+  "car_title_choose_this_car": "ဒီကားကို ရွေးပါ။",
+  "car_title_rental_terms": "အငှားစည်းကမ်းများ",
+  "car_title_search_location": "တည်နေရာကို ရှာဖွေပါ။",
+  "car_title_select_btn": "ရွေးချယ်ပါ။",
+  "car_title_select_date": "ရက်စွဲကို ရွေးပါ။",
+  "car_title_select_time": "အချိန်ရွေးပါ။",
+  "car_title_reset_btn": "ပြန်လည်သတ်မှတ်ပါ။",
+  "car_title_location_type": "တည်နေရာအမျိုးအစား",
+  "car_title_number_of_seats": "ထိုင်ခုံအရေအတွက်",
+  "car_title_days": "နေ့ရက်များ",
+  "car_title_unlimited_mileage": "အကန့်အသတ်မရှိ ခရီးအကွာအဝေး",
+  "car_title_instant_confirmation": "လက်ငင်းအတည်ပြုချက်",
+  "car_title_time_pick_up": "လာယူမည့်ရက်",
+  "car_title_time_drop_off": "ထွက်ခွာမည့်ရက်စွဲ",
+  "car_title_air_conditioning": "လေအေးပေးစနစ်",
+  "car_title_number_of_bag": "ခရီးဆောင်အိတ်အရေအတွက်",
+  "car_hand_note_title_booking_order_code": "အမိန့်ကုဒ်",
+  "car_hand_note_title_booking_code": "ဘွတ်ကင်နံပါတ်",
+  "car_hand_note_title_total_rental_car": "စုစုပေါင်းငှားရမ်းရက်",
+  "car_hand_note_title_status_order": "အော်ဒါအနေအထား",
+  "car_hand_note_title_total_price": "စုစုပေါင်းပေးချေမှု",
+  "car_hand_note_title_status_payment": "ငွေပေးချေမှုအခြေအနေ",
+  "car_hand_note_title_reason_cancel": "ပယ်ဖျက်ရခြင်း အကြောင်းအရင်း",
+  "car_hand_note_title_view_details_btn": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "car_hand_note_notice_cancel_order": "ဖျက်သိမ်းလိုက်သော မှာယူမှု၏ ပြန်အမ်းငွေပမာဏ (ရှိလျှင်) ကို ပေးသွင်းသူမှ သတ်မှတ်ထားသည့် အချိန်အတွင်း ဝယ်ယူသူ၏ဘဏ်အကောင့်သို့ လွှဲပြောင်းပေးမည်ဖြစ်သည်။",
+  "car_hand_note_title_tab_all": "အားလုံး",
+  "car_hand_note_title_tab_awaiting_fulfillment": "ပြည့်စုံမှုကို စောင့်မျှော်နေပါတယ်။",
+  "car_hand_note_title_tab_ongoing": "လုပ်ဆောင်ဆဲ",
+  "car_hand_note_title_tab_completed": "ပြီးသွားပြီ",
+  "car_hand_note_title_tab_canceled": "ဖျက်သိမ်းလိုက်သည်။",
+  "car_hand_note_title_order_manager": "အမိန့်စီမံခန့်ခွဲမှု",
+  "car_hand_note_title_create_date": "ဖန်တီးသည့်ရက်စွဲ",
+  "car_hand_note_title_view_more_btn": "ပိုမိုကြည့်ရှုပါ။",
+  "car_hand_note_title_status_order_completed": "ပြီးသွားပြီ",
+  "car_hand_note_title_status_payment_successful": "အောင်မြင်တယ်။",
+  "car_hand_note_title_details_order": "အော်ဒါအသေးစိတ်",
+  "car_hand_note_title_contact_info": "ဆက်သွယ်ရန်အသေးစိတ်အချက်အလက်များ",
+  "car_hand_note_title_info_rental_car": "ဘွတ်ကင်အချက်အလက်",
+  "car_hand_note_title_driver_info": "ယာဉ်မောင်းအသေးစိတ်",
+  "car_hand_note_title_pirce_details": "စျေးနှုန်းအသေးစိတ်",
+  "car_hand_note_title_creator": "မှဖန်တီးသည်",
+  "car_hand_note_title_person_contact": "ဆက်သွယ်ရမည့်သူ",
+  "car_hand_note_title_phone": "ဖုန်းနံပါတ်",
+  "car_hand_note_title_email": "အီးမေးလ်",
+  "car_hand_note_title_country": "တိုင်းပြည်",
+  "car_hand_note_title_address": "လိပ်စာ",
+  "car_hand_note_title_price_of_car_rental": "ကားအငှားစျေးနှုန်း",
+  "car_hand_note_title_price_payment_fee": "အခကြေးငွေ",
+  "car_hand_note_title_info_extra_services": "အပိုဝန်ဆောင်မှုများ",
+  "car_hand_note_title_type_insurance": "အာမခံအမျိုးအစား",
+  "car_hand_note_title_info_insurance": "အာမခံအချက်အလက်",
+  "car_hand_note_title_car_info": "ကားအသေးစိတ်",
+  "car_search_result_not_found_title": "ဝမ်းနည်းပါသည်၊ သင်ရှာဖွေနေသော ယာဉ်ကို ရှာမတွေ့ပါ။",
+  "car_search_result_not_found_sub_title": "သင့်တောင်းဆိုချက်အတွက် သင့်လျော်သောကိုက်ညီမှုကို ကျွန်ုပ်တို့ ရှာမတွေ့ပါ။\nကျေးဇူးပြုပြီး ထပ်ကြိုးစားပါ။",
+  "car_search_result_first_title_rental_car": "ကားအငှား",
+  "car_detail_btn_rent_now": "အခုပဲ ကြိုတင်မှာယူလိုက်ပါ။",
+  "car_notice_title_check_connection": "သင့်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "car_rent_input_title_details": "အသေးစိတ်",
+  "car_rent_input_title_total_payment": "စုစုပေါင်းပေးချေမှု",
+  "car_rent_input_title_payment": "ပေးဆပ်ပါ။",
+  "car_rent_form_input_last_name": "နောက်ဆုံးအမည် (သံစဉ်အမှတ်အသားမပါ)",
+  "car_rent_form_input_first_name": "အလယ်နှင့် ပထမ/အမည်ပေး (သံစဉ်အမှတ်အသားမပါ)",
+  "car_rent_input_content_cb_use_contact_details": "အဆက်အသွယ်၏အသေးစိတ်အချက်အလက်များကို အသုံးပြုပါ။",
+  "car_rent_input_title_method_payment": "ပေးဆပ်ပါ။",
+  "car_rent_input_title_method_pay": "ငွေပေးချေမှု ရွေးချယ်မှု",
+  "car_rent_input_title_late_payment": "နောက်မှပေးချေပါ။",
+  "car_rent_input_title_now_payment": "ယခုပေးချေပါ။",
+  "car_rent_input_title_information_card": "ကတ်အသေးစိတ်",
+  "car_rent_input_title_driver_age": "ယာဉ်မောင်းအသက်",
+  "car_rent_input_title_Do_you_need_anything_else": "တခြားဘာလိုသေးလဲ။",
+  "car_rent_input_title_accept_policy": "နောက်တစ်ဆင့်ကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ ကျွန်ုပ်သည် Hahalolo ၏စည်းမျဥ်းစည်းကမ်းများ - မူဝါဒများနှင့် ကိုယ်ရေးကိုယ်တာမူဝါဒကို ဖတ်ပြီး သဘောတူကြောင်း အတည်ပြုပါသည်။",
+  "car_rent_input_title_card_must_be_valid": "ပေးသွင်းသူနှင့် ငှားရမ်းခြင်းအား အာမခံရန် သင့်ကတ်သည် တရားဝင်ရပါမည်။",
+  "car_rent_input_title_accept_card_pay": "လက်ခံထားသော ငွေပေးချေကတ်များ",
+  "car_rent_input_title_content_notice_later_pay": "ကားတင်သွင်းသူသည် သင့်ငွေပေးချေမှုကို ဆောင်ရွက်ပေးပါမည်။ ကြိုတင်စာရင်းသွင်းမှု အခြေအနေများပေါ်မူတည်၍ အပြည့်အဝ သို့မဟုတ် တစ်စိတ်တစ်ပိုင်း ပေးချေနိုင်ပါသည်။",
+  "car_rent_input_title_select_type_card": "Credit Card အမျိုးအစားကို ရွေးပါ။",
+  "car_rent_input_title_number_card": "ကတ်နံပါတ်",
+  "car_rent_input_title_enter_number_card": "ကတ်နံပါတ်ထည့်ပါ။",
+  "car_rent_input_title_name_card": "ကဒ်ပြားကိုင်ဆောင်သူအမည်",
+  "car_rent_input_title_enter_name_card": "ကတ်ကိုင်ဆောင်သူအမည်ကို ထည့်သွင်းပါ။",
+  "car_rent_input_title_select_expiry_date": "သက်တမ်းကုန်ဆုံးရက်ကို ရွေးပါ။",
+  "car_rent_input_title_expiry_date": "သက်တမ်းကုန်ဆုံးရက်",
+  "car_rent_input_title_gate_ways": "ငွေပေးချေမှုတံခါးပေါက်",
+  "car_rent_input_title_ccv_code": "CVC ကုဒ်",
+  "car_rent_input_title_enter_ccv_code": "CVC ကုဒ်ထည့်ပါ။",
+  "car_rent_input_title_first_notice_need_anything_else": "ဤဝန်ဆောင်မှုများကို သင်စိတ်ဝင်စားကြောင်း ပေးသွင်းသူကို ကျွန်ုပ်တို့ အကြောင်းကြားမည်ဖြစ်သောကြောင့် အသေးစိတ်အချက်အလက်များကို ၎င်းတို့က သင့်အား ပေးဆောင်နိုင်ပါသည်။\n\n သင့်တောင်းဆိုချက်ကို အာမခံ၍မရနိုင်ပါ။ စိတ်မပူပါနဲ့။ ပေးသွင်းသူသည် သင့်လိုအပ်ချက်များကို ဖြည့်ဆည်းပေးရန် ကြိုးစားမည်ဖြစ်သည်။",
+  "car_rent_input_title_sub_notice_need_anything_else": "သင်၏တောင်းဆိုမှုကို အာမခံ၍မရနိုင်ပါ။ စိတ်မပူပါနဲ့။ ပေးသွင်းသူသည် သင့်လိုအပ်ချက်များကို ဖြည့်ဆည်းပေးရန် ကြိုးစားမည်ဖြစ်သည်။",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "အများဆုံး 55 လုံးထည့်ပါ။",
+  "car_rent_input_noti_invalid_last_name": "နောက်ဆုံးအမည် မမှန်ကန်ပါ။",
+  "car_rent_input_noti_invalid_first_name": "အလယ်တန်းနှင့် ပထမ/အမည် မမှန်ကန်ပါ။",
+  "car_rent_input_noti_required_last_name": "နောက်ဆုံးအမည် လိုအပ်ပါသည်။",
+  "car_rent_input_noti_required_first_name": "အလယ်နှင့် ပထမ/အမည်ပေးရန်လိုအပ်သည်။",
+  "car_rent_input_noti_invalid_email": "မမှန်ကန်သောအီးမေးလ်",
+  "car_rent_input_noti_invalid_phone": "ဖုန်းနံပါတ် မမှန်ကန်ပါ။",
+  "car_rent_input_noti_required_email": "အီးမေးလ် လိုအပ်သည်။",
+  "car_rent_input_noti_required_phone": "ဖုန်းနံပါတ် လိုအပ်ပါသည်။",
+  "car_rent_input_noti_requried_address": "လိပ်စာ လိုအပ်ပါသည်။",
+  "car_rent_input_noti_requried_country": "နိုင်ငံအတွက် လိုအပ်ပါသည်။",
+  "car_rent_input_noti_requried_number_card": "ကတ်နံပါတ် လိုအပ်ပါသည်။",
+  "car_rent_input_noti_requried_card_holder_name": "ကတ်ကိုင်ဆောင်သူအမည် လိုအပ်ပါသည်။",
+  "car_rent_input_noti_requried_type_card": "ခရက်ဒစ်ကတ် လိုအပ်သည်။",
+  "car_rent_input_noti_requried_expiry": "သက်တမ်းကုန်ဆုံးရက် လိုအပ်ပါသည်။",
+  "car_rent_input_title_type_card_credit": "အကြွေးဝယ်ကတ် အမျိုးအစား",
+  "car_rent_input_title_currency_at_rental_car_place": "လာယူမည့်နေရာရှိ ငွေကြေး",
+  "car_rent_input_title_rule_age": "ခေတ်စည်းကမ်း",
+  "car_rent_input_notice_term_and_policy_first_string": "နောက်တစ်ဆင့်ကို ဆက်လုပ်ခြင်းဖြင့်၊ ကျွန်ုပ်သည် Hahalolo ကို ဖတ်ပြီး သဘောတူကြောင်း အတည်ပြုပါသည်။",
+  "car_rent_input_notice_term_and_policy_append__string": "စည်းမျဥ်းများ - မူဝါဒများ",
+  "car_rent_input_notice_term_and_policy_between_string": "နှင့်",
+  "car_rent_input_notice_term_and_policy_append___string": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "ကောက်ကိုင်လိုက်သည်",
+  "car_cart_title_drop_off": "ဆင်းပါ။",
+  "car_cart_title_included_texas_fee": "အခွန်နှင့် အခကြေးငွေများ ပါဝင်ပါသည်။",
+  "car_cart_title_btn_delete": "ဖျက်ပါ။",
+  "car_cart_title_btn_edit": "သင်၏ရွေးချယ်မှုကို ပြောင်းလဲပါ။",
+  "car_cart_title_sub_total": "စုစုပေါင်း",
+  "car_cart_title_car_types": "ကားအမျိုးအစား",
+  "car_title_select_country": "နိုင်ငံကိုရွေးချယ်ပါ။",
+  "car_title_car_cart": "ကားဘွတ်ကင်လုပ်ခြင်း။",
+  "car_feed_input_hint_pick_up_place": "သင်၏ လာယူမည့်နေရာ",
+  "car_feed_input_hint_drop_off_place": "သင်၏ ဆင်းသက်ရာနေရာ",
+  "car_feed_notice_empty_location_pick_up": "ရှာဖွေရန် လာယူမည့်နေရာကို ရွေးပါ။",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "ထွက်ခွာမည့်နေရာကို ထည့်သွင်းပါ။",
+  "notify_error_occurred": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်မံစစ်ဆေးပါ။",
+  "car_hand_note_detail_order_full_name": "နာမည်အပြည့်အစုံ",
+  "car_hand_note_detail_order_promotion": "ပရိုမိုးရှင်း",
+  "car_hand_note_detail_order_act_history": "လှုပ်ရှားမှုမှတ်တမ်း",
+  "car_hand_note_detail_order_request_other": "အခြားတောင်းဆိုမှုများ",
+  "car_hand_note_detail_order_order_payment": "ငွေပေးချေမှုအမိန့်",
+  "car_hand_note_detail_order_cancel_info": "အမှာစာပယ်ဖျက်ခြင်းအချက်အလက်",
+  "car_hand_note_detail_order_payment_info": "ငွေပေးချေမှုအချက်အလက်",
+  "car_hand_note_detail_order_paid": "အခကြေးငွေ",
+  "car_hand_note_detail_order_unpaid": "အခကြေးငွေမယူရသေး",
+  "car_hand_note_title_days_ago": "လွန်ခဲ့သောရက်များ",
+  "car_hand_note_detail_order_cancel_fee": "ဖျက်သိမ်းကြေး",
+  "car_hand_note_detail_order_amount_ongoing_return": "ခန့်မှန်းခြေ ပြန်အမ်းငွေပမာဏ",
+  "car_hand_note_detail_order_time_ongoing_return": "ပြန်အမ်းငွေ ခန့်မှန်းချိန်",
+  "car_hand_note_detail_order_info_transaction": "ငွေပေးငွေယူအချက်အလက်",
+  "car_hand_note_detail_order_amount_payment": "စုစုပေါင်းတန်ဘိုး",
+  "car_hand_note_detail_order_total_order": "အော်ဒါစုစုပေါင်း",
+  "car_hand_note_detail_content_define_vat": "VAT သည် ကားအငှားဝန်ဆောင်မှုကို အသုံးပြုသည့်အခါ ကားပေးသွင်းသူအား ၎င်းတို့၏ စည်းမျဉ်းများအောက်တွင် ပေးဆောင်ရန် လိုအပ်သော အခွန်နှင့် အခကြေးငွေဖြစ်သည်။",
+  "car_title_search_result_first_character": "ကားအငှား",
+  "car_title_tool_bar_pick_up_location": "ဘယ်မှာယူချင်လဲ",
+  "car_title_tool_bar_drop_off_location": "ဘယ်ကို ဆင်းချင်လဲ။",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "ကားရောင်းချသူအသုံးပြုသည့် လက်ရှိငွေကြေးပေါ်မူတည်၍ ကားအငှားစျေးနှုန်းကို ပြောင်းလဲပါသည်။\nမှတ်ချက်-\n- ငွေလဲနှုန်းမှာ သင်မပေးဆောင်မီတွင် ပြောင်းလဲနိုင်ပါသည်။\n- သင့်ကတ်ထုတ်ပေးသူသည် သင့်အား နိုင်ငံခြားငွေလွှဲခကို ကောက်ခံနိုင်ပါသည်။",
+  "car_hand_note_detail_content_define_payment_fee": "အွန်လိုင်းငွေပေးချေမှု ဂိတ်ဝေးဝန်ဆောင်မှုပေးသူကို ပေးဆောင်ရန် လိုအပ်သော ကားငှားရမ်းမှု တောင်းဆိုမှုတစ်ခုစီနှင့် သက်ဆိုင်သည့် ငွေပေးချေမှုအခကြေးငွေ။",
+  "car_hand_note_detail_content_notice_insurance": "မှတ်ချက်- ဤအာမခံပက်ကေ့ဂျ်များအတွက် လျှောက်ထားလိုပါက၊ ကျေးဇူးပြု၍ ကားရောင်းချသူ၏ ရှေ့ခန်းသို့ တိုက်ရိုက်ဆက်သွယ်ပါ။",
+  "car_hand_note_detail_title_header_insurance": "ကားအာမခံနှင့် အငှားစာချုပ်များစွာသည် အငှားကားပျက်စီးမှု သို့မဟုတ် ခိုးယူမှုနှင့် ဆက်စပ်မှုရှိသော စျေးကြီးသော ချန်လှပ်မှုများအား အကျုံးဝင်ပါသည်။ သို့သော်၊ အောက်ပါအာမခံရှိခြင်းသည် သင့်အား ငွေကြေးပမာဏများစွာဖြင့် ကာကွယ်ပေးပြီး ငွေကြေးပံ့ပိုးမှုကို ပံ့ပိုးပေးမည်ဖြစ်သည်။",
+  "car_result_booking_title_header_rental_car_success": "ကြိုတင်စာရင်းသွင်းခြင်း အောင်မြင်ပါသည်။",
+  "car_result_booking_title_btn_continue_rental_car": "စာအုပ်ကိုဆက်ပါ။",
+  "car_result_booking_title_btn_view_order_details": "မှာယူမှုအသေးစိတ်အား ကြည့်ရှုပါ။",
+  "car_result_booking_title_header_first_char": "သင်၏ ကြိုတင်မှာယူမှု တောင်းဆိုချက်ကို အောင်မြင်စွာ ပြုလုပ်ပြီးပါပြီ။",
+  "car_result_booking_title_header_second_char": "(အခကြေးငွေ)",
+  "car_result_booking_title_header_third_char": ". အောက်ဖော်ပြပါ ကားငှားရမ်းမှုအသေးစိတ်အား ကြည့်ရှုနိုင်ပါသည်။",
+  "car_result_booking_title_header__char": "မင်းရဲ့ယုံကြည်မှုအတွက် ကျေးဇူးတင်ပါတယ်။",
+  "car_result_booking_title_header____char": "ဝန်ဆောင်မှု။ သင့်တွင် မေးခွန်းများ သို့မဟုတ် နောက်ထပ်အကူအညီ လိုအပ်ပါက၊ ကျွန်ုပ်တို့၏ ကူညီရေးဌာနသို့ ဆက်သွယ်ပါ။",
+  "car_result_booking_title_header_____char": "ညွှန်ကြားချက်များအတွက်။",
+  "car_result_booking_title_header______char": ". အောက်ဖော်ပြပါ ကားငှားရမ်းမှုအသေးစိတ်အား ကြည့်ရှုနိုင်ပါသည်။",
+  "car_result_booking_title_order": "အော်",
+  "car_result_booking_title_billing_info": "ငွေပေးချေမှုအချက်အလက်",
+  "car_result_booking_title_time": "အချိန်",
+  "car_result_booking_title_name_car": "ကားနာမည်",
+  "car_picker_time_from_the_date": "ထံမှ",
+  "car_picker_time_to_the_date": "ရန်",
+  "car_picker_time": "အချိန်",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "မြို့/ပြည်နယ်ကို ရွေးပါ။",
+  "car_result_notice_no_data_found": "ဝမ်းနည်းပါသည်၊ ဒေတာမတွေ့ပါ။",
+  "car_result_notice_no_flight_found_description": "သင့်ရှာဖွေမှုနှင့် ကိုက်ညီသော မည်သည့်ရလဒ်ကိုမျှ ကျွန်ုပ်တို့ ရှာမတွေ့ပါ။ ထပ်ရှာပါ။",
+  "car_extra_service": "အောက်ဖော်ပြပါ အပိုဝန်ဆောင်မှုအချို့ကို ကားဝန်ဆောင်မှုပေးသူက သင့်အား ပေးဆောင်နိုင်ပါသည်။ ၎င်းတို့အတွက် လျှောက်ထားလိုပါက၊ ဝန်ဆောင်မှုပေးသူ၏ ရှေ့ခန်းသို့ တိုက်ရိုက် ဆက်သွယ်ပါ။",
+  "car_extra_charges": "ကားတင်သွင်းသူမှ သတ်မှတ်ထားသော အသက်နှစ်အောက် သို့မဟုတ် အသက်ကျော် ယာဉ်မောင်းများအတွက် အပိုကုန်ကျစရိတ်များ အကျုံးဝင်မည်ဖြစ်သည်။",
+  "car_note_driver_age": "မှတ်ချက်- ကားလာယူရန် သင့်ရောက်ရှိချိန်တွင် ဤအခကြေးငွေကို ဧည့်ခံတွင် ကောက်ခံပါမည်။",
+  "car_rental_details": "ကားအငှားအသေးစိတ်",
+  "car_you_dont_have_any_car_rental_orders": "သင့်တွင် ကားအငှားအမှာစာများ မရှိသေးပါ။",
+  "car_search_code_no_information": "ကြိုတင်စာရင်းသွင်းမှု အချက်အလက် မတွေ့ပါ။\nကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "car_input_code_message_empty": "ကျေးဇူးပြု၍ သင်၏ ကြိုတင်စာရင်းသွင်းနံပါတ်ကို ထည့်ပါ။",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "လက်ခံပါတယ်။",
+  "aff_chart_day_ago": "လွန်ခဲ့သော {number}ရက်",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "{from} မှ {to} အထိ",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "ကွတ်ကီးကြာချိန်- {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "ဟိုတယ်",
+  "aff_tour": "ခရီးသွား",
+  "aff_product_name": "ထုတ်ကုန်အမည်",
+  "aff_anonymous_user": "အမည်မသိအသုံးပြုသူ",
+  "aff_unknown": "မသိ",
+  "aff_product_unknown": "အမည်မသိ ထုတ်ကုန်အမျိုးအစား",
+  "aff_share": "မျှဝေပါ။",
+  "aff_fetch_data_failure": "ဒေတာရယူရန် မအောင်မြင်ပါ။",
+  "aff_fetch_data_failure_try_later": "ဒေတာရယူရန် မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_detail": "အသေးစိတ်",
+  "aff_no_data": "ဒေတာမတွေ့ပါ။",
+  "aff_all": "အားလုံး",
+  "aff_country": "တိုင်းပြည်",
+  "aff_summary": "ခြုံငုံသုံးသပ်ချက်",
+  "aff_link_management": "လင့်ခ်စီမံခန့်ခွဲမှု",
+  "aff_promotion_tool": "စျေးကွက်ရှာဖွေရေးကိရိယာများ",
+  "aff_help": "ကူညီပါ",
+  "aff_notification": "အသိပေးချက်များ",
+  "aff_notification_no_data": "သင့်တွင် အကြောင်းကြားချက်များ မရှိပါ။",
+  "aff_revenue": "ဝင်ငွေ",
+  "aff_revenue_total": "စုစုပေါင်းဝင်ငွေ",
+  "aff_customer_id": "ဖောက်သည် ID",
+  "aff_payment_total": "စုစုပေါင်းတန်ဘိုး",
+  "aff_commission_receive": "စုစုပေါင်းကော်မရှင်များလက်ခံရရှိ",
+  "aff_search_by_order": "မှာယူမှုကုဒ်ဖြင့် ရှာဖွေပါ။",
+  "aff_reset": "ပြန်လည်သတ်မှတ်ပါ။",
+  "aff_cancel": "မလုပ်တော့",
+  "aff_save": "သိမ်းဆည်းပါ။",
+  "aff_search": "ရှာရန်",
+  "aff_continue": "ဆက်လက်",
+  "aff_payment_account": "ငွေပေးချေမှုအကောင့်",
+  "aff_profile": "ကိုယ်ရေးအကျဉ်း",
+  "aff_edit_profile": "အချက်အလက်ကို တည်းဖြတ်ပါ။",
+  "aff_affiliate": "Affiliate",
+  "aff_setting": "ဆက်တင်များ",
+  "aff_resend": "ပြန်ပို့ပါ။",
+  "aff_verify_failure": "အတည်ပြုခြင်း မအောင်မြင်ပါ။",
+  "aff_show_code": "ကုဒ်ကိုပြပါ။",
+  "aff_sms_block_forever": "အတည်ပြုခြင်းလုပ်ဆောင်ချက်ကို ယာယီလော့ခ်ချထားသည်။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_sms_wrong_code": "မှန်ကန်ကြောင်း အတည်ပြုကုဒ်။ ထပ်မံစစ်ဆေးပါ။",
+  "aff_sms_expired_code": "အတည်ပြုကုဒ် သက်တမ်းကုန်သွားပါပြီ။ ကျေးဇူးပြု၍ အခြားကုဒ်ကို ရယူပါ။",
+  "aff_sms_verify_failure": "အတည်ပြုခြင်း မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_enter_verify_code": "အတည်ပြုကုဒ်ကို ထည့်ပါ။",
+  "aff_we_send_code_to_phone": "ကျွန်ုပ်တို့သည် {phone} သို့ အတည်ပြုကုဒ်တစ်ခု ပေးပို့ထားပါသည်။\nဤအဆင့်ပြီးမြောက်ရန် သင်လက်ခံရရှိသောကုဒ်ကို ထည့်ပါ။",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "ကုဒ်သည် သက်တမ်းကုန်ဆုံးလိမ့်မည်-",
+  "aff_sms_block": "SMS မှတစ်ဆင့် ကုဒ်ပေးပို့ခြင်းလုပ်ဆောင်ချက်ကို ယာယီလော့ခ်ချထားသည်။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_sms_resend_in": "ကုဒ်ကို ပြန်လည်ပေးပို့ရန် သင်ရွေးချယ်နိုင်သည်-",
+  "aff_account_information": "အကောင့်အချက်အလက်",
+  "aff_account_information_subtitle": "Hahalolo တွင် ဝန်ဆောင်မှုများကို ဆက်လက်အသုံးပြုနိုင်ရန် သင့်ငွေပေးချေမှုအကောင့်တွင် သင့်ဖုန်းနံပါတ်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "aff_account_name": "အကောင့်အမည်",
+  "aff_search_county": "နိုင်ငံကိုရှာပါ။",
+  "aff_wallet_create_failure": "ငွေပေးချေမှုအကောင့်ဖန်တီးမှု မအောင်မြင်ပါ။",
+  "aff_wallet_create_failure_try_again": "ငွေပေးချေမှုအကောင့်ဖန်တီးမှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_information_general": "ယေဘုယျသတင်းအချက်အလက်",
+  "aff_information_unknown": "(အမည်မသိ)",
+  "aff_information_full_name": "နာမည်အပြည့်အစုံ {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "အီးမေးလ် {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "ဖုန်းနံပါတ်  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "မွေးရက် {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "ကျား {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "လိပ်စာ {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "နိုင်ငံ {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "နောက်ထပ်အချက်အလက်",
+  "aff_information_city": "ပြည်နယ်/မြို့ {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "စာတိုက်သင်္ကေတ  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID ကတ်/ပတ်စပို့ {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "သက်တမ်းကုန်ဆုံးရက် {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "IssueX ၏ နိုင်ငံ {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "နိုင်ငံသား {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "မွေးရပ်ဒေသ {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "ဖုန်းကုဒ်",
+  "aff_gender_male": "အထီး",
+  "aff_gender_female": "အပျို",
+  "aff_gender_other": "တခြား",
+  "aff_validate_full_name": "အမည်အပြည့်အစုံသည် အနည်းဆုံး စာလုံး 3 လုံးရှိရမည်။",
+  "aff_validate_email": "မမှန်ကန်သောအီးမေးလ်",
+  "aff_validate_phone": "ဖုန်းနံပါတ် မမှန်ကန်ပါ။",
+  "aff_validate_post_code": "စာတိုက်ကုဒ် မမှန်ကန်ပါ။",
+  "aff_validate_id_code": "ID ကတ်/ပတ်စပို့ မမှန်ကန်ပါ။",
+  "aff_validate_invalid_field": "အချိန်",
+  "aff_validate_phone_existed": "အခြားငွေပေးချေမှုအကောင့်အတွက် ဖုန်းနံပါတ်ကို စာရင်းသွင်းပြီးပါပြီ။",
+  "aff_validate_unknown_country": "အမည်မသိနိုင်ငံ",
+  "aff_date_time": "အချိန်",
+  "aff_date_yesterday": "မနေ့က",
+  "aff_date_today": "ဒီနေ့",
+  "aff_date_unknown": "ရက်စွဲမသိ",
+  "aff_date_month": "လ",
+  "aff_date_day": "နေ့",
+  "aff_date_hour": "နာရီ",
+  "aff_date_minute": "မိနစ်",
+  "aff_date_second": "ဒုတိယ",
+  "aff_date_range": "ရက်စွဲအပိုင်းအခြား",
+  "aff_report": "သတင်းပို့တယ်။",
+  "aff_report_summary": "ခြုံငုံသုံးသပ်ချက် အစီရင်ခံပါ။",
+  "aff_report_click": "နှိပ်ပါ။",
+  "aff_report_click_number": "နှိပ်ပါ။",
+  "aff_report_performance": "စွမ်းဆောင်ရည်",
+  "aff_report_customer": "ဖောက်သည်",
+  "aff_report_payment": "ငွေပေးချေမှု",
+  "aff_report_product_performance": "ထုတ်ကုန်စွမ်းဆောင်ရည်",
+  "aff_report_product_type": "ထုတ်ကုန်အမျိုးအစား",
+  "aff_report_customer_detail": "ဖောက်သည်အသေးစိတ်",
+  "aff_report_commission_by_product": "ပစ္စည်းအလိုက် ကော်မရှင်",
+  "aff_report_customer_total": "ဝယ်ယူသူစုစုပေါင်း",
+  "aff_report_customer_serving": "ဝန်ဆောင်မှုတွင် သုံးစွဲသူစုစုပေါင်း",
+  "aff_report_customer_served": "စုစုပေါင်းဖောက်သည်များ ဆောင်ရွက်ပေးခဲ့သည်။",
+  "aff_report_payment_waiting": "စုစုပေါင်း ကော်မရှင်များ ဆောင်ရွက်နေပါသည်။",
+  "aff_report_payment_pending": "စုစုပေါင်း ဆိုင်းငံ့ထားသော ကော်မရှင်များ",
+  "aff_report_payment_available": "စုစုပေါင်းရနိုင်သောကော်မရှင်များ",
+  "aff_report_payment_status_waiting": "လုပ်ဆောင်နေသည်",
+  "aff_report_payment_status_pending": "ဆိုင်းငံ့ထားသည်။",
+  "aff_report_payment_status_available": "ရရှိနိုင်ပါသည်။",
+  "aff_report_payment_status_cancel": "ဖျက်သိမ်းလိုက်သည်။",
+  "aff_report_payment_status": "အဆင့်အတန်း",
+  "aff_report_description_click": "Affiliate လင့်ခ်ကို ကလစ်နှိပ်ခြင်း၊ စုစုပေါင်းအမိန့်စာများ လက်ခံရရှိသော ကော်မရှင်များနှင့် ဝင်ငွေများ၏ စာရင်းအင်းဇယား",
+  "aff_report_description_customer": "ဖောက်သည်အချက်အလက်များ၏ စာရင်းအင်းဇယား",
+  "aff_report_description_commission": "ကော်မရှင်စာရင်းဇယား",
+  "aff_link": "လင့်ခ်-",
+  "aff_link_copied": "လင့်ခ်ကို ကူးယူထားသည်။",
+  "aff_link_path": "တွဲဖက်လင့်ခ်",
+  "aff_link_paste_here": "သင့်လင့်ခ်ကို ဤနေရာတွင် ကူးထည့်ပါ။",
+  "aff_flight_commission_itinerary": "ခရီးစဉ်",
+  "aff_flight_commission_itinerary_domestic": "ပြည်တွင်း",
+  "aff_flight_commission_itinerary_international": "နိုင်ငံတကာ",
+  "aff_flight_commission_itinerary_unknown": "အမည်မသိ ခရီးစဉ်",
+  "aff_flight_commission_seat_class": "ထိုင်ခုံအတန်း",
+  "aff_flight_commission_seat_class_plus": "ပေါင်းတယ်။",
+  "aff_flight_commission_seat_class_business": "စီးပွားရေး",
+  "aff_flight_commission_seat_class_unknown": "အမည်မသိထိုင်ခုံအတန်း",
+  "aff_flight_ticket": "လေယာဉ်လက်မှတ်",
+  "aff_flight_all_airlines": "လေကြောင်းလိုင်းအားလုံး",
+  "aff_tooltip_flight_domestic": "ဗီယက်နမ်ပိုင်နက်အတွင်း ခရီးစဉ်များနှင့် ထွက်ခွာမည့် လေယာဉ်များ",
+  "aff_tooltip_seller": "တွဲဖက်စျေးကွက်ရှာဖွေရေးလင့်ခ်တစ်ခုစီ၏အဆုံးတွင် ဤကုဒ်ကိုသုံးနိုင်သည်။ ထိုလင့်ခ်မှ တရားဝင်အမှာစာများ ပေါ်လာသောအခါ Hahalolo သည် သင်၏လင့်ခ်နှင့် ဆုကြေးကော်မရှင်များဖြစ်ကြောင်း သက်သေပြပါမည်။",
+  "aff_commission": "ကော်မရှင်",
+  "aff_commission_by_country": "နိုင်ငံအလိုက် ဟိုတယ်ကော်မရှင်များ",
+  "aff_commission_flight_list": "နိုင်ငံအလိုက် ဟိုတယ်ကော်မရှင်များ",
+  "aff_commission_max": "အမြင့်ဆုံးကော်မရှင်-",
+  "aff_commission_of_product": "{order} ၏ ကော်မရှင်များ",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "အမိန့်ကုဒ်",
+  "aff_order_total": "စုစုပေါင်းအမိန့်",
+  "aff_order_tooltip_click": "သင်၏ တွဲဖက်လင့်ခ်ကို သုံးစွဲသူများက နှိပ်သည့်အကြိမ်အရေအတွက်။",
+  "aff_order_conversion_rate": "ကူးပြောင်းနှုန်း",
+  "aff_order_tooltip_conversion_rate": "သင့်ထုတ်ကုန်မြှင့်တင်ရေး၏စွမ်းဆောင်ရည်ကိုခွဲခြမ်းစိတ်ဖြာရန်သင့်အတွက်အတိုင်းအတာတစ်ခု။",
+  "aff_order_product_total": "စုစုပေါင်းထုတ်ကုန်များ",
+  "aff_order_click_total": "စုစုပေါင်း ကလစ်များ",
+  "aff_order_earnings_total": "စုစုပေါင်းဝင်ငွေ",
+  "aff_order_id_unknown": "အမည်မသိ မှာယူမှုကုဒ်",
+  "aff_order_added": "ငွေပေးချေမှုအကောင့်သို့ ပေါင်းထည့်ခဲ့သည်။",
+  "aff_order_type_waiting": "လုပ်ဆောင်နေသည်",
+  "aff_order_type_pending": "ဆိုင်းငံ့ထားသည်။",
+  "aff_order_type_available": "ရရှိနိုင်ပါသည်။",
+  "aff_order_type_cancel": "ဖျက်သိမ်းလိုက်သည်။",
+  "aff_ordered_total": "စုစုပေါင်း ကုန်ပစ္စည်းများ မှာယူထားသည်။",
+  "aff_order_receive_commission": "စုစုပေါင်းအမိန့်ကော်မရှင်များလက်ခံရရှိ",
+  "aff_verify_do_not_have_account": "သင့်တွင်\nငွေပေးချေမှုအကောင့်မရှိသေးပါ။",
+  "aff_guild": "ညွှန်ကြားချက်များ",
+  "aff_seller_code": "ရောင်းသူကုဒ်: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "ရောင်းသူ ကုဒ်",
+  "aff_view_detail": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "aff_notification_turn_off_link_1": "\n ၏ တွဲဖက်စျေးကွက်ရှာဖွေရေး အင်္ဂါရပ်",
+  "aff_notification_turn_off_link_2": "ပိတ်ထားသည်၊ ဆိုလိုသည်မှာ သင်မျှဝေထားသော တွဲဖက်လင့်ခ်များသည် အကျုံးမဝင်တော့ပါ။",
+  "aff_notification_turn_on_link_success": "{type} အတွက် တွဲဖက်စျေးကွက်ရှာဖွေရေးအင်္ဂါရပ်ကို အောင်မြင်စွာဖွင့်ထားသည်။",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "ခရီးစဉ်ကော်မရှင်များ",
+  "aff_commission_list_hotel": "နိုင်ငံအလိုက် ဟိုတယ်ကော်မရှင်များ",
+  "aff_tooltip_menu": "Menu ကိုဖွင့်ပါ။",
+  "aff_tooltip_dash_board": "ဒက်ရှ်ဘုတ်သို့ အမြန်ဝင်ရောက်ပါ။",
+  "aff_tooltip_guild": "ညွှန်ကြားချက်များအတွက် အောက်သို့ချပါ။",
+  "aff_action_done": "ပြီးပြီ။",
+  "aff_check_user_failed": "အသုံးပြုသူကို စစ်ဆေး၍မရပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_something_went_wrong": "တစ်ခုခုမှားသွားသည်။",
+  "aff_page_not_found": "စာမျက်နှာကို ရှာမတွေ့ပါ။",
+  "aff_and": "နှင့်",
+  "aff_month_summary": "ဤလအတွက် အကျဉ်းချုပ်",
+  "aff_see_more": "ပိုကြည့်",
+  "aff_try_again": "ထပ်ကြိုးစားပါ",
+  "aff_error_try_again": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "aff_tooltip_flight_international": "ဗီယက်နမ်၏ ပိုင်နက်အပြင်ဘက်သို့ ထွက်ခွာခြင်း သို့မဟုတ် ဆိုက်ရောက်ဗီဇာများပါရှိသော လေယာဉ်များ။",
+  "aff_area_code": "ဖုန်းကုဒ်",
+  "aff_phone_number": "ဖုန်းနံပါတ်",
+  "aff_validate_sms_required": "ကျေးဇူးပြု၍ အတည်ပြုကုဒ်ကို ထည့်ပါ။",
+  "aff_validate_sms_min_length": "ကျေးဇူးပြု၍ အတည်ပြုကုဒ်အပြည့်အစုံကို ထည့်ပါ။",
+  "aff_welcome": "ကြိုဆိုပါတယ်။",
+  "aff_verify_update": "ငွေပေးချေမှုအကောင့်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "aff_verify_create_account": "ငွေပေးချေမှုအကောင့်ဖန်တီးပါ။",
+  "aff_verify_invalid_wallet": "ငွေပေးချေမှုအကောင့်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "aff_verify_do_not_have_account_subtitle": "Hahalolo တွင် အရောင်းလုပ်ဆောင်ချက်ကို အသုံးပြုရန် ငွေပေးချေမှုအကောင့်တစ်ခု ဖန်တီးပါ။",
+  "aff_verify_invalid_wallet_subtitle": "Hahalolo တွင် ဝန်ဆောင်မှုများကို ဆက်လက်အသုံးပြုနိုင်ရန် သင့်ငွေပေးချေမှုအကောင့်တွင် သင့်ဖုန်းနံပါတ်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "aff_guild_1": "ယခု သင်သည် တွဲဖက်စျေးကွက်ရှာဖွေရေး အင်္ဂါရပ်ကို နှိပ်ခြင်းဖြင့် လျင်မြန်စွာ ဖွင့်နိုင်ပါပြီ။",
+  "aff_guild_2": "ဟိုတယ်/ပျံသန်းမှုအပိုင်းတွင်",
+  "aff_guild_3": "Affiliate Marketing ကိုဖွင့်ပြီးနောက်၊ သင်သည် သင့်ထုတ်ကုန်များကို ကြော်ငြာနိုင်သည်-",
+  "aff_guild_4": "Hahalolo in မှ မူရင်းအတိုင်း သတ်မှတ်ထားသော လင့်ခ်",
+  "aff_guild_5": "သင့်ရောင်းချသူကုဒ်ကို ထုတ်ကုန်နှင့်သက်ဆိုင်သော လင့်ခ်တွင် ပူးတွဲထည့်သွင်းပေးထားသည့် တွဲဖက်စျေးကွက်ရှာဖွေရေးဖွင့်ထားသည့် ကဏ္ဍနှင့်သက်ဆိုင်သည့် မည်သည့်လင့်ခ်မဆို။",
+  "aff_seller": "ရောင်းသူ",
+  "aff_menu": "အမျိုးအစား",
+  "aff_dash_chart_title": "ဤလအတွက် သင့်ဝင်ငွေနှင့် ကလစ်များဆိုင်ရာ ကိန်းဂဏန်းဇယား",
+  "aff_dash_click": "နှိပ်ပါ။",
+  "aff_dash_commission": "ဝင်ငွေ",
+  "aff_flight_commission_detail_customer_way": "/ ခရီးသည် / အပိုင်း",
+  "aff_flight_commission_detail_order_total": "/ စုစုပေါင်းအမိန့်",
+  "aff_performance_chart_title": "Affiliate လင့်ခ်ကို ကလစ်နှိပ်ခြင်း၊ စုစုပေါင်း မှာယူမှုများ လက်ခံရရှိသည့် ကော်မရှင်နှင့် ဝင်ငွေများ၏ စာရင်းအင်းဇယား",
+  "aff_customer_chart_title": "ဖောက်သည်အချက်အလက်များ၏ စာရင်းအင်းဇယား",
+  "aff_payment_chart_title": "ကော်မရှင်စာရင်းဇယား",
+  "aff_action_exit": "ထွက်ပေါက်",
+  "aff_action_update": "အပ်ဒိတ်",
+  "aff_action_create": "ဖန်တီးပါ။",
+  "aff_dialog_check_invalid_user": "Hahalolo တွင် တွဲဖက်စျေးကွက်ရှာဖွေရေးဝန်ဆောင်မှုများကို အသုံးပြုနိုင်ရန် သင့်ငွေပေးချေမှုအကောင့်ကို {action} ပေးပါ။",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "ရက်စွဲ",
+  "aff_action_register": "မှတ်ပုံတင်",
+  "aff_otp_time_left": "{number} ကြိမ် ကျန်သေးသည်။",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "ငွေပေးချေမှုအကောင့်ကို ဖန်တီးပါ။",
+  "wallet_create_payment_subtitle": "ငွေပေးချေမှုအကောင့်တစ်ခုတည်ဆောက်ခြင်းသည် တာဝန်ပေးအပ်ပြီးနောက် ငွေလက်ခံခြင်း၊ ထုတ်ယူခြင်းနှင့် ငွေပေးချေခြင်းအပါအဝင် အဓိကငွေပေးချေမှုအကောင့်အဖြစ် သတ်မှတ်သည်။",
+  "wallet_verify_otp_title": "အတည်ပြုသည့်ကုတ်ကိုထည့်သွင်းပါ",
+  "wallet_verify_otp_subtitle": "ကျွန်ုပ်တို့သည် အတည်ပြုကုဒ်တစ်ခုကို {phone} သို့ ပေးပို့ထားပါသည်။ \nဤအဆင့်ပြီးမြောက်ရန် သင်လက်ခံရရှိသောကုဒ်ကို ထည့်ပါ။",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "ငွေပေးချေမှုအကောင့်",
+  "wallet_start_subtitle": "Hahalolo ငွေပေးချေမှုအကောင့်သည် သင့်အား ကျွန်ုပ်တို့နှင့် စိတ်ဝင်စားစရာကောင်းပြီး အဆင်ပြေသောအတွေ့အကြုံများရရှိစေရန် ကူညီပေးသည့် Hahalolo ရှိ ငွေပေးချေမှုဖြေရှင်းချက်တစ်ခုဖြစ်သည်။",
+  "wallet_label_choose_business": "လုပ်ငန်းကိုရွေးချယ်ပါ။",
+  "wallet_label_account_name": "အကောင့်နာမည်",
+  "wallet_label_email": "အီးမေးလ်",
+  "wallet_label_phone": "ဖုန်းနံပါတ်",
+  "wallet_label_choose_currency": "ငွေကြေးကို ရွေးချယ်ပါ။",
+  "wallet_label_payment_country": "ငွေပေးချေသောနိုင်ငံ",
+  "wallet_label_payment_method": "ငွေပေးချေစနစ်",
+  "wallet_label_card_holder_name": "ကတ်ကိုင်ဆောင်သူအမည် (သံစဉ်အမှတ်အသားမပါဘဲ)",
+  "wallet_label_card_bank_name": "ဘဏ်အမည်",
+  "wallet_label_card_swift_code": "SWIFT ကုဒ်",
+  "wallet_label_bank_account_number": "ဘဏ်အကောင့်နံပါတ်",
+  "wallet_label_account_type": "အကောင့်အမျိုးအစား",
+  "wallet_label_tax_code": "အခွန်ကုဒ်",
+  "wallet_label_tax_type": "အခွန်အမျိုးအစား",
+  "wallet_label_address": "လိပ်စာ",
+  "wallet_label_address_2": "လိပ်စာ 2 (ချန်လှပ်ထားနိုင်သည်)",
+  "wallet_label_country": "တိုင်းပြည်",
+  "wallet_label_city": "ပြည်နယ်/မြို့",
+  "wallet_label_district": "ခရိုင်",
+  "wallet_label_first_name": "မျိုးနွယ်အမည်",
+  "wallet_label_last_name": "နာမည်",
+  "wallet_label_middle_name": "အလယ်အမည် (ချန်လှပ်ထားနိုင်သည်)",
+  "wallet_label_postal_code": "စာတိုက်သင်္ကေတ",
+  "wallet_label_city_more_description": "တိုင်း/နယ်/ဒေသ",
+  "wallet_label_postal_code_more_description": "စာတိုက်/စာတိုက်ကုဒ်",
+  "wallet_label_district_more_description": "မြို့/မြို့",
+  "wallet_label_birthday_18_years_old": "မွေးသက္ကရာဇ် (အနည်းဆုံး အသက် 18 နှစ်)",
+  "wallet_label_date_of_birth": "မွေးရက်",
+  "wallet_label_enter_password": "သင့်စကားဝှက်ကို ထည့်ပါ။",
+  "wallet_label_password": "စကားဝှက်",
+  "wallet_label_enter_pin": "PIN ရိုက်ထည့်ပါ",
+  "wallet_label_re_enter_new_pin": "PIN အသစ်ပြန်ထည့်ပါ",
+  "wallet_label_enter_new_pin": "PIN အသစ်ထည့်ပါ",
+  "wallet_label_enter_current_pin": "PIN အဟောင်းကို ထည့်ပါ",
+  "wallet_validate_pin_required": "သင်၏ PIN ကို ထည့်ပါ",
+  "wallet_validate_otp_required": "ကျေးဇူးပြု၍ အတည်ပြုကုဒ်ကို ထည့်ပါ။",
+  "wallet_validate_current_pin_required": "သင်၏ PIN အဟောင်းကို ထည့်ပါ",
+  "wallet_validate_new_pin_required": "သင်၏ PIN အသစ်ကို ထည့်ပါ",
+  "wallet_validate_re_enter_new_pin_required": "သင်၏ PIN အသစ်ကို ပြန်လည်ထည့်သွင်းပါ။",
+  "wallet_validate_re_enter_new_pin_not_match": "အတည်ပြုချက် PIN နှင့် မကိုက်ညီပါ။",
+  "wallet_action_detail": "အသေးစိတ်",
+  "wallet_text_pick_date": "ရက်စွဲတစ်ခုကို ရွေးပါ။",
+  "wallet_text_email_address": "အီးမေးလ်လိပ်စာ",
+  "wallet_text_message_to": "ထံသို့ စာတိုပေးပို့ပါ။",
+  "wallet_text_recovery_method": "ပြန်လည်ထူထောင်ရေးနည်းလမ်း",
+  "wallet_text_recovery_choose_method": "သင်၏ ပြန်လည်ရယူရေးကုဒ်ကို မည်သို့ရယူရမည်ကို ရွေးချယ်ပါ။",
+  "wallet_text_change_pin": "သင်၏ PIN ကိုပြောင်းပါ",
+  "wallet_text_forgot_pin": "PIN မေ့နေပြီလား?",
+  "wallet_text_show_pin": "PIN ပြရန်",
+  "wallet_text_please_try_again_in": "ကျေးဇူးပြု၍ နောက်မှ ထပ်ကြိုးစားပါ-",
+  "wallet_text_remove_account": "ငွေပေးချေမှုအကောင့်ကို ဖျက်ပါ။",
+  "wallet_text_ineligible_payment": "အရောင်းအဝယ်အတွက် အရည်အချင်းမပြည့်မီပါ။",
+  "wallet_text_ineligible_payment_description": "ကျွန်ုပ်တို့၏စီမံခန့်ခွဲသူသည် သင်၏ငွေပေးချေမှုအကောင့်အချက်အလက်ကို လက်မခံမချင်း သင်သည် စနစ်မှ မည်သည့်ငွေပေးချေမှုမျှ ပြုလုပ်နိုင်မည်မဟုတ်ပေ။ သင့်ငွေပေးချေမှုအကောင့်အချက်အလက်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "wallet_text_address_2": "လိပ်စာ ၂",
+  "wallet_text_new_account": "ငွေပေးချေမှုအကောင့်ဖန်တီးပါ။",
+  "wallet_text_payout_account_detail": "ငွေပေးချေမှုအကောင့်အသေးစိတ်",
+  "wallet_text_middle_name": "အလယ်နာမည်",
+  "wallet_text_account_owner": "အကောင့်ပိုင်ရှင်",
+  "wallet_text_tax_form": "အခွန်ပုံစံ",
+  "wallet_text_tax_form_subtitle": "သင် ပေးထားသည့် အချက်အလက်များအပေါ် အခြေခံ၍ မည်သည့် ထပ်ဆောင်း အခွန်ပုံစံများကို အပ်လုဒ်လုပ်ရန် မလိုအပ်ပါ။ နောက်တစ်ဆင့်သို့ဆက်လက်သွားရန် Continue ကိုနှိပ်ပါ။",
+  "wallet_text_card_holder_name": "ကဒ်ပြားကိုင်ဆောင်သူအမည်",
+  "wallet_text_otp_code_expire_in": "ကုဒ်သည် သက်တမ်းကုန်ဆုံးလိမ့်မည်-",
+  "wallet_text_account_information": "အကောင့်အချက်အလက်",
+  "wallet_text_welcome": "မင်္ဂလာပါ",
+  "wallet_text_payment_information": "ငွေပေးချေမှုအချက်အလက်",
+  "wallet_text_policies_confirm": "ကျွန်ုပ်သည် {termsAndPolicies} ကို သဘောတူသည်",
+  "wallet_terms_and_policies": "Hahalolo စည်းမျဉ်းများနှင့် မူဝါဒများ။",
+  "wallet_text_default": "ပုံသေ",
+  "wallet_text_code_vie_sms": "ကုဒ်ကို SMS မှတဆင့်ပေးပို့ပါ။",
+  "wallet_text_pin_code_recovery_description": "သင့် PIN ကို မေ့သွားပါက အတည်ပြုရန် သင့်အီးမေးလ်ကို အသုံးပြုပါ။",
+  "wallet_text_sms_recovery_description": "သင့် PIN ကို မေ့သွားပါက အတည်ပြုရန် သင့်ဖုန်းနံပါတ်ကို အသုံးပြုပါ။",
+  "wallet_text_authority": "ငွေလွှဲခြင်းနှင့် ရှေ့ဆက်ရန်အတွက် Hahalolo မှပေးထားသော ကျွန်ုပ်၏အကောင့်အချက်အလက်ကို အသုံးပြုခွင့်ပေးရန် သဘောတူပါသည်။",
+  "wallet_text_district_three_dot": "ခရိုင်...",
+  "wallet_text_set_up_pin": "PIN စနစ်ထည့်သွင်းပါ",
+  "wallet_text_established": "(မြဲ)၊",
+  "wallet_text_not_have_pin_yet_title": "သင့်တွင် PIN မရှိပါ",
+  "wallet_text_not_have_pin_yet_subtitle": "ဤလုပ်ဆောင်ချက်ကိုအသုံးပြုရန် PIN ကိုဖန်တီးပါ။",
+  "wallet_text_security_pin_code_description": "သင့်အကောင့်နှင့် ငွေကြေးအချက်အလက်များကို ကာကွယ်ရန်အတွက် Hahalolo ငွေပေးချေမှုအကောင့် PIN လိုအပ်ပါသည်။ ထို့အပြင် သင်သည် ပြန်လည်ဝင်ရောက်သည့်အခါတွင် ကတ်အသေးစိတ်အချက်အလက်များကို ပြန်လည်ထည့်သွင်းရန် မလိုအပ်ပါ။",
+  "wallet_text_check_password_locked": "စကားဝှက်စစ်ဆေးသည့်လုပ်ဆောင်ချက်ကို ယာယီလော့ခ်ချထားသည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_text_enter_password_description": "အပြောင်းအလဲကို အတည်ပြုရန် သင်၏ Hahalolo အကောင့် စကားဝှက်ကို ထည့်သွင်းရန် လိုအပ်သည်။",
+  "wallet_text_enter_sms_code": "အတည်ပြုသည့်ကုတ်ကိုထည့်သွင်းပါ",
+  "wallet_text_send_sms_description_1": "ကျွန်ုပ်တို့ထံ အတည်ပြုကုဒ်တစ်ခု ပေးပို့ထားပါသည်။",
+  "wallet_text_send_sms_description_2": "\nဤအဆင့်ပြီးမြောက်ရန် သင်လက်ခံရရှိသောကုဒ်ကို ထည့်ပါ။",
+  "wallet_text_resend": "ပြန်ပို့ပါ။",
+  "wallet_text_no_data": "လောလောဆယ် ဒေတာမရနိုင်ပါ။",
+  "wallet_text_bank_transfer": "ဘဏ်ငွေလွှဲခြင်း။",
+  "wallet_text_tax_ptin": "ပြင်ဆင်သူ အခွန်ထမ်း မှတ်ပုံတင်နံပါတ်",
+  "wallet_text_tax_atin": "မွေးစားခြင်း အခွန်ထမ်း မှတ်ပုံတင်နံပါတ်",
+  "wallet_text_tax_ssn": "လူမှုဖူလုံရေးကိုယ်ပိုင်နံပါတ်",
+  "wallet_text_account_personal": "ကိုယ်ပိုင်အကောင့်",
+  "wallet_text_account_business": "လုပ်ငန်းအကောင့်",
+  "wallet_text_country_code_and": "နိုင်ငံကုဒ်နှင့်",
+  "wallet_text_resend_time": "{time} ကို ပြန်ပို့ပါ",
+  "wallet_text_change_your": "သင့် {text} ကို ပြောင်းပါ",
+  "wallet_start_person_button": "{action} ကိုယ်ရေးကိုယ်တာ ငွေပေးချေမှု အကောင့်",
+  "wallet_start_business_button": "{action} လုပ်ငန်းငွေပေးချေမှုအကောင့်",
+  "wallet_text_recovery_subtitle_1": "သင့်လက်ရှိ {text} သည်\n{value} ဖြစ်သည်",
+  "wallet_text_recovery_subtitle_2": "ကျေးဇူးပြု၍ {extra_text}{text} အသစ်ကို ထည့်ပါ",
+  "wallet_text_enter_new": "{title} အသစ်ထည့်ပါ",
+  "wallet_text_new": "{title} အသစ်",
+  "wallet_succ_setup_pin": "PIN ကို အောင်မြင်စွာ စနစ်ထည့်သွင်းပါ။",
+  "wallet_succ_setup_pin_content": "သင်၏ PIN ကို အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ။",
+  "wallet_succ_change_pin": "PIN အောင်မြင်စွာ ပြောင်းလဲခဲ့သည်။",
+  "wallet_succ_change_pin_content": "မင်းရဲ့ PIN ကို အောင်မြင်စွာ ပြောင်းလဲလိုက်ပါပြီ",
+  "wallet_succ_change_information": "အချက်အလက်ကို အောင်မြင်စွာ မွမ်းမံပြီး အတည်ပြုပြီးပါပြီ။",
+  "wallet_war_remove_payout_account": "ဤအကောင့်ကို အပြီးတိုင်ဖျက်လိုသည်မှာ သေချာပါသလား။",
+  "wallet_war_create_payment_title": "ငွေပေးချေမှုအကောင့်ဖန်တီးပါ။",
+  "wallet_war_create_payment_subtitle": "ငွေပေးချေမှုအကောင့်တစ်ခု မဖန်တီးမီ လုပ်ငန်းအကောင့်တစ်ခု ဖန်တီးပါ။",
+  "wallet_war_unsaved_information": "သင်တည်းဖြတ်ထားသော အချက်အလက်ကို သိမ်းဆည်းမည်မဟုတ်ပါ။ ထွက်ချင်ပါသလား။",
+  "wallet_err_recovery": "ပြန်လည်ရယူခြင်း မအောင်မြင်ပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_recovery_no_user_data": "ပြန်လည်ရယူခြင်း မအောင်မြင်ပါ။ အသုံးပြုသူ အချက်အလက် မတွေ့ပါ။",
+  "wallet_err_recovery_phone_exists": "ပြန်လည်ရယူခြင်း မအောင်မြင်ပါ။ ဤဖုန်းနံပါတ် ရှိနှင့်ပြီးဖြစ်သည်။",
+  "wallet_err_recovery_phone_invalid": "ပြန်လည်ရယူခြင်း မအောင်မြင်ပါ။ ဖုန်းနံပါတ်သည် မမှန်ကန်ပါ။",
+  "wallet_err_recovery_password_invalid": "ပြန်လည်ရယူခြင်း မအောင်မြင်ပါ။ သင့်စကားဝှက် မမှန်ပါ။",
+  "wallet_err_pin_existed": "PIN ရှိနှင့်ပြီးဖြစ်သည်။",
+  "wallet_err_pin_wallet_not_exist": "ငွေပေးချေမှုအကောင့် မရှိပါ။",
+  "wallet_err_pin_incorrect_or_exists": "PIN သည် မှားယွင်းနေသည် သို့မဟုတ် မရှိပါ။",
+  "wallet_err_pin_try_again": "PIN စနစ်ထည့်သွင်းမှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_set_payout_default": "မူရင်းငွေပေးချေမှုအကောင့်ကို ရွေးချယ်၍မရပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_occurred_try_again": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_send_verify_title": "အတည်ပြုကုဒ်ကို ပို့၍မရပါ။",
+  "wallet_err_try_again": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_create_payout_title": "ပေးချေသည့်အကောင့်ကို ဖန်တီး၍မရပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_fetch_data_failed": "ဒေတာတင်ရန် မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_occurred_processing": "လုပ်ဆောင်နေစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_remove_payout": "အကောင့်ကို ဖျက်၍မရပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_change_pin": "PIN ကို ပြောင်းရန် မအောင်မြင်ပါ",
+  "wallet_err_setup_pin": "PIN ကို စနစ်ထည့်သွင်းရန် မအောင်မြင်ပါ",
+  "wallet_err_sms_code_expired": "အတည်ပြုကုဒ် သက်တမ်းကုန်သွားပါပြီ။ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_err_sms_code_incorrect": "အတည်ပြုကုဒ် မမှန်ပါ။ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_create_payout_title": "ငွေပေးချေမှုအကောင့်ဖန်တီးပါ။",
+  "wallet_action_continue": "ဆက်လက်",
+  "wallet_action_create": "ဖန်တီးပါ။",
+  "wallet_action_update": "အပ်ဒိတ်",
+  "wallet_action_ok": "သဘောတူသည်။",
+  "wallet_action_complete": "ပြီးအောင်",
+  "wallet_action_next": "ဆက်လက်",
+  "wallet_action_try_back": "ပြန်သွားသည်",
+  "wallet_action_try_again": "ထပ်ကြိုးစားပါ",
+  "wallet_action_accept": "လက်ခံပါတယ်။",
+  "wallet_action_remove": "ဖျက်ပါ။",
+  "wallet_action_change": "ပြောင်းလဲပါ။",
+  "wallet_action_setup": "တည်ဆောက်သည်",
+  "wallet_action_confirm": "အတည်ပြုပါ။",
+  "wallet_action_cancel": "မလုပ်တော့",
+  "wallet_action_close": "ပိတ်လိုက်",
+  "wallet_overview": "ခြုံငုံသုံးသပ်ချက်",
+  "wallet_notification": "အသိပေးချက်များ",
+  "wallet_transaction_history": "ငွေလွှဲမှတ်တမ်း",
+  "wallet_transfer_point": "လွှဲပြောင်းအမှတ်များ",
+  "wallet_payout_accounts": "ငွေပေးချေမှုအကောင့်",
+  "wallet_security": "လုံခြုံရေး",
+  "wallet_recovery_methods": "ပြန်လည်ထူထောင်ရေးနည်းလမ်း",
+  "wallet_help_center": "ကူညီရေးဌာန",
+  "wallet_view_profile": "အချက်အလက်ကြည့်ရှုပါ။",
+  "wallet_info_title": "ငွေပေးချေမှုအကောင့်အချက်အလက်",
+  "wallet_edit_identity_card": "IDကတ်",
+  "wallet_edit_id_card": "IDကတ်",
+  "wallet_edit_passport": "နိုင်ငံကူးလက်မှတ်",
+  "wallet_edit_verify_status": "အဆင့်အတန်း",
+  "wallet_edit_not_verify": "အတည်မပြုရသေးပါ။",
+  "wallet_edit_verified": "စိစစ်ပြီး",
+  "wallet_edit_verify_waiting": "ဆိုင်းငံ့ထားသည်။",
+  "wallet_edit_gender": "ကျား၊",
+  "wallet_edit_male": "အထီး",
+  "wallet_edit_female": "အပျို",
+  "wallet_edit_other": "တခြား",
+  "wallet_owner_title": "အသုံးပြုသူအချက်အလက်",
+  "wallet_edit_fullName": "နာမည်အပြည့်အစုံ",
+  "wallet_edit_email": "အီးမေးလ်",
+  "wallet_edit_phoneNumber": "ဖုန်းနံပါတ်",
+  "wallet_edit_dateOfBirth": "မွေးရက်",
+  "wallet_edit_dateOfBirth_13_yo": "မွေးသက္ကရာဇ် (အနည်းဆုံး ၁၃ နှစ်)၊",
+  "wallet_edit_address": "လိပ်စာ",
+  "wallet_edit_country": "တိုင်းပြည်",
+  "wallet_edit_idType": "အမျိုးအစားခွဲခြားသတ်မှတ်ခြင်း။",
+  "wallet_edit_id_passport": "ID နံပါတ်/ပတ်စပို့",
+  "wallet_edit_country_issue": "ထုတ်ပေးသည့်နိုင်ငံ",
+  "wallet_edit_id_document": "ID ကတ်/ပတ်စပို့ ၏ ပုံများ",
+  "wallet_edit_front": "ရှေ့ခြမ်း",
+  "wallet_edit_back": "ကျောဘက်",
+  "wallet_edit_activate_date": "အသက်ဝင်မည့်ရက်",
+  "wallet_edit_expiration_date": "သက်တမ်းကုန်ဆုံးရက်",
+  "wallet_waiting_balance": "ဆိုင်းငံ့လက်ကျန်",
+  "wallet_pending_balance": "လုပ်ငန်းစဉ်တွင် လက်ကျန်",
+  "wallet_available_balance": "လက်ကျန်",
+  "wallet_frozen_balance": "အေးခဲမှူ",
+  "wallet_top10_trans": "နောက်ဆုံး အရောင်းအဝယ် ၁၀ ခု",
+  "wallet_source_withdrawal": "ငွေထုတ်ခြင်း။",
+  "wallet_source_grad": "ဒေါ်စု",
+  "wallet_source_income": "ငွေဝင်သည်။",
+  "wallet_source_outcome": "ပိုက်ဆံထွက်တယ်။",
+  "wallet_source_point": "အမှတ်များ",
+  "wallet_source_aff_commission": "Affiliate - ကော်မရှင်",
+  "wallet_source_aff_reward": "Affiliate - ဆုလာဘ်အစီအစဉ်",
+  "wallet_source_recharge": "ငွေဖြည့်",
+  "wallet_source_order": "အော်",
+  "wallet_status_waiting": "ဆိုင်းငံ့ထားသည်။",
+  "wallet_status_pending": "ဆိုင်းငံ့ထားအတည်ပြုချက်",
+  "wallet_status_available": "ရရှိနိုင်ပါသည်။",
+  "wallet_status_frozen": "ဖြူဖြူ",
+  "wallet_status_cancel": "ဖျက်သိမ်းလိုက်သည်။",
+  "wallet_status_success": "အောင်မြင်တယ်။",
+  "wallet_status_error": "မအောင်မြင်ပါ။",
+  "wallet_status_outcome": "ပိုက်ဆံထွက်တယ်။",
+  "wallet_status_transfer": "လွှဲပြောင်းအမှတ်များ",
+  "wallet_action_receive": "အမှတ်များရယူပါ။",
+  "wallet_action_donate": "အမှတ်ပေးပါ။",
+  "wallet_action_buy_point": "အမှတ်များဝယ်ပါ။",
+  "wallet_action_payment": "ငွေပေးချေမှု",
+  "wallet_filter_all": "အားလုံး",
+  "wallet_filter_allTime": "အားလုံး",
+  "wallet_filter_today": "ဒီနေ့",
+  "wallet_filter_yesterday": "မနေ့က",
+  "wallet_filter_7days": "လွန်ခဲ့သော 7 ရက်",
+  "wallet_filter_30days": "လွန်ခဲ့သော ရက် 30",
+  "wallet_filter_custom_date": "ရွေးချယ်နိုင်သော ရက်စွဲ",
+  "wallet_filter_status": "အဆင့်အတန်း",
+  "wallet_filter_time": "အချိန်",
+  "wallet_filter_action": "အက်ရှင်",
+  "wallet_validate_this_field": "ဒီလယ်",
+  "wallet_validate_required": "{fieldName} လိုအပ်ပါသည်။",
+  "wallet_validate_invalid_email": "မမှန်ကန်သောအီးမေးလ်",
+  "wallet_validate_invalid_phone_number": "ဖုန်းနံပါတ် မမှန်ကန်ပါ။",
+  "wallet_validate_invalid_number": "မမှန်ကန်သောနံပါတ်",
+  "wallet_validate_limit_length": "{fieldName} သည် အနည်းဆုံး အက္ခရာ {minLength} ရှိရပါမည်။",
+  "wallet_validate_not_contain_number": "{fieldName} တွင် ဂဏန်းအက္ခရာများ မပါဝင်ရပါ။",
+  "wallet_validate_not_contain_special_char": "{fieldName} တွင် အထူးစာလုံးများ မပါဝင်ရပါ။",
+  "wallet_validate_invalid_swift_code_length": "Swift ကုဒ်တွင် စာလုံး ၈ လုံးမှ ၁၁ လုံးသာ ပါဝင်ပါသည်။",
+  "wallet_validate_invalid_swift_code": "အမြန်ကုဒ် မမှန်ကန်ပါ။",
+  "wallet_no_transaction": "အရောင်းအဝယ် မလုပ်ပါ။",
+  "wallet_no_image": "ဓာတ်ပုံမရိုက်ရသေးပါဘူး။",
+  "wallet_edit_quit_msg": "သင်တည်းဖြတ်ထားသော အချက်အလက်ကို သိမ်းဆည်းမည်မဟုတ်ပါ။ ထွက်ချင်ပါသလား။",
+  "wallet_point_total": "စုစုပေါင်း-",
+  "wallet_payment_methods": "ငွေပေးချေစနစ်",
+  "wallet_payment_methods_note": "(မှတ်ချက်- '{HAHALOLO}' သည် သုံးစွဲသူများအား '{MIỄN PHÍ}' ဘဏ်ငွေကောက်ခံမှုဖြင့် ပံ့ပိုးပေးမည်)",
+  "wallet_num_of_points": "အမှတ်အရေအတွက်",
+  "wallet_points": "{number} မှတ်",
+  "wallet_1point": "၁ မှတ်",
+  "wallet_msg_enter_number_of_points": "သင်ဝယ်လိုသော အမှတ်အရေအတွက်ကို ထည့်သွင်းပါ။",
+  "wallet_msg_pin_not_correct": "PIN သည် မှားယွင်းနေသည် သို့မဟုတ် မရှိပါ။",
+  "wallet_msg_balance_not_enough": "လက်ကျန်မလုံလောက်",
+  "wallet_msg_error_while_buy_point": "အမှတ်များဝယ်ယူစဉ် အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။",
+  "wallet_msg_fetch_error": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_msg_buy_point_success": "အမှတ်များကို အောင်မြင်စွာ ဝယ်ယူပြီးပါပြီ။",
+  "wallet_withdrawal_req": "ငွေထုတ်ရန် တောင်းဆိုချက်-",
+  "wallet_withdrawal_payment_acc_id": "ငွေပေးချေမှုအကောင့် ID-",
+  "wallet_withdrawal_balance": "ရနိုင်သော လက်ကျန်-",
+  "wallet_withdrawal_payout_acc": "ပေးချေမှုအကောင့်",
+  "wallet_withdrawal_amount": "ပမာဏ ({currency})",
+  "wallet_label_desc": "ဖော်ပြချက်",
+  "wallet_btn_save": "သိမ်းဆည်းပါ။",
+  "wallet_btn_edit_owner": "တည်းဖြတ်ပါ။",
+  "wallet_btn_buy": "ဝယ်ပါ။",
+  "wallet_btn_reset": "ပြန်ဝင်ပါ။",
+  "wallet_insufficient_available_balances": "လက်ကျန်ငွေ မလုံလောက်ပါ။",
+  "wallet_msg_complete_info": "အချက်အလက်ဖြည့်ပါ။",
+  "wallet_msg_success": "အောင်မြင်စွာ ဆုတ်ခွာသွားပါပြီ။",
+  "wallet_msg_wal_not_exist": "ငွေပေးချေမှုအကောင့် မရှိပါ။",
+  "wallet_msg_wal_blocked": "ငွေပေးချေမှုအကောင့်ကို ပိတ်ဆို့ထားသည်။",
+  "wallet_msg_acc_incorrect": "ငွေပေးချေမှုအကောင့် မမှန်ပါ။",
+  "wallet_msg_total_not_available": "တောင်းဆိုထားသော စုစုပေါင်းပမာဏကို မရရှိနိုင်ပါ။",
+  "wallet_msg_pin_locked": "ငွေပေးချေမှုအကောင့် PIN ကို လော့ခ်ချထားသည်။",
+  "wallet_msg_withdrawal_failed": "ငွေထုတ်ခြင်း မအောင်မြင်ပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "wallet_msg_fill_in_all_info": "အချက်အလက်ဖြည့်ပါ။",
+  "wallet_update_info_success": "သင်သည် အချက်အလက်ကို အောင်မြင်စွာ အပ်ဒိတ်လုပ်ထားသည်။",
+  "wallet_update_info_fail": "အချက်အလက်ကို အပ်ဒိတ်လုပ်ရန် မအောင်မြင်ပါ။",
+  "wallet_no_notifications": "သင့်တွင် အကြောင်းကြားချက်များ မရှိပါ။",
+  "wallet_buy_point_payment_method_note": "(မှတ်ချက်- '{hahalo}' သည် သုံးစွဲသူများအား '{free}'ဘဏ်ငွေကောက်ခံမှုဖြင့် ပံ့ပိုးပေးမည်)",
+  "wallet_note_free": "အခမဲ့",
+  "wallet_buy_point_policy": "{condition} နှင့် {privacy} ကို သဘောတူပါသည်",
+  "wallet_term_conditions": "စည်းကမ်းနှင့်သတ်မှတ်ချက်များ",
+  "wallet_privacy": "ကိုယ်ရေးကိုယ်တာ",
+  "wallet_msg_receiving_account_not_exist": "လက်ခံသူ၏ ငွေပေးချေမှုအကောင့် မရှိပါ။",
+  "wallet_msg_search_account_error": "ငွေပေးချေမှုအကောင့်ကို ရှာဖွေစဉ် အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။",
+  "wallet_msg_sending_account_not_exist": "ပေးပို့သူ၏ ငွေပေးချေမှုအကောင့် မရှိပါ။",
+  "wallet_msg_point_balance_not_enough": "ငွေပေးချေမှုအကောင့်၏ အမှတ်လက်ကျန်သည် မလုံလောက်ပါ။",
+  "wallet_msg_cannot_give_to_itself": "အမှတ်များကို သင့်ကိုယ်သင် လွှဲပြောင်း၍မရပါ။",
+  "wallet_msg_cannot_give_to_business": "လက်ခံသူ၏ ငွေပေးချေမှုအကောင့်သည် လုပ်ငန်းအကောင့်မဖြစ်နိုင်ပါ။",
+  "wallet_msg_transfer_point_err": "အမှတ်များလွှဲပြောင်းရာတွင် အမှားအယွင်းတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။",
+  "wallet_msg_transfer_point_success": "အမှတ်များကို အောင်မြင်စွာ လွှဲပြောင်းပေးခဲ့သည်။",
+  "wallet_recipient_info": "လက်ခံသူအချက်အလက်",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "အမှတ်အရေအတွက်",
+  "wallet_not_verified": "အတည်မပြုရသေးသော ငွေပေးချေမှုအကောင့်",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} နာရီ {minute} မိနစ်",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 ရပ်} other{{countStop} ရပ်}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "အကူးအပြောင်းအချိန် ဝန်းကျင် {time} ဝင် {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "လူကြီး (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "ကလေးတွေ (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "ကလေး (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} လူကြီး} other{{count} လူကြီး}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} ကလေး} other{, {count} ကလေးများ}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} ကလေ} other{, {count} bayi}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "အကူးအပြောင်းအချိန် ဝန်းကျင် {times} ဝင် {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAM } other{{countBag} KILOGRAMS }}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "တစ်လမ်းမောင်း",
+  "flight_fare_rule_title_type_flight_round_trip_from": "ထွက်ခွာလေကြောင်း",
+  "flight_fare_rule_title_type_flight_round_trip_to": "အပြန်လေယာဉ်",
+  "flight_fare_rule_title_fare_conditions": "ယာဉ်စီးခအခြေအနေ",
+  "flight_fare_rule_title_departure_flight": "ပျံသန်းခြင်း။",
+  "flight_fare_rule_title_segment": "အပိုင်း",
+  "flight_fare_rule_notice_empty_fare_rule": "ယာဉ်စီးခအခြေအနေများကို လေကြောင်းလိုင်းမှ မတွေ့ရှိရပါ။",
+  "flight_filter_by_title_filter": "ဇကာ",
+  "flight_filter_by_content_btn_filter": "ဇကာ",
+  "flight_filter_by_title_airline": "လေကြောင်းလိုင်း",
+  "flight_filter_by_title_flight_times": "ပျံသန်းချိန်",
+  "flight_filter_by_title_type_flight_times_early_morning": "နံနက်စောစော \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "နံနက် \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "နေ့ခင်း \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "ညနေ \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "မှတ်တိုင်အရေအတွက်",
+  "flight_filter_by_title_select_all": "အားလုံးကို ရွေးပါ။",
+  "flight_filter_by_title_unselect_all": "အားလုံးကို ရွေးဖြုတ်ပါ။",
+  "flight_filter_by_title_type_segment_all": "အားလုံး",
+  "flight_filter_by_title_type_segment_direct": "တိုက်ရိုက်လေယာဉ်ခရီးစဉ်",
+  "flight_filter_by_title_type_segment_transit": "အကူးအပြောင်း",
+  "flight_sort_by_title_sort_by": "အလိုက်စဥ်သည်",
+  "flight_sort_by_title_sort_by_ascending_price": "စျေးတက်သည်။",
+  "flight_sort_by_title_sort_by_descending_price": "ကျဆင်းနေသောစျေးနှုန်း",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "အစောဆုံး ထွက်ခွာချိန်",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "အစောဆုံးရောက်ချိန်",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "နောက်ဆုံးရောက်ရှိချိန်",
+  "flight_search_result_title_count_adult": "လူကြီး",
+  "flight_search_result_title_count_child": "ကလေး",
+  "flight_search_result_title_count_baby": "ကလေး",
+  "flight_search_result_title_segment": "ရပ်",
+  "flight_search_result_title_hours": "နာရီ",
+  "flight_search_result_title_minutes": "မိနစ်များ",
+  "flight_search_result_title_view_detail_price": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "flight_search_result_title_hide_detail_price": "အသေးစိတ်ကို ဖျောက်ပါ။",
+  "flight_search_result_title_view_detail": "အသေးစိတ်",
+  "flight_search_result_title_btn_book_ticket": "စာအုပ်",
+  "flight_search_result_title_basic_price_ticket": "လက်မှတ်တစ်ခုချင်းစျေးနှုန်း",
+  "flight_search_result_title_taxes_and_fee": "အခွန်များနှင့် အခကြေးငွေများ",
+  "flight_search_result_title_total_amount": "စုစုပေါင်းတန်ဘိုး",
+  "flight_search_result_title_total": "စုစုပေါင်း",
+  "flight_search_result_title_fare_details": "ယာဉ်စီးခအသေးစိတ်",
+  "flight_search_result_title_quantity": "အရေအတွက်",
+  "flight_search_result_title_passenger": "ခရီးသည်",
+  "flight_search_result_title_one_way_flight": "တစ်လမ်းမောင်း",
+  "flight_search_result_title_round_trip_flight": "အသွားအပြန် လေယာဉ်",
+  "flight_change_search_title_btn_agree": "သဘောတူတယ်။",
+  "flight_change_search_title_btn_cancel": "မလုပ်တော့",
+  "flight_change_search_title_header_dialog": "ရှာဖွေမှုပြောင်းပါ။",
+  "flight_change_search_title_body_dialog": "သင်၏ရှာဖွေမှုအချက်အလက်ကို ပြောင်းလဲလိုသည်မှာ သေချာပါသလား။",
+  "flight_change_search_title_footer_dialog": "သင်၏ရှာဖွေမှုအချက်အလက်ကို ပြောင်းလဲရန် သဘောတူပါက၊ ယခင်ဒေတာအားလုံးကို ဖျက်ပစ်မည်ဖြစ်သည်။",
+  "flight_search_result_detail_title_flight_details": "ခရီးစဉ်အသေးစိတ်",
+  "flight_search_result_detail_title_checked_baggage": "အိတ်ကို စစ်တယ်။",
+  "flight_search_result_detail_title_aircraft": "လေယာဉ်ပျံ",
+  "flight_search_result_detail_title_seat_class": "ထိုင်ခုံအတန်း",
+  "flight_search_result_detail_title_class_seat_type_all": "အားလုံး",
+  "flight_search_result_detail_title_class_seat_type_economy": "စီးပွားရေး",
+  "flight_search_result_detail_title_class_seat_type_first_class": "ပထမ",
+  "flight_search_result_detail_title_class_seat_type_business": "စီးပွားရေး",
+  "flight_search_result_detail_content_note_transit_body": "မှတ်ချက်- ခရီးသည်များသည် အကောက်ခွန်ရှင်းလင်းရေးပြုလုပ်ပြီး အိမ်ရှင်နိုင်ငံ၏ တောင်းဆိုချက်အရ ၎င်းတို့၏ ဖြတ်သန်းဗီဇာကို တင်သွင်းရန် လိုအပ်ပါသည်။",
+  "flight_transit_alter_note": "မှတ်ချက်- ခရီးသည်များသည် အကောက်ခွန်ရှင်းလင်းရေးပြုလုပ်ပြီး အိမ်ရှင်နိုင်ငံ၏ တောင်းဆိုချက်အရ ၎င်းတို့၏ ဖြတ်သန်းဗီဇာကို တင်သွင်းရန် လိုအပ်ပါသည်။",
+  "flight_luggage": "အထုပ်အပိုး",
+  "flight_signed_luggage": "အိတ်ကို စစ်တယ်။",
+  "flight_service_package": "ဝန်ဆောင်မှုအထုပ်များ",
+  "flight_run_by": "ဖြင့်ဆောင်ရွက်သည်။",
+  "flight_result_notice_no_flight_found": "လေယာဉ်ခရီးစဉ် မတွေ့ပါ။",
+  "flight_result_notice_no_flight_found_filter": "ဝမ်းနည်းပါသည်၊ သင့်သတ်မှတ်ချက်များနှင့် ကိုက်ညီသော လေယာဉ်ခရီးစဉ်များ မရှိပါ။",
+  "flight_result_notice_check_internet_again": "သင့်ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ကျေးဇူးပြု၍ ချိတ်ဆက်မှုကို ထပ်မံစစ်ဆေးပါ။",
+  "flight_result_notice_error_authentication": "သင်၏ အကောင့်ဝင်ခြင်း စက်ရှင် သက်တမ်းကုန်သွားပါပြီ။ ကျေးဇူးပြု၍ ထပ်မံဝင်ရောက်ပါ။",
+  "flight_search_result_notice_booking_expired": "ကြိုတင်မှာယူမှုကာလသည် ကုန်ဆုံးတော့မည်ဖြစ်သည်။",
+  "flight_search_result_notice_click_continue_to_proceed": "ကြိုတင်မှာကြားမှုကို ဆက်လက်လုပ်ဆောင်ရန် \"ဆက်လက်\" ကိုနှိပ်ပါ။",
+  "flight_search_result_btn_continue": "ဆက်လက်",
+  "flight_input_title_gender": "ကျား၊",
+  "flight_input_title_gender_male": "အထီး",
+  "flight_input_title_gender_female": "အပျို",
+  "flight_input_title_gender_other": "တခြား",
+  "flight_search_price_info_bottom_sheet_tax_include": "အခွန်ပါဝင်ပါသည်။",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "အခကြေးငွေပါဝင်ပါသည်။",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "စနစ်နှင့် စီမံခန့်ခွဲသူ အပိုကြေး",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "လုံခြုံရေး စိစစ်ကြေး",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "အပိုငွေပေးချေမှု အဆင်ပြေခြင်း။",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "လေဆိပ်ကြေး",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "လူကြီး",
+  "flight_v2_model_booking_children": "ကလေးတွေ",
+  "flight_v2_model_booking_infant": "မွေးကင်းစ",
+  "flight_v2_model_detail_infant": "(အသက် 2 နှစ်အောက်)",
+  "flight_v2_model_detail_children": "(အသက် 02 မှ 12 နှစ်ထိ)",
+  "flight_v2_component_bonus_services_title_string": "အပိုဝန်ဆောင်မှုများ",
+  "flight_v2_component_bonus_service_header": "အပိုဝန်ဆောင်မှုများ",
+  "flight_v2_component_bonus_service_content_header_price": "အာမခံကြေး",
+  "flight_v2_component_bonus_service_flight_table_header": "စုစုပေါင်းအာမခံကြေး",
+  "flight_v2_component_bonus_service_text1_introduce": "နိဒါန်း",
+  "flight_v2_component_bonus_service_text1_insurance_type": "အာမခံအမျိုးအစား",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "လေယာဉ်အာမခံ",
+  "flight_v2_component_bonus_service_text1_supplier": "ပံ့ပိုးသူ-",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance Joint Stock Company (Vietinbank Insurance)၊",
+  "flight_v2_component_bonus_service_text1_trusted": "ကျွန်ုပ်တို့၏ ယုံကြည်စိတ်ချရသော ခရီးသွားအာမခံဖြင့် သင် အပြည့်အဝယုံကြည်စိတ်ချစွာ ခရီးသွားနိုင်မည်ဖြစ်ပါသည်။",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "အာမခံဘာသာရပ်",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "လူတစ်ဦးချင်းစီသည် လေယာဉ်ဖြင့် ခရီးသွားရန် Hahalolo စနစ်တွင် လေကြောင်းလိုင်း လက်မှတ် ကြိုတင်စာရင်းသွင်းခြင်း ဝန်ဆောင်မှုကို အသုံးပြုကြသည်။",
+  "flight_v2_component_bonus_service_text1_age": "အသက်- 07 ရက်မှ",
+  "flight_v2_component_bonus_service_text1_range": "အတိုင်းအတာ",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "အာမခံ အကျုံးဝင်မှုတွင် အောက်ပါ အန္တရာယ်များ ပါဝင်သည်။",
+  "flight_v2_component_bonus_service_text1_death_bodily": "မတော်တဆမှုကြောင့် သေဆုံးခြင်း သို့မဟုတ် ခန္ဓာကိုယ် ထိခိုက်ဒဏ်ရာရခြင်း။",
+  "flight_v2_component_bonus_service_text1_impediments": "ခရီးသွားလာမှုအန္တရာယ်များ၊ ဆိုလိုသည်မှာ ခရီးစဉ်ဖျက်သိမ်းခြင်း/အတိုကောက်၊ ခရီးဆောင်အိတ်၊ အဝတ်အစားနှင့် အာမခံထားသူ၏ ကိုယ်ရေးကိုယ်တာပစ္စည်းများ ဆုံးရှုံးခြင်း သို့မဟုတ် ပျက်စီးခြင်း၊ လေကြောင်းလိုင်း လေယာဉ်ပျံသန်းမှု နှောင့်နှေးခြင်း၊ အိတ်နှောင့်နှေးခြင်း၊ ပျောက်ဆုံးသွားသော ခရီးသွားစာရွက်စာတမ်းများ သို့မဟုတ် ပြန်ပေးဆွဲခြင်း။",
+  "flight_v2_component_bonus_service_text1_benefit": "အကျိုးကျေးဇူးများ",
+  "flight_v2_component_bonus_service_text1_small_amount": "အကာအကွယ်မျိုးစုံအတွက် ငွေအနည်းငယ်သာ သုံးစွဲပါ။",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "တစ်ကိုယ်ရေအာမခံအကျိုးခံစားခွင့်များ-",
+  "flight_v2_component_bonus_service_text2_insured_person": "အာမခံထားသူသည် မတော်တဆထိခိုက်မှု သို့မဟုတ် ထိခိုက်ဒဏ်ရာရရှိသွားသော အာမခံထားသူသည် VND 1,000,000 အထိ အာမခံငွေအပြည့်ရရှိမည်ဖြစ်သည်။",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "အန္တရာယ် ခရီးသွားအာမခံ ခံစားခွင့်များ",
+  "flight_v2_component_bonus_service_text2_the_insured": "အာမခံထားသူအား အများဆုံး VND 20,000,000 အထိ လျော်ကြေးပေးမည်ဖြစ်သည်။",
+  "flight_v2_component_bonus_service_text1_rules": "စည်းမျဥ်း",
+  "flight_v2_component_bonus_service_text1_more_information": "ပူးတွဲပါဖိုင်တွင် အသေးစိတ်သိရှိလိုပါက သို့မဟုတ် ကျေးဇူးပြု၍ ဆက်သွယ်ပါ။",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "ခရီးသွားအာမခံစည်းကမ်းများ",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Flight Insurance တွင် ပါဝင်ရန် သဘောတူသည်။",
+  "flight_v2_component_booking_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_component_booking_show": "ဆက်ဖတ်ရန်",
+  "flight_v2_component_booking_hide": "ဖွက်ပါ။",
+  "flight_v2_component_booking_adult": "လူကြီး",
+  "flight_v2_component_booking_children": "ကလေးတွေ",
+  "flight_v2_component_booking_infant": "ကလေး",
+  "flight_v2_component_booking_baggage": "အထုပ်အပိုး",
+  "flight_v2_component_booking_main_content_service": "ဝန်ဆောင်မှုများ",
+  "flight_v2_component_booking_taxes_fees": "အခကြေးငွေနှင့် အခွန်များ",
+  "flight_v2_component_booking_title_booking_information": "ဘွတ်ကင်အချက်အလက်",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "ထွက်ခွာလေကြောင်း",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "အပြန်လေယာဉ်",
+  "flight_v2_component_confirm_title_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_component_confirm_text_done": "ပြီးပြီ။",
+  "flight_v2_component_detail_booking_information": "ကြိုတင်မှာကြားခြင်းအချက်အလက်",
+  "flight_v2_component_detail_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_component_detail_passenger_information": "ခရီးသည်အချက်အလက်",
+  "flight_v2_component_payment_booking_information": "ဘွတ်ကင်အချက်အလက်",
+  "flight_v2_component_payment_information": "သတင်းအချက်အလက်",
+  "flight_v2_component_payment_passenger_information": "ခရီးသည်အချက်အလက်",
+  "flight_v2_component_payment_making_flight_payment": "သင်သည် အောက်ပါခရီးသည်များအတွက် လေယာဉ်ခကို ပေးချေနေပါသည်-",
+  "flight_v2_component_payment_payment_now": "ပေးဆပ်ပါ။",
+  "flight_v2_component_result_title_flight_details": "ခရီးစဉ်အသေးစိတ်",
+  "flight_v2_component_result_title_fare_details": "ယာဉ်စီးခအသေးစိတ်",
+  "flight_v2_component_result_type_direct_flight": "တိုက်ရိုက်လေယာဉ်ခရီးစဉ်",
+  "flight_v2_component_result_title_showMessDiaLog": "အသိပေးချက်များ",
+  "flight_v2_component_result_message_selected_return": "အသွားအပြန် ခရီးစဉ်ကို သင်ရွေးချယ်ပြီးပါပြီ။",
+  "flight_v2_component_result_message_cancel_book": "ပယ်ဖျက်ပြီး လေယာဉ်အသစ်ကို ကြိုတင်မှာယူလိုပါသလား။",
+  "flight_v2_component_result_actionMessage_yes": "ဟုတ်ကဲ့",
+  "flight_v2_component_result_negativeMessage_no": "မရှိ",
+  "flight_v2_component_result_trip_turn_departure": "ထွက်ခွာ",
+  "flight_v2_component_result_trip_turn_arrival": "ရောက်ရောက်ချင်း",
+  "flight_v2_notify_day_invalid_cannot_choose": "သင်မရွေးနိုင်ပါ။",
+  "flight_v2_notify_day_invalid_because": "ဘာဖြစ်လို့လဲဆိုတော့",
+  "flight_v2_notify_day_invalid_date_is": "သည်",
+  "flight_v2_component_result_actionMessage_btn": "သဘောတူတယ်။",
+  "flight_v2_component_result_message": "လက်ရှိရက်စွဲမတိုင်မီ ရက်စွဲများကို မရွေးချယ်ပါနှင့်",
+  "flight_v2_component_search_text_guest": "ခရီးသည်",
+  "flight_v2_component_search_button_save": "သိမ်းဆည်းပါ။",
+  "flight_v2_component_search_text_choose_a_date": "ရက်စွဲတစ်ခုကို ရွေးပါ။",
+  "flight_v2_component_search_button_choose": "ရွေးချယ်ပါ။",
+  "flight_v2_widget_booking_total_price": "စုစုပေါင်းစျေးနှုန်း",
+  "flight_v2_widget_booking_continue": "ဆက်လက်",
+  "flight_v2_widget_booking_payer_information": "ငွေပေးသူအချက်အလက်",
+  "flight_v2_widget_booking_payer_use_contact_information": "အဆက်အသွယ်၏ အချက်အလက်ကို အသုံးပြုပါ။",
+  "flight_v2_widget_booking_save_payment": "ဤငွေပေးချေမှုအချက်အလက်ကို နောက်တစ်ကြိမ်အတွက် သိမ်းဆည်းပါ။",
+  "flight_v2_widget_booking_title_contact_information": "ဆက်သွယ်ရန်အချက်အလက်",
+  "flight_v2_widget_booking_title_checkbox_using_account": "လက်ရှိအကောင့်အချက်အလက်ကို အသုံးပြုပါ။",
+  "flight_v2_widget_booking_title_checkbox_passenger": "ကျွန်တော်က ခရီးသည်တစ်ယောက်ပါ။",
+  "flight_v2_widget_booking_radio_gender": "ကျား၊",
+  "flight_v2_widget_booking_radio_male": "အထီး",
+  "flight_v2_widget_booking_radio_female": "အပျို",
+  "flight_v2_widget_booking_field_card_bank_card": "ဘဏ်ကဒ်",
+  "flight_v2_widget_booking_field_card_checked_baggage": "အိတ်ကို စစ်တယ်။",
+  "flight_v2_widget_booking_title_passenger_information": "ခရီးသည်အချက်အလက်",
+  "flight_v2_widget_booking_information": "သတင်းအချက်အလက်",
+  "flight_v2_widget_common_one_way": "တစ်လမ်းသွား",
+  "flight_v2_widget_common_details": "အသေးစိတ်",
+  "flight_v2_widget_common_text_price": "စျေးနှုန်း",
+  "flight_v2_widget_common_text_fare_conditions": "ယာဉ်စီးခအခြေအနေ",
+  "flight_v2_widget_common_text_service_pack": "ဝန်ဆောင်မှုအထုပ်များ",
+  "flight_v2_widget_common_item_tax_inclusive": "အခွန် အပါအဝင်",
+  "flight_v2_widget_common_item_vat": "VAT",
+  "flight_v2_widget_common_item_fee_inclusive": "အခကြေးငွေပါဝင်ပါသည်။",
+  "flight_v2_widget_common_item_fee_surcharge": "စနစ်နှင့် စီမံခန့်ခွဲသူ အပိုကြေး",
+  "flight_v2_widget_common_item_fee_screening": "လုံခြုံရေးစစ်ဆေးမှု အပိုကြေး",
+  "flight_v2_widget_common_item_fee_convenient": "အပိုငွေပေးချေမှု အဆင်ပြေခြင်း။",
+  "flight_v2_widget_common_item_fee_airport": "လေဆိပ်ကြေး",
+  "flight_v2_widget_common_text_price_per_ticket": "အခြေခံယာဉ်စီးခ",
+  "flight_v2_widget_common_text_taxes_fees": "အခွန်အခများ",
+  "flight_v2_widget_common_service_service": "ဝန်ဆောင်မှုများ",
+  "flight_v2_widget_common_text_total_amount": "စုစုပေါင်းစျေးနှုန်း",
+  "flight_v2_widget_common_button_continue": "ဆက်လက်",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(အခွန်နှင့်အခကြေးငွေများပါဝင်သည်)",
+  "flight_v2_widget_common_service_accommodation_service": "နေရာထိုင်ခင်းဝန်ဆောင်မှုများ",
+  "flight_v2_widget_common_text_direct_flight": "တိုက်ရိုက်လေယာဉ်ခရီးစဉ်",
+  "flight_v2_widget_confirm_description": "ကျား၊",
+  "flight_v2_widget_confirm_description_full_name": "နာမည်အပြည့်အစုံ",
+  "flight_v2_widget_confirm_description_email": "အီးမေးလ်",
+  "flight_v2_widget_confirm_description_phone_number": "ဖုန်းနံပါတ်",
+  "address": "လိပ်စာ",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "ကြိုတင်မှာယူမှု အောင်မြင်ပါပြီ။",
+  "flight_v2_widget_confirm_text_reservation_request": "သင်၏ Booking တောင်းဆိုချက်ကို အောင်မြင်စွာ ပြုလုပ်ပြီးပါပြီ။",
+  "flight_v2_widget_confirm_text_paid_already": "(အခကြေးငွေ)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "ခရီးစဉ်အသေးစိတ်ကို အောက်ပါလင့်တွင် ကြည့်ရှုနိုင်ပါသည်။",
+  "flight_v2_widget_confirm_title_payment_information": "ငွေပေးချေမှုအချက်အလက်",
+  "flight_v2_widget_confirm_description_orders": "အော်",
+  "flight_v2_widget_confirm_description_price": "စျေးနှုန်း",
+  "flight_v2_widget_confirm_description_payers": "အခွန်ပေးသူ",
+  "flight_v2_widget_confirm_button_view_details": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "စာအုပ်အသစ်",
+  "flight_v2_widget_confirm_textspan_trusting_using": "ကျွန်ုပ်တို့၏ဝန်ဆောင်မှုကို ယုံကြည်သည့်အတွက် ကျေးဇူးတင်ပါသည်။",
+  "flight_v2_widget_confirm_textspan_question_help": "သင့်တွင်မေးခွန်းများ သို့မဟုတ် နောက်ထပ်အကူအညီလိုအပ်ပါက Hahalolo အကူအညီစင်တာသို့ ဆက်သွယ်ပါ။",
+  "flight_v2_widget_confirm_text_paid_instructions": "ညွှန်ကြားချက်များအတွက်။",
+  "flight_v2_widget_confirm_title_passenger_information": "ခရီးသည်အချက်အလက်",
+  "flight_v2_widget_confirm_title_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_widget_confirm_text_ticket_class": "အတန်း",
+  "flight_v2_widget_confirm_text_booking_code": "ဘွတ်ကင်ကိုးကား",
+  "flight_v2_widget_confirm_text_flight": "ပျံသန်းခြင်း။",
+  "flight_v2_widget_confirm_description_name": "နာမည်",
+  "flight_v2_widget_confirm_description_guest_type": "ခရီးသည်အမျိုးအစား",
+  "flight_v2_widget_confirm_description_baggage": "အထုပ်အပိုး",
+  "flight_v2_widget_dialog_config_button_agree": "သဘောတူတယ်။",
+  "flight_v2_widget_dialog_config_button_deny": "ကျော်သွားပါ။",
+  "flight_v2_widget_dialog_config_title": "အချက်အလက်ပြောင်းပါ။",
+  "flight_v2_widget_dialog_config_text_span_change_search": "သင်၏ရှာဖွေမှုအချက်အလက်\nကို ပြောင်းလဲလိုသည်မှာ သေချာပါသလား။",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "သင်၏ရှာဖွေမှုအချက်အလက်ကို ပြောင်းလဲရန် သဘောတူပါက၊ ယခင်ဒေတာအားလုံးကို ဖျက်ပစ်မည်ဖြစ်သည်။",
+  "flight_v2_widget_dialog_config_title_delete_account": "အကောင့်ဖျက်ပါ။",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "အကောင့်သည် ငွေပေးချေမှုအကောင့်ရွေးချယ်မှုကဏ္ဍတွင် ပေါ်လာမည်မဟုတ်ပါ။ ဤငွေပေးချေမှုအကောင့်ကို ဖျက်လိုပါသလား။ \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "အခြားလေယာဉ်ပျံသန်းချိန်ကို ရွေးပါ။",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "ရှာဖွေမှုပြောင်းပါ။",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "ပျံသန်းမှုသည် ခွင့်ပြုချိန်ထက် ကျော်လွန်သွားခဲ့သည်။",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "သင်ရွေးချယ်ထားသော လေယာဉ်သည် ခွင့်ပြုထားသည့် ကြိုတင်စာရင်းသွင်းချိန်ထက် ကျော်လွန်နေပါသည်။",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "ကျေးဇူးပြု၍ ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ။",
+  "flight_v2_widget_dialog_config_text_span_by_number": "မှတဆင့်",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Hotline",
+  "flight_v2_widget_dialog_config_text_span_or": "သို့မဟုတ်",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "ပျံသန်းမှုအသစ်အတွက် သင်၏ရှာဖွေမှုကို ပြောင်းလဲပါ။",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "အခြားလေယာဉ်ကို ရွေးပါ။",
+  "flight_v2_widget_dialog_config_title_not_available": "ပျံသန်းမှု\nမရနိုင်ပါ။",
+  "flight_v2_widget_dialog_config_text_span_sorry": "ဝမ်းနည်းပါသည်၊ သင်၏ရွေးချယ်ထားသော လေယာဉ်ကို မရနိုင်တော့ပါ။ ကျေးဇူးပြု",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "အခြားလေယာဉ်ခရီးစဉ်ကို ရွေးချယ်ပါ သို့မဟုတ် သင်၏ရှာဖွေမှုကို ပြောင်းလဲပါ။",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "ယာဉ်စီးခ အပြောင်းအလဲ",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "သင့်ကားခသည် ပြောင်းလဲသွားပါသည်။",
+  "flight_v2_widget_dialog_config_text_span_to": "ရန်",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nd လေကြောင်းလိုင်း၏ ယာဉ်စီးခ အပြောင်းအလဲကြောင့်",
+  "flight_v2_widget_field_fname_required": "နောက်ဆုံးအမည် လိုအပ်ပါသည်။",
+  "flight_v2_widget_field_fname_invalid": "နောက်ဆုံးအမည် မမှန်ကန်ပါ။",
+  "flight_v2_widget_field_fname_last_name": "နောက်ဆုံးအမည် (အသံအမှတ်အသားမပါ)",
+  "flight_v2_widget_field_lname_required": "အလယ်နှင့် ပထမ/အမည်ပေးရန်လိုအပ်ပါသည်။",
+  "flight_v2_widget_field_lname_invalid": "အလယ်တန်းနှင့် ပထမ/အမည် မမှန်ကန်ပါ။",
+  "flight_v2_widget_field_lname_middle_first_name": "အလယ်၊",
+  "flight_v2_widget_field_email_required": "အီးမေးလ် လိုအပ်သည်။",
+  "flight_v2_widget_field_email_invalid": "မမှန်ကန်သောအီးမေးလ်",
+  "flight_v2_widget_field_email_email": "အီးမေးလ်",
+  "flight_v2_widget_field_phone_required": "ဖုန်းနံပါတ် လိုအပ်ပါသည်။",
+  "flight_v2_widget_field_phone_invalid": "ဖုန်းနံပါတ် မမှန်ကန်ပါ။",
+  "flight_v2_widget_field_phone_phone": "ဖုန်းနံပါတ်",
+  "flight_v2_widget_field_address_required": "လိပ်စာ လိုအပ်ပါသည်။",
+  "flight_v2_widget_field_address_invalid": "လိပ်စာ မမှန်ကန်ပါ။",
+  "flight_v2_widget_field_address_address": "လိပ်စာ",
+  "flight_v2_widget_field_city_required": "ပြည်နယ်/မြို့ လိုအပ်သည်။",
+  "flight_v2_widget_field_city_invalid": "မမှန်ကန်သော ပြည်နယ်/မြို့",
+  "flight_v2_widget_field_city_city": "ပြည်နယ်/မြို့",
+  "flight_v2_widget_field_city_snackbar_text": "မြို့ကိုမရွေးချယ်မီ သင်၏နိုင်ငံသားကို ရွေးချယ်ပါ။",
+  "flight_v2_widget_field_country_required": "နိုင်ငံသားဖြစ်ရန် လိုအပ်သည်။",
+  "flight_v2_widget_field_country_invalid": "မမှန်ကန်သောနိုင်ငံသား",
+  "flight_v2_widget_field_country_country": "လူမျိုး",
+  "flight_v2_widget_field_field_card_hint": "အသင်းဝင်ကတ်နံပါတ်",
+  "flight_v2_widget_field_field_card_error_input": "ကတ်မမှန်ကန်ပါ။",
+  "flight_v2_widget_field_field_card_default_error": "ကတ်လိုအပ်ပါသည်။",
+  "flight_v2_widget_field_field_date_hint": "မွေးရက်",
+  "flight_v2_widget_field_field_date_error_input": "ကျေးဇူးပြု၍ ကွက်လပ်မထားပါနှင့်",
+  "flight_v2_widget_field_field_date_default_error": "ကျေးဇူးပြု၍ ကွက်လပ်မထားပါနှင့်",
+  "flight_v2_widget_field_field_date_default_error_infant": "မွေးကင်းစကလေးသည် အသက် 2 နှစ်အောက်ဖြစ်ရမည်။",
+  "flight_v2_widget_field_field_date_default_error_children": "ကလေးများသည် အသက် ၂ နှစ်မှ ၁၂ နှစ်အထိ ဖြစ်ရမည်။",
+  "flight_v2_widget_payment_contact_information": "ဆက်သွယ်ရန်အချက်အလက်",
+  "flight_v2_widget_payment_full_name": "နာမည်အပြည့်အစုံ",
+  "flight_v2_widget_payment_gender": "ကျား၊",
+  "flight_v2_widget_payment_phone_number": "ဖုန်းနံပါတ်",
+  "flight_v2_widget_payment_address": "လိပ်စာ",
+  "flight_v2_widget_payment_birthday": "မွေးရက်",
+  "flight_v2_widget_payment_male": "အထီး",
+  "flight_v2_widget_payment_female": "အပျို",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "နာမည်အပြည့်အစုံ:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "လိင်-",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "မွေးရက်:",
+  "flight_v2_widget_payment_checked_baggage": "အိတ်ကို စစ်တယ်။",
+  "flight_v2_widget_payment_note": "မှတ်ချက်",
+  "flight_v2_widget_payment_information": "သတင်းအချက်အလက်",
+  "flight_v2_widget_payment_adult": "လူကြီး",
+  "flight_v2_widget_payment_children": "ကလေး",
+  "flight_v2_widget_payment_infant": "ကလေး",
+  "flight_v2_widget_payment_title_adult_information": "လူကြီးအချက်အလက်",
+  "flight_v2_widget_payment_title_children_information": "ကလေးအချက်အလက်",
+  "flight_v2_widget_payment_title_infant_information": "ကလေးအချက်အလက်",
+  "flight_v2_widget_payment_customer_information": "ခရီးသည်အချက်အလက်",
+  "flight_v2_widget_payment_edit_information": "အချက်အလက်ကို တည်းဖြတ်ပါ။",
+  "flight_v2_widget_payment_bonus_services": "အပိုဝန်ဆောင်မှုများ",
+  "flight_v2_widget_payment_membership_card_number": "အသင်းဝင်ကတ်နံပါတ်",
+  "flight_v2_widget_payment_text_loyal_customer": "မကြာခဏလက်ကမ်းကြော်ငြာများ",
+  "flight_v2_widget_payment_text_making_flight_payment": "သင်သည် အောက်ပါခရီးသည်များအတွက် လေယာဉ်ခကို ပေးချေနေပါသည်-",
+  "flight_v2_widget_result_total_amount": "စုစုပေါင်းစျေးနှုန်း",
+  "flight_v2_widget_result_taxes_fees": "(အခွန်နှင့်အခကြေးငွေများပါဝင်သည်)",
+  "flight_v2_widget_result_elevate_button_book": "စာအုပ်",
+  "flight_v2_widget_result_text_flight": "အပိုင်း",
+  "flight_v2_widget_result_text_departure_flight": "ထွက်ခွာလေကြောင်း",
+  "flight_v2_widget_result_text_return_flight": "အပြန်လေယာဉ်",
+  "flight_v2_component_code_title": "ကြိုတင်မှာထားကြည့်လိုက်ပါ။",
+  "flight_v2_component_code_retype": "ပြန်ဝင်ပါ။",
+  "flight_v2_component_code_search_btn": "ဦးမော့လာသည်",
+  "flight_v2_component_code_error": "ကြိုတင်စာရင်းသွင်းမှု အချက်အလက် မတွေ့ပါ။\nကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_widget_detail_text_booking_code": "ကြိုတင်စာရင်းသွင်းခြင်း ရည်ညွှန်းချက်",
+  "flight_v2_widget_detail_text_status": "အခြေအနေ",
+  "flight_v2_widget_detail_text_booked": "ဘွတ်ကင်လုပ်ထားသည်။",
+  "flight_v2_widget_detail_text_cancelled": "ဖျက်သိမ်းလိုက်သည်။",
+  "flight_v2_widget_detail_text_paid": "အခကြေးငွေ",
+  "flight_v2_widget_detail_text_unpaid": "အခကြေးငွေမယူရသေး",
+  "flight_showcase_domestic_round_trip_step1": "အချိန်ကို တစ်နေ့တာ၏ အနိမ့်ဆုံးနှုန်းဖြင့် ပြသထားသည်။",
+  "flight_showcase_domestic_round_trip_step2": "လေယာဉ်ပျံသန်းချိန်ကို ပြန်လည်ရွေးချယ်ရန် နှစ်ဖက်စလုံးသို့ ပွတ်ဆွဲပါ။",
+  "flight_showcase_domestic_round_trip_step3": "သင်၏ထွက်ခွာမည့်လေယာဉ်ကို ရွေးချယ်ပါ။",
+  "flight_showcase_domestic_round_trip_step4": "သင်၏အသွားအပြန်လေယာဉ်ကိုရွေးချယ်ပါ။",
+  "flight_showcase_domestic_round_trip_step5": "ထွက်ခွာချိန်နှင့် အပြန်လေယာဉ်ခရီးစဉ်များကို အချိန်မရွေး ပြန်လည်ရွေးချယ်နိုင်ပါသည်။",
+  "flight_showcase_domestic_round_trip_step6": "ကြိုတင်မှာယူခြင်းမပြုမီ လုံလောက်သော လေယာဉ်ခရီးစဉ်များကို ရွေးချယ်ရန် လိုအပ်ပါသည်။",
+  "flight_showcase_inter_round_trip_step1": "သင့်အတွက် သင့်လျော်သော လေယာဉ်ခရီးစဉ်ကို ရွေးချယ်ပါ။",
+  "flight_showcase_inter_round_trip_step1_desc": "လေယာဉ်ခရီးစဉ်တစ်ခုတွင် ထွက်ခွာမည့်လေယာဉ်နှင့် အသွားအပြန်ခရီးစဉ်တို့ ပါဝင်သည်။",
+  "flight_showcase_place_from": "ထံမှ",
+  "flight_showcase_place_to": "ရန်",
+  "flight_showcase_tutorial": "ကျူတိုရီရယ်",
+  "flight_showcase_back": "ကျော",
+  "flight_showcase_done": "ပြီးအောင်",
+  "flight_showcase_continue": "နောက်တစ်ခု",
+  "flight_v2_component_code_hint_text": "ကြိုတင်စာရင်းသွင်းခြင်း ရည်ညွှန်းချက်ကို ထည့်သွင်းပါ။",
+  "flight_v2_component_booking_text_note_upon": "ဘယ်တော့လဲ",
+  "flight_v2_component_booking_text_payment_after": "နောက်မှ ပေးချေပါ။",
+  "flight_v2_component_booking_text_your_booking": "သင်၏ကြိုတင်မှာယူမှုကို 12 နာရီအတွင်းကျင်းပလိမ့်မည်။ သတ်မှတ်ထားသောအချိန်အတွင်း သင့်ငွေပေးချေမှုကို မပြုလုပ်သေးပါက ၎င်းကို အလိုအလျောက် ပယ်ဖျက်ပါမည်။ ကြိုတင်စာရင်းသွင်းခြင်းလုပ်ငန်းစဉ်ကို အပြီးသတ်ရန် သတ်မှတ်ထားသောအချိန်အတွင်း ငွေပေးချေပါ။",
+  "flight_v2_dialog_default_payment_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Hahalolo ဖောက်သည်ဝန်ဆောင်မှုကို ဆက်သွယ်ပါ။",
+  "flight_v2_dialog_default_payment_not_success": "ငွေပေးချေမှု မအောင်မြင်ပါ။",
+  "flight_v2_component_result_message_appropriate_flight": "အသွားအပြန်လေယာဉ်အတွက် ထွက်ခွာချိန်သည် ထွက်ခွာချိန် လေယာဉ်ဆင်းသက်ပြီးနောက် အနည်းဆုံး 02 နာရီအတွင်း ဖြစ်ပွားရပါမည်။ ကျေးဇူးပြု၍ သင့်လျော်သော လေယာဉ်ခရီးစဉ်ကို ရွေးချယ်ပါ။",
+  "flight_v2_component_notification_not_available": "ပျံသန်းမှု မရရှိနိုင်ပါ။",
+  "flight_v2_search_enter_your_reservation": "သင်၏ဘွတ်ကင်အချက်အလက်ကိုရှာဖွေရန် သင်၏ဘွတ်ကင်ရည်ညွှန်းချက်ကို ထည့်သွင်းပါ။",
+  "flight_v2_search_booking_reference": "ဘွတ်ကင်ကိုးကား",
+  "flight_v2_search_title_booking_code": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှုကို ရှာဖွေရန် သင်၏ ကြိုတင်စာရင်းသွင်းမှု ရည်ညွှန်းချက်ကို ထည့်သွင်းပါ။",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "နောက်ဆုံးအမည် (သံစဉ်အမှတ်အသားမပါ)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "အလယ်အမည်နှင့် ပထမအမည်/ပေးထားသောအမည် (သံစဉ်အမှတ်အသားမပါဘဲ)",
+  "flight_v2_widget_common_rules_1": "နိုင်ငံတကာလေကြောင်းများ သို့မဟုတ် နိုင်ငံတကာအကူးအပြောင်းများအတွက်၊ သင်၏နိုင်ငံကူးလက်မှတ်သည် ထွက်ခွာမည့်ရက်မတိုင်မီ အနည်းဆုံး 06 လအထိ သက်တမ်းရှိရပါမည်။",
+  "flight_v2_widget_common_rules_2": "ဗီယက်နမ်လေကြောင်းလိုင်းနှင့် Bamboo Airways- ကိုယ်ဝန်ဆောင်ကာလ ၃၆ ပတ်မှ ကိုယ်ဝန်ဆောင်ခရီးသည်များကို သယ်ဆောင်ရန် ငြင်းဆိုခြင်း။ Vietjet Air နှင့် Vietravel လေကြောင်းလိုင်း- ကိုယ်ဝန်ဆောင်ကာလ ၃၂ ပတ်မှ ကိုယ်ဝန်ဆောင်ခရီးသည်များကို သယ်ဆောင်ရန် ငြင်းဆိုခြင်း။",
+  "flight_v2_widget_common_rules_3": "ကလေးအသက် 14 ရက်မှ 02 နှစ်အောက်အထိ အသက် 18 နှစ်အထက် လူကြီးတစ်ဦးနှင့် အတူလိုက်ပါရပါမည်။",
+  "flight_v2_widget_common_rules_4": "ကလေး၏ မွေးစာရင်း/နိုင်ငံကူးလက်မှတ်ကို အခြေခံ၍ မွေးသက္ကရာဇ်မှ လေယာဉ်ထွက်ခွာသည့်နေ့အထိ ကလေးများ၏ အသက်ကို တွက်ချက်မည်ဖြစ်သည်။",
+  "flight_v2_widget_common_rules_5": "တစ်ကိုယ်တော် ပျံသန်းနေသော ကလေးများအတွက်၊ လိုက်ပါသွားခြင်းမရှိသော အသေးစားဝန်ဆောင်မှုအကြောင်း နောက်ထပ်အချက်အလက်များအတွက် ကိုယ်စားလှယ်ထံ တိုက်ရိုက်ဆက်သွယ်ပါ။",
+  "flight_range_slider_price_range": "စျေးနှုန်းအကွာအဝေး",
+  "flight_v2_common_done": "ပြီးပြီ။",
+  "flight_v2_detail_airline_operator_by": "'{organization}' မှ လုပ်ဆောင်သည်",
+  "flight_v2_detail_airline_alert_transit": "မှတ်ချက်- ခရီးသည်များသည် အကောက်ခွန်ရှင်းလင်းရေးပြုလုပ်ရန်နှင့် အိမ်ရှင်နိုင်ငံ၏ တောင်းဆိုချက်အရ ၎င်းတို့၏ ဖြတ်သန်းဗီဇာကို တင်သွင်းရန် လိုအပ်နိုင်သည်။",
+  "flight_v2_detail_airline_total_price": "စုစုပေါင်း",
+  "flight_v2_detail_airline_title_tax_and_fee": "(အခွန်နှင့်အခကြေးငွေများ အပါအဝင်)",
+  "flight_v2_detail_airline_button_add_ticket": "လက်မှတ်ထည့်ပါ။",
+  "flight_v2_detail_airline_button_change_ticket": "လက်မှတ်ပြောင်းပါ။",
+  "flight_v2_detail_airline_button_booking_ticket": "ဘွတ်ကင်လက်မှတ်",
+  "flight_v2_detail_airline_departure_flight": "ထွက်ခွာလေကြောင်း",
+  "flight_v2_detail_airline_return_flight": "အပြန်လေယာဉ်",
+  "flight_v2_information_contact_email": "အီးမေးလ်",
+  "flight_v2_information_customer_title_full_name": "နာမည်အပြည့်အစုံ- {fullName}",
+  "flight_v2_information_customer_title_gender": "လိင်- {gender}",
+  "flight_v2_information_customer_title_birth_day": "မွေးနေ့- {birthDay}",
+  "flight_v2_payment_include_note_payment": "(မှတ်ချက်- {HAHALOLO} သည် သုံးစွဲသူများအား {free} ဘဏ်အခကြေးငွေဖြင့် ပံ့ပိုးပေးမည်)",
+  "flight_v2_payment_include_free_fee_payment": "အခမဲ့",
+  "flight_v2_payment_use_saved_info_user": "အဆက်အသွယ်၏ အချက်အလက် သို့မဟုတ် သိမ်းဆည်းထားသော ငွေပေးချေမှု အချက်အလက်ကို အသုံးပြုပါ။",
+  "flight_v2_payment_success_thank_user": "'{HAHALOLO}' ဝန်ဆောင်မှုကို ယုံကြည်သည့်အတွက် ကျေးဇူးတင်ပါသည်။ သင့်တွင် မေးခွန်းများ သို့မဟုတ် နောက်ထပ်အကူအညီ လိုအပ်ပါက၊ ညွှန်ကြားချက်များအတွက် {phone} ရှိ Hahalolo အကူအညီဌာနသို့ ဆက်သွယ်ပါ။",
+  "flight_v2_payment_success_notifier": "သင်၏ ကြိုတင်မှာယူမှု တောင်းဆိုချက်ကို အောင်မြင်စွာ ပြုလုပ်ပြီး '{wasPayment}'။ ခရီးစဉ်အသေးစိတ်ကို အောက်ပါလင့်တွင် ကြည့်ရှုနိုင်ပါသည်။",
+  "flight_v2_payment_success_was_payment": "(အခကြေးငွေ)",
+  "flight_v2_payment_success_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_payment_success_outbound_flight_information": "ထွက်ခွာလေကြောင်းအချက်အလက်",
+  "flight_v2_payment_success_return_flight_information": "ပျံသန်းမှုအချက်အလက်ကို ပြန်ပို့ပါ။",
+  "flight_v2_information_bottom_sheet_adult": "{count} x အရွယ်ရောက်ပြီးသူ",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x ကလေး",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x ကလေး",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "အရွယ်ရောက်ပြီးသူ အချက်အလက် {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "ကလေးအချက်အလက် {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "ကလေးအချက်အလက် {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} လူကြီးများ",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} ကလေးများ",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} ကလေးများ",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "{place} တွင် ဖြတ်သန်းချိန် {time} ခန့်",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "အခွန်များနှင့် အခကြေးငွေများ (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "အခြေခံယာဉ်စီးခ (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "နောက်ဆုံးထွက်ချိန်",
+  "flight_v2_widget_detail_text_departure_flight": "ထွက်ခွာလေကြောင်း",
+  "flight_v2_widget_detail_text_return_flight": "အပြန်လေယာဉ်",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(အခွန်နှင့်အခကြေးငွေများပါဝင်သည်)",
+  "flight_input_title_note_1": "ခရီးစဉ်တွင် ပထမအပိုင်း၏ ထွက်ခွာမည့်ရက်မတိုင်မီ အနည်းဆုံး 06 လ ပတ်စ်ပို့ သက်တမ်းရှိရမည် သတိပြုပါ။",
+  "flight_input_title_note_2": "ခရီးသည်များသည် လုံလောက်သော စာရွက်စာတမ်းများ ရှိရန် လိုအပ်ပြီး ဦးတည်ရာနိုင်ငံ၏ စည်းမျဉ်းများနှင့် လူဝင်မှုကြီးကြပ်ရေးဆိုင်ရာ လုပ်ထုံးလုပ်နည်းများနှင့် ကိုက်ညီရန် လိုအပ်ပါသည်။",
+  "flight_input_title_note_3": "သတ်မှတ်ထားသည့်အတိုင်း တရားဝင်စာရွက်စာတမ်းများ မပါရှိပါက လေကြောင်းလိုင်းသည် သယ်ဆောင်ခွင့်ကို ငြင်းဆိုပိုင်ခွင့်ရှိသည်။",
+  "flight_input_title_note_4": "ခရီးသည်များ ပြည်ဝင်ခွင့် ငြင်းပယ်ခံရပါက လေကြောင်းလိုင်းက တာဝန်မယူပါ။",
+  "flight_input_title_note_5": "ခရီးသည်များသည် လေဆိပ်တွင် အချိန်မှန် check in လုပ်ရပါမည်။",
+  "flight_input_title_note_6": "အဖော်မပါသော အသေးစားခရီးသည်များသည် လေကြောင်းလိုင်းကို တိုက်ရိုက်ဆက်သွယ်ရန် လိုအပ်ပါသည်။",
+  "flight_input_title_note_7": "ကိုယ်ဝန်ဆောင်ကာလ ၃၂ ပတ်မှ ကိုယ်ဝန်ဆောင်ခရီးသည်များသည် လေကြောင်းလိုင်းကို တိုက်ရိုက်ဆက်သွယ်ရန် လိုအပ်သည်။",
+  "flight_input_title_note_8": "ခရီးသည်များ၏ အသက်ကို ခရီးစဉ်တွင် မွေးဖွားသည့်နေ့နှင့် ထွက်ခွာမည့်ရက်စွဲတို့အကြား အချိန်အပိုင်းအခြားအရ ပတ်စပို့နှင့် မွေးလက်မှတ်ကဲ့သို့သော ခရီးသည်များ၏ သက်သေခံစာရွက်စာတမ်းများအပေါ် အခြေခံ၍ တွက်ချက်သည်။",
+  "flight_input_passenger_choose_birth_day": "သင်၏မွေးသက္ကရာဇ်ကို ရွေးပါ။",
+  "flight_input_payment_show_passenger_title": "သင်သည် အောက်ပါခရီးသည်များအတွက် လေယာဉ်ကို ကြိုတင်မှာယူနေပါသည်-",
+  "flight_input_payment_reservation": "စာအုပ်",
+  "flight_v2_model_booking_luggage_handle": "ခရီးဆောင်အိတ်",
+  "flight_search_result_progress_searching_title": "ရှာဖွေနေသည်...",
+  "flight_v2_dialog_unavailable_ticket": "ပျံသန်းမှု မရရှိနိုင်ပါ။",
+  "flight_v2_dialog_choose_ticket": "လေယာဉ်ခရီးစဉ်ကို သင်ရွေးချယ်ပြီးပါပြီ။",
+  "flight_v2_dialog_from": "ထံမှ",
+  "flight_v2_dialog_time_take_off_flight": "ပျံသန်းချိန်",
+  "flight_v2_dialog_happening": "ဖြစ်ပေါ်ရမည်။",
+  "flight_v2_dialog_minimum_hour": "အနည်းဆုံး 02 နာရီ",
+  "flight_v2_dialog_after_trip": "ပျံသန်းပြီးနောက်",
+  "flight_v2_dialog_landed": "ဆင်းသက်သည်။",
+  "flight_v2_dialog_choose_again_ticket": "အခြားလေယာဉ်ခရီးစဉ်ကို ရွေးချယ်လိုပါသလား။",
+  "flight_passenger_view_service_packages": "ဝန်ဆောင်မှုအထုပ်များ",
+  "flight_passenger_view_check_in_baggage": "စစ်ဆေးထားသော ခရီးဆောင်အိတ်:",
+  "flight_v2_widget_detail_text_departure": "ထွက်ခွာ",
+  "flight_v2_widget_detail_text_destination": "ဦးတည်ရာ",
+  "flight_handnote_international_item_view_order_code": "အမိန့်ကုဒ်",
+  "flight_handnote_international_order_view": "အပ်ဒိတ်ရက်စွဲ",
+  "flight_order_detail_view_booking_code": "ဘွတ်ကင်ကိုးကား",
+  "flight_handnote_international_item_view_departure_date": "ထွက်ခွာသွားသည့်ရက်စွဲ",
+  "flight_handnote_international_item_view_booking_status": "ကြိုတင်စာရင်းသွင်းမှုအခြေအနေ",
+  "flight_input_passenger_infor_title": "ခရီးသည်အချက်အလက်",
+  "flight_input_payment_show_contact_full_name": "နာမည်အပြည့်အစုံ",
+  "flight_passenger_view_guest_type": "ခရီးသည်အမျိုးအစား",
+  "flight_passenger_view_ticket_number": "လက်မှတ်နံပါတ်",
+  "flight_order_detail_title_flight_information": "ပျံသန်းမှုအချက်အလက်",
+  "flight_v2_dialog_common_agree": "သဘောတူသည်။",
+  "flight_v2_dialog_common_confirm": "အတည်ပြုပါ။",
+  "flight_v2_dialog_common_skip": "ကျော်သွားပါ။",
+  "flight_v2_dialog_common_cancel": "လုပ်တော့",
+  "flight_v2_dialog_common_exit": "ထွက်ပေါက်",
+  "flight_v2_dialog_common_change_flight": "သဘောတူသည်။",
+  "flight_v2_dialog_common_change_search": "ရှာဖွေမှုပြောင်းပါ။",
+  "flight_v2_dialog_title_change_information": "အချက်အလက်ပြောင်းပါ။",
+  "flight_v2_dialog_sub_title_change_information": "ရှာဖွေမှုအချက်အလက်ကို ပြောင်းလဲလိုသည်မှာ သေချာပါသလား။",
+  "flight_v2_dialog_message_change_information": "ရှာဖွေမှုအချက်အလက်ကို ပြောင်းလဲရန် သဘောတူပါက၊ ယခင်ဒေတာအားလုံးကို ဖျက်ပစ်ပါမည်။",
+  "flight_v2_dialog_title_not_available": "ပျံသန်းမှု မရရှိနိုင်ပါ။",
+  "flight_v2_dialog_message_not_available": "ဝမ်းနည်းပါသည်၊ သင်ရွေးချယ်ထားသော လေယာဉ်ကို ယခုမရနိုင်ပါ။ ကျေးဇူးပြု၍ '{chooseOtherFlight}'။",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "အခြားလေယာဉ်ခရီးစဉ်ကို ရွေးချယ်ပါ သို့မဟုတ် သင်၏ရှာဖွေမှုကို ပြောင်းလဲပါ။",
+  "flight_v2_dialog_title_exceed_time_allow": "ပျံသန်းချိန်က ခွင့်ပြုချိန်ကို ကျော်လွန်သွားပြီ",
+  "flight_v2_dialog_message_exceed_time_allow": "သင်ရွေးချယ်ထားသော လေယာဉ်ခရီးစဉ်သည် ခွင့်ပြုထားသော ကြိုတင်မှာယူချိန်ထက် ကျော်လွန်နေပါသည်။ ကျေးဇူးပြု၍ '{HAHALOLO}' ကို hotline '{hotline}' သို့မဟုတ် '{changeOtherFlight}' မှတဆင့် ဆက်သွယ်ပါ။",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "ပျံသန်းမှုအသစ်များအတွက် ရှာဖွေမှုကို ပြောင်းလဲပါ။",
+  "flight_v2_dialog_title_delete_account": "ငွေပေးချေမှုအကောင့်ကိုဖျက်ပါ။",
+  "flight_v2_dialog_sub_title_delete_account": "ဤငွေပေးချေမှုအကောင့်ကို ဖျက်လိုသည်မှာ သေချာပါသလား။",
+  "flight_v2_dialog_message_delete_account": "အကောင့်သည် ငွေပေးချေမှုအကောင့်ရွေးချယ်မှုတွင် ပေါ်လာတော့မည်မဟုတ်ပါ။",
+  "flight_v2_dialog_title_change_ticket_price": "ယာဉ်စီးခ အပြောင်းအလဲ",
+  "flight_v2_dialog_message_change_ticket_price": "မှာယူမှုစုစုပေါင်းသည် '{oldPrice}' မှ '{newPrice}' သို့ ပြောင်းလဲသွားသည်။ ရနိုင်လျှင် ကူပွန်ကုဒ်/ဒင်္ဂါးပြား/အမှတ်များကို ပြန်လည်ရွေးချယ်ပါ။",
+  "flight_v2_dialog_title_min_support_payment": "မှာယူမှုသည် ငွေပေးချေမှုအတွက် အရည်အချင်းမပြည့်မီပါ။",
+  "flight_v2_dialog_message_min_support_payment": "သတ်မှတ်ချက်ပြည့်မီသော မှာယူမှုတွင် စုစုပေါင်းပေးချေမှုမှာ '{minRange}' သို့မဟုတ် အနည်းဆုံး '{maxRange}' ဖြစ်သည်။ ငွေပေးချေမှုအခြေအနေများနှင့်ကိုက်ညီရန် ကူပွန်ကုဒ်၊ အကြွေစေ့များ သို့မဟုတ် ရမှတ်များကို သင်ပြောင်းလဲနိုင်သည်။",
+  "flight_v2_dialog_title_order_not_found": "အသိပေးချက်များ",
+  "flight_v2_dialog_message_order_not_found": "အမှာစာမတွေ့ပါ။",
+  "flight_v2_dialog_title_exit_order": "အမိန့်မှထွက်ပါ။",
+  "flight_v2_dialog_message_exit_order_cart": "သင့်လှည်း",
+  "flight_v2_dialog_title_payment_error_default": "ငွေပေးချေမှု မအောင်မြင်ပါ။",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Hahalolo ဖောက်သည်ဝန်ဆောင်မှု '{here}' သို့ ဆက်သွယ်ပါ။",
+  "flight_v2_dialog_message_payment_error_here": "ဒီမှာ",
+  "flight_v2_dialog_title_voucher_fee_change": "ယာဉ်စီးခ အပြောင်းအလဲ",
+  "flight_v2_dialog_message_voucher_fee_change": "ယာဉ်စီးခသည် '{oldPrice}' မှ '{newPrice}' သို့ ပြောင်းလဲသွားပါသည်။ အကူအညီအတွက် ဖောက်သည်ဝန်ဆောင်မှု Hahalolo '{here}' သို့ ဆက်သွယ်ပါ။",
+  "flight_v2_dialog_message_voucher_fee_change_here": "ဒီမှာ",
+  "flight_v2_dialog_title_system_error": "အသိပေးချက်များ",
+  "flight_v2_dialog_message_system_error": "သင့်မှာယူမှုအား အောင်မြင်စွာ ပေးချေပြီးဖြစ်ကာ မကြာမီ သင့် Handnotes တွင် အပ်ဒိတ်လုပ်ပါမည်။",
+  "flight_v2_dialog_title_voucher_not_available": "အသိပေးချက်များ",
+  "flight_v2_dialog_message_voucher_not_available": "ကူပွန်ကုဒ်ကို မရနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_dialog_title_point_not_available": "အသိပေးချက်များ",
+  "flight_v2_dialog_message_point_not_available": "အမှတ်များမရနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_dialog_title_coin_not_available": "အသိပေးချက်များ",
+  "flight_v2_dialog_message_coin_not_available": "ဒင်္ဂါးပြားများ မရရှိနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "flight_v2_dialog_halo_support": "'{message}'။ Hahalolo ဖောက်သည်ဝန်ဆောင်မှု '{here}' သို့ ဆက်သွယ်ပါ။",
+  "flight_v2_dialog_halo_support_here": "ဒီမှာ",
+  "flight_v2_dialog_title_stripe_error": "အသိပေးချက်များ",
+  "flight_v2_price_info_read_more": "ပိုမိုကြည့်ရှုပါ။",
+  "flight_v2_price_info_total_payment": "စုစုပေါင်းပေးချေမှု",
+  "flight_v2_price_info_before_payment": "ကြိုတင်ငွေပေးချေမှုပမာဏ",
+  "flight_v2_component_booking_title_payment_information": "ငွေပေးချေမှုအချက်အလက်",
+  "flight_v2_model_booking_checked_baggage": "စစ်ဆေးထားသောအိတ် (နောက်ထပ်ဝယ်နိုင်သည်)",
+  "flight_v2_widget_booking_coupon_code": "ကူပွန်ကုဒ်",
+  "flight_v2_widget_booking_use_coins": "အကြွေများကိုသုံးပါ။",
+  "flight_v2_component_booking_use_point": "အမှတ်များကို အသုံးပြုပါ။",
+  "flight_v2_widget_booking_title_fare_details": "ယာဉ်စီးခအသေးစိတ်",
+  "flight_v2_widget_confirm_title_contact_information": "ဆက်သွယ်ရန်အချက်အလက်များ",
+  "flight_input_passenger_hint_birth_day": "မွေးရက်",
+  "flight_v2_widget_booking_membership_card_number": "အသင်းဝင်ကတ်နံပါတ်",
+  "flight_passenger_view_baggage": "အထုပ်အပိုး",
+  "flight_v2_dialog_message_exit_order": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှုကို ပြုလုပ်နေပါသည်။ သင်ထွက်သွားပါက၊ သင့်မှာယူမှုကို '{cart}' တွင် သိမ်းဆည်းထားမည်ဖြစ်သည်။ ဤအမှာစာအတွက် '{time}' မတိုင်မီ သင်သည် ငွေပေးချေနိုင်သည်",
+  "flight_v2_dialog_message_exit_order_no_hold": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှု မပြုလုပ်ရသေးပါ။ သင်ထွက်သွားပါက၊ သင့်မှာယူမှုကို '{cart}' တွင် သိမ်းဆည်းထားမည်ဖြစ်သည်။ လက်မှတ်ထုတ်ပေးမှုကို အပြီးသတ်ရန် ငွေပေးချေနိုင်ပါသည်။",
+  "flight_v2_payment_back_from_payment": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှုကို ပြုလုပ်နေပါသည်။ မှာယူမှုအချက်အလက်ကို သင်ပြောင်းလဲ၍မရပါ။ လက်မှတ်ထုတ်ပေးမှုကို အပြီးသတ်ရန် '{time}' မတိုင်မီ ငွေပေးချေပါ။",
+  "flight_v2_payment_back_from_payment_no_hold": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှု မပြုလုပ်ရသေးပါ။ ကြိုတင်စာရင်းသွင်းခြင်းနှင့် လက်မှတ်ထုတ်ပေးခြင်းတို့ကို အပြီးသတ်ရန် ကျေးဇူးပြု၍ ငွေပေးချေပါ။",
+  "flight_price_detail_view_total_fare": "စုစုပေါင်းယာဉ်စီးခ",
+  "flight_price_detail_view_service_fee": "ဝန်ဆောင်ခ",
+  "flight_price_detail_view_payment_fee": "အခကြေးငွေ",
+  "flight_v2_notification_baggage": "သင်သည် {baggage} ကို ရွေးထားသည်။ အသေးစိတ်ကို အောက်တွင်ကြည့်ရှုပါ။",
+  "flight_check_the_details": "အောက်ပါအသေးစိတ်အချက်အလက်များကို စစ်ဆေးနိုင်ပါသည်။",
+  "flight_order_detail_view_information_order": "အမိန့်အချက်အလက်",
+  "flight_v2_search_code_no_reservation_yet": "ကြိုတင်စာရင်းမသွင်းရသေးပါ။",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "မှတ်ချက်- ဝယ်ယူသူအချက်အလက် မပြီးမြောက်သေးပါ။",
+  "tour_booking_screen_update_information": "ယခု Update လုပ်ပါ။",
+  "tour_booking_screen_textspan_note": "(မှတ်ချက်- ငွေပေးချေမှု အခကြေးငွေ)",
+  "tour_booking_loading_message": "မှာယူမှုအချက်အလက်ကို ပြန်လည်ရယူနေသည်၊ ခဏစောင့်ပါ။",
+  "tour_booking_last_name": "မျိုးနွယ်အမည်",
+  "tour_booking_middle_and_first_name": "အလယ်နှင့် ပထမ/အမည်ပေးသည်။",
+  "tour_booking_or_detail_phone_number": "ဖုန်းနံပါတ်",
+  "tour_booking_or_detail_address": "လိပ်စာ",
+  "tour_booking_province_city": "ပြည်နယ်/မြို့",
+  "tour_booking_country": "တိုင်းပြည်",
+  "tour_booking_title_booking_information": "ဘွတ်ကင်အချက်အလက်",
+  "tour_booking_bottom_detail_price_error": "ကတ်အချက်အလက် မမှန်ပါ။ ထပ်မံစစ်ဆေးပါ။",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "ကူပွန်ကုဒ်ကို အသုံးပြု၍မရပါ။",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "ကူပွန်ကုဒ် မမှန်ကန်ပါ။",
+  "tour_booking_update_item_cart_action_message": "ပိတ်လိုက်",
+  "tour_booking_update_item_cart_title": "အသိပေးချက်များ",
+  "tour_booking_update_item_cart_msg_error_last": "မှာယူမှုကို အပ်ဒိတ်လုပ်နေစဉ် အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်၊ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ။",
+  "tour_booking_screen_payment_methods": "ငွေပေးချေမှု ရွေးချယ်မှု",
+  "tour_booking_screen_accept": "လက်ခံပါတယ်။",
+  "tour_booking_screen_coupon_code": "ကူပွန်ကုဒ်",
+  "tour_booking_screen_insert_code": "ကုဒ်ထည့်ပါ။",
+  "tour_booking_screen_default_msgError": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "tour_booking_screen_on_failed_error_2008": "သင်ရွေးချယ်ထားသော လအလိုက် ခရီးစဉ်အချိန်ဇယားကို ယခုမရနိုင်ပါ။ ကျေးဇူးပြု၍ အခြားခရီးစဉ်အချိန်ဇယားကို ရွေးချယ်ပါ။",
+  "tour_booking_screen_on_failed_error_2202": "စာမျက်နှာကို မထုတ်ဝေရသေးပါ သို့မဟုတ် အသက်မသတ်မှတ်ရသေးပါ။",
+  "tour_booking_screen_on_failed_error_2301": "ခရီးစဉ် မရနိုင်ပါ။",
+  "tour_booking_screen_on_failed_error_2303": "ခရီးစဉ်သည် စာမျက်နှာနှင့် မသက်ဆိုင်ပါ။",
+  "tour_booking_screen_on_failed_error_2801_2802": "ကြိုတင်စာရင်းသွင်းကာလ ကုန်ဆုံးသွားပါပြီ။",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}.။ Hahalolo ၏ ဖောက်သည်ဝန်ဆောင်မှုဌာနသို့ ဆက်သွယ်ပါ။",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "ဒီမှာ",
+  "tour_booking_screen_content_apply_voucher_failed_help": "အကူအညီအတွက်",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "ဤအမှာစာအတွက် သုံးနိုင်သော အများဆုံးဒင်္ဂါးပြားအရေအတွက်။",
+  "tour_booking_screen_item_apply_coin_view_content_use": "သုံးပါ။",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} ဒင်္ဂါးပြားများ",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "ငွေပေးချေမှုအတွက်။",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(သက်ဆိုင်ရာ",
+  "tour_booking_success_text_done": "ပြီးပြီ။",
+  "tour_booking_success_header_booking_success": "ကြိုတင်မှာယူမှု အောင်မြင်ပါပြီ။",
+  "tour_booking_success_header_textspan_reservation_success": "သင်၏ Booking တောင်းဆိုချက်ကို အောင်မြင်စွာ ပြုလုပ်ပြီးပါပြီ။",
+  "tour_booking_success_header_textspan_paid": "(အခကြေးငွေ)။",
+  "tour_booking_success_header_textspan_itinerary_details": "ခရီးစဉ်အသေးစိတ်ကို အောက်ပါလင့်တွင် ကြည့်ရှုနိုင်ပါသည်။",
+  "tour_booking_success_title_tour_information": "ခရီးသွားအချက်အလက်",
+  "tour_booking_success_tour_information_tour_name": "ခရီးသွားနာမည်",
+  "tour_booking_success_tour_information_departure": "ထွက်ခွာ",
+  "tour_booking_success_tour_information_departure_date": "ထွက်ခွာသွားသည့်ရက်စွဲ",
+  "tour_booking_success_tour_information_end_date": "ကုန်ဆုံးရက်",
+  "tour_booking_success_tour_information_Number_of_days": "ရက်အရေအတွက်",
+  "tour_booking_success_tour_information_passengers": "ခရီးသည်အရေအတွက်",
+  "tour_booking_success_tour_information_detail_Passengers": "လူကြီး 1 ယောက်",
+  "tour_booking_success_title_contact_information": "ဆက်သွယ်ရန်အချက်အလက်",
+  "tour_booking_success_contact_information_full_name": "နာမည်အပြည့်အစုံ:",
+  "tour_booking_success_contact_information_email": "အီးမေးလ်-",
+  "tour_booking_success_contact_information_phone_number": "ဖုန်းနံပါတ်:",
+  "tour_booking_success_contact_information_address": "လိပ်စာ-",
+  "tour_booking_success_title_installment_information": "အရစ်ကျမှာယူမှုအချက်အလက်",
+  "tour_booking_success_installment_information_total_order_value": "စုစုပေါင်းမှာယူမှုတန်ဖိုး-",
+  "tour_booking_success_installment_information_prepaid_rate": "ကြိုတင်ငွေပေးချေမှုနှုန်း",
+  "tour_booking_success_installment_information_prepayment_amount": "ကြိုတင်ငွေပေးချေမှုပမာဏ-",
+  "tour_booking_success_installment_information_remaining_amount": "လက်ကျန်ငွေ-",
+  "tour_booking_success_installment_information_conversion_information": "အချက်အလက်ပြောင်းလဲခြင်း အခကြေးငွေ-",
+  "tour_booking_success_installment_information_banking_fee": "ဘဏ်ကြေး-",
+  "tour_booking_success_installment_information_installment_interest_rate": "အရစ်ကျအတိုးနှုန်း (0%)-",
+  "tour_booking_success_installment_information_installment_interest_month": "အရစ်ကျအတိုး (လ):",
+  "tour_booking_success_installment_information_total_amount": "စုစုပေါင်းအရစ်ကျပေးချေမှု-",
+  "tour_booking_success_installment_information_payment_term": "အရစ်ကျသက်တမ်း (လ):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} လ",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "လစဉ် အရစ်ကျ ပမာဏ-",
+  "tour_booking_success_installment_information_next_installment_period": "နောက်အရစ်ကျ tenor",
+  "tour_booking_success_title_transaction_information": "ငွေပေးငွေယူအချက်အလက်",
+  "tour_booking_success_transaction_information_tour_id": "ခရီးသွား ID-",
+  "tour_booking_success_transaction_information_booking_code": "ကြိုတင်စာရင်းသွင်းနံပါတ်-",
+  "tour_booking_success_transaction_information_total_payment": "စုစုပေါင်းပေးချေမှု-",
+  "tour_booking_success_transaction_information_payer": "ငွေပေးသူ-",
+  "tour_booking_success_transaction_information_address": "လိပ်စာ-",
+  "tour_booking_success_transaction_information_content_billing": "ငွေပေးချေမှု အကြောင်းအရာ-",
+  "tour_booking_success_transaction_information_order_payment": "ငွေပေးချေမှုအမိန့်",
+  "tour_booking_success_transaction_information_order_advance": "အရစ်ကျ အော်ဒါ ကြိုတင်ငွေပေးချေခြင်း။",
+  "tour_booking_success_textspan_footer_thanks": "Hahalolo ၏ ဝန်ဆောင်မှုကို ယုံကြည်သည့်အတွက် ကျေးဇူးတင်ပါသည်။",
+  "tour_booking_success_textspan_footer_doubt": "သင့်တွင် မေးခွန်းများ သို့မဟုတ် နောက်ထပ်အကူအညီ လိုအပ်ပါက၊ Hahalolo အကူအညီဌာနသို့ ဆက်သွယ်ပါ။",
+  "tour_booking_success_textspan_footer_last_text": "ညွှန်ကြားချက်များအတွက်။",
+  "tour_booking_success_bottomview_view_details": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "tour_booking_success_bottomview_new_booking": "စာအုပ်အသစ်",
+  "tour_booking_title_info_detail_tour": "ခရီးစဉ်အသေးစိတ်",
+  "tour_booking_info_detail_tour_title_info_tour": "သတင်းအချက်အလက်",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "ခရီးသွားနာမည်",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Phu Quy ကျွန်းရှာဖွေရေး",
+  "tour_booking_or_detail_tour_id": "ခရီးသွား ID",
+  "tour_booking_or_detail_tour_time": "အချိန်",
+  "tour_booking_or_detail_departure_date": "ထွက်ခွာသွားသည့်ရက်စွဲ",
+  "tour_booking_info_detail_tour_info_tour_end_date": "ကုန်ဆုံးရက်",
+  "tour_booking_or_detail_tour_departure": "ထွက်ခွာ",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "ဦးတည်ရာ",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "ခရီးစဉ်အမျိုးအစား",
+  "tour_booking_info_detail_tour_info_tour_description": "ဖော်ပြချက်",
+  "tour_booking_info_detail_tour_title_table_price": "ခရီးစဉ်စျေးနှုန်းစာရင်း",
+  "tour_booking_starttext_adult": "လူကြီး",
+  "tour_booking_starttext_child": "ကလေး",
+  "tour_booking_starttext_young_child": "ငယ်ငယ်ကလေး",
+  "tour_booking_starttext_baby": "ကလေး",
+  "tour_booking_info_detail_tour_title_tour_listpart": "အစိတ်အပိုင်းများစာရင်း",
+  "tour_booking_info_detail_tour_title_separate_regulations": "စည်းမျဉ်းအချက်အလက်",
+  "tour_booking_info_detail_tour_title_privacy_policy": "ပုဂ္ဂလိကစည်းမျဉ်းများ",
+  "tour_booking_info_detail_tour_title_installment_policy": "အရစ်ကျအစီအစဉ်",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "စုစုပေါင်းတန်ဘိုး",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "ကြိုတင်ငွေပေးချေမှုပမာဏ",
+  "tour_booking_bottom_detail_price_collapsed_pay": "ပေးဆပ်ပါ။",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "ဝန်ဆောင်မှုများ",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "ပရိုမိုးရှင်း",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "ပရိုမိုးရှင်းကိုသုံးပါ။",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "အကြွေများကိုသုံးပါ။",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "စုစုပေါင်းတန်ဘိုး",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "100% ကြိုတင်ငွေပေးချေမှုအတွက် လျှော့စျေး ပါဝင်သည်။",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "ပရိုမိုးရှင်းတန်ဖိုး-",
+  "tour_booking_title_item_count_passenger": "ခရီးသည်အရေအတွက်",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "အသက် {age} နှစ်ကျော်",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - အသက် {end_age} နှစ်",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "အသက် {age} နှစ်အောက်",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "ခရီးသွား အချက်အလက်များ ဖြည့်သွင်းရာတွင် အကူအညီအတွက် ကို မေးပါ။",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "ခရီးသွားအချက်အလက်ကို ထည့်ပါ။",
+  "tour_booking_title_item_info_billing": "ငွေပေးသူအချက်အလက်",
+  "tour_booking_item_info_billing_use_contact_info": "အဆက်အသွယ်၏ အချက်အလက်ကို အသုံးပြုပါ။",
+  "tour_booking_title_item_info_contact_person": "ဆက်သွယ်ရန်အချက်အလက်",
+  "tour_booking_title_item_method_payment": "ငွေပေးချေစနစ်",
+  "tour_booking_item_method_payment_text_full_payment": "100% ငွေပေးချေမှု",
+  "tour_booking_item_method_payment_text_installment_payment": "အရစ်ကျပေးချေမှု",
+  "tour_booking_item_method_payment_pay_all_text_discount": "သင်သည် {discount}% လျှော့စျေးကို ရရှိမည်ဖြစ်သည်။",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "လျှော့စျေးပြီးနောက် စုစုပေါင်းပေးဆောင်ရမည့် ပမာဏ-",
+  "tour_booking_title_item_select_service": "လိုက်ပါဆောင်ရွက်ပေးခြင်း။",
+  "tour_booking_item_select_service_add_service": "ဝန်ဆောင်မှုကိုထည့်ပါ။",
+  "tour_booking_pay_installment_textspan_confirmation_code": "အရစ်ကျအမှာစာအတွက် ငွေပေးချေမှု အတည်ပြုကုဒ်ကို နောက်လာမည့် ငှားရမ်းသူထံ အီးမေးလ်မှတစ်ဆင့် ပေးပို့ပါမည်-",
+  "tour_booking_pay_installment_check_email": "သင့်အီးမေးလ်လိပ်စာကို နှစ်ခါစစ်ဆေးပါ။",
+  "tour_booking_pay_installment_number_installments_months": "အရစ်ကျလအရေအတွက်",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "အရစ်ကျနှုန်း",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "ခရီးစဉ်တန်ဖိုး၏ တစ်စိတ်တစ်ပိုင်း ကြိုတင်ငွေပေးချေရပါမည်။ အောင်မြင်သော ကြိုတင်ငွေပေးချေပြီးနောက် ကျန်ရှိနေသော လက်ကျန်အပေါ်အခြေခံ၍ လစဉ်အရစ်ကျပမာဏကို တွက်ချက်ပါမည်။",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "သင်အလိုရှိသော ကြိုတင်ငွေပေးချေမှု ရာခိုင်နှုန်းကို ထည့်သွင်းပါ။",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "အရစ်ကျအသေးစိတ်",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "မရှိ",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "သတင်းအချက်အလက်",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "တန်ဖိုး",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "အော်ဒါတန်ဖိုး",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "ကြိုတင်ငွေပေးချေမှုနှုန်း",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "ကြိုတင်ငွေပေးချေမှုတန်ဖိုး",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "လက်ကျန်ငွေ",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "သတင်းအချက်အလက်ပြောင်းလဲခြင်းအခကြေးငွေ",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "ဘဏ်ငွေပေးချေမှုအခကြေးငွေ",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "အတိုးနှုန်း (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "အရစ်ကျအတိုး",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "စုစုပေါင်းအရစ်ကျပမာဏ",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "အရစ်ကျသက်တမ်း (လ)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "နောက်အရစ်ကျ tenor",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "လစဉ်အရစ်ကျငွေပမာဏ",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} လ",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "အရစ်ကျအစီအစဉ်",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "အရစ်ကျအစီအစဉ်အသေးစိတ်",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "လိုက်ပါဆောင်ရွက်ပေးခြင်း။",
+  "tour_booking_item_service_init_service_number_of_travelers": "ခရီးသည်အရေအတွက်",
+  "tour_booking_group_months_installment_label": "{month} လ",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "ခရီးသွားအိပ်မက်များ",
+  "tour_detail_text_number_people_haha_page": "လူ 1,839,017 ဦး Haha ဤစာမျက်နှာ",
+  "tour_detail_screen_theme_text_indochina_discovery": "အင်ဒိုချိုင်းနားရှာဖွေတွေ့ရှိမှု- ပင်လယ်ကမ်းစပ်နှင့် လမ်းဘေးအစားအစာ",
+  "tour_detail_text_installment_tour": "တပ်ဆင်ခြင်းခရီးစဉ်",
+  "tour_detail_text_view_details": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "tour_detail_number_promotions": "{promotions} ပရိုမိုးရှင်းများ",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "ရရှိနိုင်",
+  "tour_detail_tab_info": "သတင်းအချက်အလက်",
+  "tour_detail_tab_tour_parts": "ခရီးစဉ်အသေးစိတ်",
+  "tour_detail_tab_promotion": "ပရိုမိုးရှင်း",
+  "tour_detail_tab_privacy_policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+  "tour_detail_tab_separate_regulations": "ပုဂ္ဂလိကစည်းမျဉ်းများ",
+  "tour_detail_tab_contact": "ဆက်သွယ်ပါ။",
+  "tour_detail_view_tab_installment": "အရစ်ကျအစီအစဉ်",
+  "tour_detail_text_only_from": "ထံမှသာ",
+  "tour_detail_view_emptyTitle": "ခရီးစဉ်ကို မရနိုင်တော့ပါ။",
+  "tour_detail_text_change_date": "ရက်စွဲပြောင်းပါ။",
+  "tour_detail_text_book_now": "အခုပဲ ကြိုတင်မှာယူလိုက်ပါ။",
+  "tour_detail_view_action_menu_time_line": "အချိန်ဇယား",
+  "tour_detail_view_action_menu_tour_List": "ခရီးသွားစာရင်း",
+  "tour_detail_view_action_menu_introduction": "နိဒါန်း",
+  "tour_detail_view_action_menu_promotion": "ပရိုမိုးရှင်း",
+  "tour_detail_view_action_menu_appraise": "သုံးသပ်ချက်များ",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} လူ Haha ဤစာမျက်နှာ",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "သင်ရွေးချယ်ထားသော လအလိုက် ခရီးစဉ်အချိန်ဇယားကို ယခုမရနိုင်ပါ။",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "ကျေးဇူးပြု၍ အခြားခရီးစဉ်အချိန်ဇယားကို ရွေးချယ်ပါ။",
+  "tour_detail_choose_schedule_title": "အချိန်ဇယားကို ရွေးပါ။",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "ထွက်ခွာချိန်ဇယား",
+  "tour_detail_choose_schedule_detail_error_empty_title": "ထွက်ခွာမည့်အချိန်ဇယားကို မရရှိနိုင်ပါ။",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "ထွက်ခွာမည့်ရက်စွဲ- {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "ထံမှ",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "{city} မှ",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "အဆုံး",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "{city} သို့",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "ပရိုမိုးရှင်း",
+  "tour_detail_choose_schedule_detail_cell_text_price": "စျေးနှုန်း",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "အခုပဲ ကြိုတင်မှာယူလိုက်ပါ။",
+  "tour_detail_contact_infor_view_empty_title": "ဆက်သွယ်ရန်အချက်အလက်ကို အပ်ဒိတ်လုပ်နေပါသည်။",
+  "tour_detail_contact_infor_view_company_name": "ကုမ္ပဏီအမည်",
+  "tour_detail_infor_view_text_starting_from": "မှစတင်ပါ။",
+  "tour_detail_infor_view_text_ends_at": "တွင်အဆုံးသတ်",
+  "tour_detail_infor_view_tour_type_domestic": "ပြည်တွင်းခရီးစဉ်",
+  "tour_detail_infor_view_tour_type_international": "နိုင်ငံတကာခရီးစဉ်",
+  "tour_detail_infor_view_tour_text_info": "သတင်းအချက်အလက်",
+  "tour_detail_infor_view_tour_types": "ရိုက်ပါ။",
+  "tour_detail_infor_view_tour_service": "ခရီးသွားဝန်ဆောင်မှုများ",
+  "tour_detail_emptyTitle_no_data_found": "ဒေတာမတွေ့ပါ။",
+  "tour_detail_promotion_view_empty_title": "ပရိုမိုးရှင်းများ မရရှိနိုင်ပါ။",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "ပရိုမိုးရှင်းအဆင့် {level}-",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% လျှော့စျေး",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} လျှော့စျေး",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "အနည်းဆုံး မှာယူမှုတန်ဖိုး- {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "အနည်းဆုံး အရွယ်ရောက်ပြီးသူအရေအတွက်- {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "ကျော",
+  "tour_detail_shimmer_loading_message": "ဒီ page မှာ ... လူတွေ Haha",
+  "tour_hand_note_tabs_verify_sent_to_email": "ကျွန်ုပ်တို့သည် သင့်အား အတည်ပြုကုဒ်တစ်ခု pham54833@gmail.com သို့ ပေးပို့ထားပါသည်။",
+  "tour_hand_note_tabs_price": "စျေးနှုန်း",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "အော်ဒါဖျက်သိမ်းသည်",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "ဤလုပ်ဆောင်ချက်ကို သင်လုပ်ဆောင်လိုပါသလား။",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "အတည်ပြုပါ။",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "မလုပ်တော့",
+  "tour_hand_note_footer_action_total_amount": "စုစုပေါင်းတန်ဘိုး",
+  "tour_hand_note_footer_action_pay": "ပေးဆပ်ပါ။",
+  "tour_hand_note_order_payment_view_order_id": "အမိန့်ကုဒ်",
+  "tour_hand_note_order_payment_view_paid": "အခကြေးငွေ",
+  "tour_hand_note_order_payment_view_total_price": "စုစုပေါင်းစျေးနှုန်း",
+  "tour_hand_note_order_payment_view_remaining_amount": "လက်ကျန်ငွေ",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "အရစ်ကျ ငှားရမ်းခ",
+  "tour_hand_note_order_payment_view_end_text_number_month": "လ- {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "အရစ်ကျပမာဏ",
+  "tour_hand_note_order_payment_view_next_installment_period": "နောက်အရစ်ကျ tenor",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "စုစုပေါင်းပေးချေမှု",
+  "tour_handnote_banner_waring_input_verify_error": "စစ်ဆေးနေစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ သို့မဟုတ်  ကိုနှိပ်ပါ",
+  "tour_lockup_empty_title": "ခရီးစဉ်အချက်အလက် မတွေ့ပါ။",
+  "tour_lockup_title_info": "ခရီးသွားအချက်အလက်",
+  "tour_lockup_form_search_hind_text_enter_promo": "ပရိုမိုးရှင်းကုဒ်ကို ထည့်ပါ။",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} နေ့ရက်များ} other{{days} နေ့ရက်များ}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "အားလုံး",
+  "tour_handnote_tab_awaiting": "အတည်ပြုချက်ကို စောင့်နေသည်။",
+  "tour_handnote_tab_awaiting_fulfilment": "ပြည့်စုံမှုကို စောင့်မျှော်နေပါတယ်။",
+  "tour_handnote_tab_ongoing": "လုပ်ဆောင်ဆဲ",
+  "tour_handnote_tab_completed": "ပြီးသွားပြီ",
+  "tour_handnote_tab_canceled": "ဖျက်သိမ်းလိုက်သည်။",
+  "tour_detail_page_programs_detail": "အစီအစဉ်အသေးစိတ်",
+  "tour_detail_page_passenger_title": "ဖောက်သည်",
+  "tour_detail_info_guest_edit_title": "တည်းဖြတ်ပါ။",
+  "tour_detail_info_guest_update_title": "မွမ်းမံ",
+  "tab_tour_detail_order_cancel_order": "အော်ဒါဖျက်သိမ်းသည်",
+  "tab_tour_detail_order_cancel_order_confirm": "ဤလုပ်ဆောင်ချက်ကို သင်လုပ်ဆောင်လိုပါသလား။",
+  "tab_tour_detail_order_cancel_order_confirm_button": "အတည်ပြုပါ။",
+  "tab_tour_detail_order_cancel_order_cancel_button": "မလုပ်တော့",
+  "tab_tour_detail_order_waiting_confirmation": "အတည်ပြုချက်ကို စောင့်နေသည်။",
+  "tab_tour_detail_order_code_order_tour_title": "ဘွတ်ကင်နံပါတ်",
+  "tour_detail_stage_view_title": "အပိုင်း {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "ငွေပေးချေမှုတွင် ဒင်္ဂါးပြားများကို အသုံးပြုထားသည်။ အောက်တွင်အသေးစိတ်ကြည့်ရှုပါ။",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "ငွေပေးချေမှုတွင် ကူပွန်ကုဒ်ကို အသုံးပြုထားသည်။ အောက်တွင်အသေးစိတ်ကြည့်ရှုပါ။",
+  "tour_hand_note_banner_warning_update_success": "ဖောက်သည် အချက်အလက် ပြီးသွားပါပြီ။",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "ငွေပေးချေမှုအချက်အလက်",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "အခကြေးငွေ",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "ခရီးစဉ်ဖျက်သိမ်းခြင်း ပရိုမိုးရှင်း\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "ဒင်္ဂါးပြားများသုံးပါ ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "ပယ်ဖျက်ကြေး {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "ခန့်မှန်းခြေ ပြန်အမ်းငွေပမာဏ",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "ပြန်အမ်းမည့်အချိန် (ပယ်ဖျက်သည့်နေ့မှစ၍) 5-7 ရက် (Alepay နှင့် Payme ငွေပေးချေမှုတံခါးပေါက်များအတွက်) သို့မဟုတ် 7-15 ရက် (Stripe ငွေပေးချေမှုတံခါးပေါက်များအတွက်)။",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "ပယ်ဖျက်ရခြင်းအကြောင်းရင်း-",
+  "tour_booking_validation_province_or_city_is_required": "ပြည်နယ်/မြို့ များ လိုအပ်ပါသည်။",
+  "tour_booking_screen_on_failed_error_2801": "ထွက်ခွာမည့်ရက်မတိုင်မီ {numberDay} ခရီးစဉ်ကို ကြိုတင်စာရင်းသွင်းရန် လိုအပ်ပါသည်။ ကျေးဇူးပြု၍ အခြားထွက်ခွာမည့်ရက်စွဲကို ရွေးပါ။",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "ကျွန်ုပ်တို့၏မူဝါဒအရ သင်ရွေးချယ်ထားသော ခရီးစဉ်ထွက်ခွာချိန်သည် ပိုတို သို့မဟုတ် ပိုကြာပါသည်။ ကျေးဇူးပြု၍ သင့်လျော်သော ထွက်ခွာချိန်နှင့်အတူ ခရီးစဉ်ကို ရွေးချယ်ပါ။",
+  "tour_booking_bottom_view_error": "ခရီးသွားအချက်အလက်ကို ဖြည့်သွင်းပါ သို့မဟုတ် နောက်မှ ခရီးသွားအချက်အလက်ကို ထည့်သွင်းရာတွင် Hahalolo အကူအညီကိုတောင်းပါ။",
+  "tour_booking_on_start_payment_message": "ဝမ်းနည်းပါသည်၊ သင်ရွေးချယ်ထားသော ထွက်ခွာမည့်ရက်စွဲသည် ကုန်သွားပါပြီ။ ကျေးဇူးပြု၍ အခြားထွက်ခွာမည့်ရက်ကို ရွေးချယ်ပါ။",
+  "tour_detail_text_full_load": "ရောင်းကုန်ပြီ",
+  "tour_cancel_order_info_reason_cancel": "ပယ်ဖျက်ခြင်းအတွက် အကြောင်းပြချက်ကို ထည့်သွင်းပါ။",
+  "tour_cancel_order_info_validate_reason_cancel": "ပယ်ဖျက်ခြင်းအတွက် အကြောင်းပြချက် လိုအပ်ပါသည်။",
+  "tour_cancel_order_info_refound_invalid_card": "အကောင့်နံပါတ် လိုအပ်ပါသည်။",
+  "tour_cancel_bank_name_required": "ဘဏ်အမည် လိုအပ်ပါသည်။",
+  "tour_cancel_bank_wrong_format": "ဘဏ်အမည်ဖော်မတ် မမှန်ပါ။",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo သည် သင်အောက်တွင်ထည့်ထားသော ဘဏ်အကောင့်အချက်အလက်ပေါ်အခြေခံ၍ သင့်အား ပြန်အမ်းငွေပေးလိမ့်မည်)",
+  "tour_cancel_enter_bank_name": "ဘဏ်အမည်ထည့်ပါ။",
+  "tour_cancel_cancel_order_success": "သင့်မှာယူမှုကို အောင်မြင်စွာ ပယ်ဖျက်လိုက်ပါပြီ။",
+  "tour_bank_identifier_required": "SWIFT ကုဒ် လိုအပ်ပါသည်။",
+  "tour_detail_title_select_departure_month": "ထွက်ခွာလကို ရွေးပါ။",
+  "tour_detail_title_upcoming_departure_schedule": "လာမည့် ထွက်ခွာမည့်အချိန်ဇယား",
+  "tour_detail_schedule_title_departure": "ထွက်ခွာ",
+  "tour_detail_schedule_title_destination": "ဦးတည်ရာ",
+  "tour_booking_fail_payment_price_change": "ခရီးစဉ်စျေးနှုန်းသည် {oldPay} မှ {newPay} သို့ ပြောင်းလဲသွားပါသည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်လိုပါသလား။",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "ခရီးစဉ်စျေးနှုန်းသည် {oldPay} မှ {newPay} သို့ ပြောင်းလဲခဲ့ပြီး သင်သည် {payAmount} ကို ကြိုတင်ပေးချေရန် လိုအပ်ပါသည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်လိုပါသလား။",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "ကြိုတင်ငွေပေးချေမှုပမာဏသည် {oldPay} မှ {newPay} သို့ ပြောင်းသွားပါသည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်လိုပါသလား။",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "အကြွေစေ့များမှ အသုံးပြုသည့် ပမာဏသည် {oldPay} မှ {newPay} သို့ ပြောင်းလဲသွားပါသည်။ သင့်ငွေပေးချေမှုကို ဆက်လက်လုပ်ဆောင်လိုပါသလား။",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "အမှတ်များကိုသုံးပါ။",
+  "tour_booking_screen_have_apply_points": "ငွေပေးချေမှုတွင် အမှတ်များကို အသုံးပြုထားသည်။ အသေးစိတ်ကို အောက်တွင်ကြည့်ရှုပါ",
+  "tour_booking_warning_promotion": "သင့်ခရီးစဉ်ကို ကြိုတင်မှာယူထားပြီး မှာယူမှုအချက်အလက်ကို ပြောင်းလဲ၍မရပါ။ သင်၏ခရီးစဉ်ကြိုတင်စာရင်းသွင်းခြင်းကို အပြီးသတ်ရန် ငွေပေးချေပါ။",
+  "tour_booking_warning_back_text_normal": "မင်းရဲ့အမှာစာတွေကို မှာထားတာရှိတယ်။ သင်နှုတ်ထွက်ပါက သင့်မှာယူမှုကို ဆက်လက်သိမ်းဆည်းထားမည်ဖြစ်သည်။",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "အမိန့်ထုတ်လိုက်ပါ။",
+  "tour_booking_warning_back_when_hold_ticket_card": "သင်၏လှည်း။",
+  "tour_booking_warning_back_exit": "ထွက်သည်",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "အမှာစာသည် ငွေပေးချေမှုတံခါးပေါက်မှတဆင့် ဖြတ်သွားပါပြီ။ ကူပွန်ကုဒ်ကို အသုံးမပြုနိုင်ပါ။",
+  "tour_booking_point_not_available": "အမှတ်များမရနိုင်ပါ။",
+  "tour_payment_voucher_exit_dialog_title": "ငွေပေးချေမှု မအောင်မြင်ပါ။",
+  "tour_total_point_change": "ရနိုင်သော ရမှတ်များ ပြောင်းလဲသွားပါပြီ။ ကျေးဇူးပြု၍ အော်ဒါအတွက် လျှောက်ထားရန် အမှတ်အရေအတွက်ကို ထည့်သွင်းပါ။",
+  "tour_hand_note_text_tour": "ခရီးသွား",
+  "tour_hand_note_text_amount_installment_payment": "အရစ်ကျပေးချေမှုပမာဏ",
+  "tour_detail_tour_has_no_available_schedule": "ဤခရီးစဉ်အတွက် ရနိုင်သောအချိန်ဇယားမရှိပါ။",
+  "tour_detail_promotion_view_time_application": "သက်ဆိုင်သည့်ကာလ-",
+  "tour_detail_promotion_view_up_to_off_title": "အထိ",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% လျှော့စျေး",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "ဘွတ်ကင်နံပါတ်ကိုရှာပါ။",
+  "tour_you_can_sure_cancel_order": "ဤအမှာစာကို ပယ်ဖျက်လိုသည်မှာ သေချာပါသလား။",
+  "tour_detail_contact_title": "ကျွန်ုပ်တို့ 24/7 ရရှိနိုင်ပါသည်။ ဤဝန်ဆောင်မှုနှင့်ပတ်သက်၍ သင့်တွင်မေးခွန်းများရှိပါက၊ ကျေးဇူးပြု၍ အောက်ပါအချက်အလက်များကို အသုံးပြု၍ ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။ 2 နာရီအတွင်း တုံ့ပြန်ပါမည်။",
+  "tour_detail_rate_title_schedule": "အချိန်ဇယား",
+  "tour_detail_rate_title_meal": "ဆွမ်း",
+  "tour_detail_review_there_are_no_reviews_yet": "သုံးသပ်ချက်များ မရှိသေးပါ။",
+  "tour_search_suggest_location_title": "ထိပ်တန်းနေရာများ",
+  "tour_detail_rate_title_property": "ပစ္စည်းဥစ္စာ",
+  "tour_detail_rate_title_tour_guide": "ဧည့်လမ်းညွှန်",
+  "tour_detail_rate_title_vehicle": "ယာဉ်",
+  "tour_detail_choose_schedule_remain_slot": "အပေါက် {slot} ခုသာ ကျန်တော့သည်။",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "ရက်စွဲ",
+  "tour_detail_contact_text_hotline": "Hotline",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "သုံးသပ်ချက်များ",
+  "tour_search_place_suggestion_title": "ဦးတည်ရာတစ်ခုကို ရွေးပါ။",
+  "tour_search_place_suggestion_hint_text": "ဝင်ပါတေ့...",
+  "tour_review_title_feedback": "আপনার ভ্রমণ অভিজ্ঞতা পর্যালোচনা করুন",
+  "tour_review_title_content": "সামগ্রিক ট্রিপ রেটিং",
+  "tour_review_title_see_review": "আপনার ট্রিপ পর্যালোচনা দেখুন",
+  "tour_review_schedule": "সময়সূচী",
+  "tour_review_meal": "খাবার",
+  "tour_review_accommodation": "সম্পত্তি",
+  "tour_review_tour_guide": "ভ্রমণ প্রদর্শক",
+  "tour_review_vehicle": "যানবাহন",
+  "tour_booking_screen_text_accept": "သဘောတူတယ်။",
+  "tour_lockup_up_tour_header_text": "သင်၏ဘွတ်ကင်အချက်အလက်ကိုရှာဖွေရန် သင်၏ဘွတ်ကင်နံပါတ်ကိုထည့်ပါ။",
+  "banner_warning_installment_noti": "သင်သည် နောက်အရစ်ကျ ငွေပေးချေရမည့်ရက်ကို ရောက်ရှိသွားပါမည်။ အရစ်ကျပေးသွင်းရမည့်ရက် {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "ထပ်တိုးပါ။",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "ကူပွန်ကုဒ်ကို အောင်မြင်စွာ မသုံးရသေးပါ။",
+  "voucher_search_on_select_voucher_fail": "အသုံးမပြုရသေးသော ကူပွန်ကုဒ်ကို မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+  "voucher_search_coupon_code_incorrect": "ကူပွန်ကုဒ် မမှန်ကန်ပါ။",
+  "voucher_search_check_or_contact_cskh": "ထပ်မံစစ်ဆေးပါ သို့မဟုတ် ကျွန်ုပ်တို့၏ ဖောက်သည်ဝန်ဆောင်မှုဌာနသို့ ဆက်သွယ်ပါ။",
+  "voucher_widget_item_voucher_discount": "လျှော့စျေး- {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "သက်တမ်းကုန်နေသည်- {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "သက်တမ်းကုန်ဆုံးရက်:",
+  "voucher_widget_item_voucher_info_detail_text_code": "ကုဒ်:",
+  "voucher_widget_item_voucher_info_detail_text_program": "ပရိုမိုးရှင်း-",
+  "voucher_widget_item_voucher_info_detail_text_condition": "အခြေအနေ-",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Hahalolo ထုတ်ကုန်များနှင့်သက်ဆိုင်သည်။",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* ဖောက်သည်တစ်ဦးလျှင်တစ်ဦးကန့်သတ်။",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "{number} မှ မှာယူမှုများအတွက်",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "ထုတ်ကုန်များ-",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} ကို ပိတ်ထားသည်။",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "* အများဆုံးလျှော့စျေး",
+  "voucher_apply_voucher_widget_you_save": "Haha! ကယ်တင်လိုက်ပါပြီ။",
+  "voucher_apply_voucher_widget_order_from_discount": "ကူပွန်ကုဒ်ဖြင့် ဤမှာယူမှုတွင်",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "သင်၏ လေယာဉ်ခရီးစဉ်ကို ကြိုတင်မှာထားခြင်း မရှိသေးပါ။ ကြိုတင်စာရင်းသွင်းပြီး လက်မှတ်ထုတ်ပေးရန် သင်၏ငွေပေးချေမှုကို အပြီးသတ်ပါ။",
+  "cart_screen_main_title": "သင့်လှည်း",
+  "cart_screen_main_tour_title": "ခရီးသွားဘွတ်ကင်",
+  "cart_screen_main_flight_title": "ပျံသန်းခြင်း။",
+  "cart_screen_main_car_title": "ကားဘွတ်ကင်",
+  "cart_screen_main_tour_title_1": "ခရီးစဉ်ကြိုတင်စာရင်းသွင်းခြင်း (၁)၊",
+  "cart_screen_main_flight_title_1": "လေယာဉ်(၁)စီး၊",
+  "cart_screen_main_car_title_1": "ကားဘွတ်ကင်(၁)စီး၊",
+  "cart_screen_domestic_flight_num_passenger": "ခရီးသည်အရေအတွက်",
+  "cart_screen_domestic_flight_subtotal": "စုစုပေါင်း",
+  "cart_screen_domestic_flight_note": "သင်၏ လေယာဉ်ခရီးစဉ် ကြိုတင်မှာယူမှု ပြုလုပ်ပြီးပါပြီ။ လက်မှတ်ထုတ်ပေးမှုကို အပြီးသတ်ရန် ကျေးဇူးပြု၍ ငွေပေးချေပါ။",
+  "cart_screen_empty": "သင့်လှည်းတွင် မည်သည့်အရာမှ မရှိပါ။",
+  "cart_screen_empty_order_now": "ရှာဖွေပြီး အခုပဲ ကြိုတင်မှာယူလိုက်ပါ။",
+  "cart_screen_car_delete_order": "အမိန့်ကိုဖျက်ပါ။",
+  "cart_screen_car_delete_order_confirm": "ဤအမှာစာကို ဖျက်လိုပါသလား။",
+  "cart_screen_tour_schedule_title": "အချိန်ဇယား",
+  "cart_screen_tour_type_title": "ခရီးသွားအမျိုးအစား",
+  "cart_tour_type_domestic": "ပြည်တွင်း",
+  "cart_tour_type_international": "နိုင်ငံတကာ",
+  "cart_screen_tour_num_day_num_night": "{day} ရက်၊ {night} ည",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "ခရီးသည်အရေအတွက်",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "အမှတ်များကို သုံးပါ။",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(လ {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "စစ်ဆေးနေစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ သို့မဟုတ် {email} မှတစ်ဆင့် ကုဒ်အသစ်တစ်ခုလက်ခံရရှိရန် \"အတည်ပြုကုဒ်ကို ပြန်ပို့ပါ\" ကိုနှိပ်ပါ။",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "အတည်ပြုကုဒ်ကို ပြန်ပို့ပါ။",
+  "hand_note_input_verify": "ကျွန်ုပ်တို့သည် အတည်ပြုကုဒ်တစ်ခုကို {email} သို့ ပေးပို့ထားပါသည်။ ဤအဆင့်ပြီးမြောက်ရန် သင်လက်ခံရရှိသောကုဒ်ကို ထည့်ပါ။",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "ကုဒ်ထည့်ပါ။",
+  "hand_note_tour_detail_body_tour_info_title": "ခရီးသွားအချက်အလက်",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(အချိန်ကို ဗီယက်နမ်စံတော်ချိန်ဖြင့် တွက်ချက်သည်)",
+  "hand_note_tour_detail_body_tour_total_day_title": "စုစုပေါင်းရက်",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "ခရီးသွားအရေအတွက်",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "အခမဲ့ပယ်ဖျက်ခြင်းအချိန်ဇယားများသည် ခရီးစဉ်ကြိုတင်စာရင်းသွင်းသည့်အချိန်ဇုန်နှင့် ပေးသွင်းသူ၏ ခရီးစဉ်ဖျက်သိမ်းခြင်းမူဝါဒအပေါ် အခြေခံထားသည်။",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "ခရီးစဉ်ဖျက်သိမ်းမှုအတွက် အောက်ပါပယ်ဖျက်ခကို ကောက်ခံသွားမည်ဖြစ်ပါသည်။",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "• ထွက်ခွာမည့်ရက်မတိုင်မီ {departureDay} ရက်",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "အခမဲ့ပယ်ဖျက်ခြင်း။",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "ပယ်ဖျက်ခြင်းအခကြေးငွေ {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "100% ပေးချေမှုအတွက် ပရိုမိုးရှင်း",
+  "hand_note_install_policy": "အရစ်ကျအစီအစဉ်",
+  "hand_note_title_status_payment_failure": "မအောင်မြင်ပါ။",
+  "hand_process_extension": "သက်တမ်းတိုးခြင်း",
+  "hand_in_installment": "အသက်ဝင်သည်။",
+  "hand_installment_completed": "ပြီးသွားပြီ",
+  "hand_note_adults": "လူကြီးများ",
+  "hand_note_children": "ကလေးတွေ",
+  "hand_note_baby": "ရမ်းတယ်။",
+  "hand_note_infant": "ကလေးတွေ",
+  "hand_note_tour_service_price": "ဝန်ဆောင်မှုစျေးနှုန်း",
+  "hand_note_total_price": "စုစုပေါင်းစျေးနှုန်း",
+  "hand_note_prepaid": "ကြိုတင်ငွေပေးချေပါ။",
+  "hand_note_remaining": "လက်ကျန်ငွေ",
+  "hand_installment_status": "အရစ်ကျ အနေအထား",
+  "hand_note_installment_payment_count_month_payment": "အရစ်ကျလအရေအတွက်",
+  "hand_note_installment_payment_count_month_payment_num": "{month} လ",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "အရစ်ကျအချက်အလက်",
+  "hand_note_information_detail_total_value_title": "အော်ဒါစုစုပေါင်း",
+  "hand_note_information_detail_prepayment_amount_title": "ကြိုတင်ငွေပေးချေမှုပမာဏ ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "စုစုပေါင်းအရစ်ကျပမာဏ",
+  "hand_note_information_detail_installment_tenor_title": "အရစ်ကျ ငှားရမ်းခ",
+  "hand_note_information_detail_information_conversion_fee_title": "သတင်းအချက်အလက်ပြောင်းလဲခြင်းအခကြေးငွေ",
+  "hand_note_information_detail_bank_fee_title": "ဘဏ်ကြေး",
+  "hand_note_information_detail_installment_interest_title": "အရစ်ကျအတိုး",
+  "hand_note_information_detail_monthly_installment_amount_title": "လစဉ်အရစ်ကျငွေပမာဏ",
+  "hand_note_information_detail_next_due_date_title": "နောက်အရစ်ကျ tenor",
+  "hand_note_installment": "အရစ်ကျ",
+  "hand_note_postpaid": "Postpaid",
+  "hand_note_installment_history_title": "အရစ်ကျမှတ်တမ်း",
+  "hand_note_payment_installment_title": "အရစ်ကျပေးချေမှု",
+  "hand_note_the_month_current_installment": "လ- {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "ပထမဆုံး ငွေပေးချေမှု",
+  "hand_note_remaining_balance_title": "လက်ကျန်ငွေ",
+  "hand_note_extension_info": "တိုးချဲ့အချက်အလက်",
+  "hand_note_price_extension": "ထပ်တိုးပမာဏ",
+  "hand_note_month_paid": "{month} လ ပေးရသည်။",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} လ ကျန်သည်။",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "သင့်အချက်အလက်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "hand_note_invalid_full_name": "နာမည်အပြည့်အစုံဖော်မတ် မမှန်ကန်ပါ။",
+  "hand_note_must_enter_full_name": "သင့်အမည်အပြည့်အစုံကို ထည့်သွင်းရပါမည်။",
+  "hand_note_adults_num": "အရွယ်ရောက်ပြီးသူ အချက်အလက် {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "শিশু তথ্য {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "ကလေးအချက်အလက် {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "ကလေးအချက်အလက် {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(အသက် {age} နှစ်ကျော်)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(အသက် {ageFrom} မှ - {ageTo} နှစ်)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(အသက် {age} နှစ်အောက်)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} ရက်",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "အပိုင်း- {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "ခရီးသွားအချက်အလက်ကို အပ်ဒိတ်လုပ်ပါ။",
+  "hand_note_hotel_reservation_detail_title": "ကြိုတင်မှာယူမှုအသေးစိတ်",
+  "hand_note_tour_installment_title": "အရစ်ကျခရီး",
+  "hand_note_tour_extensions_payment_title": "ငွေပေးချေမှုသက်တမ်းတိုး",
+  "hand_note_installment_period": "အရစ်ကျ ငှားရမ်းခ",
+  "hand_note_installment_amount": "အရစ်ကျပမာဏ",
+  "hand_note_recommend_adjourn": "သက်တမ်းတိုးရန် တောင်းဆိုခြင်း။",
+  "hand_note_number_extension": "သက်တမ်းတိုးရက်အရေအတွက်",
+  "hand_note_new_installment": "အရစ်ကျအသစ်သတ်မှတ်ရက်",
+  "hand_note_adjourn_notice": "အရစ်ကျ ငှားရမ်းခ တစ်ခုစီအတွက်၊ ငွေပေးချေမှု သက်တမ်းတိုးရန် {day} ရက် တစ်ကြိမ်သာ ရှိသည်။ အရစ်ကျပေးချေရမည့်ရက်အသစ်ကုန်ဆုံးပြီး လက်ရှိငှားရမ်းခပေးချေမှုကို မပြုလုပ်ပါက၊ သင်၏ခရီးစဉ်ကို ပယ်ဖျက်ပါမည်။",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "ငွေပေးချေမှုနောက်ကျခြင်း",
+  "hand_note_extension_successful": "တိုးချဲ့မှု အောင်မြင်ပါပြီ။",
+  "hand_note_part_due_note": "အမှာစာက ပြီးသွားပါပြီ။ ကျေးဇူးပြု၍ ကျွန်ုပ်တို့၏ ဖောက်သည်ဝန်ဆောင်မှုဌာနသို့ ဆက်သွယ်ပါ။",
+  "hand_note_notify_error_extension": "အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hand_note_dialog_input_verify_1": "ကျွန်ုပ်တို့ထံ အတည်ပြုကုဒ်တစ်ခု ပေးပို့ထားပါသည်။",
+  "hand_note_dialog_input_verify_2": "ဤအဆင့်ပြီးမြောက်ရန် သင်လက်ခံရရှိသောကုဒ်ကို ထည့်ပါ။",
+  "hand_note_verify_input_code_hint": "အတည်ပြုသည့်ကုတ်ကိုထည့်သွင်းပါ",
+  "hand_note_title_hotel_order": "ဟိုတယ်ဘွတ်ကင်အော်ဒါများ",
+  "hand_note_title_apply_coin": "အကြွေများကိုသုံးပါ။",
+  "hand_note_request_resent_code_confirm_must_1": "အတည်ပြုကုဒ်ကို ပြန်လည်ပေးပို့ရန် မတောင်းဆိုမီ တစ်မိနစ်စောင့်ရပါမည်။",
+  "hand_note_request_resent_code_confirm_must_2": "အတည်ပြုကုဒ်ကို ပြန်လည်ပေးပို့ရန် မတောင်းဆိုမီ 5 မိနစ်စောင့်ရပါမည်။",
+  "hand_note_request_resent_code_confirm_must_3": "အတည်ပြုကုဒ်ကို ပြန်လည်ပေးပို့ရန် မတောင်းဆိုမီတစ်ရက်စောင့်ရပါမည်။",
+  "hand_note_request_resent_code_confirm_must_4": "အတည်ပြုကုဒ်ကို ပြန်လည်ပေးပို့ရန် မတောင်းဆိုမီ 9 မိနစ်စောင့်ရပါမည်။",
+  "hand_note_request_resent_code_confirm_must_5": "အတည်ပြုကုဒ်ကို ပေးပို့ရာတွင် အမှားအယွင်းတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hand_note_history_new_order_created": "အမှာစာအသစ် ဖန်တီးထားသည်။",
+  "hand_note_history_change_customer_information": "ခရီးသည်အချက်အလက်များကို ပြောင်းလဲခဲ့သည်။",
+  "hand_note_history_cancellation_of_passengers": "ဖျက်သိမ်းလိုက်သော ခရီးသည်",
+  "hand_note_history_change_flights": "ပျံသန်းမှု ပြောင်းလဲခဲ့သည်။",
+  "hand_note_history_cancel_the_flight": "ပျံသန်းမှုကို ဖျက်သိမ်းခဲ့သည်။",
+  "fare_rule_toolbar_title": "ယာဉ်စီးခအခြေအနေ",
+  "hand_note_detail_activity_history": "လုပ်ဆောင်ချက်မှတ်တမ်း-",
+  "hand_note_coin_refund_amount": "ပြန်အမ်းငွေမျှော်လင့်ထားသောဒင်္ဂါးပြားများ",
+  "hand_note_tour_title": "ခရီးသွား",
+  "hand_note_hotel_title": "ဟိုတယ်",
+  "hand_note_flight_title": "ပျံသန်းခြင်း။",
+  "hand_note_car_title": "ကားအငှား",
+  "hand_note_title": "လက်ကမ်းစာစောင်များ",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "အကြွေးဝယ်ကတ်နံပါတ် မမှန်ကန်ပါ။",
+  "payment_error_card_has_expired": "ကတ်သက်တမ်းကုန်သွားပါပြီ။",
+  "payment_error_card_has_expired_year": "ကတ်က ဒီနှစ်မှာ သက်တမ်းကုန်သွားပါပြီ။",
+  "payment_error_card_date_must_only_number": "ရက်စွဲများတွင် နံပါတ်များသာ ရှိရမည်။",
+  "payment_error_card_date_is_3_digits": "သက်တမ်းကုန်ဆုံးနှစ်သည် ဂဏန်း ၃ လုံးရှည်သည်။",
+  "payment_error_card_date_is_4_digits": "သက်တမ်းကုန်ဆုံးနှစ်သည် ဂဏန်း ၄ လုံးထက် ပိုရှည်သည်။",
+  "payment_error_card_date_only_number_in_date": "ရက်စွဲများတွင် နံပါတ်များသာ ရှိရမည်။",
+  "payment_card_date_expired": "သက်တမ်းကုန်ဆုံးရက်",
+  "payment_payme": "Payme ပိုက်ဆံအိတ်",
+  "payment_domestic": "ပြည်တွင်းဘဏ်များ၏ ATM ကတ် သို့မဟုတ် iBanking (ဗီယက်နမ်)၊",
+  "payment_stripe": "နိုင်ငံတကာ ငွေပေးချေကတ် (Visa/MasterCard)",
+  "payment_card_number_empty": "ကတ်နံပါတ် လိုအပ်ပါသည်။",
+  "payment_card_day_exit": "သက်တမ်းကုန်ဆုံးရက် လိုအပ်ပါသည်။",
+  "payment_ccv_empty": "CVV ကုဒ် လိုအပ်ပါသည်။",
+  "payment_error_secure_long": "လုံခြုံရေးကုဒ် မမှန်ကန်ပါ။",
+  "payment_error_secure_shorted": "လုံခြုံရေးကုဒ်သည် ဤကတ်အမျိုးအစားအတွက် တိုလွန်းသည်။",
+  "payment_error_secure_alphabet": "အက္ခရာစာလုံးများကို ခွင့်မပြုပါ။",
+  "payment_error_no_secure": "လုံခြုံရေးကုဒ်ကို ပေးမထားပါ။",
+  "payment_error_no_card_number": "ထည့်သွင်းခြင်းမရှိပါ သို့မဟုတ် ဂဏန်းမဟုတ်သော အက္ခရာများ မပါဝင်ပါ။",
+  "payment_error_connect_title": "ချိတ်ဆက်မှု အမှားအယွင်း",
+  "payment_error_connect_message": "သင့်ကွန်ရက်ချိတ်ဆက်မှုသည် မတည်ငြိမ်ပါ။ သင့်စက်ပေါ်ရှိ ချိတ်ဆက်မှုကို ထပ်မံစစ်ဆေးပါ။",
+  "payment_error_not_load_title": "စာမျက်နှာကို ဖွင့်ရာတွင် အမှားအယွင်းရှိနေသည်။",
+  "payment_error_not_load_message": "ငွေပေးချေမှုစာမျက်နှာသို့ ချိတ်ဆက်ရာတွင် အမှားအယွင်းတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။",
+  "payment_error_card_number_lenght": "ကတ်နံပါတ်သည် ဂဏန်း 19 လုံးထက်ကြီးရပါမည်။",
+  "payment_error_no_date": "ရက်စွဲမထည့်ပါ။",
+  "payment_error_invalid_date": "မမှန်ကန်သော ရက်စွဲဖော်မတ် သို့မဟုတ် မမှန်ကန်သော ရက်စွဲ",
+  "payment_error_invalid_year": "ရက်စွဲနှင့်လတွင် နံပါတ်များကိုသာ ခွင့်ပြုထားသည်။",
+  "payment_error_invalid_ccv": "မမှန်ကန်သော CVV",
+  "payment_error_invalid_card_holder": "ကတ်ကိုင်ဆောင်သူ မမှန်ကန်ပါ။",
+  "payment_alert_select_payment_method_null": "ကျေးဇူးပြု၍ ငွေပေးချေမှုတံခါးကို ရွေးပါ။",
+  "payment_alert_card_information_incorrect": "ကတ်အချက်အလက် မမှန်ပါ။ ထပ်မံစစ်ဆေးပါ။",
+  "payment_alert_dialog_title": "အသိပေးချက်များ",
+  "payment_alert_message_dialog_message": "ငွေရှင်းသည့်လုပ်ငန်းစဉ်အတွင်း အောင်မြင်သောငွေပေးချေမှုကိုသေချာစေရန် ကျေးဇူးပြု၍ လျှောက်လွှာကိုပိတ်ခြင်း သို့မဟုတ် ထွက်ခြင်းမပြုပါနှင့်။",
+  "payment_alert_dialog_message_payment_error": "သင့်ငွေပေးချေမှုကို လုပ်ဆောင်နေစဉ် အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်မံစစ်ဆေးပါ။",
+  "payment_hint_text_country": "နိုင်ငံ...",
+  "payment_hint_text_province": "မြို့/ပြည်နယ်...",
+  "payment_show_message_dialog_title": "အသိပေးချက်",
+  "payment_show_message_dialog_message": "သင့်ငွေပေးချေမှုမှ ထွက်လိုပါသလား။",
+  "payment_show_message_dialog_negative": "မလုပ်တော့",
+  "payment_show_message_dialog_action": "အဆင်ပြေလား",
+  "payment_bank_page_title": "ချောမွေ့သောငွေပေးချေမှုလုပ်ငန်းစဉ်အတွက်၊ ငွေပေးချေမှုမအောင်မြင်မီ လျှောက်လွှာကို မပိတ်ပါနှင့်။",
+  "payment_error_expired_date": "သင့်ကတ် သက်တမ်းကုန်သွားပါပြီ။",
+  "payment_coin_not_available": "ဒင်္ဂါးပြားများ မရရှိနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "payment_point_not_available": "အမှတ်များမရနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "payment_voucher_not_available": "ကူပွန်ကုဒ်ကို မရနိုင်ပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "payment_fee_change_total_order": "မှာယူမှု စုစုပေါင်းမှ ပြောင်းလဲသွားပါပြီ။",
+  "payment_fee_change_to": "ရန်",
+  "payment_fee_change_choose_voucher_point_coint": "ရနိုင်လျှင် ကူပွန်ကုဒ်/ဒင်္ဂါးပြား/အမှတ်များကို ပြန်ရွေးပါ။",
+  "payment_halo_wallet": "Hahalolo ငွေပေးချေမှုအကောင့်",
+  "payment_available_balance": "ရနိုင်သော လက်ကျန်-",
+  "payment_card_holder_name": "ကဒ်ပြားကိုင်ဆောင်သူအမည်",
+  "payment_card_cvv_cvc_name": "CVV/CVC ကုဒ်",
+  "payment_card_number": "ကတ်နံပါတ်",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "အလားတူဂုဏ်သတ္တိများ",
+  "hotel_detail_hotel_images": "ဟိုတယ်ပုံရိပ်များ",
+  "hotel_detail_reviews_latest": "နောက်ဆုံး",
+  "hotel_detail_reviews_oldest": "အသက်အကြီးဆုံး",
+  "hotel_detail_reviews_highest": "အမြင့်ဆုံးရမှတ်",
+  "hotel_detail_reviews_lowest": "အနိမ့်ဆုံးရမှတ်",
+  "hotel_detail_review_sort_by": "အလိုက်စဥ်သည်",
+  "hotel_detail_reviews": "သုံးသပ်ချက်",
+  "hotel_detail_rate_location": "တည်နေရာ",
+  "hotel_detail_rate_price": "စျေးနှုန်း",
+  "hotel_detail_rate_cleanliness": "သန့်ရှင်းမှု",
+  "hotel_detail_rate_service": "ဝန်ဆောင်မှု",
+  "hotel_detail_rate_facilities": "အထောက်အကူပြုပစ္စည်းများ",
+  "hotel_detail_one_user_review": "သုံးသပ်ချက် ၁",
+  "hotel_detail_x_user_reviews": "{x} သုံးသပ်ချက်",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "ကြိုတင်မှာယူမှု မအောင်မြင်ပါ။",
+  "hotel_detail_please_fill_ci_co_date": "ကျေးဇူးပြု၍ အကောင့်ဝင်ခြင်းနှင့် ထွက်မည့်ရက်စွဲများကို ထည့်သွင်းပါ။",
+  "hotel_detail_allow_pet_contact_hotel": "အိမ်မွေးတိရစ္ဆာန်များကို ခွင့်ပြုထားသည်။ အိမ်မွေးတိရစ္ဆာန်မူဝါဒများအတွက် ကျေးဇူးပြု၍ တည်းခိုခန်းကို တိုက်ရိုက်ဆက်သွယ်ပါ။",
+  "hotel_detail_allow_pet_and_x_fee": "အိမ်မွေးတိရစ္ဆာန်များကို ခွင့်ပြုထားသည်။ အိမ်မွေးတိရစ္ဆာန်အခကြေးငွေ - {x} (အိမ်မွေးတိရစ္ဆာန်အခကြေးငွေကို နေရာထိုင်ခင်းတွင်ပေးဆောင်ရမည်)။",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "အခမဲ့ ပယ်ဖျက်ခြင်း။",
+  "hotel_detail_cancellation_with_refund": "ပယ်ဖျက်ခြင်းကို ကောက်ခံပါသည်။",
+  "hotel_detail_cancellation_without_refund": "ငွေပြန်အမ်းခြင်းမရှိဘဲ ပယ်ဖျက်ခြင်း။",
+  "hotel_detail_cancel_non_refund": "ပယ်ဖျက်ပြီးပါက ပြန်အမ်းငွေ သို့မဟုတ် ပေးချေထားသော ပမာဏကို သင်လက်ခံရရှိမည်မဟုတ်ပါ။",
+  "hotel_detail_breakfast_served": "နံနက်စာ ပေးပါသည်။",
+  "hotel_detail_lunch_served": "နေ့လည်စာ ကျွေးမွေးသည်။",
+  "hotel_detail_dinner_served": "ညစာကျွေးသည်။",
+  "hotel_detail_smoking_allow": "ဆေးလိပ်သောက်ခွင့်ရှိသည်။",
+  "hotel_detail_smoking_not_allow": "ဆေးလိပ်မသောက်ရ",
+  "hotel_detail_contact_hotel": "ဟိုတယ်ကိုဆက်သွယ်ပါ။",
+  "hotel_detail_book_first_pay_later": "အခုပဲ ဘွတ်ကင်လုပ်၊ နောက်မှပေးချေလိုက်ပါ။",
+  "hotel_detail_policy": "မူဝါဒများ",
+  "hotel_detail_choose_the_bed_arrangement": "အိပ်ရာခင်းကို ရွေးပါ။",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "{x} တွင် {y} မတိုင်မီ ပြုလုပ်ထားသော ပယ်ဖျက်မှုများ - ပထမညအတွက် အခန်းနှုန်းထား၏ {z}% ပြန်အမ်းငွေကို ရယူလိုက်ပါ။",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "အခန်းဝန်ဆောင်မှုများ",
+  "hotel_detail_amenities": "ငေါ့သည်။",
+  "hotel_detail_general_rules": "အိမ်စည်းကမ်း",
+  "hotel_detail_change_reservation": "ကြိုတင်မှာကြားချက်ပြောင်းပါ။",
+  "hotel_detail_services_and_facilities": "အထောက်အကူပြုပစ္စည်းများနှင့် ဝန်ဆောင်မှုများ",
+  "hotel_detail_x_room_and_y_night": "{x} အခန်း/{y} ည",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} အခန်း/{y} ည",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 အခန်း/{x} ည",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} အခန်း/၁ ည",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "၁ခန်း/၁ည",
+  "hotel_detail_x_rooms_and_y_adults": "အခန်း {x} ခန်း - ဧည့်သည် {y} ဦး",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "အခန်း ၁ ခန်း - ဧည့်သည် {x} ဦး",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "ဧည့်ခန်း ၁ခန်း - ၁ယောက်",
+  "hotel_detail_child_count": "ကလေး ၁ ယောက်",
+  "hotel_detail_x_children": "{x} ကလေးများ",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "အခန်းအသေးစိတ်",
+  "hotel_detail_room_policy_and_conditions": "အခြေအနေများနှင့် မူဝါဒများ",
+  "hotel_detail_person_count": "ဧည့်သည် ၁",
+  "hotel_detail_x_people": "ဧည့်သည် {x} ဦး",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "အလယ်မှ {distance}{x}",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "ရှာဖွေမှုတည်နေရာမှ {distance}{x}",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "မြို့လယ်တွင်",
+  "hotel_detail_check_in": "ရောက်ရှိကြောင်းစာရင်းသွင်းခြင်း",
+  "hotel_detail_check_out": "ထွက်ခွာသည်",
+  "hotel_detail_cancelation_policy": "ပယ်ဖျက်ခြင်း။",
+  "hotel_detail_child_policy": "ကလေးတွေ",
+  "hotel_detail_pet_policy": "အိမ်မွေးတိရိစ္ဆန်",
+  "hotel_detail_check_in_x": "{x} ပြီးနောက်",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "{x} မတိုင်မီ",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "၁လုံးပဲကျန်တော့တယ်။",
+  "hotel_detail_only_x_room": "{x} သာ ကျန်တော့သည်။",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "အသက် {range} မှ ကလေးများကို ခွင့်ပြုသည်။",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "အိမ်မွေးတိရစ္ဆာန်များကို ခွင့်ပြုထားသည်။ အိမ်မွေးတိရစ္ဆာန်ကြေးကို ဟိုတယ်တွင် ပေးဆောင်ရသည်။",
+  "hotel_detail_pet_policy_do_not_allow": "အိမ်မွေးတိရစ္ဆာန်များကို ခွင့်မပြုပါ။",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "စာရင်းသွင်းချိန်မတိုင်မီ {x}နာရီအလိုတွင် ပယ်ဖျက်ခြင်းများ - ပထမညအတွက် အခန်းနှုန်းထား၏ {y}% ပြန်အမ်းငွေကို ရယူလိုက်ပါ။",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "စာရင်းသွင်းချိန်မတိုင်မီ {x}နာရီအလိုတွင် ပယ်ဖျက်ခြင်းများ - တစ်ညလုံးအတွက် အခန်းနှုန်းထား၏ {y}% ပြန်အမ်းငွေကို ရယူလိုက်ပါ။",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "{x} မတိုင်မီ အခမဲ့ ပယ်ဖျက်ခြင်း",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "စာအုပ် ၁ ခန်း",
+  "hotel_detail_book_x_room": "အခန်း {x} ကို ကြိုတင်မှာယူပါ။",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "အကောင်းဆုံးစျေးနှုန်း",
+  "hotel_detail_bed": "အိပ်ရာ ၁ ခု",
+  "hotel_detail_x_beds": "{x} ကုတင်",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "ယနေ့အတွက် {x}% လျှော့စျေး",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "အခန်းရွေးပါ။",
+  "hotel_detail_has_x_room_types": "(စုစုပေါင်း အခန်းအမျိုးအစား {x} ခု ရနိုင်ပါသည်။",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(စုစုပေါင်း အခန်းအမျိုးအစား ၁ ခန်း ရနိုင်သည်)",
+  "hotel_detail_children_policy_do_not_allow": "ဟိုတယ်တွင် ကလေးမူဝါဒ မရှိပါ။ ကလေးများကို ရှာဖွေမှုအရေအတွက်တွင် ရေတွက်မည်မဟုတ်ပါ။ အတူပါလာတဲ့ ကလေးတွေရှိရင် ဟိုတယ်ကို ဆက်သွယ်ပေးပါ။",
+  "hotel_detail_children_policy_range_allow": "ဟိုတယ်၏ ကလေးမူဝါဒသည် အသက် {range} ရှိ ကလေးများကို ခွင့်ပြုသည်။ ဟိုတယ်ဆိုင်ရာ မူဝါဒများနှင့် စည်းမျဉ်းများဆိုင်ရာ အချက်အလက်များအတွက် ကျေးဇူးပြု၍ ဟိုတယ်၏ အိမ်စည်းမျဉ်းကဏ္ဍကို ကိုးကားပါ သို့မဟုတ် နောက်ထပ်အချက်အလက်များအတွက် ဟိုတယ်ကို ဆက်သွယ်ပါ။",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "အခန်းအချက်အလက်",
+  "hotel_detail_x_fee_person_and_day": "{x}/ဧည့်သည်/ရက်",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/ကား/ရက်",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "မနက်စာ",
+  "hotel_detail_lunch": "နေ့လည်စာ",
+  "hotel_detail_dinner": "ညစာ",
+  "hotel_detail_smoking": "ဆေးရွက်ကြီး",
+  "hotel_detail_parking": "ကားပါကင်",
+  "hotel_detail_local_time": "(ဒေသစံတော်ချိန်)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "{x} တွင် {y} မတိုင်မီ ပြုလုပ်ထားသော ပယ်ဖျက်မှုများ - တစ်ညလုံးအတွက် အခန်းနှုန်းထား၏ {z}% ပြန်အမ်းငွေကို ရယူလိုက်ပါ။",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "{x} တွင် {y} မတိုင်မီ ပြုလုပ်ထားသော ပယ်ဖျက်မှုများ - အခန်းနှုန်းထား၏ {z} ပြန်အမ်းငွေကို ရယူပါ။",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "အပေးအယူ",
+  "hotel_detail_free_breakfast": "မနက်စာ အခမဲ့",
+  "hotel_detail_free_lunch": "နေ့လယ်စာ အခမဲ့",
+  "hotel_detail_free_dinner": "ညစာ အခမဲ့",
+  "hotel_detail_allow_smoking": "ဆေးလိပ်သောက်ခွင့်ရှိသည်။",
+  "hotel_detail_free_parking": "အခမဲ့ကားပါကင်",
+  "hotel_detail_room_not_found": "အခန်းများမတွေ့ပါ။",
+  "hotel_detail_no_result": "သင့်ရှာဖွေမှုနှင့် ကိုက်ညီသော မည်သည့်ရလဒ်ကိုမျှ ကျွန်ုပ်တို့ ရှာမတွေ့ပါ။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_detail_similar_hotels_title": "အလားတူဂုဏ်သတ္တိများ",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "မှာယူမှုသည် ငွေပေးချေမှုအတွက် အရည်အချင်းမပြည့်မီပါ။",
+  "hotel_booking_dialog_qualified_orders": "မှာယူမှု စုစုပေါင်းပမာဏနှင့် အကျုံးဝင်ပါသည်။",
+  "hotel_booking_dialog_coupon_code_coins_points": "ငွေပေးချေမှုအတွက် အရည်အချင်းပြည့်မီရန် ကူပွန်ကုဒ်၊ အကြွေစေ့များ သို့မဟုတ် ရမှတ်များကို သင်ပြောင်းလဲနိုင်သည်။",
+  "hotel_booking_dialog_or_minimum": "သို့မဟုတ် အနည်းဆုံး",
+  "hotel_booking_widget_dialog_cannot_used_information": "ဤအချက်အလက်ကို ယခုအချိန်တွင် အသုံးမပြုနိုင်ပါ။ ကျေးဇူးပြု၍ အခြားတစ်ခုကိုသုံးပါ သို့မဟုတ် အသစ်တစ်ခုသိမ်းဆည်းပါ။",
+  "hotel_booking_component_applied_points_successfully": "အမှတ်များကို အောင်မြင်စွာ အသုံးချပြီးပါပြီ။",
+  "hotel_booking_use_point": "အမှတ်များကိုသုံးပါ။",
+  "hotel_booking_point_switch_on_hint": "ဤအမှာစာအတွက် လျှောက်ထားသည့်အချက်များကို ပယ်ဖျက်ရန် အမှတ်များအသုံးပြုခြင်းကို ပိတ်ပါ။",
+  "hotel_booking_point_switch_off_hint": "ဤအမှာစာအတွက် သင်အသုံးပြုမည့် အမှတ်အရေအတွက်ကို ထည့်ရန် အမှတ်များကို အသုံးပြု၍ ဖွင့်ပါ။",
+  "hotel_booking_point_user_point": "ရနိုင်သောအချက်များ",
+  "hotel_booking_point_available_point": "အော်ဒါမှာလို့ရပါပြီ။",
+  "hotel_booking_point_user_want_to_use_hint": "သင်အသုံးပြုလိုသော အမှတ်အရေအတွက်",
+  "hotel_booking_point_equivalent_to": "နှင့်ညီမျှတယ်",
+  "hotel_booking_point_press": "စာနယ်ဇင်း",
+  "hotel_booking_point_apply": "လျှောက်ထားပါ။",
+  "hotel_booking_point_apply_for_payment": "ငွေပေးချေမှုတွင် ပမာဏကို အသုံးချရန်",
+  "hotel_booking_points_apply_hint": "ဤမှာယူမှုအတွက် ပေးချေရန် ပမာဏကို အသုံးပြုပါမည်။",
+  "hotel_booking_payment_3001_error": "ကတ်ကို မပံ့ပိုးပါ။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3002_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3003_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3004_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3005_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3006_error": "ကတ်သက်တမ်းကုန်သွားပါပြီ။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3007_error": "မမှန်ကန်သော CVC ကုဒ်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3008_error": "ကတ်နံပါတ် မမှန်ကန်ပါ။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3009_error": "ဤငွေကြေးကို မပံ့ပိုးပါ။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_payment_3010_error": "ငွေပေးချေမှုလုပ်ငန်းစဉ်အတွင်း အမှားအယွင်းတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_modify_coin_applied": "ငွေပေးချေမှုတွင် ဒင်္ဂါးပြားများကို အသုံးပြုထားသည်။ အသေးစိတ်ကို Total တွင်ကြည့်ရှုပါ။",
+  "hotel_booking_modify_voucher_applied": "ငွေပေးချေမှုတွင် ဒင်္ဂါးပြားများကို အသုံးပြုထားသည်။ အသေးစိတ်ကို Total တွင်ကြည့်ရှုပါ။",
+  "hotel_booking_modify_point_applied": "ငွေပေးချေမှုတွင် အမှတ်များကို အသုံးပြုထားသည်။ အသေးစိတ်ကို Total တွင်ကြည့်ရှုပါ။",
+  "hotel_booking_modify_point_canceled": "ဤမှာယူမှုအတွက် ငွေပေးချေမှုတွင် အမှတ်များအသုံးပြုခြင်းကို ပယ်ဖျက်လိုက်ပါပြီ။",
+  "hotel_booking_modify_4006_error": "ဘောက်ချာ မရနိုင်ပါ။",
+  "hotel_booking_modify_4007_error": "ဘောက်ချာ သိမ်းထားပြီးပြီ။",
+  "hotel_booking_modify_4008_error": "မှာယူမှုသည် ကူပွန်ကုဒ်အတွက် အရည်အချင်းမပြည့်မီပါ။ ကျေးဇူးပြု၍ စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။",
+  "hotel_booking_modify_2004_error": "လျှောက်ထားရန် မအောင်မြင်ပါ။",
+  "hotel_booking_pay_1005_error": "တန်ဖိုးမမှန်ကန်ပါ။",
+  "hotel_booking_pay_2002_error": "အမှာစာမတွေ့ပါ။",
+  "hotel_booking_pay_2004_error": "ငွေပေးချေမှု မအောင်မြင်ပါ။",
+  "hotel_booking_pay_6002_error": "ကတ်အချက်အလက် မမှန်ကန်ပါ။",
+  "hotel_booking_pay_6003_error": "ကတ်ကို လက်မခံပါ။",
+  "hotel_booking_pay_6004_error": "မှာယူမှု ဖန်တီးမှု အမှားအယွင်း",
+  "hotel_booking_pay_6005_error": "TVP ကြိုတင်မှာယူမှု အမှားအယွင်း",
+  "hotel_booking_required_city": "မြို့တော်လိုအပ်သည်။",
+  "hotel_booking_sub_bed": "အပိုအိပ်ရာ",
+  "hotel_booking_information": "ဘွတ်ကင်အချက်အလက်",
+  "hotel_booking_room_information": "အခန်းအချက်အလက်",
+  "hotel_booking_room_hotel": "ဟိုတယ်",
+  "hotel_booking_x_nights": "{x} ည",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "၁ ည",
+  "hotel_booking_change": "ပြောင်းလဲပါ။",
+  "hotel_booking_user_contact": "ဆက်သွယ်ရန်အချက်အလက်များ",
+  "hotel_bookng_without_tone_marks": "(အသံအမှတ်အသားမပါဘဲ)",
+  "hotel_booking_first_name": "နာမည်",
+  "hotel_booking_last_name": "မျိုးနွယ်အမည်",
+  "hotel_booking_middle_name": "အလယ်နာမည်",
+  "hotel_booking_given_name": "အလယ်နှင့် ပထမ/အမည်ပေးသည်။",
+  "hotel_booking_phone_number": "ဖုန်းနံပါတ်",
+  "hotel_booking_email": "အီးမေးလ်",
+  "hotel_booking_country": "တိုင်းပြည်",
+  "hotel_booking_im_a_guest": "ကျွန်တော်က ဧည့်သည်ပါ။",
+  "hotel_booking_guest_information": "ဧည့်သည်အချက်အလက်",
+  "hotel_booking_fill_contact_information": "သင် သို့မဟုတ် နေရာထိုင်ခင်းဝန်ဆောင်မှုပေးသွင်းသူနှင့် ဆက်သွယ်ရန် တာဝန်ရှိပုဂ္ဂိုလ်၏ ဆက်သွယ်ရန်အချက်အလက်များကို ထည့်သွင်းပါ။",
+  "hotel_booking_name_as_in_passport": "မှတ်ပုံတင်ကတ်/ပတ်စပို့တွင် ဖော်ပြထားသည့်အတိုင်း အမည်အပြည့်အစုံ",
+  "hotel_booking_payments": "ငွေပေးချေမှုရွေးချယ်စရာများ",
+  "hotel_booking_prepay": "ယခုပေးချေပါ။",
+  "hotel_booking_postpaid": "နောက်မှပေးချေပါ။",
+  "hotel_booking_prepay_description": "Hahalolo သည် သင့်ငွေပေးချေမှုကို လုပ်ဆောင်ရာတွင် ကူညီပေးပါမည်။ ကြိုတင်စာရင်းသွင်းပြီးပါက ယနေ့ ငွေပမာဏအပြည့်ပေးချေရပါမည်။",
+  "hotel_booking_postpaid_description": "ပိုင်ဆိုင်မှုသည် သင့်ငွေပေးချေမှုကို ဆောင်ရွက်ပေးပါမည်။ ကြိုတင်စာရင်းသွင်းမှုအခြေအနေများပေါ်မူတည်၍ သင်သည် တစ်စိတ်တစ်ပိုင်း သို့မဟုတ် အပြည့်အဝပေးချေနိုင်ပါသည်။",
+  "hotel_booking_bill_information": "ငွေပေးချေမှုအချက်အလက်",
+  "hotel_booking_use_contact_information": "အဆက်အသွယ်၏ အချက်အလက်ကို အသုံးပြုပါ။",
+  "hotel_booking_state": "ပြည်နယ်",
+  "hotel_booking_city": "မြို",
+  "hotel_booking_save_payment_information": "နောက်တစ်ကြိမ်အတွက် ငွေပေးချေမှုအချက်အလက်ကို သိမ်းဆည်းပါ။",
+  "hotel_booking_use_x_y_to_pay": "ငွေပေးချေရန်အတွက် {x} {y} ကို အသုံးပြုပါ။",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "{x} {unit} နှင့် ညီမျှသည်",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "ငွေပေးချေစနစ်",
+  "hotel_booking_payment_note": "မှတ်ချက်- HAHALOLO သည် သုံးစွဲသူများအား အခမဲ့ ဘဏ်ငွေကောက်ခံမှုဖြင့် ပံ့ပိုးပေးမည်ဖြစ်သည်။",
+  "hotel_booking_free": "အခမဲ့",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "သင့်အား ကျွန်ုပ်တို့ကူညီနိုင်သည့် အခြားအရာများ ရှိပါသလား။",
+  "hotel_booking_inform_the_accommodation": "ဤဝန်ဆောင်မှုများကို သင်စိတ်ဝင်စားကြောင်း အိမ်ခြံမြေအား ကျွန်ုပ်တို့ အကြောင်းကြားပါမည်။ ကျေးဇူးပြုပြီးမှတ်သားထားပါ။",
+  "hotel_booking_can_not_guaranteed": "သင်၏တောင်းဆိုမှုကို အာမခံ၍မရနိုင်ပါ။ စိတ်မပူပါနှင့်! ပိုင်ဆိုင်မှုက မင်းရဲ့လိုအပ်ချက်တွေကို ဖြည့်ဆည်းပေးဖို့ ကြိုးစားလိမ့်မယ်။",
+  "hotel_booking_additional_services": "ဤအရာများသည် သင်၏ ကြိုတင်စာရင်းသွင်းမှု တောင်းဆိုချက်ထက် ကျော်လွန်သော အပိုဝန်ဆောင်မှုများဖြစ်ပြီး အသုံးပြုသည့်အခါတွင် ပိုင်ဆိုင်မှုအတွက် ထပ်ဆောင်းအခကြေးငွေများ ပေးဆောင်ရနိုင်သည် ။",
+  "hotel_booking_note": "မှတ်ချက်",
+  "hotel_booking_promo_apply_rule": "အကြွေစေ့များနှင့် ကူပွန်ကုဒ်ကို အောက်ပါငွေပေးချေမှုပုံစံများတွင် သက်ရောက်မှုမရှိပါ။",
+  "hotel_booking_saved_payment_information": "ငွေပေးချေမှုအချက်အလက်ကို သိမ်းဆည်းထားသည်။",
+  "hotel_booking_fill_new_payer_information": "ငွေပေးသူအချက်အလက်အသစ်ကို ထည့်သွင်းပါ။",
+  "hotel_booking_maximum_coins_can_be_use": "ဤအမှာစာအတွက် အများဆုံးဒင်္ဂါးပြားအရေအတွက်ကို အသုံးပြုနိုင်ပါသည်။",
+  "hotel_booking_coins": "ဒင်္ဂါးပြားများ",
+  "hotel_booking_unknown": "ငါမသိဘူး",
+  "hotel_booking_planning_arrive_after_x_date": "သင်သည် {x} နောက်ပိုင်းတွင် ရောက်ရှိလာရန် စီစဉ်ထားပါက၊ ကျေးဇူးပြု၍ သင့်စီစဉ်ထားသည့် အကောင့်ဝင်ချိန်ကို အိမ်ရှင်ထံ အကြောင်းကြားပါ-",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "အပိုဝန်ဆောင်မှုများကို ကောက်ခံနိုင်ပါသည်။ နောက်ထပ်အချက်အလက်များအတွက် ကျေးဇူးပြု၍ တည်းခိုခန်းသို့ ကြိုတင်ဆက်သွယ်ပါ။",
+  "hotel_booking_term_and_policies": "စည်းမျဥ်းများ - မူဝါဒများ",
+  "hotel_booking_privacy_policy": "ကိုယ်ရေးအချက်အလက်မူဝါဒ",
+  "hotel_booking_tp_and_pp": "နောက်တစ်ဆင့်ကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့်၊ ကျွန်ုပ်သည် Hahalolo ၏ စည်းမျဥ်းစည်းကမ်းများ - မူဝါဒများနှင့် ကိုယ်ရေးကိုယ်တာမူဝါဒကို ဖတ်ပြီး သဘောတူကြောင်း အတည်ပြုပါသည်။",
+  "hotel_booking_important_note": "မှတ်ချက်",
+  "hotel_booking_select_time": "အချိန်ရွေးပါ။",
+  "hotel_booking_room_x_night": "အခန်း x ၁၊ ၁ည",
+  "hotel_booking_x_rooms_x_night": "အခန်း x {x}၊ ၁ ည",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "အခန်း x {x}၊ {y} ည",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "အခန်း x ၁၊ {x} ည",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "အခွန်များနှင့် အခကြေးငွေများ",
+  "hotel_booking_service_charge": "ဝန်ဆောင်ခ",
+  "hotel_booking_payment_fees": "အခကြေးငွေ",
+  "hotel_booking_accommodation_currency": "ပိုင်ဆိုင်မှုငွေကြေး",
+  "hotel_booking_points_fees": "အမှတ်များကိုသုံးပါ။",
+  "hotel_booking_coins_fees": "အကြွေများကိုသုံးပါ။",
+  "hotel_booking_voucher_fees": "ကူပွန်ကုဒ်",
+  "hotel_booking_discount": "ပရိုမိုးရှင်း",
+  "hotel_booking_meal_service": "အစားအသောက်ဝန်ဆောင်မှု",
+  "hotel_booking_meal_service_description": "အောက်ဖော်ပြပါများသည် သင့်အတွက် တည်းခိုနိုင်သည့် နံနက်စာ ဝန်ဆောင်မှုများဖြစ်သည်။ ဤဝန်ဆောင်မှုအတွက် သင်လျှောက်ထားလိုပါက၊ ကျေးဇူးပြု၍ တည်းခိုခန်းရှေ့ခန်းသို့ တိုက်ရိုက်ဆက်သွယ်ပါ။",
+  "hotel_booking_meal_price_per_breakfast": "မနက်စာ အမျိုးအစားအလိုက် ဈေးနှုန်း",
+  "hotel_booking_extended_service": "အပိုဝန်ဆောင်မှုများ",
+  "hotel_booking_extended_service_description": "ဤမှာယူမှုတွင် သင်ထည့်လိုသော အပိုကုတင်စုစုပေါင်းအရေအတွက်ကို ရွေးပါ။ သင်သည် အပိုကုတင် {x} ခုအထိသာ ပေါင်းထည့်ခွင့်ရှိသည်။",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "အရေအတွက်",
+  "hotel_booking_total": "စုစုပေါင်း",
+  "hotel_booking_unit_price": "စျေးနှုန်း",
+  "hotel_booking_x_price_per_person_per_day": "လူ {x} ဦး/ရက်",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} အိပ်ရာ/လူ/နေ့",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "စျေးနှုန်းအသေးစိတ်",
+  "hotel_booking_billings_information": "ငွေပေးချေမှုအချက်အလက်",
+  "hotel_booking_service_charge_description": "Hahalolo စနစ်တွင် သင်၏ ကြိုတင်စာရင်းသွင်းမှုဆိုင်ရာ ပြဿနာများအတွက် ဝန်ဆောင်မှုနှင့် ပံ့ပိုးမှုအတွက် ဤအခကြေးငွေကို ကော်မရှင်အဖြစ် ထားရှိပါမည်။",
+  "hotel_booking_payment_fees_description": "ငွေပေးချေမှုအခကြေးငွေသည် အွန်လိုင်းငွေပေးချေမှုဝန်ဆောင်မှုပေးသွင်းသူများအတွက် ပေးဆောင်ရန် လိုအပ်သော ငွေပေးချေမှုတစ်ခုလျှင် ငွေပေးချေမှုအခကြေးငွေပမာဏဖြစ်သည်။",
+  "hotel_booking_taxes_and_fees_description": "အခွန်များနှင့် အခကြေးငွေများသည် ၎င်းတို့၏ တည်းခိုနေထိုင်ရေး ဝန်ဆောင်မှုများကို အသုံးပြုသည့်အခါ သင်ပေးဆောင်ရမည့် ပိုင်ဆိုင်မှု (ဟိုတယ်) ၏ စည်းမျဉ်းများအောက်တွင် ကောက်ခံသည့် ငွေပမာဏဖြစ်သည်။ နောက်ထပ်အသေးစိတ်အချက်အလက်များအတွက် အသုံးပြုမှုစည်းမျဉ်းများကို ဖတ်ရှုပါ။",
+  "hotel_booking_accommodation_currency_description": "ပေးသွင်းသူ၏ ရရှိနိုင်သောငွေကြေးအပေါ်အခြေခံ၍ စျေးနှုန်းကို ပြောင်းလဲထားပါသည်။",
+  "hotel_booking_accommodation_currency_sub_descr_1": "ငွေလဲနှုန်းသည် ငွေပေးချေခြင်းမပြုမီ ပြောင်းလဲနိုင်သည်။",
+  "hotel_booking_accommodation_currency_sub_descr_2": "သင့်ကတ်ထုတ်ပေးသူသည် နိုင်ငံခြားငွေလွှဲခကို ကောက်ခံနိုင်သည်။",
+  "hotel_booking_enter_maximum_x_char": "အများဆုံး စာလုံး {x} လုံးထည့်ပါ။",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "အမှတ်များမရနိုင်ပါ။",
+  "hotel_booking_coin_not_available": "ဒင်္ဂါးပြားများ မရရှိနိုင်ပါ။",
+  "hotel_booking_voucher_not_available": "ကူပွန်ကုဒ်ကို မရနိုင်ပါ။",
+  "hotel_booking_please_check_again": "ထပ်မံစစ်ဆေးပါ။",
+  "hotel_booking_point_change": "စုစုပေါင်းငွေပေးချေမှုပြောင်းလဲမှုကြောင့် လျှောက်ထားသည့် အမှတ်အရေအတွက်သည် ပြောင်းလဲသွားပါသည်။",
+  "hotel_booking_hold_warning": "သင့်ပိုင်ဆိုင်မှုကို ကြိုတင်မှာကြားထားပြီးဖြစ်သောကြောင့် မှာယူမှုအချက်အလက်ကို ပြောင်းလဲ၍မရပါ။ သင်၏ ကြိုတင်မှာယူမှုကို အပြီးသတ်ရန် ကျေးဇူးပြု၍ ငွေပေးချေပါ။",
+  "hotel_booking_total_point_change": "ရနိုင်သော ရမှတ်များ ပြောင်းလဲသွားပါပြီ။ ကျေးဇူးပြု၍ အော်ဒါအတွက် လျှောက်ထားရန် အမှတ်အရေအတွက်ကို ထည့်သွင်းပါ။",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "မြေပုံ",
+  "hotel_list": "စာရင်း",
+  "hotel_from_the_center": "ဗဟိုကနေ",
+  "hotel_from_the_location": "ရှာဖွေရေးတည်နေရာမှ",
+  "hotel_right_in_the_center": "မြို့လယ်မှာ",
+  "hotel_breakfast_is_served": "မနက်စာ အခမဲ့",
+  "hotel_no_breakfast_served": "မနက်စာ မပေးထားပါ။",
+  "hotel_dinner_is_served": "ညစာကျွေးသည်။",
+  "hotel_no_dinner_service": "ညစာမကျွေးပါ။",
+  "hotel_lunch_is_served": "နေ့လယ်စာ ထောက်ပံ့ပေးသည်။",
+  "hotel_no_lunch_service": "နေ့လယ်စာ မကျွေးဘူး။",
+  "hotel_allow_smoking": "ဆေးလိပ်သောက်ခွင့်ရှိသည်။",
+  "hotel_no_smoking": "ဆေးလိပ်မသောက်ရ",
+  "hotel_no_refund": "ငွေပြန်အမ်းခြင်းမရှိဘဲ ပယ်ဖျက်ခြင်း။",
+  "hotel_without_fee": "ပယ်ဖျက်ခြင်းအား ကောက်ခံပါသည်။",
+  "hotel_free_cancel": "အခမဲ့ ပယ်ဖျက်ခြင်း။",
+  "hotel_pay_later": "အခုပဲ ဘွတ်ကင်လုပ်ပါ၊ နောက်မှပေးချေလိုက်ပါ။",
+  "hotel_fee": "နံနက်စာ ပေးပါသည်။",
+  "hotel_free": "မနက်စာ အခမဲ့",
+  "hotel_not_refund": "ဖျက်သိမ်းပြီးနောက် ပြန်အမ်းငွေ သို့မဟုတ် ပေးချေထားသော ပမာဏကို သင် လက်ခံရရှိမည်မဟုတ်ပါ။",
+  "hotel_no_vacancy": "ရောင်းကုန်ပြီ",
+  "hotel_choose_room": "အခန်းရွေးပါ။",
+  "hotel_change_date": "ရက်စွဲပြောင်းပါ။",
+  "hotel_change_price_display": "စျေးနှုန်းပြပါ။",
+  "hotel_continue": "သာ",
+  "hotel_room_available": "ဝဲ",
+  "hotel_room": "အခန်း",
+  "hotel_night": "ည",
+  "hotel_date_checking": "ဝင်ရောက်မည့်ရက်",
+  "hotel_date_checkout": "ထွက်မည့်ရက်",
+  "hotel_search": "ရှာရန်",
+  "hotel_promotion": "ပရိုမိုးရှင်း",
+  "hotel_promotions": "ဈေးရောင်း",
+  "hotel_applying": "လျှောက်ထားခြင်း။",
+  "hotel_promotion_applying": "သက်ဆိုင်သော ပရိုမိုးရှင်း",
+  "hotel_promotions_applying": "သက်ဆိုင်သော ပရိုမိုးရှင်းများ",
+  "hotel_title_promotions_applying": "အသုံးချပရိုမိုးရှင်း",
+  "hotel_see_detail": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "hotel_cancel": "စာရင်းသွင်းချိန်မတိုင်မီ {x}နာရီအတွင်း ပယ်ဖျက်ခြင်းအတွက် အခန်းနှုန်းထား၏ {y}% ကို ပြန်အမ်းပါမည်",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "ဧည့်သည်များသည် {y}-{z} ကြားတွင် ရှိနေသောအခါ တစ်ညလျှင် လျှော့စျေး {x} ရယူလိုက်ပါ။",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "ဧည့်သည်များသည် {y}-{z} ကြားတွင် ရှိနေသောအခါတွင် (အများဆုံး {a}) နှုန်းဖြင့် တစ်ညလျှင် လျှော့စျေး {x} ရယူလိုက်ပါ။",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{x} လျှော့စျေး {y} ရက်ကြိုတင်မှာယူခြင်း။ ဧည့်သည်များ {z} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{z} ရက်ကြိုတင်မှာယူမှုများအတွက် {x} လျှော့စျေး၊ အများဆုံး {y}။ ဧည့်သည်များ {a} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{z} ရက်ကြိုတင်မှာယူမှုအတွက် {x} လျှော့စျေး။ ဧည့်သည်များ {a} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{y} ညထက်ပို၍ ကြိုတင်မှာယူမှုအတွက် {x} လျှော့စျေး။ ဧည့်သည်များ {a} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{z} ညထက်ပို၍ ကြိုတင်မှာယူမှုအတွက် {x} လျှော့စျေး၊ အများဆုံး {y}။ ဧည့်သည်များ {a} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{z} ညထက်ပို၍ ကြိုတင်မှာယူမှုအတွက် {x} လျှော့စျေး။ ဧည့်သည်များ {a} မှနေသည့်အခါတွင် အကျုံးဝင်သည်",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "တစ်ညလုံး",
+  "hotel_first_night": "ပထမည",
+  "hotel_rating": "သုံးသပ်ချက်",
+  "hotel_wonderful": "အရမ်းကောင်းတယ်။",
+  "hotel_very_good": "အလွန်ကောင်းသည်",
+  "hotel_satisfied": "ကျေနပ်တယ်။",
+  "hotel_medium": "ပျမ်းမျှ",
+  "hotel_bad": "ဆင်းရဲတယ်။",
+  "hotel_hand_note_consult_book_room": "ကြိုတင်မှာထားကြည့်လိုက်ပါ။",
+  "hotel_hand_note_enter_code_search_info": "သင်၏ ကြိုတင်စာရင်းသွင်းမှု အချက်အလက်ကို ရှာဖွေရန် သင်၏ ဘွတ်ကင်နံပါတ်ကို ထည့်သွင်းပါ။",
+  "hotel_hand_note_reservation_code": "ဘွတ်ကင်နံပါတ်",
+  "hotel_hand_note_can_not_find_hotel": "ဝမ်းနည်းပါသည်၊ သင့်ရှာဖွေမှုနှင့် ကိုက်ညီသော ဟိုတယ်များကို ကျွန်ုပ်တို့ ရှာမတွေ့ပါ။",
+  "hotel_hand_note_search_night": "နံပါတ်",
+  "hotel_hand_note_num_room": "အခန်းနံပါတ်",
+  "hotel_hand_note_status_booking": "ကြိုတင်စာရင်းသွင်းမှုအခြေအနေ",
+  "hotel_hand_note_booked": "ဘွတ်ကင်လုပ်ထားသည်။",
+  "hotel_hand_note_dont_booked": "Booking မတင်ရသေးဘူး။",
+  "hotel_hand_note_total_price": "စုစုပေါင်းစျေးနှုန်း",
+  "hotel_hand_note_status": "အဆင့်အတန်း",
+  "hotel_hand_note_payment_after": "ကျေးဇူးပြု၍ ကြိုတင်ငွေပေးချေပါ။",
+  "hotel_hand_note_pay_now": "ယခုပေးချေပါ။",
+  "hotel_hand_note_info_book_room": "ဘွတ်ကင်အချက်အလက်",
+  "hotel_hand_note_code_book_room": "ကြိုတင်စာရင်းသွင်းနံပါတ်-",
+  "hotel_hand_note_checking": "ရောက်ရှိကြောင်းစာရင်းသွင်းခြင်း",
+  "hotel_hand_note_checkout": "ထွက်ခွာသည်",
+  "hotel_hand_note_detail": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "hotel_hand_note_kind_room": "အခန်းအမျိုးအစား",
+  "hotel_hand_note_quantity": "အရေအတွက်",
+  "hotel_hand_note_room": "အခန်း",
+  "hotel_hand_note_visited": "ဧည့်သည်",
+  "hotel_hand_note_adult": "လူကြီး",
+  "hotel_hand_note_children": "ကလေးတွေ",
+  "hotel_hand_note_number_nights": "ညတည်းခိုခွင့်အမှတ်",
+  "hotel_hand_note_night": "ည",
+  "hotel_hand_note_status_payment": "ငွေပေးချေမှုအခြေအနေ",
+  "hotel_hand_note_cancel_order": "အော်ဒါဖျက်သိမ်းသည်",
+  "hotel_hand_note_info_refund": "ပြန်အမ်းငွေအချက်အလက်",
+  "hotel_hand_note_rate_experience": "သင့်အတွေ့အကြုံကို ပြန်လည်သုံးသပ်ပါ။",
+  "hotel_hand_note_rate": "သုံးသပ်ချက်",
+  "hotel_hand_note_see_rate": "သုံးသပ်ချက်များကို ကြည့်ပါ။",
+  "hotel_hand_note_rate_overall_rating": "ဟိုတယ်ရှိ သင်၏သုံးသပ်ချက်",
+  "hotel_hand_note_rate_average": "ပျမ်းမျှ",
+  "hotel_hand_note_position": "တည်နေရာ",
+  "hotel_hand_note_price": "စျေးနှုန်း",
+  "hotel_hand_note_clean": "သန့်ရှင်းမှု",
+  "hotel_hand_note_serve": "ဝန်ဆောင်မှု",
+  "hotel_hand_note_material_facilities": "အထောက်အကူပြုပစ္စည်းများ",
+  "hotel_hand_note_review": "သင့်ခံစားချက်များနှင့် သုံးသပ်ချက်များကို မျှဝေပါ။",
+  "hotel_hand_note_review_limit": "သုံးသပ်ချက်တွင် အနည်းဆုံး စာလုံး 2 လုံး ရှိသင့်သည်။",
+  "hotel_hand_note_cancel": "မလုပ်တော့",
+  "hotel_hand_note_submit_review": "သုံးသပ်ချက် တင်ပြပါ။",
+  "hotel_hand_note_room_rates": "အခန်းနှုန်း",
+  "hotel_hand_note_extra_bed": "အပိုအိပ်ရာ",
+  "hotel_hand_note_service_charge": "ဝန်ဆောင်ခ",
+  "hotel_hand_note_payment_fees": "အခကြေးငွေ",
+  "hotel_hand_note_promotion": "ပရိုမိုးရှင်း",
+  "hotel_hand_note_voucher": "ကူပွန်ကုဒ်",
+  "hotel_hand_note_use_coins": "အကြွေများကိုသုံးပါ။",
+  "hotel_hand_note_rates_include": "ပါဝင်သောစျေးနှုန်း",
+  "hotel_hand_note_see_review_title": "{a} အကြောင်း သင့်သုံးသပ်ချက်ကို ကြည့်ပါ",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "{a} တွင် သုံးသပ်ခဲ့သည်",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "သင့်သုံးသပ်ချက်အတွက် ကျေးဇူးတင်ပါသည်။",
+  "hotel_hand_note_use_point": "အမှတ်များကိုသုံးပါ။",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "{x} မတိုင်မီ အခမဲ့ ပယ်ဖျက်ခြင်း။",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(ဒေသစံတော်ချိန်)",
+  "hotel_hand_note_hotel_apartment": "တိုက်ခန်း",
+  "hotel_hand_note_hostel": "ဘော်ဒါဆောင်",
+  "hotel_hand_note_hotel": "ဟိုတယ်",
+  "hotel_hand_note_resort": "အပန်းဖြေစခန်း",
+  "hotel_hand_note_other": "တခြား",
+  "hotel_hand_note_motel": "မိုတယ်",
+  "hotel_hand_note_villa": "ဗီလာ",
+  "hotel_hand_note_vacation_home": "အပန်းဖြေအိမ်",
+  "hotel_hand_note_homestay": "နေအိမ်",
+  "hotel_hand_note_farmstay": "ခြံနေဖို့",
+  "hotel_hand_note_condotel": "ကွန်ဒို",
+  "hotel_hand_note_cruise_ship": "အပျော်စီးခြင်း။",
+  "hotel_hand_note_boathouse": "လှေ",
+  "hotel_hand_note_countryhouse": "ကျေးလက်အိမ်",
+  "hotel_hand_note_campground": "စခန်းချ",
+  "hotel_hand_note_camper": "မော်တော်အိမ်",
+  "hotel_hand_note_lodge": "တည်းခိုပါ။",
+  "hotel_hand_note_guesthouse": "တည်းခိုခန်း",
+  "hotel_hand_note_cancel_hotel": "ပယ်ဖျက်ခြင်း။",
+  "hotel_update_price": "စျေးနှုန်းများကို အဆင့်မြှင့်တင်ခြင်း။",
+  "hotel_distance_x_from_center": "အလယ်မှ {distance}{x}",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "ရှာဖွေမှုတည်နေရာမှ {distance}{x}",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "ဧည့်သည်များသည် {y}-{z} ကြားတွင် တည်းခိုသည့်အခါ တစ်ညလျှင် {x} လျှော့စျေး။",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "အခန်းနှင့် ဧည့်သည်အရေအတွက်",
+  "hotel_add_room_children": "ကလေးတွေ",
+  "hotel_add_room_age_upto": "(အသက် 0 - 17 နှစ်)",
+  "hotel_add_room_child": "ကလေး",
+  "hotel_add_room_age": "အသက်",
+  "hotel_add_room_cancel": "မလုပ်တော့",
+  "hotel_add_room_choose_age": "အသက်အရွယ်ကို ရွေးချယ်ပါ။",
+  "hotel_add_room_done": "ပြီးပြီ။",
+  "hotel_add_room_room": "အခန်း",
+  "hotel_add_room_adult": "လူကြီး",
+  "hotel_add_room_adults": "လူကြီးများ",
+  "hotel_add_room_age_children": "ကလေးအရွယ်",
+  "hotel_add_room_age_child": "ကလေးအရွယ်",
+  "hotel_add_room_condition": "တစ်ခန်းလျှင် အခန်းအရေအတွက်နှင့် ဧည့်သည်ဦးရေ 9 ထက် မများရပါ။",
+  "hotel_add_room_note": "မှတ်ချက်",
+  "hotel_add_room_save": "သိမ်းဆည်းပါ။",
+  "hotel_cart_child": "ကလေး",
+  "hotel_cart_children": "ကလေးတွေ",
+  "hotel_cart_delete": "ဖျက်ပါ။",
+  "hotel_cart_change": "ပြောင်းလဲပါ။",
+  "hotel_cart_book_room": "စာအုပ်အခန်း",
+  "hotel_cart_night": "ည",
+  "hotel_cart_title_included_texas_fee": "အခွန်နှင့် အခကြေးငွေများ ပါဝင်သည်။",
+  "hotel_cart_temporary_price": "စုစုပေါင်း",
+  "hotel_cart_delete_order": "အမိန့်ကိုဖျက်ပါ။",
+  "hotel_screen_cart_delete_order_confirm": "ဤအမှာစာကို ဖျက်လိုပါသလား။",
+  "hotel_order_detail_info_hotel": "ဘွတ်ကင်အချက်အလက်",
+  "hotel_order_detail_done": "ပြီးပြီ။",
+  "hotel_order_detail_detail": "အသေးစိတ်ကြည့်ရှုပါ။",
+  "hotel_order_detail_book_new": "အခန်းအသစ်ကို ဘွတ်ကင်လုပ်ပါ။",
+  "hotel_order_detail_success": "ကြိုတင်မှာယူမှု အောင်မြင်ပါပြီ။",
+  "hotel_order_detail_requests_success": "သင်၏ ကြိုတင်မှာယူမှု တောင်းဆိုချက်ကို အောင်မြင်စွာ ပြုလုပ်ပြီးပါပြီ။",
+  "hotel_order_detail_paid": "(အခကြေးငွေ)။",
+  "hotel_order_detail_reservation": "Booking အသေးစိတ်ကို အောက်တွင် ကြည့်ရှုနိုင်ပါသည်။",
+  "hotel_order_detail_thank": "ဝန်ဆောင်မှုများကို ယုံကြည်စွာ အပ်နှံမှုအတွက် ကျေးဇူးတင်ရှိပါသည်။",
+  "hotel_order_detail_support": "သင့်တွင် မေးခွန်းများ သို့မဟုတ် နောက်ထပ်အကူအညီ လိုအပ်ပါက၊ Hahalolo Help Center သို့ ဆက်သွယ်ပါ။",
+  "hotel_order_detail_instructions": "ညွှန်ကြားချက်များအတွက်။",
+  "hotel_order_detail_info_rest": "အိမ်ခြံမြေအချက်အလက်",
+  "hotel_order_detail_hotel": "ဟိုတယ်",
+  "hotel_order_detail_type": "အခန်းအမျိုးအစား",
+  "hotel_order_detail_check_in": "ရောက်ရှိကြောင်းစာရင်းသွင်းခြင်း",
+  "hotel_order_detail_check_out": "ထွက်ခွာသည်",
+  "hotel_order_detail_visited": "ဧည့်သည်အရေအတွက်",
+  "hotel_order_detail_adult": "လူကြီး",
+  "hotel_order_detail_children": "ကလေးတွေ",
+  "hotel_order_detail_baby": "ကလေး (1 နှစ်အောက်)",
+  "hotel_order_detail_contact": "ဆက်သွယ်ရန်အချက်အလက်များ",
+  "hotel_order_detail_lastname": "နာမည်အပြည့်အစုံ",
+  "hotel_order_detail_tel_number": "ဖုန်းနံပါတ်",
+  "hotel_order_detail_nationality": "လူမျိုးစု",
+  "hotel_order_detail_note": "မှတ်ချက်",
+  "hotel_order_detail_guests": "ဧည့်သည်အချက်အလက်",
+  "hotel_order_detail_trade": "ငွေပေးငွေယူအချက်အလက်",
+  "hotel_order_detail_order_form": "အော်",
+  "hotel_order_detail_payment": "ငွေပေးချေမှုပမာဏ",
+  "hotel_order_detail_bed_type": "အိပ်ရာအမျိုးအစား",
+  "hotel_order_detail_extra_bed": "အပိုအိပ်ရာ",
+  "hotel_order_detail_bed": "အိပ်ရာ",
+  "hotel_order_detail_reservation_code": "ဘွတ်ကင်နံပါတ်",
+  "hotel_order_detail_payer": "အခွန်ဆောင်",
+  "hotel_search_code_total_price": "စုစုပေါင်းစျေးနှုန်း",
+  "hotel_search_code_voucher": "ကူပွန်ကုဒ်",
+  "hotel_search_code_use_coin": "အကြွေများကိုသုံးပါ။",
+  "hotel_search_code_use_point": "အမှတ်များကိုသုံးပါ။",
+  "hotel_search_code_total_pay": "စုစုပေါင်းပေးချေမှု",
+  "hotel_search_code_detail_pay": "ငွေပေးချေမှုအသေးစိတ်",
+  "hotel_hand_note_hotel_policy_check_out": "- {checkout} မတိုင်မီ ငွေရှင်းပါ",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- {checkin} ပြီးနောက် check-in",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+  "hotel_hand_note_hotel_policy_cancelation_des": "အခမဲ့ ပယ်ဖျက်ခြင်း အချိန်ဇယားများသည် ပိုင်ဆိုင်မှု၏ အချိန်ဇုန်အပေါ် အခြေခံပြီး ပိုင်ဆိုင်မှု၏ ပယ်ဖျက်ခြင်းဆိုင်ရာ မူဝါဒဖြင့် သတ်မှတ်ထားသည်။",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x အခန်း၊ {night} x ည",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "အခွန်အခများ",
+  "hotel_hand_note_detail_total_amount": "စုစုပေါင်းပေးချေမှု",
+  "hotel_hand_note_detail_success": "အောင်မြင်တယ်။",
+  "hotel_hand_note_detail_failed": "မအောင်မြင်ပါ။",
+  "hotel_hand_note_detail_postpaid": "Postpaid",
+  "hotel_hand_note_detail_prepaid": "ကြိုတင်ငွေပေးချေပါ။",
+  "hotel_hand_note_detail_operation_history": "လှုပ်ရှားမှုမှတ်တမ်း",
+  "hotel_hand_note_detail_order_cancel_info": "အမှာစာပယ်ဖျက်ခြင်းအချက်အလက်",
+  "hotel_hand_note_detail_order_total_order": "အော်ဒါစုစုပေါင်း",
+  "hotel_hand_note_detail_total_money": "ပေးဆောင်ရမည့် စုစုပေါင်းပမာဏ",
+  "hotel_hand_note_detail_coin": "ဒင်္ဂါးပြားများ",
+  "hotel_hand_note_detail_fee_cancel": "ဖျက်သိမ်းကြေး",
+  "hotel_hand_note_detail_refund_amount": "ခန့်မှန်းခြေ ပြန်အမ်းငွေပမာဏ",
+  "hotel_hand_note_detail_coin_refund_amount": "ခန့်မှန်းချေ ပြန်အမ်းဒင်္ဂါးများ",
+  "hotel_hand_note_detail_payment_info": "ငွေပေးချေမှုအချက်အလက်",
+  "hotel_hand_note_detail_customer_service": "ကူပွန်ကုဒ်ကို ပြန်အမ်း၍မရပါ။ သင့်ကူပွန်ကုဒ်ကို ပြန်ပေးရန်အတွက် ကျွန်ုပ်တို့၏ ဖောက်သည်ဝန်ဆောင်မှုစင်တာသို့ ဆက်သွယ်ပါ။",
+  "hotel_hand_note_detail_note_refund": "ပြန်အမ်းမည့်အချိန် (ပယ်ဖျက်သည့်နေ့မှစ၍) 5 ရက်မှ 7 ရက် (Alepay နှင့် Payme ငွေပေးချေမှုတံခါးပေါက်များအတွက်) သို့မဟုတ် 7 ရက်မှ 15 ရက် (Stripe ငွေပေးချေမှုတံခါးပေါက်များအတွက်)။",
+  "hotel_hand_note_detail_reason_cancel": "ပယ်ဖျက်ရခြင်း အကြောင်းအရင်း",
+  "hotel_hand_note_detail_checking_out": "check-in နှင့် check-out အချိန်",
+  "hotel_hand_note_detail_check_in_after": "Check-in ပြီးနောက်",
+  "hotel_hand_note_detail_check_out_before": "အရင်စစ်ဆေးပါ။",
+  "hotel_hand_note_detail_person_day": "လူနေ့",
+  "hotel_hand_note_detail_free": "အခမဲ့။",
+  "hotel_hand_note_detail_day": "နေ့",
+  "hotel_hand_note_detail_note_hotel": "အခမဲ့ ပယ်ဖျက်ခြင်း အချိန်ဇယားများသည် ပိုင်ဆိုင်မှု၏ အချိန်ဇုန်အပေါ် အခြေခံပြီး ပိုင်ဆိုင်မှု၏ ပယ်ဖျက်ခြင်းဆိုင်ရာ မူဝါဒဖြင့် သတ်မှတ်ထားသည်။",
+  "hotel_hand_note_detail_room_service": "အခန်းဝန်ဆောင်မှုများ",
+  "hotel_hand_note_detail_facilities_service": "Facilities များနှင့် အခန်းဝန်ဆောင်မှုများ",
+  "hotel_hand_note_detail_person_contact": "ဆက်သွယ်ရန်ပုဂ္ဂိုလ်",
+  "hotel_hand_note_detail_telephone_num": "ဖုန်းနံပါတ်",
+  "hotel_hand_note_detail_email": "အီးမေးလ်",
+  "hotel_hand_note_detail_nationality": "လူမျိုးစု",
+  "hotel_hand_note_detail_address": "လိပ်စာ",
+  "hotel_hand_note_detail_paid": "ပေးဆောင်သည့်ပမာဏ",
+  "hotel_hand_note_detail_rest": "မပေးရသေးသောပမာဏ",
+  "hotel_hand_note_detail_payment_methods": "ငွေပေးချေစနစ်",
+  "hotel_hand_note_detail_check_in_info": "Check-in အချက်အလက်",
+  "hotel_hand_note_detail_guest_name": "ဧည့်သည်နာမည်",
+  "hotel_hand_note_detail_policy_cancel": "ဖျက်သိမ်းခြင်းများ ပြုလုပ်ခဲ့သည်။",
+  "hotel_hand_note_detail_hour": "{hour} နာရီ",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} မိနစ်",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": ပြန်အမ်းပါမည်။",
+  "hotel_hand_note_detail_price_room": "အခန်းခနှုန်းထား",
+  "hotel_hand_note_detail_one_night": "ပထမည။",
+  "hotel_hand_note_detail_all_night": "တစ်ညလုံး။",
+  "hotel_hand_note_detail_policy": "ပယ်ဖျက်ခြင်းမူဝါဒ",
+  "hotel_hand_note_detail_children_note": "အသက် {age} မှ ကလေးများကို ခွင့်ပြုသည်။",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "အိမ်မွေးတိရစ္ဆာန်များကို ခွင့်ပြုထားသည်။ အိမ်မွေးတိရစ္ဆာန်အခကြေးငွေ- {fee} (အိမ်မွေးတိရစ္ဆာန်အခကြေးငွေကို နေရာထိုင်ခင်းတွင်ပေးဆောင်သည်)။",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "ကလေးတွေ",
+  "hotel_hand_note_detail_pet": "အိမ်မွေးတိရိစ္ဆန်",
+  "hotel_hand_note_detail_total_room_rate": "စုစုပေါင်းအခန်းစျေးနှုန်း",
+  "hotel_hand_note_detail_total_room_order": "အခန်းနံပါတ်",
+  "hotel_hand_note_detail_room_information": "အခန်းအချက်အလက်",
+  "hotel_hand_note_detail_person_x": "လူ {x} ဦး",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "အသုံးအဆောင်များ၊ အခန်းဝန်ဆောင်မှုများ",
+  "hotel_hand_note_detail_waiting_service": "ပြည့်စုံမှုကို စောင့်မျှော်နေပါတယ်။",
+  "hotel_hand_note_detail_in_service": "လုပ်ဆောင်ဆဲ",
+  "hotel_hand_note_detail_completed": "ပြီးသွားပြီ",
+  "hotel_hand_note_detail_waiting_cancellation": "ပယ်ဖျက်ခြင်းကို စောင့်ဆိုင်းနေသည်။",
+  "hotel_hand_note_detail_canceled": "ဖျက်သိမ်းလိုက်သည်။",
+  "hotel_hand_note_detail_awaiting_confirmation": "အတည်ပြုချက်ကို စောင့်နေသည်။",
+  "hotel_hand_note_detail_not_refund": "ပယ်ဖျက်ပြီးပါက ပြန်အမ်းငွေ သို့မဟုတ် ပေးချေထားသော ပမာဏကို သင်လက်ခံရရှိမည်မဟုတ်ပါ။",
+  "hotel_hand_note_detail_other_required": "အခြားတောင်းဆိုချက်",
+  "hotel_hand_note_detail_point_refund_amount": "ပြန်အမ်းငွေ ခန့်မှန်းချေ အမှတ်များ",
+  "hotel_input_title_start_date": "ဝင်ရောက်မည့်ရက်",
+  "hotel_input_title_end_date": "ထွက်မည့်ရက်",
+  "hotel_input_title_choose_date": "ရက်စွဲတစ်ခုကို ရွေးပါ။",
+  "hotel_input_title_choose": "ရွေးချယ်ပါ။",
+  "hotel_hand_note_price_detail_payment_type": "ငွေပေးချေမှုပုံစံ",
+  "hotel_hand_note_price_detail_payment_date": "ငွေပေးချေသည့်နေ့ရက်",
+  "hotel_hand_note_price_detail_price": "စျေးနှုန်းအသေးစိတ်ကြည့်ရှုပါ။",
+  "hotel_hand_note_price_detail_title": "စျေးနှုန်းအသေးစိတ်",
+  "hotel_hand_note_price_detail_contact_info": "ဆက်သွယ်ရန်အချက်အလက်",
+  "hotel_hand_note_utilities_title": "ငေါ့သည်။",
+  "hotel_hand_note_services_title": "ဝန်ဆောင်မှုများ",
+  "hotel_hand_note_search_required_code": "ဘွတ်ကင်နံပါတ် လိုအပ်ပါသည်။",
+  "cart_screen_main_hotel_title": "ဟိုတယ်",
+  "cart_screen_main_hotel_title_1": "ဟိုတယ်(၁)၊",
+  "hotel_cancel_hotel": "ပယ်ဖျက်ခြင်း။",
+  "hotel_search_this_area ": "ဤဧရိယာကိုရှာဖွေပါ။",
+  "hotel_where": "ဘယ်မှာနေချင်လဲ။",
+  "hotel_people": "{y} အခန်း - ဧည့်သည် {x} ယောက်",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "အခန်း",
+  "hotel_hand_note_item_view_booking_code_title": "ဘွတ်ကင်နံပါတ်",
+  "hotel_hand_note_title_hotel_order": "ဟိုတယ်ဘွတ်ကင်အော်ဒါများ",
+  "hotel_order_detail_view_information_order": "အမိန့်အချက်အလက်",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "ဘယ်မှာနေချင်လဲ။",
+  "search_city_no_result": "တူညီသောတည်နေရာမတွေ့ပါ...",
+  "search_city_choose_the_city": "ဟိုတယ်များကိုရှာဖွေပါ။",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "ဟိုတယ်ကို ရွေးပါ။",
+  "advanced_search_any_review": "တစ်ခုခု",
+  "advanced_search_star_rating": "ကြယ်အဆင့်သတ်မှတ်ချက်",
+  "advanced_search_any_star": "အဆင့်သတ်မှတ်မထား",
+  "advanced_search_a_star": "ကြယ် ၁ ပွင့်",
+  "advanced_search_x_star": "ကြယ် {x} ပွင့်",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "အိမ်ခြံမြေအမျိုးအစား",
+  "advanced_search_reset_button": "ပြန်လည်သတ်မှတ်ပါ။",
+  "advanced_search_search_button": "ရှာရန်",
+  "advanced_search_evaluation_point": "ပြန်လည်သုံးသပ်ရမှတ်",
+  "advanced_search_no_city_error": "ပိုင်ဆိုင်မှုကို ရွေးထားခြင်းမရှိပါ။",
+  "advanced_search_title": "အဆင့်မြင့်ရှာဖွေမှု",
+  "advanced_search_clear": "ရှင်းလင်းသော",
+  "advanced_search_no_date_error": "ရက်စွဲကို ရွေးထားခြင်းမရှိပါ။",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "စာရင်းပြပါ။",
+  "hotel_not_found": "ဟိုတယ်များ မတွေ့ပါ။",
+  "hotel_search_near_by": "အနီးနား",
+  "advanced_search_less_x_unit": "{x}{unit} အောက်တွင်",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "{x}{unit} နှင့်အထက်",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "{x}{unit} မှ {y}{unit} အောက်အထိ",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "ဗဟိုမှအကွာအဝေး",
+  "hotel_booking_do_you_want_to_remove_a_user": "သင်သည် {user} ကို စာရင်းမှ အမှန်တကယ် ဖယ်ရှားလိုပါသလား။",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "အပိုကြေး",
+  "hotel_map_filter": "အလိုက်စဥ်သည်",
+  "hotel_map_default": "ပုံသေ",
+  "hotel_map_high_star": "ကြယ်ပွင့် အဆင့်- မြင့်မှ အနိမ့်",
+  "hotel_map_low_star": "ကြယ်အဆင့်သတ်မှတ်ချက်- အနိမ့်မှ မြင့်သည်။",
+  "hotel_map_distance_center": "ဗဟိုမှအကွာအဝေး",
+  "hotel_map_high_rate": "ထိပ်တန်းအဆင့်သတ်မှတ်ချက်",
+  "hotel_map_high_order": "အများဆုံး ကြိုတင်စာရင်းပေးထားသည်။",
+  "hotel_hand_note_reply": "အိမ်ခြံမြေ တုံ့ပြန်မှု",
+  "hotel_booking_payment_3011_error": "ကတ်ကို ငြင်းပယ်ခဲ့သည်။ အကူအညီအတွက် အခြားကတ်ကို စမ်းကြည့်ပါ သို့မဟုတ် သင့်ကတ်ထုတ်ပေးသူထံ ဆက်သွယ်ပါ။",
+  "hotel_hand_note_utilities_title_room": "အခန်းအသုံးများ",
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "အားလုံးကို ဖမ်းမိသွားပါပြီ။",
+  "halo_error_wifi_error": "Wifi အမှား",
+  "halo_error_something_wrong": "အိုး!\nတစ်ခုခုမှားသွားလို့ ထပ်စမ်းကြည့်ပါ။",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+}

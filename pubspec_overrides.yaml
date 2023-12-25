@@ -1,0 +1,5 @@
+# melos_managed_dependency_overrides: flutter_boost,flutter_core
+dependency_overrides:
+  flutter_boost:
+    git:
+      url: https://git.hahalolo.com/scm/msoc/flutter-boost.git

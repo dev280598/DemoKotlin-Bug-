@@ -1,0 +1,3310 @@
+{
+  "@@locale": "it",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Riprova",
+  "common_see_more": "Vedi altro",
+  "common_see_less": "Vedi di meno",
+  "common_search_hint": "Ricerca …",
+  "common_loading": "Caricamento in corso…",
+  "common_retry": "Riprova",
+  "common_cancel": "Annulla",
+  "common_ok": "Ok",
+  "common_save": "Salva",
+  "common_decline": "Declino",
+  "common_done": "Fatto",
+  "common_confirm": "Confermare",
+  "common_close": "Chiudere",
+  "common_continue": "Continua",
+  "common_detail": "Dettagli",
+  "common_enter_discount_code": "Inserisci il codice coupon",
+  "common_use_payment_or_contact_info": "Usa le informazioni del pagatore o del contatto",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Selettore di tempo",
+  "car_input_title_pick_up_place": "Inserisci il luogo di ritiro",
+  "car_input_title_pick_up_location": "Posto di raccolta",
+  "car_title_return_to_different_location": "Ritorna in un-altra posizione",
+  "car_input_title_start_time": "Ora di inizio",
+  "car_input_title_end_time": "Tempo scaduto",
+  "car_input_title_start_date": "Data d-inizio",
+  "car_input_title_end_date": "Data di fine",
+  "car_input_title_enter_drop_off_place": "Inserisci il luogo di riconsegna",
+  "car_input_title_enter_drop_off_location": "Luogo di scarico",
+  "car_title_advanced_search": "Ricerca Avanzata",
+  "car_title_look_up_booking_number": "Cerca il numero di prenotazione",
+  "car_header_title_look_up_booking_number": "Inserisci il numero di prenotazione o il codice dell-ordine per trovare le informazioni sulla prenotazione",
+  "car_title_search": "Ricerca",
+  "car_notice_empty_pick_up_location": "Seleziona un luogo di ritiro e la data di inizio della ricerca",
+  "car_title_ascending_price": "Prezzo crescente",
+  "car_title_descending_price": "Prezzo decrescente",
+  "car_title_car_type": "Tipo di macchina",
+  "car_title_transmission": "Trasmissione",
+  "car_title_segment": "Segmento",
+  "car_title_fuel_type": "Tipo di carburante",
+  "car_title_supplier": "Fornitore",
+  "car_title_price": "Prezzo",
+  "car_title_view_on_map": "Visualizza sulla mappa",
+  "car_title_deals": "Offerte",
+  "car_title_seats": "Posti a sedere",
+  "car_title_filter_by": "Filtra per",
+  "car_title_un_filter": "Annulla filtro",
+  "car_title_choose_this_car": "Scegli questa macchina",
+  "car_title_rental_terms": "Condizioni di noleggio",
+  "car_title_search_location": "Cerca posizione",
+  "car_title_select_btn": "Selezionare",
+  "car_title_select_date": "Seleziona la data",
+  "car_title_select_time": "Seleziona l-ora",
+  "car_title_reset_btn": "Ripristina",
+  "car_title_location_type": "Tipo di posizione",
+  "car_title_number_of_seats": "Numero di posti",
+  "car_title_days": "Giorni",
+  "car_title_unlimited_mileage": "Chilometraggio illimitato",
+  "car_title_instant_confirmation": "Conferma immediata",
+  "car_title_time_pick_up": "Data di ritiro",
+  "car_title_time_drop_off": "Data di riconsegna",
+  "car_title_air_conditioning": "Aria condizionata",
+  "car_title_number_of_bag": "Numero di valigie",
+  "car_hand_note_title_booking_order_code": "Codice d-ordine",
+  "car_hand_note_title_booking_code": "Numero di prenotazione",
+  "car_hand_note_title_total_rental_car": "Giorni di noleggio totali",
+  "car_hand_note_title_status_order": "Lo stato dell-ordine",
+  "car_hand_note_title_total_price": "Pagamento totale",
+  "car_hand_note_title_status_payment": "Stato del pagamento",
+  "car_hand_note_title_reason_cancel": "Motivi di cancellazione",
+  "car_hand_note_title_view_details_btn": "Visualizza dettagli",
+  "car_hand_note_notice_cancel_order": "L-importo del rimborso (se presente) dell''ordine annullato sarà trasferito sul conto bancario del cliente entro il termine specificato dal fornitore.",
+  "car_hand_note_title_tab_all": "Tutto",
+  "car_hand_note_title_tab_awaiting_fulfillment": "In attesa di adempimento",
+  "car_hand_note_title_tab_ongoing": "In corso",
+  "car_hand_note_title_tab_completed": "Completato",
+  "car_hand_note_title_tab_canceled": "Annullato",
+  "car_hand_note_title_order_manager": "Gestione degli ordini",
+  "car_hand_note_title_create_date": "Data di creazione",
+  "car_hand_note_title_view_more_btn": "Visualizza di più",
+  "car_hand_note_title_status_order_completed": "Completato",
+  "car_hand_note_title_status_payment_successful": "Riuscito",
+  "car_hand_note_title_details_order": "Dettagli dell-ordine",
+  "car_hand_note_title_contact_info": "Dettagli del contatto",
+  "car_hand_note_title_info_rental_car": "Informazioni sulla prenotazione",
+  "car_hand_note_title_driver_info": "Dettagli del driver",
+  "car_hand_note_title_pirce_details": "Dettagli sui prezzi",
+  "car_hand_note_title_creator": "Creato da",
+  "car_hand_note_title_person_contact": "Referente",
+  "car_hand_note_title_phone": "Numero di telefono",
+  "car_hand_note_title_email": "E-mail",
+  "car_hand_note_title_country": "Nazione",
+  "car_hand_note_title_address": "Indirizzo",
+  "car_hand_note_title_price_of_car_rental": "Prezzo noleggio auto",
+  "car_hand_note_title_price_payment_fee": "Commissione di pagamento",
+  "car_hand_note_title_info_extra_services": "Servizi extra",
+  "car_hand_note_title_type_insurance": "Tipo di assicurazioni",
+  "car_hand_note_title_info_insurance": "Informazioni sull-assicurazione",
+  "car_hand_note_title_car_info": "Dettagli dell-auto",
+  "car_search_result_not_found_title": "Siamo spiacenti, il veicolo che stai cercando non è stato trovato.",
+  "car_search_result_not_found_sub_title": "Impossibile trovare la corrispondenza adatta alla tua richiesta.\nRiprova.",
+  "car_search_result_first_title_rental_car": "Autonoleggio a",
+  "car_detail_btn_rent_now": "Prenota ora",
+  "car_notice_title_check_connection": "Controlla la tua connessione e riprova!",
+  "car_rent_input_title_details": "Particolari",
+  "car_rent_input_title_total_payment": "Pagamento totale",
+  "car_rent_input_title_payment": "Paga",
+  "car_rent_form_input_last_name": "Cognome (senza segni di tono)",
+  "car_rent_form_input_first_name": "Secondo e nome/cognome (senza segni di tono)",
+  "car_rent_input_content_cb_use_contact_details": "Usa i dettagli di contatto",
+  "car_rent_input_title_method_payment": "Paga",
+  "car_rent_input_title_method_pay": "Opzione di pagamento",
+  "car_rent_input_title_late_payment": "Paga dopo",
+  "car_rent_input_title_now_payment": "Paga ora",
+  "car_rent_input_title_information_card": "Estremi della carta",
+  "car_rent_input_title_driver_age": "Età del conducente",
+  "car_rent_input_title_Do_you_need_anything_else": "Avete bisogno di altro?",
+  "car_rent_input_title_accept_policy": "Procedendo con il passaggio successivo, confermo di aver letto e accettato i Termini di Hahalolo - Politiche e Informativa sulla privacy",
+  "car_rent_input_title_card_must_be_valid": "La tua carta deve essere valida per garantire il noleggio con il fornitore.",
+  "car_rent_input_title_accept_card_pay": "Carte di pagamento accettate",
+  "car_rent_input_title_content_notice_later_pay": "Il fornitore dell''auto elaborerà il tuo pagamento. A seconda delle condizioni di prenotazione, puoi pagare in tutto o in parte.",
+  "car_rent_input_title_select_type_card": "Seleziona il tipo di carta di credito",
+  "car_rent_input_title_number_card": "Numero di carta",
+  "car_rent_input_title_enter_number_card": "Inserisci il numero della carta",
+  "car_rent_input_title_name_card": "Nome del titolare",
+  "car_rent_input_title_enter_name_card": "Inserisci il nome del titolare della carta",
+  "car_rent_input_title_select_expiry_date": "Seleziona la data di scadenza",
+  "car_rent_input_title_expiry_date": "Data di scadenza",
+  "car_rent_input_title_gate_ways": "Casello stradale",
+  "car_rent_input_title_ccv_code": "Codice CVC",
+  "car_rent_input_title_enter_ccv_code": "Inserisci il codice CVC",
+  "car_rent_input_title_first_notice_need_anything_else": "Informeremo il fornitore che sei interessato a questi servizi, in modo che possano fornirti informazioni dettagliate.\n\n La tua richiesta non può essere garantita. Non preoccuparti! Il fornitore cercherà di soddisfare le tue esigenze.",
+  "car_rent_input_title_sub_notice_need_anything_else": "La tua richiesta non può essere garantita. Non preoccuparti! Il fornitore cercherà di soddisfare le tue esigenze.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Inserisci un massimo di 55 caratteri",
+  "car_rent_input_noti_invalid_last_name": "Cognome non valido",
+  "car_rent_input_noti_invalid_first_name": "Secondo e nome/Cognome non validi",
+  "car_rent_input_noti_required_last_name": "Il cognome è obbligatorio",
+  "car_rent_input_noti_required_first_name": "Il secondo e il nome/Cognome sono obbligatori",
+  "car_rent_input_noti_invalid_email": "E-mail non valido",
+  "car_rent_input_noti_invalid_phone": "Numero di telefono invalido",
+  "car_rent_input_noti_required_email": "L-e-mail è obbligatoria",
+  "car_rent_input_noti_required_phone": "Il numero di telefono è obbligatorio",
+  "car_rent_input_noti_requried_address": "L-indirizzo è obbligatorio",
+  "car_rent_input_noti_requried_country": "Il paese è obbligatorio",
+  "car_rent_input_noti_requried_number_card": "Il numero della carta è obbligatorio",
+  "car_rent_input_noti_requried_card_holder_name": "Il nome del titolare della carta è obbligatorio",
+  "car_rent_input_noti_requried_type_card": "È richiesta la carta di credito",
+  "car_rent_input_noti_requried_expiry": "La data di scadenza è obbligatoria",
+  "car_rent_input_title_type_card_credit": "Tipo di carta di credito",
+  "car_rent_input_title_currency_at_rental_car_place": "Valuta nel luogo di ritiro",
+  "car_rent_input_title_rule_age": "Regole di età",
+  "car_rent_input_notice_term_and_policy_first_string": "Procedendo con il passaggio successivo, confermo di aver letto e accettato Hahalolo",
+  "car_rent_input_notice_term_and_policy_append__string": "Termini - Politiche",
+  "car_rent_input_notice_term_and_policy_between_string": "e",
+  "car_rent_input_notice_term_and_policy_append___string": "politica sulla riservatezza",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Raccogliere",
+  "car_cart_title_drop_off": "Riconsegna",
+  "car_cart_title_included_texas_fee": "Tasse e commissioni incluse",
+  "car_cart_title_btn_delete": "Eliminare",
+  "car_cart_title_btn_edit": "Cambia la tua selezione",
+  "car_cart_title_sub_total": "totale parziale",
+  "car_cart_title_car_types": "Tipo di macchina:",
+  "car_title_select_country": "Scegli il paese",
+  "car_title_car_cart": "Prenotazione auto",
+  "car_feed_input_hint_pick_up_place": "Il tuo luogo di ritiro",
+  "car_feed_input_hint_drop_off_place": "Il tuo luogo di riconsegna",
+  "car_feed_notice_empty_location_pick_up": "Si prega di selezionare un luogo di ritiro per la ricerca",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Inserisci il luogo di riconsegna",
+  "notify_error_occurred": "Si è verificato un errore. Si prega di controllare di nuovo.",
+  "car_hand_note_detail_order_full_name": "Nome e cognome",
+  "car_hand_note_detail_order_promotion": "Promozione",
+  "car_hand_note_detail_order_act_history": "Registro delle attività",
+  "car_hand_note_detail_order_request_other": "Altre richieste",
+  "car_hand_note_detail_order_order_payment": "Pagamento dell''ordine",
+  "car_hand_note_detail_order_cancel_info": "Informazioni sull''annullamento dell''ordine",
+  "car_hand_note_detail_order_payment_info": "Informazioni sul pagamento",
+  "car_hand_note_detail_order_paid": "Pagato",
+  "car_hand_note_detail_order_unpaid": "Non pagato",
+  "car_hand_note_title_days_ago": "giorni fa",
+  "car_hand_note_detail_order_cancel_fee": "Tassa di cancellazione",
+  "car_hand_note_detail_order_amount_ongoing_return": "Importo stimato del rimborso",
+  "car_hand_note_detail_order_time_ongoing_return": "Tempo di rimborso stimato",
+  "car_hand_note_detail_order_info_transaction": "Informazioni sulla transazione",
+  "car_hand_note_detail_order_amount_payment": "Importo totale",
+  "car_hand_note_detail_order_total_order": "Ordine totale",
+  "car_hand_note_detail_content_define_vat": "VAT è la tassa e il canone che sei tenuto a pagare al fornitore dell''auto in base ai suoi regolamenti quando utilizzi il servizio di autonoleggio.",
+  "car_title_search_result_first_character": "Noleggio auto a",
+  "car_title_tool_bar_pick_up_location": "Dove vuoi ritirare?",
+  "car_title_tool_bar_drop_off_location": "Dove vuoi scendere?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Il prezzo dell''autonoleggio viene convertito in base alla valuta corrente utilizzata dal fornitore dell''auto.\nNota:\n- Il tasso di cambio è soggetto a modifiche prima del pagamento.\n- L''emittente della carta potrebbe addebitarti una commissione per le transazioni estere.",
+  "car_hand_note_detail_content_define_payment_fee": "La commissione di transazione corrispondente a ciascuna richiesta di noleggio auto che devi pagare al fornitore di servizi di gateway di pagamento online.",
+  "car_hand_note_detail_content_notice_insurance": "Nota: se desideri richiedere questi pacchetti assicurativi, contatta direttamente la reception del fornitore dell''auto.",
+  "car_hand_note_detail_title_header_insurance": "Molte assicurazioni auto e contratti di noleggio coprono esclusioni che possono essere costose associate a danni o furto dell''auto a noleggio. Tuttavia, avere un''assicurazione di seguito ti aiuterà a proteggerti e offrirti supporto finanziario con una notevole quantità di denaro.",
+  "car_result_booking_title_header_rental_car_success": "PRENOTAZIONE RIUSCITA",
+  "car_result_booking_title_btn_continue_rental_car": "Continua a prenotare",
+  "car_result_booking_title_btn_view_order_details": "Visualizza i dettagli dell''ordine",
+  "car_result_booking_title_header_first_char": "La tua richiesta di prenotazione è stata effettuata con successo",
+  "car_result_booking_title_header_second_char": "(Pagato)",
+  "car_result_booking_title_header_third_char": ". Puoi controllare i dettagli del noleggio auto di seguito.",
+  "car_result_booking_title_header__char": "Grazie per la tua fiducia",
+  "car_result_booking_title_header____char": "servizio. Se hai domande o hai bisogno di ulteriore assistenza, contatta il nostro Centro assistenza all''indirizzo",
+  "car_result_booking_title_header_____char": "per le istruzioni.",
+  "car_result_booking_title_header______char": ". Puoi controllare i dettagli del noleggio auto di seguito.",
+  "car_result_booking_title_order": "Ordine",
+  "car_result_booking_title_billing_info": "Informazioni sul pagamento",
+  "car_result_booking_title_time": "Volta",
+  "car_result_booking_title_name_car": "Nome dell''auto",
+  "car_picker_time_from_the_date": "Da",
+  "car_picker_time_to_the_date": "Per",
+  "car_picker_time": "Volta",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Seleziona città/stato",
+  "car_result_notice_no_data_found": "Spiacenti, nessun dato trovato",
+  "car_result_notice_no_flight_found_description": "Non siamo riusciti a trovare alcun risultato che corrisponda alla tua ricerca. Si prega di cercare di nuovo.",
+  "car_extra_service": "Alcuni servizi aggiuntivi di seguito potrebbero essere offerti all''utente dal fornitore di auto. Se vuoi richiederli, contatta direttamente la reception del provider.",
+  "car_extra_charges": "Verranno applicati costi aggiuntivi per i conducenti di età inferiore o superiore a quella specificata dal fornitore dell''auto",
+  "car_note_driver_age": "Nota: questa tassa verrà riscossa alla reception al tuo arrivo per il ritiro dell''auto.",
+  "car_rental_details": "Dettagli noleggio auto",
+  "car_you_dont_have_any_car_rental_orders": "Non hai ancora nessun ordine di noleggio auto.",
+  "car_search_code_no_information": "Nessuna informazione sulla prenotazione trovata.\nControlla e riprova",
+  "car_input_code_message_empty": "Inserisci il tuo numero di prenotazione",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Accettare",
+  "aff_chart_day_ago": "{number} giorni fa",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Da {from} a {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Durata del cookie: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Hotel",
+  "aff_tour": "Tour",
+  "aff_product_name": "Nome del prodotto",
+  "aff_anonymous_user": "Utente anonimo",
+  "aff_unknown": "Sconosciuto",
+  "aff_product_unknown": "Tipo di prodotto sconosciuto",
+  "aff_share": "Condividere",
+  "aff_fetch_data_failure": "Impossibile ottenere i dati",
+  "aff_fetch_data_failure_try_later": "Impossibile ottenere i dati. Per favore riprova più tardi.",
+  "aff_detail": "Dettagli",
+  "aff_no_data": "Nessun dato trovato",
+  "aff_all": "Tutti",
+  "aff_country": "Paese",
+  "aff_summary": "Panoramica",
+  "aff_link_management": "Gestione dei collegamenti",
+  "aff_promotion_tool": "Strumenti di marketing",
+  "aff_help": "Aiuto",
+  "aff_notification": "Notifiche",
+  "aff_notification_no_data": "Non hai notifiche",
+  "aff_revenue": "Reddito",
+  "aff_revenue_total": "Entrate totali",
+  "aff_customer_id": "identificativo del cliente",
+  "aff_payment_total": "Importo totale",
+  "aff_commission_receive": "Totale commissioni ricevute",
+  "aff_search_by_order": "Ricerca per codice d''ordine",
+  "aff_reset": "Ripristina",
+  "aff_cancel": "Annulla",
+  "aff_save": "Salva",
+  "aff_search": "Ricerca",
+  "aff_continue": "Continua",
+  "aff_payment_account": "Conto di Pagamento",
+  "aff_profile": "Profilo",
+  "aff_edit_profile": "Modifica informazioni",
+  "aff_affiliate": "Affiliato",
+  "aff_setting": "Impostazioni",
+  "aff_resend": "Rinviare",
+  "aff_verify_failure": "Verifica fallita",
+  "aff_show_code": "Mostra codice",
+  "aff_sms_block_forever": "La funzione di verifica è stata temporaneamente bloccata. Per favore riprova più tardi.",
+  "aff_sms_wrong_code": "Codice di verifica errato. Si prega di controllare di nuovo.",
+  "aff_sms_expired_code": "Il codice di verifica è scaduto. Si prega di ottenere un altro codice",
+  "aff_sms_verify_failure": "Verifica fallita. Per favore riprova più tardi.",
+  "aff_enter_verify_code": "Inserisci il codice di verifica",
+  "aff_we_send_code_to_phone": "Abbiamo inviato un codice di verifica al numero {phone}.\nInserisci il codice che hai ricevuto per completare questo passaggio.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Il codice scadrà tra:",
+  "aff_sms_block": "La funzione di invio del codice via SMS è temporaneamente bloccata. Per favore riprova più tardi.",
+  "aff_sms_resend_in": "Puoi scegliere di inviare nuovamente il codice in:",
+  "aff_account_information": "INFORMAZIONI ACCOUNT",
+  "aff_account_information_subtitle": "Aggiorna il tuo numero di telefono nel tuo conto di pagamento per poter continuare a utilizzare i servizi su Hahalolo.",
+  "aff_account_name": "Nome utente",
+  "aff_search_county": "Cerca paese",
+  "aff_wallet_create_failure": "Creazione conto di pagamento non riuscita",
+  "aff_wallet_create_failure_try_again": "Creazione conto di pagamento non riuscita. Per favore riprova più tardi.",
+  "aff_information_general": "Informazioni generali",
+  "aff_information_unknown": "(Sconosciuto)",
+  "aff_information_full_name": "Nome e cognome {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "E-mail {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Numero di telefono  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Data di nascita {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Genere {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Indirizzo {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Paese {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Maggiori informazioni",
+  "aff_information_city": "Provincia/Città {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Codice postale  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "Carta d''identità/passaporto {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Data di scadenza {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Paese di emissioneX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Nazionalità {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Luogo di nascita {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Codice telefonico",
+  "aff_gender_male": "Maschio",
+  "aff_gender_female": "Femmina",
+  "aff_gender_other": "Altro",
+  "aff_validate_full_name": "Il nome completo deve contenere almeno 3 caratteri",
+  "aff_validate_email": "E-mail non valido",
+  "aff_validate_phone": "Numero di telefono invalido",
+  "aff_validate_post_code": "Codice postale non valido",
+  "aff_validate_id_code": "Carta d''identità/passaporto non valido",
+  "aff_validate_invalid_field": "Tempo",
+  "aff_validate_phone_existed": "Il numero di telefono è stato registrato per un altro conto di pagamento.",
+  "aff_validate_unknown_country": "Paese sconosciuto",
+  "aff_date_time": "Volta",
+  "aff_date_yesterday": "Ieri",
+  "aff_date_today": "In data odierna",
+  "aff_date_unknown": "Data sconosciuta",
+  "aff_date_month": "mese",
+  "aff_date_day": "giorno",
+  "aff_date_hour": "ora",
+  "aff_date_minute": "minuto",
+  "aff_date_second": "secondo",
+  "aff_date_range": "Intervallo di date",
+  "aff_report": "Rapporto",
+  "aff_report_summary": "Panoramica del rapporto",
+  "aff_report_click": "Clic",
+  "aff_report_click_number": "Clic",
+  "aff_report_performance": "Prestazione",
+  "aff_report_customer": "Cliente",
+  "aff_report_payment": "Pagamento",
+  "aff_report_product_performance": "Prestazioni del prodotto",
+  "aff_report_product_type": "Tipologia di prodotto",
+  "aff_report_customer_detail": "Dettagli cliente",
+  "aff_report_commission_by_product": "Commissione per voce",
+  "aff_report_customer_total": "Totale clienti che acquistano",
+  "aff_report_customer_serving": "Totale clienti in servizio",
+  "aff_report_customer_served": "Totale clienti serviti",
+  "aff_report_payment_waiting": "Commissioni totali in corso",
+  "aff_report_payment_pending": "Totale commissioni in sospeso",
+  "aff_report_payment_available": "Commissioni totali disponibili",
+  "aff_report_payment_status_waiting": "in lavorazione",
+  "aff_report_payment_status_pending": "In attesa di",
+  "aff_report_payment_status_available": "Disponibile",
+  "aff_report_payment_status_cancel": "Annullato",
+  "aff_report_payment_status": "Stato",
+  "aff_report_description_click": "Grafico statistico dei clic sui link di affiliazione, degli ordini totali ricevuti, delle commissioni e delle entrate",
+  "aff_report_description_customer": "Grafico statistico delle informazioni sui clienti",
+  "aff_report_description_commission": "Grafico statistico delle commissioni",
+  "aff_link": "Collegamento:",
+  "aff_link_copied": "Link copiato",
+  "aff_link_path": "Collegamento di affiliazione",
+  "aff_link_paste_here": "Incolla qui il tuo link",
+  "aff_flight_commission_itinerary": "Itinerario",
+  "aff_flight_commission_itinerary_domestic": "Domestico",
+  "aff_flight_commission_itinerary_international": "Internazionale",
+  "aff_flight_commission_itinerary_unknown": "Itinerario sconosciuto",
+  "aff_flight_commission_seat_class": "Classe del sedile",
+  "aff_flight_commission_seat_class_plus": "Più",
+  "aff_flight_commission_seat_class_business": "Affare",
+  "aff_flight_commission_seat_class_unknown": "Classe del posto sconosciuta",
+  "aff_flight_ticket": "Biglietto aereo",
+  "aff_flight_all_airlines": "Tutte le compagnie aeree",
+  "aff_tooltip_flight_domestic": "Voli con destinazioni e partenze all''interno del territorio del Vietnam",
+  "aff_tooltip_seller": "Puoi utilizzare questo codice per aggiungere alla fine di ogni link di marketing di affiliazione. Hahalolo attesterà che è il tuo link e premi le commissioni quando ci sono ordini validi derivanti da quel link.",
+  "aff_commission": "Commissione",
+  "aff_commission_by_country": "Commissioni alberghiere per paese",
+  "aff_commission_flight_list": "Commissioni alberghiere per paese",
+  "aff_commission_max": "Commissione più alta:",
+  "aff_commission_of_product": "Le commissioni di {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Codice d''ordine",
+  "aff_order_total": "Ordini totali",
+  "aff_order_tooltip_click": "Il numero di volte in cui gli utenti fanno clic sul tuo link di affiliazione.",
+  "aff_order_conversion_rate": "Tasso di conversione",
+  "aff_order_tooltip_conversion_rate": "Una misura per te per analizzare le prestazioni della promozione del tuo prodotto.",
+  "aff_order_product_total": "Prodotti totali",
+  "aff_order_click_total": "Clic totali",
+  "aff_order_earnings_total": "Guadagni complessivi",
+  "aff_order_id_unknown": "Codice ordine sconosciuto",
+  "aff_order_added": "aggiunto al conto di pagamento",
+  "aff_order_type_waiting": "in lavorazione",
+  "aff_order_type_pending": "In attesa di",
+  "aff_order_type_available": "Disponibile",
+  "aff_order_type_cancel": "Annullato",
+  "aff_ordered_total": "Totale prodotti ordinati",
+  "aff_order_receive_commission": "Totale ordini ricevuti commissioni",
+  "aff_verify_do_not_have_account": "NON HAI\n UN ACCOUNT DI PAGAMENTO ANCORA",
+  "aff_guild": "Istruzioni",
+  "aff_seller_code": "Codice venditore: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Codice venditore",
+  "aff_view_detail": "Visualizza dettagli",
+  "aff_notification_turn_off_link_1": "La funzione di marketing di affiliazione di\n",
+  "aff_notification_turn_off_link_2": "è disabilitato, il che significa che i link di affiliazione che hai condiviso non saranno validi!",
+  "aff_notification_turn_on_link_success": "La funzione di marketing di affiliazione per {type} è stata abilitata correttamente",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Commissioni di volo",
+  "aff_commission_list_hotel": "Commissioni alberghiere per paese",
+  "aff_tooltip_menu": "Apri menu",
+  "aff_tooltip_dash_board": "Accesso rapido alla dashboard",
+  "aff_tooltip_guild": "Scendi per le istruzioni",
+  "aff_action_done": "Fatto",
+  "aff_check_user_failed": "Impossibile controllare l''utente. Per favore riprova più tardi.",
+  "aff_something_went_wrong": "Qualcosa è andato storto.",
+  "aff_page_not_found": "Pagina non trovata.",
+  "aff_and": "e",
+  "aff_month_summary": "Riepilogo per questo mese",
+  "aff_see_more": "Vedi altro",
+  "aff_try_again": "Riprova",
+  "aff_tooltip_flight_international": "Voli con partenze o arrivi al di fuori del territorio del Vietnam.",
+  "aff_error_try_again": "An error occurred. Please try again later.",
+  "aff_area_code": "Codice telefonico",
+  "aff_phone_number": "Numero di telefono",
+  "aff_validate_sms_required": "Inserisci il codice di verifica",
+  "aff_validate_sms_min_length": "Inserisci il codice di verifica completo",
+  "aff_welcome": "Ben arrivato",
+  "aff_verify_update": "Aggiorna conto di pagamento",
+  "aff_verify_create_account": "Crea conto di pagamento",
+  "aff_verify_invalid_wallet": "Aggiorna conto di pagamento",
+  "aff_verify_do_not_have_account_subtitle": "Crea un account di pagamento per utilizzare la funzione di vendita su Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Aggiorna il tuo numero di telefono nel tuo conto di pagamento per poter continuare a utilizzare i servizi su Hahalolo",
+  "aff_guild_1": "Ora puoi abilitare rapidamente la funzione di marketing di affiliazione facendo clic",
+  "aff_guild_2": "nella sezione Hotel/Volo",
+  "aff_guild_3": "Dopo aver attivato il marketing di affiliazione, puoi promuovere i tuoi prodotti attraverso:",
+  "aff_guild_4": "Il collegamento impostato per impostazione predefinita da Hahalolo in",
+  "aff_guild_5": "Qualsiasi link relativo alla sezione il cui marketing di affiliazione è abilitato, a condizione che il tuo codice venditore sia allegato al link corrispondente al prodotto.",
+  "aff_seller": "Venditore",
+  "aff_menu": "Categoria",
+  "aff_dash_chart_title": "Grafico statistico dei tuoi guadagni e dei tuoi clic per questo mese",
+  "aff_dash_click": "Clic",
+  "aff_dash_commission": "Guadagno",
+  "aff_flight_commission_detail_customer_way": "/ passeggero / segmento",
+  "aff_flight_commission_detail_order_total": "/ ordini totali",
+  "aff_performance_chart_title": "Grafico statistico dei clic sui link di affiliazione, degli ordini totali ricevuti e delle commissioni",
+  "aff_customer_chart_title": "Grafico statistico delle informazioni sui clienti",
+  "aff_payment_chart_title": "Grafico statistico delle commissioni",
+  "aff_action_exit": "Uscita",
+  "aff_action_update": "aggiornare",
+  "aff_action_create": "creare",
+  "aff_dialog_check_invalid_user": "Per favore {action} il tuo account di pagamento per poter utilizzare i servizi di marketing di affiliazione su Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Data",
+  "aff_action_register": "Registrati",
+  "aff_otp_time_left": "{number} volte rimanenti",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "CREA ACCOUNT DI PAGAMENTO",
+  "wallet_create_payment_subtitle": "L-impostazione di un conto di pagamento è considerato il conto di pagamento principale, inclusi la ricezione, il prelievo e il pagamento di denaro dopo che è stato assegnato.",
+  "wallet_verify_otp_title": "Inserire il codice di conferma",
+  "wallet_verify_otp_subtitle": "Abbiamo inviato un codice di conferma a {phone}. \nInserisci il codice che hai ricevuto per completare questo passaggio.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Conto di Pagamento",
+  "wallet_start_subtitle": "Il conto di pagamento Hahalolo è una soluzione di pagamento su Hahalolo che ti aiuta a vivere esperienze interessanti e convenienti con noi.",
+  "wallet_label_choose_business": "Scegli affari",
+  "wallet_label_account_name": "Nome utente",
+  "wallet_label_email": "E-mail",
+  "wallet_label_phone": "Numero di telefono",
+  "wallet_label_choose_currency": "Seleziona valuta",
+  "wallet_label_payment_country": "Paese di pagamento",
+  "wallet_label_payment_method": "Metodo di pagamento",
+  "wallet_label_card_holder_name": "Nome del titolare della carta (senza segni di tono)",
+  "wallet_label_card_bank_name": "nome della banca",
+  "wallet_label_card_swift_code": "Codice SWIFT",
+  "wallet_label_bank_account_number": "numero di conto bancario",
+  "wallet_label_account_type": "Tipo di account",
+  "wallet_label_tax_code": "Codice fiscale",
+  "wallet_label_tax_type": "Tipo di imposta",
+  "wallet_label_address": "Indirizzo",
+  "wallet_label_address_2": "Indirizzo 2 (opzionale)",
+  "wallet_label_country": "Paese",
+  "wallet_label_city": "Provincia/Città",
+  "wallet_label_district": "Quartiere",
+  "wallet_label_first_name": "Cognome",
+  "wallet_label_last_name": "Nome di battesimo",
+  "wallet_label_middle_name": "Secondo nome (facoltativo)",
+  "wallet_label_postal_code": "Codice Postale",
+  "wallet_label_city_more_description": "Stato/Provincia/Regione",
+  "wallet_label_postal_code_more_description": "Zip/Codice postale",
+  "wallet_label_district_more_description": "Città/Città",
+  "wallet_label_birthday_18_years_old": "Data di nascita (almeno 18 anni)",
+  "wallet_label_date_of_birth": "Data di nascita",
+  "wallet_label_enter_password": "Inserisci la tua password",
+  "wallet_label_password": "Parola d-ordine",
+  "wallet_label_enter_pin": "Inserisci il PIN",
+  "wallet_label_re_enter_new_pin": "Reinserire il nuovo PIN",
+  "wallet_label_enter_new_pin": "Inserisci il nuovo PIN",
+  "wallet_label_enter_current_pin": "Inserisci il vecchio PIN",
+  "wallet_validate_pin_required": "Inserisci il tuo PIN",
+  "wallet_validate_otp_required": "Inserisci il codice di verifica",
+  "wallet_validate_current_pin_required": "Inserisci il tuo vecchio PIN",
+  "wallet_validate_new_pin_required": "Inserisci il tuo nuovo PIN.",
+  "wallet_validate_re_enter_new_pin_required": "Inserisci nuovamente il tuo nuovo PIN.",
+  "wallet_validate_re_enter_new_pin_not_match": "Il PIN di conferma non corrisponde",
+  "wallet_action_detail": "Particolari",
+  "wallet_text_pick_date": "Seleziona una data",
+  "wallet_text_email_address": "Indirizzo e-mail",
+  "wallet_text_message_to": "Invia messaggio a",
+  "wallet_text_recovery_method": "Metodo di recupero",
+  "wallet_text_recovery_choose_method": "Scegli come ottenere il tuo codice di ripristino",
+  "wallet_text_change_pin": "Cambia il tuo PIN",
+  "wallet_text_forgot_pin": "PIN dimenticato?",
+  "wallet_text_show_pin": "Mostra PIN",
+  "wallet_text_please_try_again_in": "Per favore riprova più tardi:",
+  "wallet_text_remove_account": "Elimina l-account di pagamento",
+  "wallet_text_ineligible_payment": "Non idoneo per la transazione",
+  "wallet_text_ineligible_payment_description": "Non sarai in grado di effettuare alcuna transazione dal sistema fino a quando il nostro amministratore non avrà accettato le informazioni del tuo account di pagamento. Aggiorna le informazioni del tuo account di pagamento.",
+  "wallet_text_address_2": "Indirizzo 2",
+  "wallet_text_new_account": "Crea un account di pagamento",
+  "wallet_text_payout_account_detail": "Dettagli dell-account di pagamento",
+  "wallet_text_middle_name": "Secondo nome",
+  "wallet_text_account_owner": "Titolare del conto",
+  "wallet_text_tax_form": "Modulo delle tasse",
+  "wallet_text_tax_form_subtitle": "Sulla base delle informazioni che hai fornito, non è necessario caricare alcun modulo fiscale aggiuntivo. Fare clic su Continua per procedere al passaggio successivo.",
+  "wallet_text_card_holder_name": "Nome del titolare",
+  "wallet_text_otp_code_expire_in": "Il codice scadrà tra:",
+  "wallet_text_account_information": "Informazioni account",
+  "wallet_text_welcome": "Ciao!",
+  "wallet_text_payment_information": "Informazioni sul pagamento",
+  "wallet_text_policies_confirm": "Accetto {termsAndPolicies}",
+  "wallet_terms_and_policies": "Termini e politiche di Hahalolo.",
+  "wallet_text_default": "Predefinito",
+  "wallet_text_code_vie_sms": "Invia codice via SMS",
+  "wallet_text_pin_code_recovery_description": "Usa la tua email per verificare se hai dimenticato il PIN.",
+  "wallet_text_sms_recovery_description": "Usa il tuo numero di telefono per verificare se hai dimenticato il PIN.",
+  "wallet_text_authority": "Accetto che Hahalolo utilizzi le informazioni del mio account fornite per procedere con il trasferimento di denaro.",
+  "wallet_text_district_three_dot": "Quartiere...",
+  "wallet_text_set_up_pin": "Imposta un PIN",
+  "wallet_text_established": "(Stabilito)",
+  "wallet_text_not_have_pin_yet_title": "Non hai un PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Si prega di creare un PIN per utilizzare questa funzione",
+  "wallet_text_security_pin_code_description": "È necessario un PIN per l-account di pagamento Hahalolo per proteggere il tuo account e le informazioni finanziarie. Inoltre, non è necessario reinserire i dettagli della carta quando accedi di nuovo.",
+  "wallet_text_check_password_locked": "La funzione di controllo password è temporaneamente bloccata. Per favore riprova più tardi.",
+  "wallet_text_enter_password_description": "Devi inserire la password del tuo account Hahalolo per confermare la modifica.",
+  "wallet_text_enter_sms_code": "Inserire il codice di conferma",
+  "wallet_text_send_sms_description_1": "Abbiamo inviato un codice di conferma a",
+  "wallet_text_send_sms_description_2": "\nInserisci il codice che hai ricevuto per completare questo passaggio.",
+  "wallet_text_resend": "Rinviare",
+  "wallet_text_no_data": "Nessun dato disponibile al momento!",
+  "wallet_text_bank_transfer": "trasferimento bancario",
+  "wallet_text_tax_ptin": "Numero di identificazione del contribuente preparatore",
+  "wallet_text_tax_atin": "Numero di identificazione del contribuente di adozione",
+  "wallet_text_tax_ssn": "Numero di Social Security",
+  "wallet_text_account_personal": "Account personale",
+  "wallet_text_account_business": "Conto commerciale",
+  "wallet_text_country_code_and": "codice paese e",
+  "wallet_text_resend_time": "Invia di nuovo {time}",
+  "wallet_text_change_your": "Cambia il tuo {text}",
+  "wallet_start_person_button": "{action} conto di pagamento personale",
+  "wallet_start_business_button": "{action} conto di pagamento aziendale",
+  "wallet_text_recovery_subtitle_1": "Il tuo {text} attuale è\n{value}",
+  "wallet_text_recovery_subtitle_2": "Per favore inserisci nuovo {extra_text}{text}",
+  "wallet_text_enter_new": "Inserisci nuovo {title}",
+  "wallet_text_new": "nuovo {title}",
+  "wallet_succ_setup_pin": "PIN impostato correttamente.",
+  "wallet_succ_setup_pin_content": "Hai impostato correttamente il PIN.",
+  "wallet_succ_change_pin": "PIN modificato correttamente",
+  "wallet_succ_change_pin_content": "Hai modificato correttamente il PIN",
+  "wallet_succ_change_information": "Le informazioni sono state aggiornate e verificate con successo",
+  "wallet_war_remove_payout_account": "Sei sicuro di voler eliminare definitivamente questo account?",
+  "wallet_war_create_payment_title": "Crea conto di pagamento",
+  "wallet_war_create_payment_subtitle": "Si prega di creare un account business prima di creare un account di pagamento.",
+  "wallet_war_unsaved_information": "Le informazioni che hai modificato potrebbero non essere salvate. Vuoi uscire?",
+  "wallet_err_recovery": "Recupero non riuscito. Per favore riprova più tardi.",
+  "wallet_err_recovery_no_user_data": "Recupero non riuscito. Nessuna informazione utente trovata.",
+  "wallet_err_recovery_phone_exists": "Recupero non riuscito.Questo numero di telefono esiste già.",
+  "wallet_err_recovery_phone_invalid": "Recupero non riuscito. Il numero di telefono non è valido.",
+  "wallet_err_recovery_password_invalid": "Recupero non riuscito. La tua password non è corretta.",
+  "wallet_err_pin_existed": "Il PIN esiste già.",
+  "wallet_err_pin_wallet_not_exist": "Il conto di pagamento non esiste",
+  "wallet_err_pin_incorrect_or_exists": "Il PIN non è corretto o non esiste",
+  "wallet_err_pin_try_again": "Impostazione del PIN non riuscita. Per favore riprova più tardi.",
+  "wallet_err_set_payout_default": "Impossibile selezionare un account di pagamento predefinito. Per favore riprova più tardi!",
+  "wallet_err_occurred_try_again": "Si è verificato un errore. Per favore riprova più tardi.",
+  "wallet_err_send_verify_title": "Impossibile inviare il codice di verifica",
+  "wallet_err_try_again": "Si è verificato un errore. Per favore riprova più tardi.",
+  "wallet_err_create_payout_title": "Impossibile creare l-account di pagamento. Per favore riprova più tardi.",
+  "wallet_err_fetch_data_failed": "Impossibile caricare i dati. Per favore riprova più tardi!",
+  "wallet_err_occurred_processing": "Si è verificato un errore durante l-elaborazione. Per favore riprova più tardi.",
+  "wallet_err_remove_payout": "Impossibile eliminare l-account. Per favore riprova più tardi.",
+  "wallet_err_change_pin": "Impossibile modificare il PIN",
+  "wallet_err_setup_pin": "Impossibile impostare il PIN",
+  "wallet_err_sms_code_expired": "Il codice di verifica è scaduto. Per favore riprova.",
+  "wallet_err_sms_code_incorrect": "Il codice di verifica non è corretto. Per favore riprova.",
+  "wallet_create_payout_title": "Crea un account di pagamento",
+  "wallet_action_continue": "Continua",
+  "wallet_action_create": "Creare",
+  "wallet_action_update": "Aggiornare",
+  "wallet_action_ok": "Concordare",
+  "wallet_action_complete": "Completare",
+  "wallet_action_next": "Continua",
+  "wallet_action_try_back": "Torna indietro",
+  "wallet_action_try_again": "Riprova",
+  "wallet_action_accept": "Accettare",
+  "wallet_action_remove": "Elimina",
+  "wallet_action_change": "Modificare",
+  "wallet_action_setup": "Impostare",
+  "wallet_action_confirm": "Confermare",
+  "wallet_action_cancel": "Annulla",
+  "wallet_action_close": "Chiudere",
+  "wallet_overview": "Panoramica",
+  "wallet_notification": "Notifiche",
+  "wallet_transaction_history": "Cronologia delle transazioni",
+  "wallet_transfer_point": "Punti di trasferimento",
+  "wallet_payout_accounts": "Conto di pagamento",
+  "wallet_security": "Sicurezza",
+  "wallet_recovery_methods": "Metodo di recupero",
+  "wallet_help_center": "Centro assistenza",
+  "wallet_view_profile": "Visualizza informazioni",
+  "wallet_info_title": "Informazioni sul conto di pagamento",
+  "wallet_edit_identity_card": "carta ID",
+  "wallet_edit_id_card": "carta ID",
+  "wallet_edit_passport": "Passaporto",
+  "wallet_edit_verify_status": "Stato",
+  "wallet_edit_not_verify": "Non verificato",
+  "wallet_edit_verified": "Verificato",
+  "wallet_edit_verify_waiting": "In attesa di",
+  "wallet_edit_gender": "Genere",
+  "wallet_edit_male": "Maschio",
+  "wallet_edit_female": "Femmina",
+  "wallet_edit_other": "Altro",
+  "wallet_owner_title": "Informazioni utente",
+  "wallet_edit_fullName": "Nome e cognome",
+  "wallet_edit_email": "E-mail",
+  "wallet_edit_phoneNumber": "Numero di telefono",
+  "wallet_edit_dateOfBirth": "Data di nascita",
+  "wallet_edit_dateOfBirth_13_yo": "Data di nascita (almeno 13 anni)",
+  "wallet_edit_address": "Indirizzo",
+  "wallet_edit_country": "Paese",
+  "wallet_edit_idType": "Tipo di identificazione",
+  "wallet_edit_id_passport": "Numero ID/passaporto",
+  "wallet_edit_country_issue": "Paese di emissione",
+  "wallet_edit_id_document": "Immagini di carta d-identità/passaporto",
+  "wallet_edit_front": "Fronte",
+  "wallet_edit_back": "Lato posteriore",
+  "wallet_edit_activate_date": "Data effettiva",
+  "wallet_edit_expiration_date": "Data di scadenza",
+  "wallet_waiting_balance": "Saldo in sospeso",
+  "wallet_pending_balance": "Equilibrio in corso",
+  "wallet_available_balance": "Saldo disponibile",
+  "wallet_frozen_balance": "Equilibrio congelato",
+  "wallet_top10_trans": "Ultime 10 transazioni",
+  "wallet_source_withdrawal": "Ritiro",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Soldi dentro",
+  "wallet_source_outcome": "Soldi finiti",
+  "wallet_source_point": "Punti",
+  "wallet_source_aff_commission": "Affiliato - Commissione",
+  "wallet_source_aff_reward": "Affiliato - Programma a premi",
+  "wallet_source_recharge": "Riempire",
+  "wallet_source_order": "Ordine",
+  "wallet_status_waiting": "In attesa di",
+  "wallet_status_pending": "In attesa di approvazione",
+  "wallet_status_available": "A disposizione",
+  "wallet_status_frozen": "Congelato",
+  "wallet_status_cancel": "Annullato",
+  "wallet_status_success": "Riuscito",
+  "wallet_status_error": "fallito",
+  "wallet_status_outcome": "Soldi finiti",
+  "wallet_status_transfer": "Punti di trasferimento",
+  "wallet_action_receive": "Ricevi punti",
+  "wallet_action_donate": "Dare punti",
+  "wallet_action_buy_point": "Acquista punti",
+  "wallet_action_payment": "Pagamento",
+  "wallet_filter_all": "Tutto",
+  "wallet_filter_allTime": "Tutto",
+  "wallet_filter_today": "In data odierna",
+  "wallet_filter_yesterday": "Ieri",
+  "wallet_filter_7days": "Ultimi 7 giorni",
+  "wallet_filter_30days": "Ultimi 30 giorni",
+  "wallet_filter_custom_date": "Data facoltativa",
+  "wallet_filter_status": "Stato",
+  "wallet_filter_time": "Volta",
+  "wallet_filter_action": "Azione",
+  "wallet_validate_this_field": "Questo campo",
+  "wallet_validate_required": "{fieldName} è obbligatorio",
+  "wallet_validate_invalid_email": "E-mail non valido",
+  "wallet_validate_invalid_phone_number": "Numero di telefono invalido",
+  "wallet_validate_invalid_number": "Numero non valido",
+  "wallet_validate_limit_length": "{fieldName} deve contenere almeno {minLength} caratteri",
+  "wallet_validate_not_contain_number": "{fieldName} non deve contenere caratteri numerici",
+  "wallet_validate_not_contain_special_char": "{fieldName} non deve contenere caratteri speciali",
+  "wallet_validate_invalid_swift_code_length": "Il codice Swift è composto solo da 8 a 11 caratteri",
+  "wallet_validate_invalid_swift_code": "Codice Swift non valido",
+  "wallet_no_transaction": "Nessuna transazione!",
+  "wallet_no_image": "Nessuna foto ancora",
+  "wallet_edit_quit_msg": "Le informazioni che hai modificato potrebbero non essere salvate. Vuoi uscire?",
+  "wallet_point_total": "Totale:",
+  "wallet_payment_methods": "Metodo di pagamento",
+  "wallet_payment_methods_note": "(Nota: '{HAHALOLO}' supporterà gli utenti con spese bancarie di '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Numero di punti",
+  "wallet_points": "{number} punti",
+  "wallet_1point": "1 punto",
+  "wallet_msg_enter_number_of_points": "Inserisci il numero di punti che desideri acquistare",
+  "wallet_msg_pin_not_correct": "Il PIN non è corretto o non esiste",
+  "wallet_msg_balance_not_enough": "Equilibrio insufficiente",
+  "wallet_msg_error_while_buy_point": "Si è verificato un errore durante l-acquisto di punti",
+  "wallet_msg_fetch_error": "Si è verificato un errore. Per favore riprova più tardi.",
+  "wallet_msg_buy_point_success": "Hai acquistato punti con successo",
+  "wallet_withdrawal_req": "Richiesta di recesso:",
+  "wallet_withdrawal_payment_acc_id": "ID conto di pagamento:",
+  "wallet_withdrawal_balance": "Saldo disponibile:",
+  "wallet_withdrawal_payout_acc": "conto di pagamento",
+  "wallet_withdrawal_amount": "Importo ({currency})",
+  "wallet_label_desc": "Descrizione",
+  "wallet_btn_save": "Salva",
+  "wallet_btn_edit_owner": "Modificare",
+  "wallet_btn_buy": "Acquistare",
+  "wallet_btn_reset": "Rientra",
+  "wallet_insufficient_available_balances": "Saldo disponibile non sufficiente",
+  "wallet_msg_complete_info": "Si prega di compilare le informazioni",
+  "wallet_msg_success": "Ti sei ritirato con successo",
+  "wallet_msg_wal_not_exist": "Il conto di pagamento non esiste",
+  "wallet_msg_wal_blocked": "Conto di pagamento bloccato",
+  "wallet_msg_acc_incorrect": "Conto di pagamento errato",
+  "wallet_msg_total_not_available": "L-importo totale richiesto non è disponibile",
+  "wallet_msg_pin_locked": "Il PIN del conto di pagamento è bloccato",
+  "wallet_msg_withdrawal_failed": "Ritiro fallito. Per favore riprova più tardi.",
+  "wallet_msg_fill_in_all_info": "Si prega di compilare le informazioni",
+  "wallet_update_info_success": "Hai aggiornato correttamente le informazioni",
+  "wallet_update_info_fail": "Impossibile aggiornare le informazioni",
+  "wallet_no_notifications": "Non hai notifiche",
+  "wallet_buy_point_payment_method_note": "(Nota: '{hahalo}' supporterà gli utenti con spese bancarie '{free}')",
+  "wallet_note_free": "GRATUITO",
+  "wallet_buy_point_policy": "Accetto {condition} e {privacy}",
+  "wallet_term_conditions": "Termini e Condizioni",
+  "wallet_privacy": "Privacy",
+  "wallet_msg_receiving_account_not_exist": "Il conto di pagamento del destinatario non esiste",
+  "wallet_msg_search_account_error": "Si è verificato un errore durante la ricerca dell-account di pagamento",
+  "wallet_msg_sending_account_not_exist": "Il conto di pagamento del mittente non esiste",
+  "wallet_msg_point_balance_not_enough": "Il saldo punti del conto di pagamento non è sufficiente",
+  "wallet_msg_cannot_give_to_itself": "Impossibile trasferire punti a te stesso",
+  "wallet_msg_cannot_give_to_business": "L-account di pagamento del destinatario non può essere un account aziendale",
+  "wallet_msg_transfer_point_err": "Si è verificato un errore durante il trasferimento dei punti",
+  "wallet_msg_transfer_point_success": "Punti trasferiti con successo",
+  "wallet_recipient_info": "Informazioni sul destinatario",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Numero di punti",
+  "wallet_not_verified": "Conto di pagamento non verificato",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} ora {minute} minuto",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 ferma} other{{countStop} ferma}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Un tempo di transito di circa {time} nel {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Adulti (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Bambini (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Bambino (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} adulto} other{{count} adulto}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} bambino} other{, {count} bambini}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} bambino} other{, {count} neonati}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Un tempo di transito di circa {times} nel {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag}CHILOGRAMMI } other{{countBag}CHILOGRAMMI }}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Volo di sola andata",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Volo di partenza",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Volo di ritorno",
+  "flight_fare_rule_title_fare_conditions": "Condizioni tariffarie",
+  "flight_fare_rule_title_departure_flight": "Volo",
+  "flight_fare_rule_title_segment": "Segmento",
+  "flight_fare_rule_notice_empty_fare_rule": "Condizioni tariffarie della compagnia aerea non trovate",
+  "flight_filter_by_title_filter": "Filtro",
+  "flight_filter_by_content_btn_filter": "Filtro",
+  "flight_filter_by_title_airline": "Compagnia aerea",
+  "flight_filter_by_title_flight_times": "Tempo di volo",
+  "flight_filter_by_title_type_flight_times_early_morning": "Mattina presto \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Mattina \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Pomeriggio \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Sera \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Numero di fermate",
+  "flight_filter_by_title_select_all": "Seleziona tutto",
+  "flight_filter_by_title_unselect_all": "Deseleziona tutto",
+  "flight_filter_by_title_type_segment_all": "Tutto",
+  "flight_filter_by_title_type_segment_direct": "Volo diretto",
+  "flight_filter_by_title_type_segment_transit": "Transito",
+  "flight_sort_by_title_sort_by": "Ordina per",
+  "flight_sort_by_title_sort_by_ascending_price": "Prezzo crescente",
+  "flight_sort_by_title_sort_by_descending_price": "Prezzo decrescente",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Primo orario di partenza",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Primo orario di arrivo",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Ultimo orario di arrivo",
+  "flight_search_result_title_count_adult": "adulto",
+  "flight_search_result_title_count_child": "bambino",
+  "flight_search_result_title_count_baby": "bambino",
+  "flight_search_result_title_segment": "fermare",
+  "flight_search_result_title_hours": "ore",
+  "flight_search_result_title_minutes": "minuti",
+  "flight_search_result_title_view_detail_price": "Visualizza dettagli",
+  "flight_search_result_title_hide_detail_price": "Nascondere dettagli",
+  "flight_search_result_title_view_detail": "Particolari",
+  "flight_search_result_title_btn_book_ticket": "Libro",
+  "flight_search_result_title_basic_price_ticket": "Prezzo per biglietto",
+  "flight_search_result_title_taxes_and_fee": "Tasse e commissioni",
+  "flight_search_result_title_total_amount": "Importo totale",
+  "flight_search_result_title_total": "Totale",
+  "flight_search_result_title_fare_details": "Dettagli tariffari",
+  "flight_search_result_title_quantity": "Quantità",
+  "flight_search_result_title_passenger": "Passeggeri",
+  "flight_search_result_title_one_way_flight": "Volo di sola andata",
+  "flight_search_result_title_round_trip_flight": "Volo di andata e ritorno",
+  "flight_change_search_title_btn_agree": "Essere d''accordo",
+  "flight_change_search_title_btn_cancel": "Annulla",
+  "flight_change_search_title_header_dialog": "Cambia ricerca",
+  "flight_change_search_title_body_dialog": "Sei sicuro di voler cambiare le informazioni di ricerca?",
+  "flight_change_search_title_footer_dialog": "Se accetti di modificare le informazioni di ricerca, tutti i dati precedenti verranno eliminati.",
+  "flight_search_result_detail_title_flight_details": "Dettagli del volo",
+  "flight_search_result_detail_title_checked_baggage": "Bagaglio controllato",
+  "flight_search_result_detail_title_aircraft": "Aereo",
+  "flight_search_result_detail_title_seat_class": "Classe del sedile",
+  "flight_search_result_detail_title_class_seat_type_all": "Tutto",
+  "flight_search_result_detail_title_class_seat_type_economy": "Economia",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Primo",
+  "flight_search_result_detail_title_class_seat_type_business": "Affare",
+  "flight_search_result_detail_content_note_transit_body": "Nota: i passeggeri possono essere tenuti a effettuare lo sdoganamento e presentare il visto di transito su richiesta del paese ospitante.",
+  "flight_transit_alter_note": "Nota: i passeggeri possono essere tenuti a effettuare lo sdoganamento e presentare il visto di transito su richiesta del paese ospitante.",
+  "flight_luggage": "Bagaglio",
+  "flight_signed_luggage": "Bagaglio controllato",
+  "flight_service_package": "Pacchetti di servizi",
+  "flight_run_by": "Operato da",
+  "flight_result_notice_no_flight_found": "Nessun volo trovato!",
+  "flight_result_notice_no_flight_found_filter": "Siamo spiacenti, non ci sono voli che corrispondono ai tuoi criteri",
+  "flight_result_notice_check_internet_again": "La tua connessione è stata interrotta. Si prega di controllare di nuovo la connessione",
+  "flight_result_notice_error_authentication": "La tua sessione di accesso è scaduta. Per favore esegui l''accesso di nuovo",
+  "flight_search_result_notice_booking_expired": "Il periodo di prenotazione sta per scadere",
+  "flight_search_result_notice_click_continue_to_proceed": "Fare clic su \"Continua\" per procedere con la prenotazione.",
+  "flight_search_result_btn_continue": "Continua",
+  "flight_input_title_gender": "Genere",
+  "flight_input_title_gender_male": "Maschio",
+  "flight_input_title_gender_female": "Femmina",
+  "flight_input_title_gender_other": "Altro",
+  "flight_search_price_info_bottom_sheet_tax_include": "Tax included",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Fee included",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "System administration surcharge",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Security screening fee",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Payment utility surcharge",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Airport fees",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Adulti",
+  "flight_v2_model_booking_children": "Bambini",
+  "flight_v2_model_booking_infant": "Neonato",
+  "flight_v2_model_detail_infant": "(sotto i 2 anni)",
+  "flight_v2_model_detail_children": "(da 02 - 12 anni)",
+  "flight_v2_component_bonus_services_title_string": "Servizi aggiuntivi",
+  "flight_v2_component_bonus_service_header": "Servizi aggiuntivi",
+  "flight_v2_component_bonus_service_content_header_price": "Tassa di assicurazione",
+  "flight_v2_component_bonus_service_flight_table_header": "Tariffa assicurativa totale",
+  "flight_v2_component_bonus_service_text1_introduce": "introduzione",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Tipo di assicurazione:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Assicurazione di volo",
+  "flight_v2_component_bonus_service_text1_supplier": "Fornitore:",
+  "flight_v2_component_bonus_service_text2_company": "Società per azioni di assicurazione di Vietinbank (Assicurazione di Vietinbank)",
+  "flight_v2_component_bonus_service_text1_trusted": "Sarai completamente sicuro di viaggiare con la nostra fidata assicurazione di viaggio",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Oggetto di assicurazione",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Gli individui utilizzano il servizio di prenotazione dei biglietti aerei sul sistema Hahalolo per viaggiare in aereo.",
+  "flight_v2_component_bonus_service_text1_age": "Età: dai 07 giorni.",
+  "flight_v2_component_bonus_service_text1_range": "Scopo",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "La copertura assicurativa comprende i seguenti rischi:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Morte o lesioni personali causate da un incidente.",
+  "flight_v2_component_bonus_service_text1_impediments": "Rischi di viaggio, vale a dire annullamento/accorciamento del viaggio, perdita o danneggiamento del bagaglio, dell''abbigliamento e degli effetti personali dell''Assicurato, ritardo del volo aereo, ritardo del bagaglio, smarrimento dei documenti di viaggio o dirottamento.",
+  "flight_v2_component_bonus_service_text1_benefit": "Benefici",
+  "flight_v2_component_bonus_service_text1_small_amount": "Spendi solo una piccola somma di denaro per una protezione multipla.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Prestazioni assicurative personali:",
+  "flight_v2_component_bonus_service_text2_insured_person": "L''assicurato che muore per un incidente o un infortunio coperto dall''assicurazione riceverà l''intera somma assicurata fino a VND 1.000.000",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Vantaggi dell''assicurazione di viaggio rischio:",
+  "flight_v2_component_bonus_service_text2_the_insured": "La persona assicurata sarà risarcita fino a un massimo di VND 20.000.000",
+  "flight_v2_component_bonus_service_text1_rules": "Termini",
+  "flight_v2_component_bonus_service_text1_more_information": "Si prega di trovare maggiori dettagli nel file allegato o contattare gentilmente",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Regole dell''assicurazione di viaggio",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Accetta di partecipare all''assicurazione di volo",
+  "flight_v2_component_booking_flight_information": "Informazioni di volo",
+  "flight_v2_component_booking_show": "Leggi di più",
+  "flight_v2_component_booking_hide": "Nascondere",
+  "flight_v2_component_booking_adult": "Adulti",
+  "flight_v2_component_booking_children": "Bambini",
+  "flight_v2_component_booking_infant": "Bambino",
+  "flight_v2_component_booking_baggage": "Bagaglio",
+  "flight_v2_component_booking_main_content_service": "Servizi",
+  "flight_v2_component_booking_taxes_fees": "Commissioni e tasse",
+  "flight_v2_component_booking_title_booking_information": "Informazioni sulla prenotazione",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Volo di partenza",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Volo di ritorno",
+  "flight_v2_component_confirm_title_flight_information": "Informazioni di volo",
+  "flight_v2_component_confirm_text_done": "Fatto",
+  "flight_v2_component_detail_booking_information": "Informazioni sulla prenotazione",
+  "flight_v2_component_detail_flight_information": "Informazioni di volo",
+  "flight_v2_component_detail_passenger_information": "Informazioni sui passeggeri",
+  "flight_v2_component_payment_booking_information": "Informazioni sulla prenotazione",
+  "flight_v2_component_payment_information": "Informazione",
+  "flight_v2_component_payment_passenger_information": "Informazioni sui passeggeri",
+  "flight_v2_component_payment_making_flight_payment": "Stai effettuando il pagamento del volo per i seguenti passeggeri:",
+  "flight_v2_component_payment_payment_now": "Paga",
+  "flight_v2_component_result_title_flight_details": "Dettagli del volo",
+  "flight_v2_component_result_title_fare_details": "Dettagli tariffari",
+  "flight_v2_component_result_type_direct_flight": "Volo diretto",
+  "flight_v2_component_result_title_showMessDiaLog": "Notifiche",
+  "flight_v2_component_result_message_selected_return": "Hai selezionato il volo di andata e ritorno",
+  "flight_v2_component_result_message_cancel_book": "Vuoi cancellare e prenotare un nuovo volo?",
+  "flight_v2_component_result_actionMessage_yes": "sì",
+  "flight_v2_component_result_negativeMessage_no": "No",
+  "flight_v2_component_result_trip_turn_departure": "Partenza",
+  "flight_v2_component_result_trip_turn_arrival": "Arrivo",
+  "flight_v2_notify_day_invalid_cannot_choose": "Non puoi selezionare",
+  "flight_v2_notify_day_invalid_because": "perché",
+  "flight_v2_notify_day_invalid_date_is": "è",
+  "flight_v2_component_result_actionMessage_btn": "Essere d''accordo",
+  "flight_v2_component_result_message": "Si prega di non selezionare date precedenti alla data corrente",
+  "flight_v2_component_search_text_guest": "Passeggeri",
+  "flight_v2_component_search_button_save": "Salva",
+  "flight_v2_component_search_text_choose_a_date": "Seleziona una data",
+  "flight_v2_component_search_button_choose": "Selezionare",
+  "flight_v2_widget_booking_total_price": "Prezzo totale",
+  "flight_v2_widget_booking_continue": "Continua",
+  "flight_v2_widget_booking_payer_information": "Informazioni sul pagatore",
+  "flight_v2_widget_booking_payer_use_contact_information": "Usa le informazioni di contatto",
+  "flight_v2_widget_booking_save_payment": "Salva queste informazioni di pagamento per la prossima volta",
+  "flight_v2_widget_booking_title_contact_information": "Informazioni sui contatti",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Usa le informazioni sul conto corrente",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Sono un passeggero",
+  "flight_v2_widget_booking_radio_gender": "Genere",
+  "flight_v2_widget_booking_radio_male": "Maschio",
+  "flight_v2_widget_booking_radio_female": "Femmina",
+  "flight_v2_widget_booking_field_card_bank_card": "Carta di credito",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Bagaglio controllato",
+  "flight_v2_widget_booking_title_passenger_information": "Informazioni sui passeggeri",
+  "flight_v2_widget_booking_information": "informazione",
+  "flight_v2_widget_common_one_way": "Senso unico",
+  "flight_v2_widget_common_details": "Dettagli",
+  "flight_v2_widget_common_text_price": "Prezzo",
+  "flight_v2_widget_common_text_fare_conditions": "Condizioni tariffarie",
+  "flight_v2_widget_common_text_service_pack": "Pacchetti di servizi",
+  "flight_v2_widget_common_item_tax_inclusive": "Tasse incluse",
+  "flight_v2_widget_common_item_vat": "I.V.A.",
+  "flight_v2_widget_common_item_fee_inclusive": "Tariffa inclusa",
+  "flight_v2_widget_common_item_fee_surcharge": "Supplemento di sistema e amministratore",
+  "flight_v2_widget_common_item_fee_screening": "Supplemento per lo screening di sicurezza",
+  "flight_v2_widget_common_item_fee_convenient": "Comodo supplemento di pagamento",
+  "flight_v2_widget_common_item_fee_airport": "Tariffa aeroportuale",
+  "flight_v2_widget_common_text_price_per_ticket": "Tariffa base",
+  "flight_v2_widget_common_text_taxes_fees": "Tasse e tasse",
+  "flight_v2_widget_common_service_service": "Servizi",
+  "flight_v2_widget_common_text_total_amount": "Prezzo totale",
+  "flight_v2_widget_common_button_continue": "Continua",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Tasse e tasse incluse)",
+  "flight_v2_widget_common_service_accommodation_service": "Servizi di alloggio",
+  "flight_v2_widget_common_text_direct_flight": "Volo diretto",
+  "flight_v2_widget_confirm_description": "Genere",
+  "flight_v2_widget_confirm_description_full_name": "Nome e cognome",
+  "flight_v2_widget_confirm_description_email": "E-mail",
+  "flight_v2_widget_confirm_description_phone_number": "Numero di telefono",
+  "address": "Indirizzo",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Prenotazione riuscita",
+  "flight_v2_widget_confirm_text_reservation_request": "La tua richiesta di prenotazione è stata effettuata con successo",
+  "flight_v2_widget_confirm_text_paid_already": "(Pagato)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Puoi controllare i dettagli dell''itinerario di seguito.",
+  "flight_v2_widget_confirm_title_payment_information": "Informazioni sul pagamento",
+  "flight_v2_widget_confirm_description_orders": "Ordini",
+  "flight_v2_widget_confirm_description_price": "Prezzo",
+  "flight_v2_widget_confirm_description_payers": "Pagatore",
+  "flight_v2_widget_confirm_button_view_details": "Visualizza dettagli",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Prenota nuovo",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Grazie per la vostra fiducia nel nostro servizio",
+  "flight_v2_widget_confirm_textspan_question_help": "Se hai domande o hai bisogno di ulteriore assistenza, contatta Hahalolo Centro assistenza",
+  "flight_v2_widget_confirm_text_paid_instructions": "per le istruzioni.",
+  "flight_v2_widget_confirm_title_passenger_information": "Informazioni sui passeggeri",
+  "flight_v2_widget_confirm_title_flight_information": "Informazioni di volo",
+  "flight_v2_widget_confirm_text_ticket_class": "Classe",
+  "flight_v2_widget_confirm_text_booking_code": "Riferimento prenotazione",
+  "flight_v2_widget_confirm_text_flight": "Volo",
+  "flight_v2_widget_confirm_description_name": "Nome",
+  "flight_v2_widget_confirm_description_guest_type": "Tipo di passeggero",
+  "flight_v2_widget_confirm_description_baggage": "Bagaglio",
+  "flight_v2_widget_dialog_config_button_agree": "Essere d''accordo",
+  "flight_v2_widget_dialog_config_button_deny": "Saltare",
+  "flight_v2_widget_dialog_config_title": "Modifica informazioni",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Sei sicuro di voler cambiare le informazioni di ricerca\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Se accetti di modificare le informazioni di ricerca, tutti i dati precedenti verranno eliminati",
+  "flight_v2_widget_dialog_config_title_delete_account": "Eliminare l''account",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "L''account non verrà visualizzato nella sezione Seleziona un conto di pagamento. Vuoi eliminare questo conto di pagamento? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Scegli un altro orario di volo",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Cambia ricerca",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Il volo ha superato il tempo consentito",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Il volo che hai selezionato ha superato il tempo di prenotazione consentito.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Ci contatti per favore",
+  "flight_v2_widget_dialog_config_text_span_by_number": "attraverso",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Linea diretta",
+  "flight_v2_widget_dialog_config_text_span_or": "o",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "cambia la tua ricerca per un nuovo volo.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Scegli un altro volo",
+  "flight_v2_widget_dialog_config_title_not_available": "Il volo non è\n disponibile",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Siamo spiacenti, il volo selezionato non è più disponibile. Per favore",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "scegli un altro volo o cambia la tua ricerca.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Modifiche tariffarie",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "La tua tariffa è cambiata da",
+  "flight_v2_widget_dialog_config_text_span_to": "a",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\na causa delle modifiche alle tariffe della compagnia aerea",
+  "flight_v2_widget_field_fname_required": "Il cognome è obbligatorio",
+  "flight_v2_widget_field_fname_invalid": "Cognome non valido",
+  "flight_v2_widget_field_fname_last_name": "Cognome (senza segni di tono)",
+  "flight_v2_widget_field_lname_required": "Il secondo nome e il nome/nome sono obbligatori",
+  "flight_v2_widget_field_lname_invalid": "Secondo nome e nome/nome non validi",
+  "flight_v2_widget_field_lname_middle_first_name": "Secondo e nome/nome (senza segni di tono)",
+  "flight_v2_widget_field_email_required": "L''e-mail è richiesta",
+  "flight_v2_widget_field_email_invalid": "E-mail non valido",
+  "flight_v2_widget_field_email_email": "E-mail",
+  "flight_v2_widget_field_phone_required": "Il numero di telefono è richiesto",
+  "flight_v2_widget_field_phone_invalid": "Numero di telefono invalido",
+  "flight_v2_widget_field_phone_phone": "Numero di telefono",
+  "flight_v2_widget_field_address_required": "L''indirizzo è obbligatorio",
+  "flight_v2_widget_field_address_invalid": "Indirizzo non valido",
+  "flight_v2_widget_field_address_address": "Indirizzo",
+  "flight_v2_widget_field_city_required": "Stato/città è obbligatorio",
+  "flight_v2_widget_field_city_invalid": "Stato/città non valido",
+  "flight_v2_widget_field_city_city": "Città-stato ",
+  "flight_v2_widget_field_city_snackbar_text": "Seleziona la tua nazionalità prima di selezionare una città",
+  "flight_v2_widget_field_country_required": "È richiesta la nazionalità",
+  "flight_v2_widget_field_country_invalid": "Nazionalità non valida",
+  "flight_v2_widget_field_country_country": "Nazionalità",
+  "flight_v2_widget_field_field_card_hint": "Numero tessera associativa",
+  "flight_v2_widget_field_field_card_error_input": "Carta non valida",
+  "flight_v2_widget_field_field_card_default_error": "La carta è richiesta",
+  "flight_v2_widget_field_field_date_hint": "Data di nascita",
+  "flight_v2_widget_field_field_date_error_input": "Per favore, non lasciarlo vuoto",
+  "flight_v2_widget_field_field_date_default_error": "Per favore, non lasciarlo vuoto",
+  "flight_v2_widget_field_field_date_default_error_infant": "I neonati devono avere meno di 2 anni",
+  "flight_v2_widget_field_field_date_default_error_children": "I bambini devono avere dai 2 ai 12 anni",
+  "flight_v2_widget_payment_contact_information": "Informazioni sui contatti",
+  "flight_v2_widget_payment_full_name": "Nome e cognome",
+  "flight_v2_widget_payment_gender": "Genere",
+  "flight_v2_widget_payment_phone_number": "Numero di telefono",
+  "flight_v2_widget_payment_address": "Indirizzo",
+  "flight_v2_widget_payment_birthday": "Data di nascita",
+  "flight_v2_widget_payment_male": "Maschio",
+  "flight_v2_widget_payment_female": "Femmina",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Nome e cognome:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Genere:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Data di nascita:",
+  "flight_v2_widget_payment_checked_baggage": "Bagaglio controllato",
+  "flight_v2_widget_payment_note": "Nota",
+  "flight_v2_widget_payment_information": "Informazione",
+  "flight_v2_widget_payment_adult": "Adulto",
+  "flight_v2_widget_payment_children": "Bambino",
+  "flight_v2_widget_payment_infant": "Bambino",
+  "flight_v2_widget_payment_title_adult_information": "Informazioni per adulti",
+  "flight_v2_widget_payment_title_children_information": "Informazioni sui bambini",
+  "flight_v2_widget_payment_title_infant_information": "Informazioni sul bambino",
+  "flight_v2_widget_payment_customer_information": "Informazioni sui passeggeri",
+  "flight_v2_widget_payment_edit_information": "Modifica informazioni",
+  "flight_v2_widget_payment_bonus_services": "Servizi aggiuntivi",
+  "flight_v2_widget_payment_membership_card_number": "Numero tessera associativa",
+  "flight_v2_widget_payment_text_loyal_customer": "Volantini frequenti",
+  "flight_v2_widget_payment_text_making_flight_payment": "Stai effettuando il pagamento del volo per i seguenti passeggeri:",
+  "flight_v2_widget_result_total_amount": "Prezzo totale",
+  "flight_v2_widget_result_taxes_fees": "(Tasse e tasse incluse)",
+  "flight_v2_widget_result_elevate_button_book": "Prenotare",
+  "flight_v2_widget_result_text_flight": "Segmento",
+  "flight_v2_widget_result_text_departure_flight": "Volo di partenza",
+  "flight_v2_widget_result_text_return_flight": "Volo di ritorno",
+  "flight_v2_component_code_title": "Cerca prenotazione",
+  "flight_v2_component_code_retype": "Rientra",
+  "flight_v2_component_code_search_btn": "Cercare",
+  "flight_v2_component_code_error": "Nessuna informazione sulla prenotazione trovata.\nControlla e riprova.",
+  "flight_v2_widget_detail_text_booking_code": "Riferimento prenotazione:",
+  "flight_v2_widget_detail_text_status": "Stato:",
+  "flight_v2_widget_detail_text_booked": "Prenotato",
+  "flight_v2_widget_detail_text_cancelled": "Annullato",
+  "flight_v2_widget_detail_text_paid": "Pagato",
+  "flight_v2_widget_detail_text_unpaid": "Non pagato",
+  "flight_showcase_domestic_round_trip_step1": "L''ora viene visualizzata con la tariffa più bassa del giorno",
+  "flight_showcase_domestic_round_trip_step2": "Scorri su entrambi i lati per riselezionare il tempo di volo",
+  "flight_showcase_domestic_round_trip_step3": "Scegli il tuo volo di partenza",
+  "flight_showcase_domestic_round_trip_step4": "Scegli il tuo volo di ritorno",
+  "flight_showcase_domestic_round_trip_step5": "Puoi riselezionare i voli di partenza e di ritorno in qualsiasi momento",
+  "flight_showcase_domestic_round_trip_step6": "Devi selezionare un numero sufficiente di voli prima di prenotare",
+  "flight_showcase_inter_round_trip_step1": "Scegli un viaggio di volo adatto a te stesso",
+  "flight_showcase_inter_round_trip_step1_desc": "Un viaggio aereo è composto da un volo di partenza e da un volo di ritorno",
+  "flight_showcase_place_from": "Da",
+  "flight_showcase_place_to": "Per",
+  "flight_showcase_tutorial": "Esercitazione",
+  "flight_showcase_back": "Di ritorno",
+  "flight_showcase_done": "Completare",
+  "flight_showcase_continue": "Prossimo",
+  "flight_v2_component_code_hint_text": "Inserisci il riferimento della prenotazione",
+  "flight_v2_component_booking_text_note_upon": "quando",
+  "flight_v2_component_booking_text_payment_after": "PAGA DOPO",
+  "flight_v2_component_booking_text_your_booking": ", la tua prenotazione si terrà entro 12 ore. Verrà automaticamente annullato se non effettui ancora il pagamento entro il tempo assegnato. Si prega di effettuare il pagamento entro il tempo assegnato per completare il processo di prenotazione.",
+  "flight_v2_dialog_default_payment_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova più tardi.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Contatta il servizio clienti Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Pagamento fallito",
+  "flight_v2_component_result_message_appropriate_flight": "L''orario di decollo per il volo di ritorno deve avvenire almeno 02 ore dopo l''orario di atterraggio per il volo di partenza. Seleziona il volo appropriato.",
+  "flight_v2_component_notification_not_available": "Il volo non è disponibile",
+  "flight_v2_search_enter_your_reservation": "Inserisci il codice della tua prenotazione per cercare le informazioni sulla tua prenotazione",
+  "flight_v2_search_booking_reference": "Riferimento prenotazione",
+  "flight_v2_search_title_booking_code": "Inserisci il codice della tua prenotazione per cercare la tua prenotazione del volo",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Cognome (senza segni di tono)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Secondo nome e nome/nome (senza segni di tono)",
+  "flight_v2_widget_common_rules_1": "Per i voli internazionali o i transiti internazionali, il passaporto deve essere valido per almeno 06 mesi prima della data di partenza.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines e Bamboo Airways: rifiutarsi di trasportare passeggeri in gravidanza con il loro periodo di gravidanza a partire da 36 settimane. Vietjet Air e Vietravel Airlines: rifiutarsi di trasportare passeggeri in gravidanza con il loro periodo di gravidanza a partire da 32 settimane.",
+  "flight_v2_widget_common_rules_3": "I bambini dai 14 giorni ai 02 anni devono essere accompagnati da un adulto di età superiore ai 18 anni.",
+  "flight_v2_widget_common_rules_4": "L''età dei bambini/neonati sarà calcolata dalla data di nascita alla data di partenza del volo, sulla base del certificato di nascita/passaporto del bambino.",
+  "flight_v2_widget_common_rules_5": "Per i bambini che volano da soli, si prega di contattare direttamente l''agente per ulteriori informazioni sul servizio per minori non accompagnati.",
+  "flight_range_slider_price_range": "Fascia di prezzo",
+  "flight_v2_common_done": "Fatto",
+  "flight_v2_detail_airline_operator_by": "Gestito da '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Nota: i passeggeri possono essere tenuti a effettuare lo sdoganamento e presentare il visto di transito su richiesta del paese ospitante.",
+  "flight_v2_detail_airline_total_price": "Totale",
+  "flight_v2_detail_airline_title_tax_and_fee": "(Tasse e tasse incluse)",
+  "flight_v2_detail_airline_button_add_ticket": "Aggiungi biglietto",
+  "flight_v2_detail_airline_button_change_ticket": "Cambia biglietto",
+  "flight_v2_detail_airline_button_booking_ticket": "Prenotare il biglietto",
+  "flight_v2_detail_airline_departure_flight": "Volo di partenza",
+  "flight_v2_detail_airline_return_flight": "Volo di ritorno",
+  "flight_v2_information_contact_email": "E-mail",
+  "flight_v2_information_customer_title_full_name": "Nome completo: {fullName}",
+  "flight_v2_information_customer_title_gender": "Sesso: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Data di nascita: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Nota: {HAHALOLO} supporterà gli utenti con commissioni bancarie {free})",
+  "flight_v2_payment_include_free_fee_payment": "GRATUITO",
+  "flight_v2_payment_use_saved_info_user": "Utilizza le informazioni di contatto o le informazioni di pagamento salvate",
+  "flight_v2_payment_success_thank_user": "Grazie per la tua fiducia nel servizio '{HAHALOLO}'. Se hai domande o hai bisogno di ulteriore assistenza, contatta il Centro assistenza Hahalolo all''indirizzo {phone} per istruzioni.",
+  "flight_v2_payment_success_notifier": "La tua richiesta di prenotazione è stata effettuata correttamente '{wasPayment}'. Puoi controllare i dettagli dell''itinerario di seguito.",
+  "flight_v2_payment_success_was_payment": "(Pagato)",
+  "flight_v2_payment_success_flight_information": "Informazioni di volo",
+  "flight_v2_payment_success_outbound_flight_information": "Informazioni sul volo di partenza",
+  "flight_v2_payment_success_return_flight_information": "Informazioni sul volo di ritorno",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Adulto",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Bambino",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x bambino",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Informazioni per adulti {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Informazioni sui bambini {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Informazioni sul bambino {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Adulti",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Bambini",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Bambini",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Un tempo di transito di circa {time} in {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Tasse e commissioni (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Tariffa base (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Ultimo orario di partenza",
+  "flight_v2_widget_detail_text_departure_flight": "Volo di partenza",
+  "flight_v2_widget_detail_text_return_flight": "Volo di ritorno",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(Tasse e tasse incluse)",
+  "flight_input_title_note_1": "Si prega di notare che il passaporto deve essere valido per almeno 06 mesi prima della data di partenza del primo segmento dell''itinerario.",
+  "flight_input_title_note_2": "I passeggeri sono tenuti ad avere documenti adeguati e rispettare le normative e le procedure di immigrazione del Paese di destinazione.",
+  "flight_input_title_note_3": "La compagnia aerea si riserva il diritto di rifiutare il trasporto se i passeggeri non dispongono di documenti validi come prescritto.",
+  "flight_input_title_note_4": "La compagnia aerea non si assume alcuna responsabilità se ai passeggeri viene negato l''ingresso.",
+  "flight_input_title_note_5": "I passeggeri devono effettuare il check-in in aeroporto in orario.",
+  "flight_input_title_note_6": "I passeggeri minorenni non accompagnati sono tenuti a contattare direttamente la compagnia aerea.",
+  "flight_input_title_note_7": "I passeggeri in stato di gravidanza con un periodo di gravidanza a partire da 32 settimane sono tenuti a contattare direttamente la compagnia aerea.",
+  "flight_input_title_note_8": "L''età dei passeggeri è calcolata in base all''intervallo di tempo tra la data di nascita e la data di partenza del primo segmento di volo dell''itinerario, sulla base dei documenti di identificazione del passeggero come passaporto e certificato di nascita.",
+  "flight_input_passenger_choose_birth_day": "Seleziona la tua data di nascita",
+  "flight_input_payment_show_passenger_title": "Stai prenotando un volo per i seguenti passeggeri:",
+  "flight_input_payment_reservation": "Prenotare",
+  "flight_v2_model_booking_luggage_handle": "Bagaglio a mano",
+  "flight_search_result_progress_searching_title": "Ricerca...",
+  "flight_v2_dialog_unavailable_ticket": "Il volo non è disponibile",
+  "flight_v2_dialog_choose_ticket": "Hai selezionato il volo",
+  "flight_v2_dialog_from": "da",
+  "flight_v2_dialog_time_take_off_flight": "Orario di decollo del volo",
+  "flight_v2_dialog_happening": "deve verificarsi",
+  "flight_v2_dialog_minimum_hour": "almeno 02 ore",
+  "flight_v2_dialog_after_trip": "dopo il volo",
+  "flight_v2_dialog_landed": "atterrato.",
+  "flight_v2_dialog_choose_again_ticket": "Vuoi selezionare un altro volo?",
+  "flight_passenger_view_service_packages": "Pacchetti di servizi",
+  "flight_passenger_view_check_in_baggage": "Bagaglio controllato:",
+  "flight_v2_widget_detail_text_departure": "Partenza",
+  "flight_v2_widget_detail_text_destination": "Destinazione",
+  "flight_handnote_international_item_view_order_code": "Codice d''ordine",
+  "flight_handnote_international_order_view": "Data aggiornata",
+  "flight_order_detail_view_booking_code": "Riferimento prenotazione",
+  "flight_handnote_international_item_view_departure_date": "Data di partenza",
+  "flight_handnote_international_item_view_booking_status": "Stato della prenotazione",
+  "flight_input_passenger_infor_title": "Informazioni sui passeggeri",
+  "flight_input_payment_show_contact_full_name": "Nome e cognome",
+  "flight_passenger_view_guest_type": "Tipo di passeggero",
+  "flight_passenger_view_ticket_number": "Numero del biglietto",
+  "flight_order_detail_title_flight_information": "Informazioni di volo",
+  "flight_v2_dialog_common_agree": "Concordare",
+  "flight_v2_dialog_common_confirm": "Confermare",
+  "flight_v2_dialog_common_skip": "Saltare",
+  "flight_v2_dialog_common_cancel": "Annulla",
+  "flight_v2_dialog_common_exit": "Uscita",
+  "flight_v2_dialog_common_change_flight": "Concordare",
+  "flight_v2_dialog_common_change_search": "Cambia ricerca",
+  "flight_v2_dialog_title_change_information": "Modifica informazioni",
+  "flight_v2_dialog_sub_title_change_information": "Sei sicuro di voler cambiare le informazioni di ricerca?",
+  "flight_v2_dialog_message_change_information": "Se accetti di modificare le informazioni di ricerca, tutti i dati precedenti verranno eliminati",
+  "flight_v2_dialog_title_not_available": "Il volo non è disponibile",
+  "flight_v2_dialog_message_not_available": "Siamo spiacenti, il volo che hai selezionato non è ora disponibile. Per favore '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "scegli un altro volo o cambia la tua ricerca",
+  "flight_v2_dialog_title_exceed_time_allow": "Il volo ha superato il tempo consentito",
+  "flight_v2_dialog_message_exceed_time_allow": "Il volo che hai selezionato ha superato il tempo di prenotazione consentito. Si prega di contattare '{HAHALOLO}' tramite la hotline '{hotline}' o '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "cambia la ricerca di nuovi voli",
+  "flight_v2_dialog_title_delete_account": "Elimina conto di pagamento",
+  "flight_v2_dialog_sub_title_delete_account": "Sei sicuro di voler eliminare questo conto di pagamento?",
+  "flight_v2_dialog_message_delete_account": "L''account non apparirà più nella selezione dell''account di pagamento.",
+  "flight_v2_dialog_title_change_ticket_price": "Cambio tariffa",
+  "flight_v2_dialog_message_change_ticket_price": "Il totale dell''ordine è cambiato da '{oldPrice}' a '{newPrice}'. Si prega di riselezionare il codice coupon/monete/punti, se disponibili.",
+  "flight_v2_dialog_title_min_support_payment": "L''ordine non è idoneo al pagamento",
+  "flight_v2_dialog_message_min_support_payment": "L''ordine idoneo prevede il pagamento totale di '{minRange}' o un minimo di '{maxRange}'. Puoi modificare il codice coupon, le monete o i punti per soddisfare le condizioni di pagamento",
+  "flight_v2_dialog_title_order_not_found": "Notifiche",
+  "flight_v2_dialog_message_order_not_found": "Nessun ordine trovato",
+  "flight_v2_dialog_title_exit_order": "Esci dall''ordine",
+  "flight_v2_dialog_message_exit_order_cart": "Il tuo carrello",
+  "flight_v2_dialog_title_payment_error_default": "Pagamento fallito",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Contatta il servizio clienti Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "qui",
+  "flight_v2_dialog_title_voucher_fee_change": "Cambio tariffa",
+  "flight_v2_dialog_message_voucher_fee_change": "La tariffa è cambiata da '{oldPrice}' a '{newPrice}'. Contatta il servizio clienti Hahalolo '{here}' per assistenza.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "qui",
+  "flight_v2_dialog_title_system_error": "Notifiche",
+  "flight_v2_dialog_message_system_error": "Il tuo ordine è stato pagato con successo e verrà presto aggiornato nelle tue note.",
+  "flight_v2_dialog_title_voucher_not_available": "Notifiche",
+  "flight_v2_dialog_message_voucher_not_available": "Il codice coupon non è disponibile. Si prega di verificare e riprovare.",
+  "flight_v2_dialog_title_point_not_available": "Notifiche",
+  "flight_v2_dialog_message_point_not_available": "I punti non sono disponibili. Si prega di verificare e riprovare.",
+  "flight_v2_dialog_title_coin_not_available": "Notifiche",
+  "flight_v2_dialog_message_coin_not_available": "Le monete non sono disponibili. Si prega di verificare e riprovare.",
+  "flight_v2_dialog_halo_support": "'{message}'. Contatta il servizio clienti Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "qui",
+  "flight_v2_dialog_title_stripe_error": "Notifiche",
+  "flight_v2_price_info_read_more": "Visualizza di più",
+  "flight_v2_price_info_total_payment": "Pagamento totale",
+  "flight_v2_price_info_before_payment": "Importo prepagato",
+  "flight_v2_component_booking_title_payment_information": "Informazioni sul pagamento",
+  "flight_v2_model_booking_checked_baggage": "Bagaglio registrato (è possibile acquistare di più)",
+  "flight_v2_widget_booking_coupon_code": "Codice coupon",
+  "flight_v2_widget_booking_use_coins": "Usa le monete",
+  "flight_v2_component_booking_use_point": "Usa punti",
+  "flight_v2_widget_booking_title_fare_details": "Dettagli tariffari",
+  "flight_v2_widget_confirm_title_contact_information": "Informazioni sui contatti",
+  "flight_input_passenger_hint_birth_day": "Data di nascita",
+  "flight_v2_widget_booking_membership_card_number": "Numero tessera associativa",
+  "flight_passenger_view_baggage": "Bagaglio",
+  "flight_v2_dialog_message_exit_order": "La tua prenotazione del volo è in corso. Se esci, il tuo ordine verrà comunque salvato nel '{cart}'. Puoi pagare questo ordine prima del '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "La tua prenotazione del volo non è stata effettuata. Se esci, il tuo ordine verrà comunque salvato nel '{cart}'. Puoi effettuare un pagamento per completare l''emissione del biglietto",
+  "flight_v2_payment_back_from_payment": "La tua prenotazione del volo è in corso. Non è possibile modificare le informazioni sull''ordine. Si prega di effettuare un pagamento prima del '{time}' per completare l''emissione del biglietto.",
+  "flight_v2_payment_back_from_payment_no_hold": "La tua prenotazione del volo non è stata effettuata. Si prega di effettuare un pagamento per completare la prenotazione e l''emissione del biglietto.",
+  "flight_price_detail_view_total_fare": "Tariffa totale",
+  "flight_price_detail_view_service_fee": "Costo del servizio",
+  "flight_price_detail_view_payment_fee": "Commissione di pagamento",
+  "flight_v2_notification_baggage": "Hai selezionato {baggage}. Si prega di vedere i dettagli di seguito.",
+  "flight_check_the_details": "Puoi controllare i dettagli di seguito.",
+  "flight_order_detail_view_information_order": "Informazioni sull''ordine",
+  "flight_v2_search_code_no_reservation_yet": "Non ancora prenotato",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Nota: le informazioni sul cliente non sono state ancora completate",
+  "tour_booking_screen_update_information": "Aggiorna ora",
+  "tour_booking_screen_textspan_note": "(Nota: tassa di pagamento)",
+  "tour_booking_loading_message": "Recupero delle informazioni sull''ordine, attendere un momento",
+  "tour_booking_last_name": "Cognome",
+  "tour_booking_middle_and_first_name": "Secondo e nome/nome di battesimo",
+  "tour_booking_or_detail_phone_number": "Numero di telefono",
+  "tour_booking_or_detail_address": "Indirizzo",
+  "tour_booking_province_city": "Provincia/Città",
+  "tour_booking_country": "Paese",
+  "tour_booking_title_booking_information": "Informazioni sulla prenotazione",
+  "tour_booking_bottom_detail_price_error": "Le informazioni sulla carta non sono corrette. Si prega di controllare di nuovo.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Impossibile applicare il codice coupon",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Codice del coupon non valido",
+  "tour_booking_update_item_cart_action_message": "Chiudere",
+  "tour_booking_update_item_cart_title": "Notifiche",
+  "tour_booking_update_item_cart_msg_error_last": "Si è verificato un errore durante l''aggiornamento dell''ordine, riprova.",
+  "tour_booking_screen_payment_methods": "Opzione di pagamento",
+  "tour_booking_screen_accept": "Accettare",
+  "tour_booking_screen_coupon_code": "Codice coupon",
+  "tour_booking_screen_insert_code": "Inserisci il codice",
+  "tour_booking_screen_default_msgError": "Si è verificato un errore. Per favore riprova.",
+  "tour_booking_screen_on_failed_error_2008": "Il programma del tour per mese selezionato non è disponibile al momento. Seleziona un altro programma del tour.",
+  "tour_booking_screen_on_failed_error_2202": "La pagina non è stata pubblicata o non hai impostato le età.",
+  "tour_booking_screen_on_failed_error_2301": "Il tour non è disponibile.",
+  "tour_booking_screen_on_failed_error_2303": "Il tour non appartiene alla pagina.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Il periodo di prenotazione è scaduto.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Si prega di contattare il Centro assistenza clienti di Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "qui",
+  "tour_booking_screen_content_apply_voucher_failed_help": "per assistenza.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Il numero massimo di monete che possono essere utilizzate per questo ordine.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Utilizzo",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number}  Monete",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "per il pagamento.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Corrisponde a",
+  "tour_booking_success_text_done": "Fatto",
+  "tour_booking_success_header_booking_success": "Prenotazione riuscita",
+  "tour_booking_success_header_textspan_reservation_success": "La tua richiesta di prenotazione è stata effettuata con successo",
+  "tour_booking_success_header_textspan_paid": "(Pagato).",
+  "tour_booking_success_header_textspan_itinerary_details": "Puoi controllare i dettagli dell''itinerario di seguito.",
+  "tour_booking_success_title_tour_information": "Informazioni sul tour",
+  "tour_booking_success_tour_information_tour_name": "Nome del tour",
+  "tour_booking_success_tour_information_departure": "Partenza",
+  "tour_booking_success_tour_information_departure_date": "Data di partenza",
+  "tour_booking_success_tour_information_end_date": "Data di fine",
+  "tour_booking_success_tour_information_Number_of_days": "Numero di giorni",
+  "tour_booking_success_tour_information_passengers": "Numero di passeggeri",
+  "tour_booking_success_tour_information_detail_Passengers": "1 adulto",
+  "tour_booking_success_title_contact_information": "Informazioni di contatto",
+  "tour_booking_success_contact_information_full_name": "Nome e cognome:",
+  "tour_booking_success_contact_information_email": "E-mail:",
+  "tour_booking_success_contact_information_phone_number": "Numero di telefono:",
+  "tour_booking_success_contact_information_address": "Indirizzo:",
+  "tour_booking_success_title_installment_information": "Informazioni sull''ordine rateale",
+  "tour_booking_success_installment_information_total_order_value": "Valore totale dell''ordine:",
+  "tour_booking_success_installment_information_prepaid_rate": "Tariffa prepagata:",
+  "tour_booking_success_installment_information_prepayment_amount": "Importo prepagato:",
+  "tour_booking_success_installment_information_remaining_amount": "Equilibrio restante:",
+  "tour_booking_success_installment_information_conversion_information": "Commissione di conversione delle informazioni:",
+  "tour_booking_success_installment_information_banking_fee": "Commissione bancaria:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Tasso di interesse rateale (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Interessi rateali (mese):",
+  "tour_booking_success_installment_information_total_amount": "Pagamento rateale totale:",
+  "tour_booking_success_installment_information_payment_term": "Tenore rata (mese):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} mesi",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Importo rata mensile:",
+  "tour_booking_success_installment_information_next_installment_period": "Tenore della prossima puntata",
+  "tour_booking_success_title_transaction_information": "Informazioni sulla transazione",
+  "tour_booking_success_transaction_information_tour_id": "ID tour:",
+  "tour_booking_success_transaction_information_booking_code": "Numero di prenotazione:",
+  "tour_booking_success_transaction_information_total_payment": "Pagamento totale:",
+  "tour_booking_success_transaction_information_payer": "Pagatore:",
+  "tour_booking_success_transaction_information_address": "Indirizzo:",
+  "tour_booking_success_transaction_information_content_billing": "Contenuto del pagamento:",
+  "tour_booking_success_transaction_information_order_payment": "Pagamento dell''ordine",
+  "tour_booking_success_transaction_information_order_advance": "Pagamento anticipato dell''ordine a rate",
+  "tour_booking_success_textspan_footer_thanks": "Grazie per la tua fiducia nel servizio di Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Se hai domande o hai bisogno di ulteriore assistenza, contatta il Centro assistenza Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "per le istruzioni.",
+  "tour_booking_success_bottomview_view_details": "Visualizza dettagli",
+  "tour_booking_success_bottomview_new_booking": "Prenota nuovo",
+  "tour_booking_title_info_detail_tour": "Dettagli del tour",
+  "tour_booking_info_detail_tour_title_info_tour": "Informazione",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Nome del tour",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Scoperta dell''isola di Phu Quy",
+  "tour_booking_or_detail_tour_id": "ID tour",
+  "tour_booking_or_detail_tour_time": "Tempo",
+  "tour_booking_or_detail_departure_date": "Data di partenza",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Data di fine",
+  "tour_booking_or_detail_tour_departure": "Partenza",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Destinazione",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Tipo di tour",
+  "tour_booking_info_detail_tour_info_tour_description": "Descrizione",
+  "tour_booking_info_detail_tour_title_table_price": "Listino prezzi del tour",
+  "tour_booking_starttext_adult": "Adulto",
+  "tour_booking_starttext_child": "Bambino",
+  "tour_booking_starttext_young_child": "Bambino piccolo",
+  "tour_booking_starttext_baby": "Bambino",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Elenco delle parti",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Informazioni sul regolamento",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Regolamenti privati",
+  "tour_booking_info_detail_tour_title_installment_policy": "Piano a rate",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Importo totale",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Importo prepagato",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Paga",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Servizi",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Promozione",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Usa la promozione",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Usa le monete",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Importo totale",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Sconto incluso per il pagamento anticipato del 100%.",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Valore della promozione:",
+  "tour_booking_title_item_count_passenger": "Numero di passeggeri",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Oltre {age} anni",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} anni",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Di età inferiore a {age} anni",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Chiedi supporto ad per inserire le informazioni sui viaggiatori",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Inserisci le informazioni del viaggiatore",
+  "tour_booking_title_item_info_billing": "Informazioni sul pagatore",
+  "tour_booking_item_info_billing_use_contact_info": "Usa le informazioni di contatto",
+  "tour_booking_title_item_info_contact_person": "Informazioni sui contatti",
+  "tour_booking_title_item_method_payment": "Metodo di pagamento",
+  "tour_booking_item_method_payment_text_full_payment": "Pagamento al 100%.",
+  "tour_booking_item_method_payment_text_installment_payment": "Pagamento rateale",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Ottieni uno sconto del {discount}%.",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Importo totale pagabile del valore dell''ordine dopo lo sconto:",
+  "tour_booking_title_item_select_service": "Servizi accompagnati",
+  "tour_booking_item_select_service_add_service": "Aggiungi servizio",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Invieremo un codice di conferma dell''avvenuto pagamento della rata nelle prossime scadenze via email:",
+  "tour_booking_pay_installment_check_email": "Per favore ricontrolla il tuo indirizzo email.",
+  "tour_booking_pay_installment_number_installments_months": "Numero di mesi di rata",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Tasso di rata",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "È necessario effettuare un pagamento anticipato parziale del valore del tour. L''importo della rata mensile verrà calcolato in base al saldo residuo dopo il pagamento anticipato andato a buon fine.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Inserisci la percentuale di pagamento anticipato desiderata",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Dettagli rata",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "No.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Informazione",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Valore",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Valore dell''ordine",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Tariffa prepagata",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Valore prepagato",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Equilibrio restante",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Commissione di conversione delle informazioni",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Commissione di pagamento bancario",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Tasso d''interesse (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Interessi rateali",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Importo totale della rata",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Tenore rateale (mese)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Tenore della prossima puntata",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Importo rata mensile",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} mesi",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Piano a rate",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Dettagli del piano di rateizzazione",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Servizi accompagnati",
+  "tour_booking_item_service_init_service_number_of_travelers": "Numero di passeggeri",
+  "tour_booking_group_months_installment_label": "{month} mesi",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Sogni di viaggio",
+  "tour_detail_text_number_people_haha_page": "1.839.017 persone Haha questa pagina",
+  "tour_detail_screen_theme_text_indochina_discovery": "Scoperta dell''Indocina: mari e street food",
+  "tour_detail_text_installment_tour": "TOUR RATA",
+  "tour_detail_text_view_details": "Visualizza dettagli",
+  "tour_detail_number_promotions": "{promotions} Promozioni",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "disponibile",
+  "tour_detail_tab_info": "Informazione",
+  "tour_detail_tab_tour_parts": "Dettagli itinerario",
+  "tour_detail_tab_promotion": "Promozione",
+  "tour_detail_tab_privacy_policy": "Politica sulla riservatezza",
+  "tour_detail_tab_separate_regulations": "Regolamenti privati",
+  "tour_detail_tab_contact": "Contatto",
+  "tour_detail_view_tab_installment": "Piano a rate",
+  "tour_detail_text_only_from": "Solo da",
+  "tour_detail_view_emptyTitle": "Il tour non è più disponibile",
+  "tour_detail_text_change_date": "Cambia data",
+  "tour_detail_text_book_now": "Prenota ora",
+  "tour_detail_view_action_menu_time_line": "Sequenza temporale",
+  "tour_detail_view_action_menu_tour_List": "Elenco dei tour",
+  "tour_detail_view_action_menu_introduction": "introduzione",
+  "tour_detail_view_action_menu_promotion": "Promozione",
+  "tour_detail_view_action_menu_appraise": "Recensioni",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} persone Haha questa pagina",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Il programma del tour per mese selezionato non è disponibile al momento.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Seleziona un altro programma del tour.",
+  "tour_detail_choose_schedule_title": "Seleziona programma",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Orario di partenza",
+  "tour_detail_choose_schedule_detail_error_empty_title": "L''orario di partenza non è disponibile",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Data di partenza: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "A partire dal",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Da {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Fine",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "A {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Promozione",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Prezzo",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Prenota ora",
+  "tour_detail_contact_infor_view_empty_title": "Le informazioni di contatto sono in aggiornamento",
+  "tour_detail_contact_infor_view_company_name": "Nome della ditta",
+  "tour_detail_infor_view_text_starting_from": "Inizia da",
+  "tour_detail_infor_view_text_ends_at": "Fine a",
+  "tour_detail_infor_view_tour_type_domestic": "Giro nazionale",
+  "tour_detail_infor_view_tour_type_international": "Giro internazionale",
+  "tour_detail_infor_view_tour_text_info": "Informazione",
+  "tour_detail_infor_view_tour_types": "Tipo",
+  "tour_detail_infor_view_tour_service": "Servizi turistici",
+  "tour_detail_emptyTitle_no_data_found": "Nessun dato trovato",
+  "tour_detail_promotion_view_empty_title": "Non sono disponibili promozioni",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Livelli di promozione {level}::",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price} % di sconto",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} di sconto",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Valore minimo dell''ordine: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Numero minimo di adulti: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Di ritorno",
+  "tour_detail_shimmer_loading_message": "... persone Haha ​​questa pagina",
+  "tour_hand_note_tabs_verify_sent_to_email": "Ti abbiamo inviato un codice di conferma a pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Prezzo",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Annulla Ordine",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Vuoi eseguire questa azione?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Confermare",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Annulla",
+  "tour_hand_note_footer_action_total_amount": "Importo totale",
+  "tour_hand_note_footer_action_pay": "Paga",
+  "tour_hand_note_order_payment_view_order_id": "Codice d''ordine",
+  "tour_hand_note_order_payment_view_paid": "Pagato",
+  "tour_hand_note_order_payment_view_total_price": "Prezzo totale",
+  "tour_hand_note_order_payment_view_remaining_amount": "Equilibrio restante",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Tenore a rate",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Mese: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Importo della rata",
+  "tour_hand_note_order_payment_view_next_installment_period": "Tenore della prossima puntata",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Pagamento totale",
+  "tour_handnote_banner_waring_input_verify_error": "Si è verificato un errore durante la verifica. Riprova o tocca ",
+  "tour_lockup_empty_title": "Nessuna informazione sul tour trovata",
+  "tour_lockup_title_info": "Informazioni sul tour",
+  "tour_lockup_form_search_hind_text_enter_promo": "Inserisci il codice promozionale",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} giorni} other{{days} giorni}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Tutti",
+  "tour_handnote_tab_awaiting": "In attesa di conferma",
+  "tour_handnote_tab_awaiting_fulfilment": "In attesa di adempimento",
+  "tour_handnote_tab_ongoing": "In corso",
+  "tour_handnote_tab_completed": "Completato",
+  "tour_handnote_tab_canceled": "Annullato",
+  "tour_detail_page_programs_detail": "Dettagli del programma",
+  "tour_detail_page_passenger_title": "Cliente",
+  "tour_detail_info_guest_edit_title": "Modificare",
+  "tour_detail_info_guest_update_title": "Aggiornare",
+  "tab_tour_detail_order_cancel_order": "Annulla Ordine",
+  "tab_tour_detail_order_cancel_order_confirm": "Vuoi eseguire questa azione?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Confermare",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Annulla",
+  "tab_tour_detail_order_waiting_confirmation": "In attesa di conferma",
+  "tab_tour_detail_order_code_order_tour_title": "Numero di prenotazione",
+  "tour_detail_stage_view_title": "Parte {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Al pagamento sono state applicate monete. Vedi i dettagli di seguito",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Il codice coupon è stato applicato al pagamento. Vedi i dettagli di seguito",
+  "tour_hand_note_banner_warning_update_success": "Le informazioni sul cliente sono state completate",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Informazioni sul pagamento",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Pagato",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Promozione annullamento tour\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Usa monete ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Costo di cancellazione {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Importo stimato del rimborso",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Tempo di rimborso (dalla data di cancellazione): 5-7 giorni (per gateway di pagamento Alepay e Payme) o 7-15 giorni (per gateway di pagamento Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Motivo della cancellazione:",
+  "tour_booking_validation_province_or_city_is_required": "Provincia/Città è obbligatorio",
+  "tour_booking_screen_on_failed_error_2801": "Devi prenotare il Tour {numberDay} giorni prima della data di partenza. Seleziona un''altra data di partenza.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "L''orario di partenza del tour selezionato è più o meno lungo in base alla nostra politica. Seleziona un tour con un orario di partenza appropriato.",
+  "tour_booking_bottom_view_error": "Si prega di completare le informazioni del viaggiatore o chiedere il supporto di Hahalolo per inserire le informazioni del viaggiatore in un secondo momento.",
+  "tour_booking_on_start_payment_message": "Siamo spiacenti, la data di partenza che hai selezionato è esaurita. Si prega di scegliere un''altra data di partenza.",
+  "tour_detail_text_full_load": "Venduto",
+  "tour_cancel_order_info_reason_cancel": "Inserisci il motivo della cancellazione.",
+  "tour_cancel_order_info_validate_reason_cancel": "Il motivo della cancellazione è obbligatorio",
+  "tour_cancel_order_info_refound_invalid_card": "Il numero di conto è obbligatorio",
+  "tour_cancel_bank_name_required": "Il nome della banca è obbligatorio",
+  "tour_cancel_bank_wrong_format": "Formato del nome della banca errato",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo ti rimborserà in base alle informazioni sul conto bancario che inserisci di seguito)",
+  "tour_cancel_enter_bank_name": "Immettere il nome della banca",
+  "tour_cancel_cancel_order_success": "Il tuo ordine è stato annullato con successo.",
+  "tour_bank_identifier_required": "È richiesto il codice SWIFT",
+  "tour_detail_title_select_departure_month": "Seleziona il mese di partenza",
+  "tour_detail_title_upcoming_departure_schedule": "Prossimo programma di partenza",
+  "tour_detail_schedule_title_departure": "Partenza",
+  "tour_detail_schedule_title_destination": "Destinazione",
+  "tour_booking_fail_payment_price_change": "Il prezzo del tour è cambiato da {oldPay} a {newPay}. Vuoi continuare con il pagamento?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Il prezzo del tour è cambiato da {oldPay} a {newPay} e devi pagare {payAmount} in anticipo. Vuoi continuare con il pagamento?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "L''importo del pagamento anticipato è cambiato da {oldPay} a {newPay}. Vuoi continuare con il pagamento?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "L''importo applicato dalle monete è cambiato da {oldPay} a {newPay}. Vuoi continuare con il pagamento?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Usa i punti",
+  "tour_booking_screen_have_apply_points": "I punti sono stati applicati al pagamento. Si prega di vedere i dettagli di seguito.",
+  "tour_booking_warning_promotion": "Il tuo tour è stato prenotato e le informazioni sull''ordine non possono essere modificate. Si prega di effettuare un pagamento per completare la prenotazione del tour.",
+  "tour_booking_warning_back_text_normal": "Il tuo ordine è stato prenotato. Se esci, il tuo ordine verrà comunque salvato in",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Esci dall''ordine",
+  "tour_booking_warning_back_when_hold_ticket_card": "Il tuo carrello.",
+  "tour_booking_warning_back_exit": "Uscire",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "L''ordine è passato attraverso il gateway di pagamento. Il codice coupon non può essere annullato.",
+  "tour_booking_point_not_available": "I punti non sono disponibili",
+  "tour_payment_voucher_exit_dialog_title": "Pagamento fallito",
+  "tour_total_point_change": "I tuoi punti disponibili sono cambiati. Inserisci il numero di punti per richiedere l''ordine.",
+  "tour_hand_note_text_tour": "Tour",
+  "tour_hand_note_text_amount_installment_payment": "Importo del pagamento rateale",
+  "tour_detail_tour_has_no_available_schedule": "Nessun programma disponibile per questo tour",
+  "tour_detail_promotion_view_time_application": "Periodo applicabile:",
+  "tour_detail_promotion_view_up_to_off_title": "Fino a",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% di sconto",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Cerca il numero di prenotazione",
+  "tour_you_can_sure_cancel_order": "Sei sicuro di voler annullare questo ordine?",
+  "tour_detail_contact_title": "Siamo disponibili 24 ore su 24! In caso di domande su questo servizio, contattaci utilizzando le informazioni di seguito. Ti risponderemo entro 2 ore!",
+  "tour_detail_rate_title_schedule": "Programma",
+  "tour_detail_rate_title_meal": "Pasto",
+  "tour_detail_review_there_are_no_reviews_yet": "Non ci sono ancora recensioni",
+  "tour_search_suggest_location_title": "Le migliori destinazioni",
+  "tour_detail_rate_title_property": "Proprietà",
+  "tour_detail_rate_title_tour_guide": "Guida turistica",
+  "tour_detail_rate_title_vehicle": "Veicolo",
+  "tour_detail_choose_schedule_remain_slot": "Sono rimasti solo {slot} slot",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Data",
+  "tour_detail_contact_text_hotline": "Linea diretta",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Recensioni",
+  "tour_search_place_suggestion_title": "Scegli una destinazione",
+  "tour_search_place_suggestion_hint_text": "Inserisci partenza...",
+  "tour_review_title_feedback": "Rivedi la tua esperienza di viaggio",
+  "tour_review_title_content": "Valutazione complessiva del viaggio",
+  "tour_review_title_see_review": "Vedi la tua recensione di viaggio",
+  "tour_review_schedule": "Programma",
+  "tour_review_meal": "Pasto",
+  "tour_review_accommodation": "Proprietà",
+  "tour_review_tour_guide": "Guida turistica",
+  "tour_review_vehicle": "Veicolo",
+  "tour_lockup_up_tour_header_text": "Inserisci il tuo numero di prenotazione per cercare le informazioni sulla tua prenotazione",
+  "banner_warning_installment_noti": "Stai per raggiungere la prossima data di scadenza del pagamento della rata. Scadenza rata {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Estendere",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Codice coupon non applicato correttamente",
+  "voucher_search_on_select_voucher_fail": "Codice coupon non applicato. Per favore riprova più tardi.",
+  "voucher_search_coupon_code_incorrect": "Codice coupon errato",
+  "voucher_search_check_or_contact_cskh": "Si prega di ricontrollare o contattare il nostro Centro assistenza clienti",
+  "voucher_widget_item_voucher_discount": "Sconto: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "In scadenza: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Data di scadenza:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Codice:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Promozione:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Condizione:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Applicare ai prodotti Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Limita uno per cliente.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Per ordini da {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Prodotti applicati a:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} disattivato",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Sconto massimo:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Hai salvato",
+  "voucher_apply_voucher_widget_order_from_discount": "su questo ordine con codice coupon",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Il tuo volo non è stato ancora prenotato. Si prega di completare il pagamento per prenotare ed emettere il biglietto.",
+  "cart_screen_main_title": "Il tuo carrello",
+  "cart_screen_main_tour_title": "Prenotazione tour",
+  "cart_screen_main_flight_title": "Volo",
+  "cart_screen_main_car_title": "Prenotazione auto",
+  "cart_screen_main_tour_title_1": "Prenotazione tour (1)",
+  "cart_screen_main_flight_title_1": "Volo (1)",
+  "cart_screen_main_car_title_1": "Prenotazione auto (1)",
+  "cart_screen_domestic_flight_num_passenger": "Numero di passeggeri",
+  "cart_screen_domestic_flight_subtotal": "totale parziale",
+  "cart_screen_domestic_flight_note": "La tua prenotazione del volo è stata effettuata. Si prega di effettuare un pagamento per completare l''emissione del biglietto.",
+  "cart_screen_empty": "Non ci sono articoli nel carrello",
+  "cart_screen_empty_order_now": "Cerca e Prenota ora!",
+  "cart_screen_car_delete_order": "Elimina ordine",
+  "cart_screen_car_delete_order_confirm": "Vuoi eliminare questo ordine?",
+  "cart_screen_tour_schedule_title": "Programma",
+  "cart_screen_tour_type_title": "Tipo di tour",
+  "cart_tour_type_domestic": "Domestico",
+  "cart_tour_type_international": "Internazionale",
+  "cart_screen_tour_num_day_num_night": "{day} giorni, {night} notti",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Numero di passeggeri",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Usa punti",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Mese {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Si è verificato un errore durante la verifica. Riprova o tocca \"Invia nuovamente il codice di conferma\" per ricevere un nuovo codice tramite {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Invia nuovamente il codice di conferma",
+  "hand_note_input_verify": "Abbiamo inviato un codice di conferma a {email}. Inserisci il codice che hai ricevuto per completare questo passaggio",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Inserisci il codice",
+  "hand_note_tour_detail_body_tour_info_title": "Informazioni sul tour",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(L''ora è calcolata nel fuso orario del Vietnam)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Giorni totali",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Numero di viaggiatori",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Politica di cancellazione",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Le tempistiche di cancellazione gratuita si basano sul fuso orario di prenotazione del tour e sulla politica di cancellazione del tour del Fornitore",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "In caso di annullamento del tour, ti verrà addebitata la seguente penale:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} giorni prima della data di partenza",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Cancellazione gratuita",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Commissione di cancellazione di {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Promozione per il pagamento del 100%.",
+  "hand_note_install_policy": "Piano a rate",
+  "hand_note_title_status_payment_failure": "fallito",
+  "hand_process_extension": "Proroga in corso",
+  "hand_in_installment": "Attivo",
+  "hand_installment_completed": "Completato",
+  "hand_note_adults": "Adulti",
+  "hand_note_children": "Figli",
+  "hand_note_baby": "Bambini piccoli",
+  "hand_note_infant": "Bambini",
+  "hand_note_tour_service_price": "Prezzo del servizio",
+  "hand_note_total_price": "Prezzo totale",
+  "hand_note_prepaid": "Prepagato",
+  "hand_note_remaining": "Equilibrio restante",
+  "hand_installment_status": "Stato rata",
+  "hand_note_installment_payment_count_month_payment": "Numero di mesi di rata",
+  "hand_note_installment_payment_count_month_payment_num": "{month} mesi",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Informazioni sulla rata",
+  "hand_note_information_detail_total_value_title": "Ordine totale",
+  "hand_note_information_detail_prepayment_amount_title": "Importo prepagato ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Importo totale della rata",
+  "hand_note_information_detail_installment_tenor_title": "Tenore a rate",
+  "hand_note_information_detail_information_conversion_fee_title": "Commissione di conversione delle informazioni",
+  "hand_note_information_detail_bank_fee_title": "Commissione bancaria",
+  "hand_note_information_detail_installment_interest_title": "Interessi rateali",
+  "hand_note_information_detail_monthly_installment_amount_title": "Importo rata mensile",
+  "hand_note_information_detail_next_due_date_title": "Tenore della prossima puntata",
+  "hand_note_installment": "Rata",
+  "hand_note_postpaid": "Postpagato",
+  "hand_note_installment_history_title": "Storico rate",
+  "hand_note_payment_installment_title": "Pagamento rateale",
+  "hand_note_the_month_current_installment": "Mese: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Prima rata",
+  "hand_note_remaining_balance_title": "Equilibrio restante",
+  "hand_note_extension_info": "Informazioni sull''estensione",
+  "hand_note_price_extension": "Importo esteso",
+  "hand_note_month_paid": "{month} mesi pagati",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} mesi rimasti",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Aggiorna le tue informazioni",
+  "hand_note_invalid_full_name": "Formato del nome completo non valido",
+  "hand_note_must_enter_full_name": "Devi inserire il tuo nome completo",
+  "hand_note_adults_num": "Informazioni per adulti {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Informazioni sul bambino {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Informazioni sul bambino {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Informazioni sui bambini piccoli {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(Più di {age} anni)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Da {ageFrom} - {ageTo} anni)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(Minore di {age} anni)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} giorni",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Parte: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Aggiorna le informazioni sui viaggiatori",
+  "hand_note_hotel_reservation_detail_title": "Dettagli della prenotazione",
+  "hand_note_tour_installment_title": "Tour a rate",
+  "hand_note_tour_extensions_payment_title": "Proroga di pagamento",
+  "tour_booking_screen_text_accept": "Concordare",
+  "hand_note_installment_period": "Tenore a rate",
+  "hand_note_installment_amount": "Importo della rata",
+  "hand_note_recommend_adjourn": "Richiesta di proroga",
+  "hand_note_number_extension": "Numero di giorni di proroga",
+  "hand_note_new_installment": "Nuova scadenza rata",
+  "hand_note_adjourn_notice": "Per ogni durata di rata, devi ottenere una sola dilazione di pagamento di {day} giorni. Se la nuova data di scadenza della rata è scaduta e l''attuale pagamento del tenore non è stato effettuato, il tour verrà annullato.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Scusa per ritardato pagamento",
+  "hand_note_extension_successful": "Estensione riuscita",
+  "hand_note_part_due_note": "L''ordine è scaduto. Si prega di contattare il nostro Centro assistenza clienti.",
+  "hand_note_notify_error_extension": "Si è verificato un errore. Per favore riprova.",
+  "hand_note_dialog_input_verify_1": "Abbiamo inviato un codice di conferma a",
+  "hand_note_dialog_input_verify_2": "Inserisci il codice che hai ricevuto per completare questo passaggio.",
+  "hand_note_verify_input_code_hint": "Inserire il codice di conferma",
+  "hand_note_title_hotel_order": "Ordini di prenotazione alberghiera",
+  "hand_note_title_apply_coin": "Usa le monete",
+  "hand_note_request_resent_code_confirm_must_1": "Dovresti attendere un minuto prima di richiedere di inviare nuovamente il codice di conferma.",
+  "hand_note_request_resent_code_confirm_must_2": "Dovresti attendere 5 minuti prima di richiedere di inviare nuovamente il codice di conferma.",
+  "hand_note_request_resent_code_confirm_must_3": "Dovresti attendere un giorno prima di richiedere di inviare nuovamente il codice di conferma.",
+  "hand_note_request_resent_code_confirm_must_4": "Dovresti attendere 9 minuti prima di richiedere di inviare nuovamente il codice di conferma.",
+  "hand_note_request_resent_code_confirm_must_5": "Si è verificato un errore durante l''invio del codice di conferma. Per favore riprova.",
+  "hand_note_history_new_order_created": "Nuovo ordine creato",
+  "hand_note_history_change_customer_information": "Informazioni sui passeggeri modificate",
+  "hand_note_history_cancellation_of_passengers": "Passeggero cancellato",
+  "hand_note_history_change_flights": "Volo cambiato",
+  "hand_note_history_cancel_the_flight": "Volo cancellato",
+  "fare_rule_toolbar_title": "Condizioni tariffarie",
+  "hand_note_detail_activity_history": "Cronologia attività:",
+  "hand_note_coin_refund_amount": "Monete di rimborso previste",
+  "hand_note_tour_title": "Tour",
+  "hand_note_hotel_title": "Hotel",
+  "hand_note_flight_title": "Volo",
+  "hand_note_car_title": "Noleggio auto",
+  "hand_note_title": "Note di mano",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "numero di carta di credito non valido",
+  "payment_error_card_has_expired": "La carta è scaduta",
+  "payment_error_card_has_expired_year": "La carta è scaduta quest''anno",
+  "payment_error_card_date_must_only_number": "Deve avere solo numeri nelle date",
+  "payment_error_card_date_is_3_digits": "L''anno di scadenza è composto da 3 cifre",
+  "payment_error_card_date_is_4_digits": "L''anno di scadenza è più lungo di 4 cifre",
+  "payment_error_card_date_only_number_in_date": "Deve avere solo numeri nelle date",
+  "payment_card_date_expired": "Data di scadenza",
+  "payment_payme": "Portafoglio Payme",
+  "payment_domestic": "Bancomat o iBanking delle banche nazionali (in Vietnam)",
+  "payment_stripe": "Carta di pagamento internazionale (Visa/MasterCard)",
+  "payment_card_number_empty": "È richiesto il numero della carta",
+  "payment_card_day_exit": "La data di scadenza è obbligatoria",
+  "payment_ccv_empty": "È richiesto il codice CVV",
+  "payment_error_secure_long": "Codice di sicurezza errato",
+  "payment_error_secure_shorted": "Il codice di sicurezza è troppo breve per questo tipo di carta",
+  "payment_error_secure_alphabet": "Non sono ammessi caratteri alfabetici",
+  "payment_error_no_secure": "Nessun codice di sicurezza fornito",
+  "payment_error_no_card_number": "Nessun input o contiene caratteri non numerici",
+  "payment_error_connect_title": "Errore di connessione",
+  "payment_error_connect_message": "La tua connessione di rete è instabile. Controlla di nuovo la connessione sul tuo dispositivo",
+  "payment_error_not_load_title": "Errore durante il caricamento della pagina",
+  "payment_error_not_load_message": "Si è verificato un errore durante la connessione alla pagina di pagamento.",
+  "payment_error_card_number_lenght": "Il numero della carta deve essere maggiore di 19 cifre",
+  "payment_error_no_date": "Nessuna data inserita",
+  "payment_error_invalid_date": "Formato data non valido o data non valida",
+  "payment_error_invalid_year": "Nella data e nel mese sono consentiti solo numeri",
+  "payment_error_invalid_ccv": "CVV non valido",
+  "payment_error_invalid_card_holder": "Titolare della carta non valido",
+  "payment_alert_select_payment_method_null": "Seleziona un gateway di pagamento",
+  "payment_alert_card_information_incorrect": "Le informazioni sulla carta non sono corrette. Si prega di controllare di nuovo",
+  "payment_alert_dialog_title": "Notifiche",
+  "payment_alert_message_dialog_message": "Si prega di non chiudere o chiudere l''applicazione durante il processo di checkout per garantire un pagamento andato a buon fine.",
+  "payment_alert_dialog_message_payment_error": "Si è verificato un errore durante l''elaborazione del pagamento. Si prega di controllare di nuovo.",
+  "payment_hint_text_country": "Paese...",
+  "payment_hint_text_province": "Città stato...",
+  "payment_show_message_dialog_title": "Notifica",
+  "payment_show_message_dialog_message": "Vuoi uscire dal pagamento?",
+  "payment_show_message_dialog_negative": "Annulla",
+  "payment_show_message_dialog_action": "Ok",
+  "payment_bank_page_title": "Per un processo di pagamento agevole, non chiudere l''applicazione prima che il pagamento sia andato a buon fine!",
+  "payment_error_expired_date": "La tua carta è scaduta",
+  "payment_coin_not_available": "Le monete non sono disponibili. Si prega di verificare e riprovare.",
+  "payment_point_not_available": "I punti non sono disponibili. Si prega di verificare e riprovare.",
+  "payment_voucher_not_available": "Il codice coupon non è disponibile. Si prega di verificare e riprovare.",
+  "payment_fee_change_total_order": "Il totale dell''ordine è cambiato da",
+  "payment_fee_change_to": "a",
+  "payment_fee_change_choose_voucher_point_coint": "Si prega di riselezionare il codice coupon/monete/punti se disponibili.",
+  "payment_halo_wallet": "Conto di pagamento Hahalolo",
+  "payment_available_balance": "Saldo disponibile:",
+  "payment_card_holder_name": "Nome del titolare",
+  "payment_card_cvv_cvc_name": "Codice CVV/CVC",
+  "payment_card_number": "Numero di carta",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Proprietà simili",
+  "hotel_detail_hotel_images": "Immagini dell''hotel",
+  "hotel_detail_reviews_latest": "Ultimo",
+  "hotel_detail_reviews_oldest": "Il più antico",
+  "hotel_detail_reviews_highest": "Punteggio più alto",
+  "hotel_detail_reviews_lowest": "Punteggio più basso",
+  "hotel_detail_review_sort_by": "Ordina per",
+  "hotel_detail_reviews": "Revisione",
+  "hotel_detail_rate_location": "Posizione",
+  "hotel_detail_rate_price": "Prezzo",
+  "hotel_detail_rate_cleanliness": "Pulizia",
+  "hotel_detail_rate_service": "Servizio",
+  "hotel_detail_rate_facilities": "Strutture",
+  "hotel_detail_one_user_review": "1 recensione",
+  "hotel_detail_x_user_reviews": "{x} recensioni",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Prenotazione fallita",
+  "hotel_detail_please_fill_ci_co_date": "Si prega di inserire le date di check-in e check-out",
+  "hotel_detail_allow_pet_contact_hotel": "Gli animali domestici sono ammessi. Per le politiche sugli animali domestici, si prega di contattare direttamente la struttura.",
+  "hotel_detail_allow_pet_and_x_fee": "Gli animali domestici sono ammessi. Supplemento per animali domestici: {x} (il supplemento per gli animali domestici viene pagato in loco).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "Cancellazione GRATUITA",
+  "hotel_detail_cancellation_with_refund": "La cancellazione viene addebitata",
+  "hotel_detail_cancellation_without_refund": "Cancellazione senza rimborso",
+  "hotel_detail_cancel_non_refund": "Non riceverai un rimborso o un importo pagato in caso di cancellazione.",
+  "hotel_detail_breakfast_served": "Colazione fornita",
+  "hotel_detail_lunch_served": "Pranzo fornito",
+  "hotel_detail_dinner_served": "Cena fornita",
+  "hotel_detail_smoking_allow": "È consentito fumare",
+  "hotel_detail_smoking_not_allow": "Vietato fumare",
+  "hotel_detail_contact_hotel": "Contatta l''hotel",
+  "hotel_detail_book_first_pay_later": "Prenota ora, paga dopo",
+  "hotel_detail_policy": "Politiche",
+  "hotel_detail_choose_the_bed_arrangement": "Seleziona copriletto",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Cancellazioni effettuate prima del {x} del {y}: ricevi un rimborso del {z}% della tariffa della camera per la prima notte.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Servizi in camera",
+  "hotel_detail_amenities": "Servizi",
+  "hotel_detail_general_rules": "Regole di casa",
+  "hotel_detail_change_reservation": "Modifica prenotazione",
+  "hotel_detail_services_and_facilities": "Strutture e servizi",
+  "hotel_detail_x_room_and_y_night": "{x} stanza/{y} notte",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} stanze/{y} notti",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 camera/{x} notti",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} stanze/1 notte",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 camera/1 notte",
+  "hotel_detail_x_rooms_and_y_adults": "{x} stanze - {y} ospiti",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 camera - {x} ospiti",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 camera - 1 ospite",
+  "hotel_detail_child_count": "1 bambino",
+  "hotel_detail_x_children": "{x} bambini",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Dettagli della camera",
+  "hotel_detail_room_policy_and_conditions": "Condizioni e politiche",
+  "hotel_detail_person_count": "1 ospite",
+  "hotel_detail_x_people": "{x} ospiti",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} dal centro",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} dalla posizione di ricerca",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "Nel centro della città",
+  "hotel_detail_check_in": "Registrare",
+  "hotel_detail_check_out": "Guardare",
+  "hotel_detail_cancelation_policy": "Cancellazione",
+  "hotel_detail_child_policy": "Figli",
+  "hotel_detail_pet_policy": "Animali domestici",
+  "hotel_detail_check_in_x": "Dopo {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "prima di {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Rimasto solo 1",
+  "hotel_detail_only_x_room": "Rimangono solo {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Sono ammessi bambini di età compresa tra {range}.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Gli animali domestici sono ammessi. La tassa per gli animali domestici è pagata in hotel.",
+  "hotel_detail_pet_policy_do_not_allow": "Gli animali non sono ammessi.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Cancellazioni effettuate {x}ore prima dell''orario di check-in: ricevi un rimborso del {y}% della tariffa della camera per la prima notte.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Cancellazioni effettuate {x}ore prima dell''orario di check-in: ricevi un rimborso del {y}% della tariffa della camera per tutte le notti.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Cancellazione gratuita prima di {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Prenota 1 camera",
+  "hotel_detail_book_x_room": "Prenota {x} stanze",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Miglior prezzo",
+  "hotel_detail_bed": "1 letto",
+  "hotel_detail_x_beds": "{x} letti",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "{x}% di sconto solo oggi",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Seleziona la stanza",
+  "hotel_detail_has_x_room_types": "(Totale {x} tipi di camere disponibili)",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Totale 1 tipologia di camera disponibile)",
+  "hotel_detail_children_policy_do_not_allow": "L''hotel non dispone di politiche per i bambini. I bambini non verranno conteggiati nel numero di ricerche. Si prega di contattare l''hotel se ci sono bambini al seguito.",
+  "hotel_detail_children_policy_range_allow": "La politica per i bambini dell''hotel consente bambini di età {range}. Per informazioni sulle politiche e sui regolamenti dell''hotel, fare riferimento alla sezione Regole della casa dell''hotel o contattare l''hotel per ulteriori informazioni.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Informazioni sulla camera",
+  "hotel_detail_x_fee_person_and_day": "{x}/ospite/giorno",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/auto/giorno",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Colazione",
+  "hotel_detail_lunch": "Il pranzo",
+  "hotel_detail_dinner": "Cena",
+  "hotel_detail_smoking": "Tabacco",
+  "hotel_detail_parking": "Parcheggio",
+  "hotel_detail_local_time": "(Ora locale)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Cancellazioni effettuate prima del {x} del {y}: ricevi un rimborso del {z}% della tariffa della camera per tutte le notti.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Cancellazioni effettuate prima del {x} del {y}: ricevi un rimborso di {z} della tariffa della camera.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Offerte",
+  "hotel_detail_free_breakfast": "Colazione libera",
+  "hotel_detail_free_lunch": "Pranzo gratis",
+  "hotel_detail_free_dinner": "Cena libera",
+  "hotel_detail_allow_smoking": "È consentito fumare",
+  "hotel_detail_free_parking": "Parcheggio gratuito",
+  "hotel_detail_room_not_found": "Nessuna stanza trovata!",
+  "hotel_detail_no_result": "Non abbiamo trovato nessun risultato corrispondente alla tua ricerca. Per favore riprova.",
+  "hotel_detail_similar_hotels_title": "Proprietà simili",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "L''ordine non è idoneo al pagamento",
+  "hotel_booking_dialog_qualified_orders": "L''ordine è idoneo con un importo totale di",
+  "hotel_booking_dialog_coupon_code_coins_points": "Puoi modificare il codice coupon, le monete o i punti per essere idoneo al pagamento",
+  "hotel_booking_dialog_or_minimum": "o minimo di",
+  "hotel_booking_widget_dialog_cannot_used_information": "Queste informazioni non possono essere utilizzate in questo momento. Usane un altro o salvane uno nuovo.",
+  "hotel_booking_component_applied_points_successfully": "Hai applicato i punti con successo",
+  "hotel_booking_use_point": "Usa i punti",
+  "hotel_booking_point_switch_on_hint": "Disattiva l''utilizzo dei punti per annullare l''applicazione di punti per questo ordine",
+  "hotel_booking_point_switch_off_hint": "Attiva l''utilizzo dei punti per inserire il numero di punti che utilizzerai per questo ordine",
+  "hotel_booking_point_user_point": "Punti disponibili",
+  "hotel_booking_point_available_point": "Disponibile per ordini",
+  "hotel_booking_point_user_want_to_use_hint": "Numero di punti che desideri utilizzare",
+  "hotel_booking_point_equivalent_to": "Equivalente a",
+  "hotel_booking_point_press": "Premere",
+  "hotel_booking_point_apply": "Applicare",
+  "hotel_booking_point_apply_for_payment": "per applicare l''importo al pagamento",
+  "hotel_booking_points_apply_hint": "L''importo verrà utilizzato per pagare questo ordine.",
+  "hotel_booking_payment_3001_error": "La carta non è supportata. Per favore riprova.",
+  "hotel_booking_payment_3002_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "hotel_booking_payment_3003_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "hotel_booking_payment_3004_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "hotel_booking_payment_3005_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "hotel_booking_payment_3006_error": "La carta è scaduta. Per favore riprova.",
+  "hotel_booking_payment_3007_error": "Codice CVC non valido. Per favore riprova.",
+  "hotel_booking_payment_3008_error": "Numero di carta non valido. Per favore riprova.",
+  "hotel_booking_payment_3009_error": "Questa valuta non è supportata. Per favore riprova.",
+  "hotel_booking_payment_3010_error": "Si è verificato un errore durante il processo di pagamento. Per favore riprova.",
+  "hotel_booking_modify_coin_applied": "Al pagamento sono state applicate monete. Si prega di visualizzare i dettagli in Totale.",
+  "hotel_booking_modify_voucher_applied": "Al pagamento sono state applicate monete. Si prega di visualizzare i dettagli in Totale.",
+  "hotel_booking_modify_point_applied": "I punti sono stati applicati al pagamento. Si prega di visualizzare i dettagli in Totale.",
+  "hotel_booking_modify_point_canceled": "L''applicazione di punti al pagamento per questo ordine è stata annullata.",
+  "hotel_booking_modify_4006_error": "Buono non disponibile",
+  "hotel_booking_modify_4007_error": "Il buono è stato mantenuto",
+  "hotel_booking_modify_4008_error": "L''ordine non è idoneo per un codice coupon. Si prega di verificare e riprovare.",
+  "hotel_booking_modify_2004_error": "Impossibile applicare",
+  "hotel_booking_pay_1005_error": "Valore errato",
+  "hotel_booking_pay_2002_error": "Nessun ordine trovato",
+  "hotel_booking_pay_2004_error": "Pagamento fallito",
+  "hotel_booking_pay_6002_error": "Informazioni sulla carta errate",
+  "hotel_booking_pay_6003_error": "La carta non è accettata",
+  "hotel_booking_pay_6004_error": "Errore di creazione dell''ordine",
+  "hotel_booking_pay_6005_error": "Errore di prenotazione TVP",
+  "hotel_booking_required_city": "La città è obbligatoria",
+  "hotel_booking_sub_bed": "Letto in più",
+  "hotel_booking_information": "Informazioni sulla prenotazione",
+  "hotel_booking_room_information": "Informazioni sulla camera",
+  "hotel_booking_room_hotel": "Hotel",
+  "hotel_booking_x_nights": "{x} notti",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 notte",
+  "hotel_booking_change": "Modificare",
+  "hotel_booking_user_contact": "Informazioni sui contatti",
+  "hotel_bookng_without_tone_marks": "(senza segni di tono)",
+  "hotel_booking_first_name": "Nome di battesimo",
+  "hotel_booking_last_name": "Cognome",
+  "hotel_booking_middle_name": "Secondo nome",
+  "hotel_booking_given_name": "Secondo e nome/nome di battesimo",
+  "hotel_booking_phone_number": "Numero di telefono",
+  "hotel_booking_email": "E-mail",
+  "hotel_booking_country": "Paese",
+  "hotel_booking_im_a_guest": "Sono un ospite",
+  "hotel_booking_guest_information": "Informazioni sugli ospiti",
+  "hotel_booking_fill_contact_information": "Inserisci le tue informazioni di contatto o della persona responsabile di tenersi in contatto con il fornitore del servizio di alloggio.",
+  "hotel_booking_name_as_in_passport": "Nome completo come indicato sulla carta d''identità/passaporto",
+  "hotel_booking_payments": "Opzioni di pagamento",
+  "hotel_booking_prepay": "Paga ora",
+  "hotel_booking_postpaid": "Paga dopo",
+  "hotel_booking_prepay_description": "Hahalolo ti aiuterà a elaborare il tuo pagamento. Pagherai l''intero importo oggi al completamento della prenotazione.",
+  "hotel_booking_postpaid_description": "La struttura elaborerà il pagamento. A seconda delle condizioni di prenotazione, è possibile pagare in parte o per intero presso la struttura.",
+  "hotel_booking_bill_information": "Informazioni sul pagamento",
+  "hotel_booking_use_contact_information": "Usa le informazioni di contatto",
+  "hotel_booking_state": "Stato",
+  "hotel_booking_city": "Città",
+  "hotel_booking_save_payment_information": "Salva le informazioni di pagamento per la prossima volta",
+  "hotel_booking_use_x_y_to_pay": "Usa {x} {y} per il pagamento",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Equivalente a {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Metodo di pagamento",
+  "hotel_booking_payment_note": "Nota: HAHALOLO supporterà gli utenti con commissioni bancarie GRATUITE",
+  "hotel_booking_free": "Gratuito",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "C''è qualcos''altro con cui possiamo aiutarti?",
+  "hotel_booking_inform_the_accommodation": "Informeremo la struttura che sei interessato a questi servizi. Notare che.",
+  "hotel_booking_can_not_guaranteed": "La tua richiesta non può essere garantita. Non preoccuparti! La struttura cercherà di soddisfare le vostre esigenze.",
+  "hotel_booking_additional_services": "Si tratta di servizi extra che vanno oltre la tua richiesta di prenotazione e possono comportare costi aggiuntivi per la struttura una volta utilizzati.",
+  "hotel_booking_note": "Nota",
+  "hotel_booking_promo_apply_rule": "Le monete e il codice coupon non vengono applicati alle seguenti forme di pagamento.",
+  "hotel_booking_saved_payment_information": "Informazioni di pagamento salvate",
+  "hotel_booking_fill_new_payer_information": "Inserisci le nuove informazioni sul pagatore",
+  "hotel_booking_maximum_coins_can_be_use": "Il numero massimo di monete può essere utilizzato per questo ordine.",
+  "hotel_booking_coins": "Monete",
+  "hotel_booking_unknown": "Non lo so",
+  "hotel_booking_planning_arrive_after_x_date": "Se prevedi di arrivare dopo le {x}, informa l''host dell''orario previsto per il check-in:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Possono essere addebitati servizi aggiuntivi. Si prega di contattare la struttura in anticipo per ulteriori informazioni.",
+  "hotel_booking_term_and_policies": "Termini - Politiche",
+  "hotel_booking_privacy_policy": "politica sulla riservatezza",
+  "hotel_booking_tp_and_pp": "Procedendo con il passaggio successivo, confermo di aver letto e accettato i Termini - Politiche e Informativa sulla privacy di Hahalolo",
+  "hotel_booking_important_note": "Nota",
+  "hotel_booking_select_time": "Seleziona l''ora",
+  "hotel_booking_room_x_night": "Camera x 1, 1 notte",
+  "hotel_booking_x_rooms_x_night": "Camera x {x}, 1 notte",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Camera x {x}, {y} notti",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Camera x 1, {x} notti",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Tasse e commissioni",
+  "hotel_booking_service_charge": "Costo del servizio",
+  "hotel_booking_payment_fees": "Commissione di pagamento",
+  "hotel_booking_accommodation_currency": "Valuta di proprietà",
+  "hotel_booking_points_fees": "Usa i punti",
+  "hotel_booking_coins_fees": "Usa le monete",
+  "hotel_booking_voucher_fees": "Codice coupon",
+  "hotel_booking_discount": "Promozione",
+  "hotel_booking_meal_service": "Servizio pasti",
+  "hotel_booking_meal_service_description": "Di seguito sono riportati i servizi di prima colazione che l''alloggio può fornirvi. Se desideri richiedere questo servizio, contatta direttamente la reception della struttura.",
+  "hotel_booking_meal_price_per_breakfast": "Prezzo per tipo di colazione",
+  "hotel_booking_extended_service": "Servizi extra",
+  "hotel_booking_extended_service_description": "Seleziona il numero totale di letti supplementari che desideri aggiungere a questo ordine. Puoi aggiungere solo fino a {x} letti supplementari.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Quantità",
+  "hotel_booking_total": "Totale",
+  "hotel_booking_unit_price": "Prezzo",
+  "hotel_booking_x_price_per_person_per_day": "{x} persone/giorno",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} letti/persona/giorno",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Dettagli sul prezzo",
+  "hotel_booking_billings_information": "Informazioni sul pagamento",
+  "hotel_booking_service_charge_description": "Conserveremo questa commissione come commissione per il servizio e il supporto per i problemi relativi alla prenotazione sul sistema Hahalolo.",
+  "hotel_booking_payment_fees_description": "La commissione di pagamento è l''importo delle commissioni di transazione per transazione di cui hai bisogno per pagare i fornitori di servizi di pagamento online.",
+  "hotel_booking_taxes_and_fees_description": "Le tasse e gli oneri sono l''importo addebitato in base ai regolamenti della struttura (hotel) che sei tenuto a pagare quando utilizzi i loro servizi di alloggio. Si prega di leggere i Termini di utilizzo per ulteriori dettagli.",
+  "hotel_booking_accommodation_currency_description": "Il prezzo è stato convertito in base alla valuta disponibile del Fornitore.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Il tasso di cambio è soggetto a modifiche prima del pagamento.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "L''emittente della tua carta può addebitare una commissione per le transazioni estere.",
+  "hotel_booking_enter_maximum_x_char": "Inserisci un massimo di {x} caratteri",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "I punti non sono disponibili.",
+  "hotel_booking_coin_not_available": "Le monete non sono disponibili.",
+  "hotel_booking_voucher_not_available": "Il codice coupon non è disponibile.",
+  "hotel_booking_please_check_again": "Si prega di controllare di nuovo.",
+  "hotel_booking_point_change": "Il numero di punti applicati è cambiato a causa della modifica del pagamento totale.",
+  "hotel_booking_hold_warning": "La prenotazione della tua proprietà è stata effettuata, quindi non puoi modificare le informazioni sull''ordine. Si prega di effettuare un pagamento per completare la prenotazione.",
+  "hotel_booking_total_point_change": "I tuoi punti disponibili sono cambiati. Inserisci il numero di punti per richiedere l''ordine.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Carta geografica",
+  "hotel_list": "Elenco",
+  "hotel_from_the_center": "Dal centro",
+  "hotel_from_the_location": "Dal luogo di ricerca",
+  "hotel_right_in_the_center": "In centro città",
+  "hotel_breakfast_is_served": "Colazione libera",
+  "hotel_no_breakfast_served": "Nessuna colazione fornita",
+  "hotel_dinner_is_served": "Cena fornita",
+  "hotel_no_dinner_service": "Nessuna cena fornita",
+  "hotel_lunch_is_served": "Pranzo fornito",
+  "hotel_no_lunch_service": "Nessun pranzo fornito",
+  "hotel_allow_smoking": "È consentito fumare",
+  "hotel_no_smoking": "Vietato fumare",
+  "hotel_no_refund": "Cancellazione senza rimborso",
+  "hotel_without_fee": "La cancellazione viene addebitata",
+  "hotel_free_cancel": "Cancellazione GRATUITA",
+  "hotel_pay_later": "Prenota ora, paga dopo",
+  "hotel_fee": "Colazione fornita",
+  "hotel_free": "Colazione libera",
+  "hotel_not_refund": "Non riceverai un rimborso o un importo pagato in caso di cancellazione",
+  "hotel_no_vacancy": "Venduto",
+  "hotel_choose_room": "Seleziona la stanza",
+  "hotel_change_date": "Cambia data",
+  "hotel_change_price_display": "Mostra prezzo",
+  "hotel_continue": "Solo",
+  "hotel_room_available": "sinistra",
+  "hotel_room": "camera",
+  "hotel_night": "notte",
+  "hotel_date_checking": "Data di arrivo",
+  "hotel_date_checkout": "Data di partenza",
+  "hotel_search": "Ricerca",
+  "hotel_promotion": "Promozione",
+  "hotel_promotions": "Promozioni",
+  "hotel_applying": "applicando",
+  "hotel_promotion_applying": "promozione applicabile",
+  "hotel_promotions_applying": "promozioni applicabili",
+  "hotel_title_promotions_applying": "Promozione applicabile",
+  "hotel_see_detail": "Visualizza dettagli",
+  "hotel_cancel": "La cancellazione entro {x}ore prima dell''orario di check-in verrà rimborsata del {y}% della tariffa della camera",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Ottieni uno sconto di {x} per notte quando gli ospiti soggiornano tra {y} e {z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Ottieni uno sconto di {x} per notte (massimo {a} su un ordine di prenotazione) quando gli ospiti soggiornano tra {y} e {z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{x} di sconto per {y} giorni di prenotazione anticipata. Applicabile quando gli ospiti soggiornano da {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{x} di sconto, massimo {y} per {z} giorni di prenotazione anticipata. Applicabile quando gli ospiti soggiornano da {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{x} di sconto per {z} giorni di prenotazione anticipata. Applicabile quando gli ospiti soggiornano da {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{x} di sconto per prenotazioni superiori a {y} notti. Applicabile quando gli ospiti soggiornano da {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{x} di sconto, massimo {y} per prenotazioni superiori a {z} notti. Applicabile quando gli ospiti soggiornano da {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{x} di sconto per prenotazioni superiori a {z} notti. Applicabile quando gli ospiti soggiornano da {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "tutte le notti",
+  "hotel_first_night": "prima notte",
+  "hotel_rating": "Revisione",
+  "hotel_wonderful": "Eccellente",
+  "hotel_very_good": "Molto buona",
+  "hotel_satisfied": "Soddisfatto",
+  "hotel_medium": "Media",
+  "hotel_bad": "Povero",
+  "hotel_hand_note_consult_book_room": "Cerca prenotazione",
+  "hotel_hand_note_enter_code_search_info": "Inserisci il tuo numero di prenotazione per cercare le informazioni sulla tua prenotazione",
+  "hotel_hand_note_reservation_code": "Numero di prenotazione",
+  "hotel_hand_note_can_not_find_hotel": "Spiacenti, non siamo riusciti a trovare nessun hotel che corrisponde alla tua ricerca.",
+  "hotel_hand_note_search_night": "N. di notti",
+  "hotel_hand_note_num_room": "N. di camere",
+  "hotel_hand_note_status_booking": "Stato della prenotazione",
+  "hotel_hand_note_booked": "Prenotato",
+  "hotel_hand_note_dont_booked": "Non ho ancora prenotato",
+  "hotel_hand_note_total_price": "Prezzo totale",
+  "hotel_hand_note_status": "Stato",
+  "hotel_hand_note_payment_after": "Si prega di pagare in anticipo",
+  "hotel_hand_note_pay_now": "Paga ora",
+  "hotel_hand_note_info_book_room": "Informazioni sulla prenotazione",
+  "hotel_hand_note_code_book_room": "Numero di prenotazione:",
+  "hotel_hand_note_checking": "Registrare",
+  "hotel_hand_note_checkout": "Guardare",
+  "hotel_hand_note_detail": "Visualizza dettagli",
+  "hotel_hand_note_kind_room": "Tipo di stanza",
+  "hotel_hand_note_quantity": "Quantità",
+  "hotel_hand_note_room": "camera",
+  "hotel_hand_note_visited": "Ospite",
+  "hotel_hand_note_adult": "adulto",
+  "hotel_hand_note_children": "figli",
+  "hotel_hand_note_number_nights": "N. di pernottamenti",
+  "hotel_hand_note_night": "notte",
+  "hotel_hand_note_status_payment": "Stato del pagamento",
+  "hotel_hand_note_cancel_order": "Annulla Ordine",
+  "hotel_hand_note_info_refund": "Informazioni Rimborso",
+  "hotel_hand_note_rate_experience": "Rivedi la tua esperienza su",
+  "hotel_hand_note_rate": "Revisione",
+  "hotel_hand_note_see_rate": "Vedi le recensioni",
+  "hotel_hand_note_rate_overall_rating": "La tua recensione complessiva sull''hotel",
+  "hotel_hand_note_rate_average": "Media",
+  "hotel_hand_note_position": "Posizione",
+  "hotel_hand_note_price": "Prezzo",
+  "hotel_hand_note_clean": "Pulizia",
+  "hotel_hand_note_serve": "Servizio",
+  "hotel_hand_note_material_facilities": "Strutture",
+  "hotel_hand_note_review": "Per favore condividi i tuoi sentimenti e recensioni.",
+  "hotel_hand_note_review_limit": "La recensione dovrebbe avere almeno 2 caratteri.",
+  "hotel_hand_note_cancel": "Annulla",
+  "hotel_hand_note_submit_review": "Invia recensione",
+  "hotel_hand_note_room_rates": "Prezzo della camera",
+  "hotel_hand_note_extra_bed": "Letto in più",
+  "hotel_hand_note_service_charge": "Costo del servizio",
+  "hotel_hand_note_payment_fees": "Commissione di pagamento",
+  "hotel_hand_note_promotion": "Promozione",
+  "hotel_hand_note_voucher": "Codice coupon",
+  "hotel_hand_note_use_coins": "Usa le monete",
+  "hotel_hand_note_rates_include": "Prezzo compreso",
+  "hotel_hand_note_see_review_title": "Vedi la tua recensione su {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Recensito su {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Grazie per la tua opinione",
+  "hotel_hand_note_use_point": "Usa i punti",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Cancellazione gratuita prima di {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Ora locale)",
+  "hotel_hand_note_hotel_apartment": "Appartamento",
+  "hotel_hand_note_hostel": "Ostello",
+  "hotel_hand_note_hotel": "Hotel",
+  "hotel_hand_note_resort": "Ricorrere",
+  "hotel_hand_note_other": "Altro",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Villa",
+  "hotel_hand_note_vacation_home": "Casa per le vacanze",
+  "hotel_hand_note_homestay": "Famiglia",
+  "hotel_hand_note_farmstay": "Agriturismo",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Crociera",
+  "hotel_hand_note_boathouse": "Barca",
+  "hotel_hand_note_countryhouse": "Casa di campagna",
+  "hotel_hand_note_campground": "Campeggio",
+  "hotel_hand_note_camper": "Camper",
+  "hotel_hand_note_lodge": "Loggia",
+  "hotel_hand_note_guesthouse": "Pensione",
+  "hotel_hand_note_cancel_hotel": "Cancellazione",
+  "hotel_update_price": "Aggiornamento dei prezzi",
+  "hotel_distance_x_from_center": "{distance}{x} dal centro",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} dalla posizione di ricerca",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Sconto di {x} per notte se gli ospiti soggiornano tra {y} e {z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "N. di camere e ospiti",
+  "hotel_add_room_children": "Figli",
+  "hotel_add_room_age_upto": "(Età 0 - 17)",
+  "hotel_add_room_child": "Bambino",
+  "hotel_add_room_age": "età",
+  "hotel_add_room_cancel": "Annulla",
+  "hotel_add_room_choose_age": "Seleziona l''età",
+  "hotel_add_room_done": "Fatto",
+  "hotel_add_room_room": "Camera",
+  "hotel_add_room_adult": "Adulto",
+  "hotel_add_room_adults": "Adulti",
+  "hotel_add_room_age_children": "L''età dei bambini",
+  "hotel_add_room_age_child": "L''età dei bambini",
+  "hotel_add_room_condition": "Il numero di camere e ospiti per camera non deve essere superiore a 9.",
+  "hotel_add_room_note": "Nota",
+  "hotel_add_room_save": "Salva",
+  "hotel_cart_child": "Bambino",
+  "hotel_cart_children": "Figli",
+  "hotel_cart_delete": "Elimina",
+  "hotel_cart_change": "Modificare",
+  "hotel_cart_book_room": "Prenota stanza",
+  "hotel_cart_night": "notte",
+  "hotel_cart_title_included_texas_fee": "Tasse e tasse incluse",
+  "hotel_cart_temporary_price": "totale parziale",
+  "hotel_cart_delete_order": "Elimina ordine",
+  "hotel_screen_cart_delete_order_confirm": "Vuoi eliminare questo ordine?",
+  "hotel_order_detail_info_hotel": "Informazioni sulla prenotazione",
+  "hotel_order_detail_done": "Fatto",
+  "hotel_order_detail_detail": "Visualizza dettagli",
+  "hotel_order_detail_book_new": "Prenota una nuova stanza",
+  "hotel_order_detail_success": "Prenotazione riuscita",
+  "hotel_order_detail_requests_success": "La tua richiesta di prenotazione è stata effettuata con successo",
+  "hotel_order_detail_paid": "(Pagato).",
+  "hotel_order_detail_reservation": "Puoi controllare i dettagli della prenotazione di seguito.",
+  "hotel_order_detail_thank": "Grazie per la vostra fiducia nei servizi di",
+  "hotel_order_detail_support": "Se hai domande o hai bisogno di ulteriore assistenza, contatta il Centro assistenza Hahalolo",
+  "hotel_order_detail_instructions": "per le istruzioni.",
+  "hotel_order_detail_info_rest": "Informazioni sulla proprietà",
+  "hotel_order_detail_hotel": "Hotel",
+  "hotel_order_detail_type": "Tipo di stanza",
+  "hotel_order_detail_check_in": "Registrare",
+  "hotel_order_detail_check_out": "Guardare",
+  "hotel_order_detail_visited": "Numero di invitati",
+  "hotel_order_detail_adult": "adulto",
+  "hotel_order_detail_children": "figli",
+  "hotel_order_detail_baby": "bambino (sotto 1 anno)",
+  "hotel_order_detail_contact": "Informazioni sui contatti",
+  "hotel_order_detail_lastname": "Nome e cognome",
+  "hotel_order_detail_tel_number": "Numero di telefono",
+  "hotel_order_detail_nationality": "Nazionalità",
+  "hotel_order_detail_note": "Nota",
+  "hotel_order_detail_guests": "Informazioni sugli ospiti",
+  "hotel_order_detail_trade": "Informazioni sulla transazione",
+  "hotel_order_detail_order_form": "Ordine",
+  "hotel_order_detail_payment": "Importo del pagamento",
+  "hotel_order_detail_bed_type": "Tipo di letto",
+  "hotel_order_detail_extra_bed": "Letto in più",
+  "hotel_order_detail_bed": "letto",
+  "hotel_order_detail_reservation_code": "Numero di prenotazione",
+  "hotel_order_detail_payer": "Pagatore",
+  "hotel_search_code_total_price": "Prezzo totale",
+  "hotel_search_code_voucher": "Codice coupon",
+  "hotel_search_code_use_coin": "Usa le monete",
+  "hotel_search_code_use_point": "Usa i punti",
+  "hotel_search_code_total_pay": "Pagamento totale",
+  "hotel_search_code_detail_pay": "dettagli di pagamento",
+  "hotel_hand_note_hotel_policy_check_out": "- Check-out prima del {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Check-in dopo il {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Politica di cancellazione",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Le tempistiche di cancellazione gratuita si basano sul fuso orario della struttura e sono specificate dalle condizioni di cancellazione della struttura.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x stanza, {night} x notte",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Tasse e tasse",
+  "hotel_hand_note_detail_total_amount": "Pagamento totale",
+  "hotel_hand_note_detail_success": "Riuscito",
+  "hotel_hand_note_detail_failed": "fallito",
+  "hotel_hand_note_detail_postpaid": "Postpagato",
+  "hotel_hand_note_detail_prepaid": "Prepagato",
+  "hotel_hand_note_detail_operation_history": "Cronologia attività",
+  "hotel_hand_note_detail_order_cancel_info": "Informazioni sull''annullamento dell''ordine",
+  "hotel_hand_note_detail_order_total_order": "Ordine totale",
+  "hotel_hand_note_detail_total_money": "Importo totale pagato",
+  "hotel_hand_note_detail_coin": "monete",
+  "hotel_hand_note_detail_fee_cancel": "Tassa di cancellazione",
+  "hotel_hand_note_detail_refund_amount": "Importo stimato del rimborso",
+  "hotel_hand_note_detail_coin_refund_amount": "Monete di rimborso stimate",
+  "hotel_hand_note_detail_payment_info": "Informazioni sul pagamento",
+  "hotel_hand_note_detail_customer_service": "Il codice coupon non è rimborsabile. Si prega di contattare il nostro Centro assistenza clienti per la restituzione del codice coupon.",
+  "hotel_hand_note_detail_note_refund": "Tempo di rimborso (dalla data di cancellazione): da 5 a 7 giorni (per gateway di pagamento Alepay e Payme) o da 7 a 15 giorni (per gateway di pagamento Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Motivi di cancellazione",
+  "hotel_hand_note_detail_checking_out": "Orario di check-in e check-out",
+  "hotel_hand_note_detail_check_in_after": "Check-in dopo",
+  "hotel_hand_note_detail_check_out_before": "Check out prima",
+  "hotel_hand_note_detail_person_day": "persona/giorno",
+  "hotel_hand_note_detail_free": "Gratuito.",
+  "hotel_hand_note_detail_day": "/giorno",
+  "hotel_hand_note_detail_note_hotel": "Le tempistiche di cancellazione gratuita si basano sul fuso orario della struttura e sono specificate dalle condizioni di cancellazione della struttura.",
+  "hotel_hand_note_detail_room_service": "Servizi in camera",
+  "hotel_hand_note_detail_facilities_service": "Strutture e servizi in camera",
+  "hotel_hand_note_detail_person_contact": "Referente",
+  "hotel_hand_note_detail_telephone_num": "Numero di telefono",
+  "hotel_hand_note_detail_email": "E-mail",
+  "hotel_hand_note_detail_nationality": "Nazionalità",
+  "hotel_hand_note_detail_address": "Indirizzo",
+  "hotel_hand_note_detail_paid": "Importo pagato",
+  "hotel_hand_note_detail_rest": "Importo non pagato",
+  "hotel_hand_note_detail_payment_methods": "Metodo di pagamento",
+  "hotel_hand_note_detail_check_in_info": "Informazioni sul check-in",
+  "hotel_hand_note_detail_guest_name": "Nome dell''ospite",
+  "hotel_hand_note_detail_policy_cancel": "Cancellazioni effettuate prima",
+  "hotel_hand_note_detail_hour": "{hour} ore",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} minuti",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": sarà rimborsato",
+  "hotel_hand_note_detail_price_room": "della tariffa della camera per",
+  "hotel_hand_note_detail_one_night": "la prima notte.",
+  "hotel_hand_note_detail_all_night": "tutte le notti.",
+  "hotel_hand_note_detail_policy": "Politica di cancellazione",
+  "hotel_hand_note_detail_children_note": "Sono ammessi bambini di età da {age}.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Gli animali domestici sono ammessi. Supplemento per animali domestici: {fee} (il supplemento per gli animali domestici viene pagato in loco).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Figli",
+  "hotel_hand_note_detail_pet": "Animali domestici",
+  "hotel_hand_note_detail_total_room_rate": "Prezzo totale della camera",
+  "hotel_hand_note_detail_total_room_order": "N. di camere",
+  "hotel_hand_note_detail_room_information": "Informazioni sulla camera",
+  "hotel_hand_note_detail_person_x": "{x} persone",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Utenze, servizi in camera",
+  "hotel_hand_note_detail_waiting_service": "In attesa di adempimento",
+  "hotel_hand_note_detail_in_service": "In corso",
+  "hotel_hand_note_detail_completed": "Completato",
+  "hotel_hand_note_detail_waiting_cancellation": "In attesa di cancellazione",
+  "hotel_hand_note_detail_canceled": "Annullato",
+  "hotel_hand_note_detail_awaiting_confirmation": "In attesa di conferma",
+  "hotel_hand_note_detail_not_refund": "Non riceverai un rimborso o un importo pagato in caso di cancellazione",
+  "hotel_hand_note_detail_other_required": "Altra richiesta",
+  "hotel_hand_note_detail_point_refund_amount": "Punti di rimborso stimati",
+  "hotel_input_title_start_date": "Data di arrivo",
+  "hotel_input_title_end_date": "Data di partenza",
+  "hotel_input_title_choose_date": "Seleziona una data",
+  "hotel_input_title_choose": "Selezionare",
+  "hotel_hand_note_price_detail_payment_type": "Forma di pagamento",
+  "hotel_hand_note_price_detail_payment_date": "Data di pagamento",
+  "hotel_hand_note_price_detail_price": "Visualizza i dettagli del prezzo",
+  "hotel_hand_note_price_detail_title": "Dettagli sul prezzo",
+  "hotel_hand_note_price_detail_contact_info": "Informazioni di contatto",
+  "hotel_hand_note_utilities_title": "Servizi",
+  "hotel_hand_note_services_title": "Servizi",
+  "hotel_hand_note_search_required_code": "È richiesto il numero di prenotazione.",
+  "cart_screen_main_hotel_title": "Hotel",
+  "cart_screen_main_hotel_title_1": "Hotel (1)",
+  "hotel_cancel_hotel": "Cancellazione",
+  "hotel_search_this_area ": "Cerca questa zona",
+  "hotel_where": "Dove vuoi soggiornare?",
+  "hotel_people": "{y} stanze - {x} ospiti",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Camera",
+  "hotel_hand_note_item_view_booking_code_title": "Numero di prenotazione",
+  "hotel_hand_note_title_hotel_order": "Ordini di prenotazione alberghiera",
+  "hotel_order_detail_view_information_order": "Informazioni sull''ordine",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Dove vuoi soggiornare?",
+  "search_city_no_result": "Nessuna località corrispondente trovata...",
+  "search_city_choose_the_city": "Cerca hotel",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Seleziona un hotel",
+  "advanced_search_any_review": "Qualunque",
+  "advanced_search_star_rating": "Stelle",
+  "advanced_search_any_star": "Non classificato",
+  "advanced_search_a_star": "1 stella",
+  "advanced_search_x_star": "{x} stelle",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Tipo di proprietà",
+  "advanced_search_reset_button": "Ripristina",
+  "advanced_search_search_button": "Ricerca",
+  "advanced_search_evaluation_point": "Punteggio di revisione",
+  "advanced_search_no_city_error": "Nessuna proprietà selezionata",
+  "advanced_search_title": "Ricerca Avanzata",
+  "advanced_search_clear": "Chiaro",
+  "advanced_search_no_date_error": "Nessuna data selezionata",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Mostra elenco",
+  "hotel_not_found": "Nessun hotel trovato!",
+  "hotel_search_near_by": "Qui vicino",
+  "advanced_search_less_x_unit": "Sotto {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Da {x}{unit} e oltre",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Da {x}{unit} a meno di {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Distanza dal centro",
+  "hotel_booking_do_you_want_to_remove_a_user": "Vuoi davvero rimuovere {user} dall''elenco?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Sovraccarico",
+  "hotel_map_filter": "Ordina per",
+  "hotel_map_default": "Predefinito",
+  "hotel_map_high_star": "Classificazione a stelle: da alta a bassa",
+  "hotel_map_low_star": "Classificazione a stelle: da bassa ad alta",
+  "hotel_map_distance_center": "Distanza dal centro",
+  "hotel_map_high_rate": "Più votati",
+  "hotel_map_high_order": "I più prenotati",
+  "hotel_hand_note_reply": "La risposta della struttura",
+  "hotel_booking_payment_3011_error": "La carta è stata rifiutata. Prova un''altra carta o contatta l''emittente della carta per assistenza!",
+  "hotel_hand_note_utilities_title_room": "SERVIZI IN CAMERA",
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Siete tutti presi!",
+  "halo_error_wifi_error": "Errore Wi-Fi",
+  "halo_error_something_wrong": "Spiacenti!\nQualcosa è andato storto, riprova",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

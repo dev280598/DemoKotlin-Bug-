@@ -1,0 +1,3307 @@
+{
+  "@@locale": "kk",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Қайтадан көріңіз",
+  "common_see_more": "Толығырақ көру",
+  "common_see_less": "Аз көру",
+  "common_search_hint": "Іздеу…",
+  "common_loading": "Жүктелуде…",
+  "common_retry": "Қайталап көріңіз",
+  "common_cancel": "Болдырмау",
+  "common_ok": "Жарайды ма",
+  "common_save": "Сақтау",
+  "common_decline": "Бас тарту",
+  "common_done": "Дайын",
+  "common_confirm": "Растау",
+  "common_close": "Жабық",
+  "common_continue": "Жалғастыру",
+  "common_detail": "Егжей",
+  "common_enter_discount_code": "Купон кодын енгізіңіз",
+  "common_use_payment_or_contact_info": "Төлеушінің немесе контактінің ақпаратын пайдаланыңыз",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Уақыт таңдаушысы",
+  "car_input_title_pick_up_place": "Алып кету орнын енгізіңіз",
+  "car_input_title_pick_up_location": "Алып кету орны",
+  "car_title_return_to_different_location": "Басқа орынға оралу",
+  "car_input_title_start_time": "Басталу уақыты",
+  "car_input_title_end_time": "Аяқталу уақыты",
+  "car_input_title_start_date": "Басталатын күн",
+  "car_input_title_end_date": "Аяқталу күні",
+  "car_input_title_enter_drop_off_place": "Түсіру орнын енгізіңіз",
+  "car_input_title_enter_drop_off_location": "Түсіру орны",
+  "car_title_advanced_search": "Кеңейтілген іздеу",
+  "car_title_look_up_booking_number": "Брондау нөмірін іздеңіз",
+  "car_header_title_look_up_booking_number": "Брондау туралы ақпаратты табу үшін брондау нөмірін немесе тапсырыс кодын енгізіңіз",
+  "car_title_search": "Іздеу",
+  "car_notice_empty_pick_up_location": "Іздеу үшін алып кету орнын және басталу күнін таңдаңыз",
+  "car_title_ascending_price": "Өсу бағасы",
+  "car_title_descending_price": "Төмендеу бағасы",
+  "car_title_car_type": "Автокөлік түрі",
+  "car_title_transmission": "Берілу",
+  "car_title_segment": "Сегмент",
+  "car_title_fuel_type": "Жанармай түрі",
+  "car_title_supplier": "Жеткізуші",
+  "car_title_price": "Бағасы",
+  "car_title_view_on_map": "Картадан қарау",
+  "car_title_deals": "Мәмілелер",
+  "car_title_seats": "Орындар",
+  "car_title_filter_by": "Сүзгі бойынша",
+  "car_title_un_filter": "Сүзгіден шығару",
+  "car_title_choose_this_car": "Осы көлікті таңдаңыз",
+  "car_title_rental_terms": "Жалдау шарттары",
+  "car_title_search_location": "Орынды іздеу",
+  "car_title_select_btn": "таңдаңыз",
+  "car_title_select_date": "Күнді таңдаңыз",
+  "car_title_select_time": "Уақытты таңдаңыз",
+  "car_title_reset_btn": "Қалпына келтіру",
+  "car_title_location_type": "Орналасу түрі",
+  "car_title_number_of_seats": "Орындар саны",
+  "car_title_days": "Күндер",
+  "car_title_unlimited_mileage": "Шексіз жүгіріс",
+  "car_title_instant_confirmation": "Лезде растау",
+  "car_title_time_pick_up": "Алып кету күні",
+  "car_title_time_drop_off": "Түсіру күні",
+  "car_title_air_conditioning": "Ауаны кондициялау",
+  "car_title_number_of_bag": "Чемодандар саны",
+  "car_hand_note_title_booking_order_code": "Тапсырыс коды",
+  "car_hand_note_title_booking_code": "Брондау нөмірі",
+  "car_hand_note_title_total_rental_car": "Жалға алудың жалпы күндері",
+  "car_hand_note_title_status_order": "Тапсырыс күйі",
+  "car_hand_note_title_total_price": "Жалпы төлем",
+  "car_hand_note_title_status_payment": "Төлем күйі",
+  "car_hand_note_title_reason_cancel": "Бас тарту себептері",
+  "car_hand_note_title_view_details_btn": "Мәліметтерді көру",
+  "car_hand_note_notice_cancel_order": "Күші жойылған тапсырыстың қайтарылған сомасы (бар болса) жеткізуші көрсеткен мерзімде тапсырыс берушінің банктік шотына аударылады.",
+  "car_hand_note_title_tab_all": "Барлық",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Орындалуын күтуде",
+  "car_hand_note_title_tab_ongoing": "Ағымдағы",
+  "car_hand_note_title_tab_completed": "Аяқталды",
+  "car_hand_note_title_tab_canceled": "Бас тартылды",
+  "car_hand_note_title_order_manager": "Тапсырысты басқару",
+  "car_hand_note_title_create_date": "Құрылған күні",
+  "car_hand_note_title_view_more_btn": "Толығырақ көру",
+  "car_hand_note_title_status_order_completed": "Аяқталды",
+  "car_hand_note_title_status_payment_successful": "Сәтті",
+  "car_hand_note_title_details_order": "Тапсырыс мәліметтері",
+  "car_hand_note_title_contact_info": "Байланыс мәліметтері",
+  "car_hand_note_title_info_rental_car": "Брондау туралы ақпарат",
+  "car_hand_note_title_driver_info": "Жүргізуші мәліметтері",
+  "car_hand_note_title_pirce_details": "Баға мәліметтері",
+  "car_hand_note_title_creator": "Жасалған",
+  "car_hand_note_title_person_contact": "Байланыс жасайтын тұлға",
+  "car_hand_note_title_phone": "Телефон нөмірі",
+  "car_hand_note_title_email": "Электрондық пошта",
+  "car_hand_note_title_country": "Ел",
+  "car_hand_note_title_address": "Мекенжай",
+  "car_hand_note_title_price_of_car_rental": "Көлікті жалға алу бағасы",
+  "car_hand_note_title_price_payment_fee": "Төлем комиссиясы",
+  "car_hand_note_title_info_extra_services": "Қосымша қызметтер",
+  "car_hand_note_title_type_insurance": "Сақтандыру түрлері",
+  "car_hand_note_title_info_insurance": "Сақтандыру ақпараты",
+  "car_hand_note_title_car_info": "Көлік мәліметтері",
+  "car_search_result_not_found_title": "Кешіріңіз",
+  "car_search_result_not_found_sub_title": "Сұрауыңызға сәйкес сәйкестік табылмады.\nҚайталап көріңіз",
+  "car_search_result_first_title_rental_car": "Автокөлікті жалға алу",
+  "car_detail_btn_rent_now": "Қазір тапсырыс беріңіз",
+  "car_notice_title_check_connection": "Байланысты тексеріп, әрекетті қайталаңыз!",
+  "car_rent_input_title_details": "Егжей",
+  "car_rent_input_title_total_payment": "Жалпы төлем",
+  "car_rent_input_title_payment": "Төлеу",
+  "car_rent_form_input_last_name": "Фамилия (тоникалық белгілерсіз)",
+  "car_rent_form_input_first_name": "Ортаңғы және бірінші/берілген аты (тондық белгілері жоқ)",
+  "car_rent_input_content_cb_use_contact_details": "Контакт мәліметтерін пайдаланыңыз",
+  "car_rent_input_title_method_payment": "Төлеу",
+  "car_rent_input_title_method_pay": "Төлем опциясы",
+  "car_rent_input_title_late_payment": "Кейінірек төлеңіз",
+  "car_rent_input_title_now_payment": "Қазір төлеңіз",
+  "car_rent_input_title_information_card": "Карта мәліметтері",
+  "car_rent_input_title_driver_age": "Жүргізушінің жасы",
+  "car_rent_input_title_Do_you_need_anything_else": "Сізге басқа нәрсе керек пе?",
+  "car_rent_input_title_accept_policy": "Келесі қадамға өту арқылы",
+  "car_rent_input_title_card_must_be_valid": "Жеткізушімен жалға алуды қамтамасыз ету үшін сіздің картаңыз жарамды болуы керек",
+  "car_rent_input_title_accept_card_pay": "Қабылданған төлем карталары",
+  "car_rent_input_title_content_notice_later_pay": "Көлік жеткізушісі төлеміңізді өңдейді. Брондау шарттарына байланысты",
+  "car_rent_input_title_select_type_card": "Несие картасының түрін таңдаңыз",
+  "car_rent_input_title_number_card": "Карточка нөмірі",
+  "car_rent_input_title_enter_number_card": "Карта нөмірін енгізіңіз",
+  "car_rent_input_title_name_card": "Несие карточкасын иеленушісінің Аты",
+  "car_rent_input_title_enter_name_card": "Карта ұстаушысының атын енгізіңіз",
+  "car_rent_input_title_select_expiry_date": "Жарамдылық мерзімін таңдаңыз",
+  "car_rent_input_title_expiry_date": "Қолданылу мерзімі",
+  "car_rent_input_title_gate_ways": "Төлем шлюзі",
+  "car_rent_input_title_ccv_code": "CVC коды",
+  "car_rent_input_title_enter_ccv_code": "CVC кодын енгізіңіз",
+  "car_rent_input_title_first_notice_need_anything_else": "Біз жеткізушіге сіздің осы қызметтерге қызығушылық танытатындығыңызды хабарлаймыз",
+  "car_rent_input_title_sub_notice_need_anything_else": "Сіздің сұранысыңызға кепілдік берілмейді. Уайымдама! Жеткізуші сіздің қажеттіліктеріңізді қанағаттандыруға тырысады.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Ең көбі 55 таңба енгізіңіз",
+  "car_rent_input_noti_invalid_last_name": "Жарамсыз фамилия",
+  "car_rent_input_noti_invalid_first_name": "Жарамсыз орта және аты/берілген",
+  "car_rent_input_noti_required_last_name": "Тегі қажет",
+  "car_rent_input_noti_required_first_name": "Ортаңғы және Аты/Берілген аты қажет",
+  "car_rent_input_noti_invalid_email": "Жарамсыз электрондық пошта",
+  "car_rent_input_noti_invalid_phone": "Жарамсыз телефон нөмірі",
+  "car_rent_input_noti_required_email": "Электрондық пошта қажет",
+  "car_rent_input_noti_required_phone": "Телефон нөмірі қажет",
+  "car_rent_input_noti_requried_address": "Мекенжай қажет",
+  "car_rent_input_noti_requried_country": "Ел қажет",
+  "car_rent_input_noti_requried_number_card": "Карта нөмірі қажет",
+  "car_rent_input_noti_requried_card_holder_name": "Карта ұстаушының аты қажет",
+  "car_rent_input_noti_requried_type_card": "Несие картасы қажет",
+  "car_rent_input_noti_requried_expiry": "Жарамдылық мерзімі қажет",
+  "car_rent_input_title_type_card_credit": "Несие картасының түрі",
+  "car_rent_input_title_currency_at_rental_car_place": "Алып кету орнындағы валюта",
+  "car_rent_input_title_rule_age": "Жас ережелері",
+  "car_rent_input_notice_term_and_policy_first_string": "Келесі қадамды орындау арқылы мен Hahalolo''s-ты оқып, келіскенімді растаймын",
+  "car_rent_input_notice_term_and_policy_append__string": "Шарттар - Саясат",
+  "car_rent_input_notice_term_and_policy_between_string": "және",
+  "car_rent_input_notice_term_and_policy_append___string": "Құпиялылық саясаты",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Алу",
+  "car_cart_title_drop_off": "Төмендеу",
+  "car_cart_title_included_texas_fee": "Салықтар мен алымдар кіреді",
+  "car_cart_title_btn_delete": "Жою",
+  "car_cart_title_btn_edit": "Таңдауыңызды өзгертіңіз",
+  "car_cart_title_sub_total": "Аралық жиынтық",
+  "car_cart_title_car_types": "Көлік түрі:",
+  "car_title_select_country": "Елді таңдаңыз",
+  "car_title_car_cart": "Автокөлікті брондау",
+  "car_feed_input_hint_pick_up_place": "Сіздің алып кететін жеріңіз",
+  "car_feed_input_hint_drop_off_place": "Сіздің апаратын жеріңіз",
+  "car_feed_notice_empty_location_pick_up": "Іздеу үшін алып кету орнын таңдаңыз",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Түсіру орнын енгізіңіз",
+  "notify_error_occurred": "Қате пайда болды. Қайта тексеріңіз.",
+  "car_hand_note_detail_order_full_name": "Толық аты",
+  "car_hand_note_detail_order_promotion": "Науқан",
+  "car_hand_note_detail_order_act_history": "Әрекет журналы",
+  "car_hand_note_detail_order_request_other": "Басқа сұраулар",
+  "car_hand_note_detail_order_order_payment": "Төлемге тапсырыс беру",
+  "car_hand_note_detail_order_cancel_info": "Тапсырысты тоқтату туралы ақпарат",
+  "car_hand_note_detail_order_payment_info": "Төлем туралы ақпарат",
+  "car_hand_note_detail_order_paid": "Ақылы",
+  "car_hand_note_detail_order_unpaid": "Төленбеген",
+  "car_hand_note_title_days_ago": "күн бұрын",
+  "car_hand_note_detail_order_cancel_fee": "Бас тарту ақысы",
+  "car_hand_note_detail_order_amount_ongoing_return": "Болжалды қайтару сомасы",
+  "car_hand_note_detail_order_time_ongoing_return": "Болжалды қайтару уақыты",
+  "car_hand_note_detail_order_info_transaction": "Транзакция туралы ақпарат",
+  "car_hand_note_detail_order_amount_payment": "Жалпы сома",
+  "car_hand_note_detail_order_total_order": "Жалпы тапсырыс",
+  "car_hand_note_detail_content_define_vat": "VAT - автокөлікті жалға алу қызметін пайдалану кезінде көлік жеткізушісіне олардың ережелеріне сәйкес төлеуге міндетті салық пен алым.",
+  "car_title_search_result_first_character": "Автокөлікті жалға алу",
+  "car_title_tool_bar_pick_up_location": "Қайдан алғыңыз келеді?",
+  "car_title_tool_bar_drop_off_location": "Қайда түсіргіңіз келеді?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Көлікті жалға алу бағасы Көлік жеткізушісі қолданатын ағымдағы валюта негізінде айырбасталады.\nЕскертпе:\n- Валюта бағамы төлем жасағанға дейін өзгеруі мүмкін.\n- Карта эмитенті сізден шетелдік транзакция үшін комиссия алуы мүмкін.",
+  "car_hand_note_detail_content_define_payment_fee": "Онлайн төлем шлюзі қызметінің провайдеріне төлеу қажет көлікті жалға алу сұрауына сәйкес транзакция комиссиясы.",
+  "car_hand_note_detail_content_notice_insurance": "Ескертпе: Егер сіз осы сақтандыру пакеттеріне өтініш бергіңіз келсе, автокөлік жеткізушісінің қабылдау бөліміне тікелей хабарласыңыз.",
+  "car_hand_note_detail_title_header_insurance": "Көптеген автокөлікті сақтандыру және жалға алу келісім-шарттары автокөлікті жалдау немесе ұрлаумен байланысты қымбат болуы мүмкін ерекшеліктерді қамтиды. Дегенмен, төменде сақтандырудың болуы сізді қорғауға және айтарлықтай ақшалай қаржылық қолдау көрсетуге көмектеседі.",
+  "car_result_booking_title_header_rental_car_success": "Брондау СӘТТІ",
+  "car_result_booking_title_btn_continue_rental_car": "Брондауды жалғастырыңыз",
+  "car_result_booking_title_btn_view_order_details": "Тапсырыс мәліметтерін көру",
+  "car_result_booking_title_header_first_char": "Брондау сұрауыңыз сәтті орындалды",
+  "car_result_booking_title_header_second_char": "(Ақылы)",
+  "car_result_booking_title_header_third_char": ". Төменде автокөлікті жалға алу мәліметтерін тексеруге болады.",
+  "car_result_booking_title_header__char": "Сеніміңізге рахмет",
+  "car_result_booking_title_header____char": "қызмет көрсету. Сұрақтарыңыз болса немесе қосымша көмек қажет болса, біздің анықтамалық орталыққа хабарласыңыз",
+  "car_result_booking_title_header_____char": "нұсқаулар үшін.",
+  "car_result_booking_title_header______char": ". Төменде автокөлікті жалға алу мәліметтерін тексеруге болады.",
+  "car_result_booking_title_order": "Тапсырыс",
+  "car_result_booking_title_billing_info": "Төлем туралы ақпарат",
+  "car_result_booking_title_time": "Уақыт",
+  "car_result_booking_title_name_car": "Көлік аты",
+  "car_picker_time_from_the_date": "бастап",
+  "car_picker_time_to_the_date": "Кімге",
+  "car_picker_time": "Уақыт",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Қаланы/мемлекетті таңдаңыз",
+  "car_result_notice_no_data_found": "Кешіріңіз, деректер табылмады",
+  "car_result_notice_no_flight_found_description": "Іздеуіңізге сәйкес ешбір нәтиже таба алмадық. Қайтадан іздеңіз.",
+  "car_extra_service": "Төмендегі кейбір қосымша қызметтерді автокөлік провайдері сізге ұсынуы мүмкін. Оларға өтініш бергіңіз келсе, провайдердің қабылдау бөліміне тікелей хабарласыңыз.",
+  "car_extra_charges": "Көлік жеткізушісі көрсеткен жастан кіші немесе одан жоғары жүргізушілерге қосымша ақы алынады",
+  "car_note_driver_age": "Ескертпе: Бұл төлем көлікті алу үшін келген кезде қабылдау бөлмесінде алынады.",
+  "car_rental_details": "Көлікті жалға алу туралы мәліметтер",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Қабылдау",
+  "aff_chart_day_ago": "{number} күн бұрын",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "{from}-дан {to}-ге",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Cookie ұзақтығы: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Қонақ үй",
+  "aff_tour": "Тур",
+  "aff_product_name": "Өнім атауы",
+  "aff_anonymous_user": "Анонимді қолданушы",
+  "aff_unknown": "Белгісіз",
+  "aff_product_unknown": "Белгісіз өнім түрі",
+  "aff_share": "Бөлісу",
+  "aff_fetch_data_failure": "Деректерді алу мүмкін болмады",
+  "aff_fetch_data_failure_try_later": "Деректерді алу мүмкін болмады. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_detail": "Егжей",
+  "aff_no_data": "Деректер табылмады",
+  "aff_all": "Бәрі",
+  "aff_country": "Ел",
+  "aff_summary": "Шолу",
+  "aff_link_management": "Сілтемені басқару",
+  "aff_promotion_tool": "Маркетинг құралдары",
+  "aff_help": "Көмектесіңдер",
+  "aff_notification": "Хабарландырулар",
+  "aff_notification_no_data": "Сізде ешқандай хабарландырулар жоқ",
+  "aff_revenue": "Кіріс",
+  "aff_revenue_total": "Жалпы табыс",
+  "aff_customer_id": "Тұтынушы ID",
+  "aff_payment_total": "Жалпы сома",
+  "aff_commission_receive": "Алынған комиссиялардың жалпы сомасы",
+  "aff_search_by_order": "Тапсырыс коды бойынша іздеу",
+  "aff_reset": "Қалпына келтіру",
+  "aff_cancel": "Болдырмау",
+  "aff_save": "Сақтау",
+  "aff_search": "Іздеу",
+  "aff_continue": "Жалғастыру",
+  "aff_payment_account": "Төлем шоты",
+  "aff_profile": "Профиль",
+  "aff_edit_profile": "Ақпаратты өңдеу",
+  "aff_affiliate": "Серіктестік",
+  "aff_setting": "Параметрлер",
+  "aff_resend": "Қайта жіберу",
+  "aff_verify_failure": "Тексеру сәтсіз аяқталды",
+  "aff_show_code": "Кодты көрсету",
+  "aff_sms_block_forever": "Тексеру функциясы уақытша құлыпталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_sms_wrong_code": "Дұрыс емес растау коды. Қайта тексеріңіз.",
+  "aff_sms_expired_code": "Растау кодының мерзімі аяқталды. Басқа код алыңыз",
+  "aff_sms_verify_failure": "Тексеру сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_enter_verify_code": "Растау кодын енгізіңіз",
+  "aff_we_send_code_to_phone": "{phone} нөміріне растау кодын жібердік.\nБұл қадамды аяқтау үшін алған кодты енгізіңіз.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Кодтың мерзімі:",
+  "aff_sms_block": "SMS арқылы код жіберу функциясы уақытша құлыптаулы. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_sms_resend_in": "Кодты келесіде қайта жіберуді таңдауға болады:",
+  "aff_account_information": "АККАУНТ ТУРАЛЫ АҚПАРАТ",
+  "aff_account_information_subtitle": "Hahalolo қызметтерін пайдалануды жалғастыру үшін төлем шотындағы телефон нөміріңізді жаңартыңыз.",
+  "aff_account_name": "Төлем алушы",
+  "aff_search_county": "Елді іздеу",
+  "aff_wallet_create_failure": "Төлем шотын жасау сәтсіз аяқталды",
+  "aff_wallet_create_failure_try_again": "Төлем шотын жасау сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_information_general": "Негізгі ақпарат",
+  "aff_information_unknown": "(Белгісіз)",
+  "aff_information_full_name": "Толық аты {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "Электрондық пошта {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Телефон нөмірі  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Туған жылы {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Жыныс {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Мекенжай {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Ел {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Көбірек ақпарат",
+  "aff_information_city": "Облыс/қала {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Пошта Индексі  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID картасы/төлқұжат {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Мерзімнің өту күні {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Шығарылған еліX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Ұлты {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Туған жері {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Телефон коды",
+  "aff_gender_male": "Еркек",
+  "aff_gender_female": "Әйел",
+  "aff_gender_other": "Басқа",
+  "aff_validate_full_name": "Толық аты кем дегенде 3 таңбадан тұруы керек",
+  "aff_validate_email": "Жарамсыз электрондық пошта",
+  "aff_validate_phone": "Жарамсыз телефон нөмірі",
+  "aff_validate_post_code": "Жарамсыз пошта индексі",
+  "aff_validate_id_code": "Жарамсыз ID картасы/Паспорт",
+  "aff_validate_invalid_field": "Уақыт",
+  "aff_validate_phone_existed": "Телефон нөмірі басқа төлем шотына тіркелген.",
+  "aff_validate_unknown_country": "Белгісіз ел",
+  "aff_date_time": "Уақыт",
+  "aff_date_yesterday": "Кеше",
+  "aff_date_today": "Бүгін",
+  "aff_date_unknown": "Белгісіз күн",
+  "aff_date_month": "ай",
+  "aff_date_day": "күні",
+  "aff_date_hour": "сағат",
+  "aff_date_minute": "минут",
+  "aff_date_second": "екінші",
+  "aff_date_range": "Күндер ауқымы",
+  "aff_report": "Есеп беру",
+  "aff_report_summary": "Есепке шолу",
+  "aff_report_click": "Басулар",
+  "aff_report_click_number": "Басулар",
+  "aff_report_performance": "Өнімділік",
+  "aff_report_customer": "Тұтынушы",
+  "aff_report_payment": "Төлем",
+  "aff_report_product_performance": "Өнім өнімділігі",
+  "aff_report_product_type": "Өнім түрі",
+  "aff_report_customer_detail": "Тұтынушы мәліметтері",
+  "aff_report_commission_by_product": "Бап бойынша комиссия",
+  "aff_report_customer_total": "Сатып алушылардың жалпы саны",
+  "aff_report_customer_serving": "Қызмет көрсететін тұтынушылардың жалпы саны",
+  "aff_report_customer_served": "Қызмет көрсетілген тұтынушылардың жалпы саны",
+  "aff_report_payment_waiting": "Процесстегі жалпы комиссиялар",
+  "aff_report_payment_pending": "Күтудегі комиссиялардың жалпы сомасы",
+  "aff_report_payment_available": "Жалпы қолжетімді комиссиялар",
+  "aff_report_payment_status_waiting": "Өңдеу",
+  "aff_report_payment_status_pending": "Күтуде",
+  "aff_report_payment_status_available": "Қол жетімді",
+  "aff_report_payment_status_cancel": "Бас тартылды",
+  "aff_report_payment_status": "Күй",
+  "aff_report_description_click": "Серіктестік сілтемелерін басудың статистикалық диаграммасы, алынған комиссиялар мен кірістердің жалпы тапсырыстары",
+  "aff_report_description_customer": "Тұтынушы туралы ақпараттың статистикалық диаграммасы",
+  "aff_report_description_commission": "Комиссиялардың статистикалық картасы",
+  "aff_link": "Сілтеме:",
+  "aff_link_copied": "Сілтеме көшірілді",
+  "aff_link_path": "Серіктестік сілтемесі",
+  "aff_link_paste_here": "Сілтемеңізді осы жерге қойыңыз",
+  "aff_flight_commission_itinerary": "Маршрут",
+  "aff_flight_commission_itinerary_domestic": "Ішкі",
+  "aff_flight_commission_itinerary_international": "Халықаралық",
+  "aff_flight_commission_itinerary_unknown": "Белгісіз маршрут",
+  "aff_flight_commission_seat_class": "Орындық класы",
+  "aff_flight_commission_seat_class_plus": "Плюс",
+  "aff_flight_commission_seat_class_business": "Бизнес",
+  "aff_flight_commission_seat_class_unknown": "Белгісіз орын класы",
+  "aff_flight_ticket": "Ұшу билеті",
+  "aff_flight_all_airlines": "Барлық авиакомпаниялар",
+  "aff_tooltip_flight_domestic": "Вьетнам аумағындағы бағыттар мен ұшатын рейстер",
+  "aff_tooltip_seller": "Сіз бұл кодты әрбір серіктестік маркетинг сілтемесінің соңына қосу үшін пайдалана аласыз. Hahalolo бұл сіздің сілтемеңіз екенін және осы сілтемеден туындайтын жарамды тапсырыстар болған кезде марапаттау комиссиялары екенін растайды.",
+  "aff_commission": "Комиссия",
+  "aff_commission_by_country": "Ел бойынша қонақүй комиссиялары",
+  "aff_commission_flight_list": "Ел бойынша қонақүй комиссиялары",
+  "aff_commission_max": "Жоғарғы комиссия:",
+  "aff_commission_of_product": "{order} комиссиялары",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Тапсырыс коды",
+  "aff_order_total": "Жалпы тапсырыстар",
+  "aff_order_tooltip_click": "Пайдаланушылар сіздің серіктестік сілтемеңізді қанша рет басады.",
+  "aff_order_conversion_rate": "Конверсия жылдамдығы",
+  "aff_order_tooltip_conversion_rate": "Өнімді жылжыту өнімділігін талдауға арналған шара.",
+  "aff_order_product_total": "Жалпы өнімдер",
+  "aff_order_click_total": "Жалпы шертулер",
+  "aff_order_earnings_total": "Жалпы табыс",
+  "aff_order_id_unknown": "Белгісіз тапсырыс коды",
+  "aff_order_added": "төлем шотына қосылды",
+  "aff_order_type_waiting": "Өңдеу",
+  "aff_order_type_pending": "Күтуде",
+  "aff_order_type_available": "Қол жетімді",
+  "aff_order_type_cancel": "Бас тартылды",
+  "aff_ordered_total": "Жалпы тапсырыс берілген өнімдер",
+  "aff_order_receive_commission": "Алынған комиссиялардың жалпы тапсырыстары",
+  "aff_verify_do_not_have_account": "СІЗДІ ТӨЛЕМ шотыңыз \n ЖОҚ",
+  "aff_guild": "Нұсқаулар",
+  "aff_seller_code": "Сатушы коды: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Сатушы коды",
+  "aff_view_detail": "Мәліметтерді көру",
+  "aff_notification_turn_off_link_1": "Серіктестік маркетинг мүмкіндігі\n",
+  "aff_notification_turn_off_link_2": "өшірілген, яғни сіз бөліскен серіктестік сілтемелері жарамсыз болады!",
+  "aff_notification_turn_on_link_success": "{type} үшін серіктестік маркетинг мүмкіндігі сәтті қосылды",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Ұшу комиссиялары",
+  "aff_commission_list_hotel": "Ел бойынша қонақүй комиссиялары",
+  "aff_tooltip_menu": "Мәзірді ашу",
+  "aff_tooltip_dash_board": "Бақылау тақтасына жылдам қол жеткізу",
+  "aff_tooltip_guild": "Нұсқаулар үшін төменге қарай ашыңыз",
+  "aff_action_done": "Дайын",
+  "aff_check_user_failed": "Пайдаланушыны тексеру мүмкін емес. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_something_went_wrong": "Бірдеңе дұрыс болмады.",
+  "aff_page_not_found": "Бет табылмады.",
+  "aff_and": "және",
+  "aff_month_summary": "Осы айдың қорытындысы",
+  "aff_see_more": "Толығырақ көру",
+  "aff_try_again": "Қайтадан көріңіз",
+  "aff_error_try_again": "Қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "aff_tooltip_flight_international": "Вьетнам аумағынан тыс жерге ұшып кету немесе ұшып келу рейстері.",
+  "aff_area_code": "Телефон коды",
+  "aff_phone_number": "Телефон нөмірі",
+  "aff_validate_sms_required": "Растау кодын енгізіңіз",
+  "aff_validate_sms_min_length": "Толық растау кодын енгізіңіз",
+  "aff_welcome": "Қош келдіңіз",
+  "aff_verify_update": "Төлем шотын жаңарту",
+  "aff_verify_create_account": "Төлем шотын жасаңыз",
+  "aff_verify_invalid_wallet": "Төлем шотын жаңарту",
+  "aff_verify_do_not_have_account_subtitle": "Hahalolo-да сату функциясын пайдалану үшін төлем шотын жасаңыз!",
+  "aff_verify_invalid_wallet_subtitle": "Hahalolo қызметтерін пайдалануды жалғастыру үшін төлем шотындағы телефон нөміріңізді жаңартыңыз",
+  "aff_guild_1": "Енді сіз басу арқылы серіктестік маркетинг мүмкіндігін жылдам қоса аласыз",
+  "aff_guild_2": "Қонақ үй/Ұшу бөлімінде",
+  "aff_guild_3": "Серіктестік маркетингін қосқаннан кейін сіз өз өнімдеріңізді келесілер арқылы жарнамалай аласыз:",
+  "aff_guild_4": "Сілтеме әдепкі бойынша Hahalolo арқылы орнатылған",
+  "aff_guild_5": "Серіктестік маркетингі қосылған бөлімге қатысты кез келген сілтеме, сатушы коды өнімге сәйкес сілтемеге тіркелген жағдайда.",
+  "aff_seller": "Сатушы",
+  "aff_menu": "Санат",
+  "aff_dash_chart_title": "Statistický graf vašich příjmů a kliknutí za tento měsíc",
+  "aff_dash_click": "kliknutí",
+  "aff_dash_commission": "Zisk",
+  "aff_flight_commission_detail_customer_way": "/ cestující / segment",
+  "aff_flight_commission_detail_order_total": "/ celkem objednávek",
+  "aff_performance_chart_title": "Statistický graf kliknutí na affiliate odkaz, celkový počet přijatých objednávek a výnosů",
+  "aff_customer_chart_title": "Statistická tabulka informací o zákaznících",
+  "aff_payment_chart_title": "Statistická tabulka provizí",
+  "aff_action_exit": "Výstup",
+  "aff_action_update": "Aktualizace",
+  "aff_action_create": "vytvořit",
+  "aff_dialog_check_invalid_user": "{action} svůj platební účet, abyste mohli používat služby affiliate marketingu na Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Күн",
+  "aff_action_register": "тіркелу",
+  "aff_otp_time_left": "{number} рет қалды",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "ТӨЛЕМ ШОТЫН ЖАСАУ",
+  "wallet_create_payment_subtitle": "Төлем шотын орнату негізгі төлем шоты болып табылады, оның ішінде ақшаны қабылдау, алу және тағайындалғаннан кейін төлеу.",
+  "wallet_verify_otp_title": "Растау кодын енгізіңіз",
+  "wallet_verify_otp_subtitle": "{phone} нөміріне растау кодын жібердік. \nБұл қадамды аяқтау үшін алған кодты енгізіңіз.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Төлем шоты",
+  "wallet_start_subtitle": "Hahalolo төлем шоты - бұл бізбен қызықты және ыңғайлы тәжірибе алуға көмектесетін Hahalolo төлем шешімі.",
+  "wallet_label_choose_business": "Бизнесті таңдаңыз",
+  "wallet_label_account_name": "Төлем алушы",
+  "wallet_label_email": "Электрондық пошта",
+  "wallet_label_phone": "Телефон нөмірі",
+  "wallet_label_choose_currency": "Валютаны таңдаңыз",
+  "wallet_label_payment_country": "Төлем елі",
+  "wallet_label_payment_method": "Төлем тәсілі",
+  "wallet_label_card_holder_name": "Карточка ұстаушының аты (тондық белгілерсіз)",
+  "wallet_label_card_bank_name": "Банк атауы",
+  "wallet_label_card_swift_code": "Swift коды",
+  "wallet_label_bank_account_number": "Банк шотының нөмірі",
+  "wallet_label_account_type": "Есептік жазба түрі",
+  "wallet_label_tax_code": "Салық кодексі",
+  "wallet_label_tax_type": "Салық түрі",
+  "wallet_label_address": "Мекенжай",
+  "wallet_label_address_2": "2 мекенжайы (міндетті емес)",
+  "wallet_label_country": "Ел",
+  "wallet_label_city": "Облыс/Қала",
+  "wallet_label_district": "Аудан",
+  "wallet_label_first_name": "Тек",
+  "wallet_label_last_name": "Аты",
+  "wallet_label_middle_name": "Әкесінің аты (міндетті емес)",
+  "wallet_label_postal_code": "Пошта Индексі",
+  "wallet_label_city_more_description": "Штат/Аудан/Аймақ",
+  "wallet_label_postal_code_more_description": "Zip/Пошталық индекс",
+  "wallet_label_district_more_description": "Қала/Қала",
+  "wallet_label_birthday_18_years_old": "Туған күні (кемінде 18 жаста)",
+  "wallet_label_date_of_birth": "Туған кезі",
+  "wallet_label_enter_password": "Құпия сөзіңізді енгізіңіз",
+  "wallet_label_password": "Құпия сөз",
+  "wallet_label_enter_pin": "PIN кодын енгізіңіз",
+  "wallet_label_re_enter_new_pin": "Жаңа PIN кодын қайта енгізіңіз",
+  "wallet_label_enter_new_pin": "Жаңа PIN кодын енгізіңіз",
+  "wallet_label_enter_current_pin": "Ескі PIN кодын енгізіңіз",
+  "wallet_validate_pin_required": "PIN кодын енгізіңіз",
+  "wallet_validate_otp_required": "Растау кодын енгізіңіз",
+  "wallet_validate_current_pin_required": "Ескі PIN кодын енгізіңіз",
+  "wallet_validate_new_pin_required": "Жаңа PIN кодын енгізіңіз.",
+  "wallet_validate_re_enter_new_pin_required": "Жаңа PIN кодын қайта енгізіңіз.",
+  "wallet_validate_re_enter_new_pin_not_match": "Растау PIN коды сәйкес келмейді",
+  "wallet_action_detail": "Егжей",
+  "wallet_text_pick_date": "Күнді таңдаңыз",
+  "wallet_text_email_address": "Электрондық пошта",
+  "wallet_text_message_to": "Хабарлама жіберу",
+  "wallet_text_recovery_method": "Қалпына келтіру әдісі",
+  "wallet_text_recovery_choose_method": "Қалпына келтіру кодын алу жолын таңдаңыз",
+  "wallet_text_change_pin": "PIN кодын өзгертіңіз",
+  "wallet_text_forgot_pin": "PIN кодын ұмыттыңыз ба?",
+  "wallet_text_show_pin": "PIN кодын көрсету",
+  "wallet_text_please_try_again_in": "Тағы жасауды сәл кейінірек көріңізді өтінеміз:",
+  "wallet_text_remove_account": "Төлем шотын жою",
+  "wallet_text_ineligible_payment": "Транзакцияға жарамсыз",
+  "wallet_text_ineligible_payment_description": "Әкімшіміз төлем шотыңыз туралы ақпаратты қабылдамайынша, жүйеден ешқандай транзакция жасай алмайсыз. Төлем шотының ақпаратын жаңартыңыз.",
+  "wallet_text_address_2": "Мекенжай 2",
+  "wallet_text_new_account": "Төлем шотын жасаңыз",
+  "wallet_text_payout_account_detail": "Төлем шотының мәліметтері",
+  "wallet_text_middle_name": "Әкесінің аты",
+  "wallet_text_account_owner": "Шот иесі",
+  "wallet_text_tax_form": "Салық нысаны",
+  "wallet_text_tax_form_subtitle": "Сіз берген ақпарат негізінде сізге қосымша салық нысандарын жүктеп салудың қажеті жоқ. Келесі қадамға өту үшін Жалғастыру түймесін басыңыз.",
+  "wallet_text_card_holder_name": "Несие карточкасын иеленушісінің Аты",
+  "wallet_text_otp_code_expire_in": "Кодтың мерзімі келесіде аяқталады:",
+  "wallet_text_account_information": "Аккаунт туралы ақпарат",
+  "wallet_text_welcome": "Сәлем!",
+  "wallet_text_payment_information": "Төлем туралы ақпарат",
+  "wallet_text_policies_confirm": "Мен {termsAndPolicies} талаптарына келісемін",
+  "wallet_terms_and_policies": "Hahalolo шарттары мен саясаты.",
+  "wallet_text_default": "Әдепкі",
+  "wallet_text_code_vie_sms": "SMS арқылы кодты жіберіңіз",
+  "wallet_text_pin_code_recovery_description": "PIN кодын ұмытып кеткеніңізді растау үшін электрондық поштаңызды пайдаланыңыз.",
+  "wallet_text_sms_recovery_description": "PIN кодын ұмытып кеткеніңізді растау үшін телефон нөміріңізді пайдаланыңыз.",
+  "wallet_text_authority": "Мен Hahalolo компаниясына ақша аударуды жалғастыру үшін менің берілген есептік жазбам туралы ақпаратты пайдалануға рұқсат етемін.",
+  "wallet_text_district_three_dot": "Аудандық...",
+  "wallet_text_set_up_pin": "PIN кодын орнатыңыз",
+  "wallet_text_established": "(Орнатылған)",
+  "wallet_text_not_have_pin_yet_title": "Сізде PIN код жоқ",
+  "wallet_text_not_have_pin_yet_subtitle": "Бұл функцияны пайдалану үшін PIN кодын жасаңыз",
+  "wallet_text_security_pin_code_description": "Есептік жазбаңызды және қаржылық ақпаратты қорғау үшін Hahalolo төлем шотының PIN коды қажет. Оның үстіне жүйеге қайта кірген кезде карта мәліметтерін қайта енгізудің қажеті жоқ.",
+  "wallet_text_check_password_locked": "Құпия сөзді тексеру функциясы уақытша құлыптаулы. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_text_enter_password_description": "Өзгерісті растау үшін Hahalolo тіркелгісінің құпия сөзін енгізу керек.",
+  "wallet_text_enter_sms_code": "Растау кодын енгізіңіз",
+  "wallet_text_send_sms_description_1": "Біз растау кодын жібердік",
+  "wallet_text_send_sms_description_2": "\nБұл қадамды аяқтау үшін алған кодты енгізіңіз.",
+  "wallet_text_resend": "Қайта жіберу",
+  "wallet_text_no_data": "Қазіргі уақытта деректер жоқ!",
+  "wallet_text_bank_transfer": "Банктік аударым",
+  "wallet_text_tax_ptin": "Салық төлеушінің сәйкестендіру нөмірін дайындаушы",
+  "wallet_text_tax_atin": "Бала асырап алу бойынша салық төлеушінің сәйкестендіру нөмірі",
+  "wallet_text_tax_ssn": "Әлеуметтік жеке код",
+  "wallet_text_account_personal": "Жеке кабинет",
+  "wallet_text_account_business": "Бизнес шот",
+  "wallet_text_country_code_and": "ел коды және",
+  "wallet_text_resend_time": "Қайта жіберу {time}",
+  "wallet_text_change_your": "{text} өзгерту",
+  "wallet_start_person_button": "{action} жеке төлем шоты",
+  "wallet_start_business_button": "{action} бизнес төлем шоты",
+  "wallet_text_recovery_subtitle_1": "Ағымдағы {text}\n{value}",
+  "wallet_text_recovery_subtitle_2": "Жаңа {extra_text}{text} енгізіңіз",
+  "wallet_text_enter_new": "Жаңа {title} енгізіңіз",
+  "wallet_text_new": "жаңа {title}",
+  "wallet_succ_setup_pin": "PIN коды сәтті орнатылды.",
+  "wallet_succ_setup_pin_content": "PIN кодын сәтті орнаттыңыз.",
+  "wallet_succ_change_pin": "PIN коды сәтті өзгертілді",
+  "wallet_succ_change_pin_content": "PIN кодын сәтті өзгерттіңіз",
+  "wallet_succ_change_information": "Ақпарат сәтті жаңартылды және расталды",
+  "wallet_war_remove_payout_account": "Бұл есептік жазбаны мүлдем жойғыңыз келетініне сенімдісіз бе?",
+  "wallet_war_create_payment_title": "Төлем шотын жасау",
+  "wallet_war_create_payment_subtitle": "Төлем шотын жасамас бұрын бизнес тіркелгісін жасаңыз.",
+  "wallet_war_unsaved_information": "Сіз өңдеген ақпарат сақталмауы мүмкін. Шығыңыз келе ме?",
+  "wallet_err_recovery": "Қалпына келтіру сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_recovery_no_user_data": "Қалпына келтіру сәтсіз аяқталды. Пайдаланушы туралы ақпарат табылмады.",
+  "wallet_err_recovery_phone_exists": "Қалпына келтіру сәтсіз аяқталды. Бұл телефон нөмірі бұрыннан бар.",
+  "wallet_err_recovery_phone_invalid": "Қалпына келтіру орындалмады. Телефон нөмірі жарамсыз.",
+  "wallet_err_recovery_password_invalid": "Қалпына келтіру сәтсіз аяқталды. Құпия сөзіңіз дұрыс емес.",
+  "wallet_err_pin_existed": "PIN коды әлдеқашан бар.",
+  "wallet_err_pin_wallet_not_exist": "Төлем шоты жоқ",
+  "wallet_err_pin_incorrect_or_exists": "PIN коды дұрыс емес немесе жоқ",
+  "wallet_err_pin_try_again": "PIN кодын орнату сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_set_payout_default": "Әдепкі төлем шотын таңдау мүмкін болмады. Тағы жасауды сәл кейінірек көріңізді өтінеміз!",
+  "wallet_err_occurred_try_again": "Қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_send_verify_title": "Растау кодын жіберу мүмкін болмады",
+  "wallet_err_try_again": "Қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_create_payout_title": "Төлем есептік жазбасын жасау мүмкін болмады. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_fetch_data_failed": "Деректерді жүктеу сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз!",
+  "wallet_err_occurred_processing": "Өңдеу кезінде қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_remove_payout": "Есептік жазба жойылмады. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_err_change_pin": "PIN кодын өзгерту мүмкін болмады",
+  "wallet_err_setup_pin": "PIN коды орнатылмады",
+  "wallet_err_sms_code_expired": "Растау кодының мерзімі бітті. Қайталап көріңіз.",
+  "wallet_err_sms_code_incorrect": "Растау коды дұрыс емес. Қайталап көріңіз.",
+  "wallet_create_payout_title": "Төлем шотын жасаңыз",
+  "wallet_action_continue": "Жалғастыру",
+  "wallet_action_create": "Жасау",
+  "wallet_action_update": "Жаңарту",
+  "wallet_action_ok": "Келісемін",
+  "wallet_action_complete": "Аяқталды",
+  "wallet_action_next": "Жалғастыру",
+  "wallet_action_try_back": "Қайтып келу",
+  "wallet_action_try_again": "Қайтадан көріңіз",
+  "wallet_action_accept": "Қабылдау",
+  "wallet_action_remove": "Жою",
+  "wallet_action_change": "Өзгерту",
+  "wallet_action_setup": "Орнату",
+  "wallet_action_confirm": "Растау",
+  "wallet_action_cancel": "Болдырмау",
+  "wallet_action_close": "Жабық",
+  "wallet_overview": "Шолу",
+  "wallet_notification": "Хабарландырулар",
+  "wallet_transaction_history": "Транзакция тарихы",
+  "wallet_transfer_point": "Ұпайларды тасымалдау",
+  "wallet_payout_accounts": "Төлем шоты",
+  "wallet_security": "Қауіпсіздік",
+  "wallet_recovery_methods": "Қалпына келтіру әдісі",
+  "wallet_help_center": "Анықтама орталығы",
+  "wallet_view_profile": "Ақпаратты көру",
+  "wallet_info_title": "Төлем шотының ақпараты",
+  "wallet_edit_identity_card": "ID карта",
+  "wallet_edit_id_card": "ID карта",
+  "wallet_edit_passport": "Паспорт",
+  "wallet_edit_verify_status": "Күй",
+  "wallet_edit_not_verify": "Тексерілмеген",
+  "wallet_edit_verified": "Тексерілді",
+  "wallet_edit_verify_waiting": "Күтуде",
+  "wallet_edit_gender": "Жыныс",
+  "wallet_edit_male": "Еркек",
+  "wallet_edit_female": "Әйел",
+  "wallet_edit_other": "Басқа",
+  "wallet_owner_title": "Пайдаланушы ақпараты",
+  "wallet_edit_fullName": "Толық аты",
+  "wallet_edit_email": "Электрондық пошта",
+  "wallet_edit_phoneNumber": "Телефон нөмірі",
+  "wallet_edit_dateOfBirth": "Туған кезі",
+  "wallet_edit_dateOfBirth_13_yo": "Туған күні (кемінде 13 жаста)",
+  "wallet_edit_address": "Мекенжай",
+  "wallet_edit_country": "Ел",
+  "wallet_edit_idType": "Сәйкестендіру түрі",
+  "wallet_edit_id_passport": "ID нөмірі/Паспорт",
+  "wallet_edit_country_issue": "Берілген Мемлекеті",
+  "wallet_edit_id_document": "ID картасының суреттері/Паспорт",
+  "wallet_edit_front": "Алдыңғы жағы",
+  "wallet_edit_back": "Артқы жағы",
+  "wallet_edit_activate_date": "Күшіне енген күні",
+  "wallet_edit_expiration_date": "Қолданылу мерзімі",
+  "wallet_waiting_balance": "Күтудегі теңгерім",
+  "wallet_pending_balance": "Процесстегі тепе-теңдік",
+  "wallet_available_balance": "Қолжетімді теңгерім",
+  "wallet_frozen_balance": "Мұздатылған баланс",
+  "wallet_top10_trans": "Соңғы 10 транзакция",
+  "wallet_source_withdrawal": "Шығу",
+  "wallet_source_grad": "Град",
+  "wallet_source_income": "Ақша кіріс",
+  "wallet_source_outcome": "Ақша шығару",
+  "wallet_source_point": "Ұпайлар",
+  "wallet_source_aff_commission": "Серіктестік - Комиссия",
+  "wallet_source_aff_reward": "Серіктестік - Сыйақы бағдарламасы",
+  "wallet_source_recharge": "Толықтыру",
+  "wallet_source_order": "Тапсырыс",
+  "wallet_status_waiting": "Күтуде",
+  "wallet_status_pending": "Бекіту күтілуде",
+  "wallet_status_available": "Қол жетімді",
+  "wallet_status_frozen": "Мұздатылған",
+  "wallet_status_cancel": "Бас тартылды",
+  "wallet_status_success": "Сәтті",
+  "wallet_status_error": "Сәтсіз",
+  "wallet_status_outcome": "Ақша шығару",
+  "wallet_status_transfer": "Ұпайларды тасымалдау",
+  "wallet_action_receive": "Ұпайларды алу",
+  "wallet_action_donate": "Ұпайлар беріңіз",
+  "wallet_action_buy_point": "Ұпайларды сатып алыңыз",
+  "wallet_action_payment": "Төлем",
+  "wallet_filter_all": "Барлық",
+  "wallet_filter_allTime": "Барлық",
+  "wallet_filter_today": "Бүгін",
+  "wallet_filter_yesterday": "Кеше",
+  "wallet_filter_7days": "Соңғы 7 күн",
+  "wallet_filter_30days": "Соңғы 30 күн",
+  "wallet_filter_custom_date": "Қосымша күн",
+  "wallet_filter_status": "Күй",
+  "wallet_filter_time": "Уақыт",
+  "wallet_filter_action": "Әрекет",
+  "wallet_validate_this_field": "Бұл өріс",
+  "wallet_validate_required": "{fieldName} қажет",
+  "wallet_validate_invalid_email": "Жарамсыз электрондық пошта",
+  "wallet_validate_invalid_phone_number": "Жарамсыз телефон нөмірі",
+  "wallet_validate_invalid_number": "Жарамсыз нөмір",
+  "wallet_validate_limit_length": "{fieldName} кемінде {minLength} таңба болуы керек",
+  "wallet_validate_not_contain_number": "{fieldName} сандық таңбаларды қамтымауы керек",
+  "wallet_validate_not_contain_special_char": "{fieldName} арнайы таңбаларды қамтымауы керек",
+  "wallet_validate_invalid_swift_code_length": "Swift коды тек 8-11 таңбадан тұрады",
+  "wallet_validate_invalid_swift_code": "Жарамсыз жылдам код",
+  "wallet_no_transaction": "Транзакциялар жоқ!",
+  "wallet_no_image": "Әлі фотосуреттер жоқ",
+  "wallet_edit_quit_msg": "Сіз өңдеген ақпарат сақталмауы мүмкін. Шығыңыз келе ме?",
+  "wallet_point_total": "Барлығы:",
+  "wallet_payment_methods": "Төлем тәсілі",
+  "wallet_payment_methods_note": "(Ескертпе: '{HAHALOLO}' пайдаланушыларға '{MIỄN PHÍ}' банк төлемдерімен қолдау көрсетеді)",
+  "wallet_num_of_points": "Ұпай саны",
+  "wallet_points": "{number} ұпай",
+  "wallet_1point": "1 ұпай",
+  "wallet_msg_enter_number_of_points": "Сатып алғыңыз келетін ұпайлар санын енгізіңіз",
+  "wallet_msg_pin_not_correct": "PIN коды дұрыс емес немесе жоқ",
+  "wallet_msg_balance_not_enough": "Баланс жеткіліксіз",
+  "wallet_msg_error_while_buy_point": "Ұпайларды сатып алу кезінде қате орын алды",
+  "wallet_msg_fetch_error": "Қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_msg_buy_point_success": "Сіз ұпайларды сәтті сатып алдыңыз",
+  "wallet_withdrawal_req": "Шығаруға өтініш:",
+  "wallet_withdrawal_payment_acc_id": "Төлем шоты ID:",
+  "wallet_withdrawal_balance": "Қолжетімді теңгерім:",
+  "wallet_withdrawal_payout_acc": "төлем шоты",
+  "wallet_withdrawal_amount": "Сома ({currency})",
+  "wallet_label_desc": "Сипаттама",
+  "wallet_btn_save": "Сақтау",
+  "wallet_btn_edit_owner": "Өңдеу",
+  "wallet_btn_buy": "Сатып алу",
+  "wallet_btn_reset": "Қайта енгізіңіз",
+  "wallet_insufficient_available_balances": "Қолжетімді теңгерім жеткіліксіз",
+  "wallet_msg_complete_info": "Мәліметтерді толтырыңыз",
+  "wallet_msg_success": "Сіз сәтті бас тарттыңыз",
+  "wallet_msg_wal_not_exist": "Төлем шоты жоқ",
+  "wallet_msg_wal_blocked": "Төлем шоты бұғатталды",
+  "wallet_msg_acc_incorrect": "Қате төлем шоты",
+  "wallet_msg_total_not_available": "Сұралған жалпы сома қолжетімді емес",
+  "wallet_msg_pin_locked": "Төлем шотының PIN коды құлыпталған",
+  "wallet_msg_withdrawal_failed": "Шығару сәтсіз аяқталды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "wallet_msg_fill_in_all_info": "Мәліметтерді толтырыңыз",
+  "wallet_update_info_success": "Сіз ақпаратты сәтті жаңарттыңыз",
+  "wallet_update_info_fail": "Ақпаратты жаңарту мүмкін болмады",
+  "wallet_no_notifications": "Сізде ешқандай хабарландырулар жоқ",
+  "wallet_buy_point_payment_method_note": "(Ескертпе: '{hahalo}' пайдаланушыларға '{free}' банк төлемдерімен қолдау көрсетеді)",
+  "wallet_note_free": "ТЕГІН",
+  "wallet_buy_point_policy": "Мен {condition} және {privacy} талаптарына келісемін",
+  "wallet_term_conditions": "Ережелер мен шарттар",
+  "wallet_privacy": "Құпиялық",
+  "wallet_msg_receiving_account_not_exist": "Алушының төлем шоты жоқ",
+  "wallet_msg_search_account_error": "Төлем шотын іздеу кезінде қате орын алды",
+  "wallet_msg_sending_account_not_exist": "Жіберушінің төлем шоты жоқ",
+  "wallet_msg_point_balance_not_enough": "Төлем шотының нүктелік қалдығы жеткіліксіз",
+  "wallet_msg_cannot_give_to_itself": "Ұпайларды өзіңізге аудару мүмкін емес",
+  "wallet_msg_cannot_give_to_business": "Алушының төлем шоты бизнес шоты бола алмайды",
+  "wallet_msg_transfer_point_err": "Ұпайларды тасымалдау кезінде қате орын алды",
+  "wallet_msg_transfer_point_success": "Ұпайлар сәтті тасымалданды",
+  "wallet_recipient_info": "Алушы туралы ақпарат",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Ұпай саны",
+  "wallet_not_verified": "Расталмаған төлем шоты",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} сағат {minute} минут",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 тоқтайды} other{{countStop} тоқтатады}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Транзит уақыты шамамен {time} дюйм {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Ересектер (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Балалар (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Балапан (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} ересектер} other{{count} ересектер}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} бала} other{, {count} балалар}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} нәресте} other{, {count} сәбилер}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Транзит уақыты шамамен {times} дюйм {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} КИЛОГРАМ} other{{countBag} КИЛОГРАМ}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Бір жақты рейс",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Ұшу рейсі",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Қайту рейсі",
+  "flight_fare_rule_title_fare_conditions": "Тариф шарттары",
+  "flight_fare_rule_title_departure_flight": "Ұшу",
+  "flight_fare_rule_title_segment": "Сегмент",
+  "flight_filter_by_title_filter": "Сүзгі",
+  "flight_filter_by_content_btn_filter": "Сүзгі",
+  "flight_filter_by_title_airline": "Әуе компаниясы",
+  "flight_filter_by_title_flight_times": "Ұшу уақыты",
+  "flight_filter_by_title_type_flight_times_early_morning": "Таңертең \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Таңертең \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Түстен кейін \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Кешкі \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Аялдамалар саны",
+  "flight_filter_by_title_select_all": "Барлығын таңдаңыз",
+  "flight_filter_by_title_unselect_all": "Барлығын таңдауды алып тастаңыз",
+  "flight_filter_by_title_type_segment_all": "Барлық",
+  "flight_filter_by_title_type_segment_direct": "Тікелей ұшу",
+  "flight_filter_by_title_type_segment_transit": "Транзит",
+  "flight_sort_by_title_sort_by": "Бойынша сұрыптау",
+  "flight_sort_by_title_sort_by_ascending_price": "Өсу бағасы",
+  "flight_sort_by_title_sort_by_descending_price": "Төмендеу бағасы",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Ең ерте кету уақыты",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Ең ерте келу уақыты",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Соңғы келу уақыты",
+  "flight_search_result_title_count_adult": "ересек",
+  "flight_search_result_title_count_child": "бала",
+  "flight_search_result_title_count_baby": "сәби",
+  "flight_search_result_title_segment": "Тоқта",
+  "flight_search_result_title_hours": "сағат",
+  "flight_search_result_title_minutes": "минут",
+  "flight_search_result_title_view_detail_price": "Мәліметтерді көру",
+  "flight_search_result_title_hide_detail_price": "Мәліметтерді жасыру",
+  "flight_search_result_title_view_detail": "Егжей",
+  "flight_search_result_title_btn_book_ticket": "Кітап",
+  "flight_search_result_title_basic_price_ticket": "Бір билеттің бағасы",
+  "flight_search_result_title_taxes_and_fee": "Салықтар мен алымдар",
+  "flight_search_result_title_total_amount": "Жалпы сома",
+  "flight_search_result_title_total": "Барлығы",
+  "flight_search_result_title_fare_details": "Тариф туралы мәліметтер",
+  "flight_search_result_title_quantity": "Саны",
+  "flight_search_result_title_passenger": "Жолаушы",
+  "flight_search_result_title_one_way_flight": "Бір жақты рейс",
+  "flight_search_result_title_round_trip_flight": "Екі жаққа рейс",
+  "flight_change_search_title_btn_agree": "Келісемін",
+  "flight_change_search_title_btn_cancel": "Болдырмау",
+  "flight_change_search_title_header_dialog": "Іздеуді өзгерту",
+  "flight_change_search_title_body_dialog": "Іздеу ақпаратыңызды өзгерткіңіз келетініне сенімдісіз бе?",
+  "flight_change_search_title_footer_dialog": "Іздеу ақпаратыңызды өзгертуге келісесіз, барлық алдыңғы деректер жойылады.",
+  "flight_search_result_detail_title_flight_details": "Ұшу мәліметтері",
+  "flight_search_result_detail_title_checked_baggage": "Тексерілген багаж",
+  "flight_search_result_detail_title_aircraft": "Ұшақ",
+  "flight_search_result_detail_title_seat_class": "Орындық класы",
+  "flight_search_result_detail_title_class_seat_type_all": "Барлық",
+  "flight_search_result_detail_title_class_seat_type_economy": "Экономика",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Бірінші",
+  "flight_search_result_detail_title_class_seat_type_business": "Бизнес",
+  "flight_search_result_detail_content_note_transit_body": "Ескерту: Жолаушылар қабылдаушы елдің өтініші бойынша кедендік ресімдеуден өтуі және транзиттік визасын ұсынуы талап етілуі мүмкін.",
+  "flight_transit_alter_note": "Ескертпе: Жолаушылар қабылдаушы елдің өтініші бойынша кедендік ресімдеуден өтуі және транзиттік визасын ұсынуы талап етілуі мүмкін.",
+  "flight_luggage": "Жүк",
+  "flight_signed_luggage": "Тексерілген багаж",
+  "flight_service_package": "Қызмет пакеттері",
+  "flight_run_by": "Басқарушы",
+  "flight_result_notice_no_flight_found": "Ұшулар табылмады!",
+  "flight_result_notice_no_flight_found_filter": "Кешіріңіз, сіздің критерийлеріңізге сәйкес келетін рейстер жоқ",
+  "flight_result_notice_check_internet_again": "Байланысыңыз үзілді. Қосылымды қайта тексеріңіз",
+  "flight_result_notice_error_authentication": "Жүйеге кіру сеансының мерзімі аяқталды. Жүйеге қайта кіріңіз",
+  "flight_search_result_notice_booking_expired": "Брондау мерзімі аяқталуға жақын",
+  "flight_search_result_notice_click_continue_to_proceed": "Брондауды жалғастыру үшін \"Жалғастыру\" түймесін басыңыз.",
+  "flight_search_result_btn_continue": "Жалғастыру",
+  "flight_input_title_gender": "Жыныс",
+  "flight_input_title_gender_male": "Еркек",
+  "flight_input_title_gender_female": "Әйел",
+  "flight_input_title_gender_other": "Басқа",
+  "flight_search_price_info_bottom_sheet_tax_include": "Салықты қосқанда",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Төлем қосылған",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Жүйе және әкімші қосымша ақысы",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Қауіпсіздікті тексеру ақысы",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Ыңғайлы төлем қосымша ақы",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Әуежай ақысы",
+  "flight_fare_rule_notice_empty_fare_rule": "Әуе компаниясының тариф шарттары табылмады",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Ересектер",
+  "flight_v2_model_booking_children": "Балалар",
+  "flight_v2_model_booking_infant": "Нәресте",
+  "flight_v2_model_detail_infant": "(2 жасқа дейін)",
+  "flight_v2_model_detail_children": "(02-12 жас аралығында)",
+  "flight_v2_component_bonus_services_title_string": "Қосымша қызметтер",
+  "flight_v2_component_bonus_service_header": "Қосымша қызметтер",
+  "flight_v2_component_bonus_service_content_header_price": "Сақтандыру жарнасы",
+  "flight_v2_component_bonus_service_flight_table_header": "Жалпы сақтандыру төлемі",
+  "flight_v2_component_bonus_service_text1_introduce": "Кіріспе",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Сақтандыру түрі:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Ұшуды сақтандыру",
+  "flight_v2_component_bonus_service_text1_supplier": "Провайдер:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance акционерлік қоғамы (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "Біздің сенімді туристік сақтандыруымызбен саяхаттауға толықтай сенімді боласыз",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Сақтандыру нысанасы",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Жеке тұлғалар әуе көлігімен саяхаттау үшін Hahalolo жүйесіндегі әуе билеттерін брондау қызметін пайдаланады.",
+  "flight_v2_component_bonus_service_text1_age": "Жасы: 07 күннен бастап.",
+  "flight_v2_component_bonus_service_text1_range": "Қолдану аясы",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Сақтандыруды қамтамасыз ету келесі тәуекелдерді қамтиды:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Жазатайым оқиға салдарынан болған өлім немесе дене жарақаты.",
+  "flight_v2_component_bonus_service_text1_impediments": "Саяхат тәуекелдері, атап айтқанда, сапардан бас тарту/қысқарту, Сақтандырылған тұлғаның багажының, киімінің және жеке заттарының жоғалуы немесе бүлінуі, авиакомпания рейсінің кешігуі, кешіктірілген багаж, жоғалған жол жүру құжаттары немесе ұрлау.",
+  "flight_v2_component_bonus_service_text1_benefit": "Артықшылықтары",
+  "flight_v2_component_bonus_service_text1_small_amount": "Бірнеше қорғаныс үшін аз ғана ақша жұмсаңыз.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Жеке сақтандыру төлемдері:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Сақтандырумен қамтылған жазатайым оқиғадан немесе жарақаттан қайтыс болған сақтанушы 1 000 000 VND дейін сақтандыру сомасын толық алады.",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Туристік тәуекелді сақтандыру бойынша жеңілдіктер:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Сақтандырылған адамға ең көбі 20 000 000 VND дейін өтемақы төленеді.",
+  "flight_v2_component_bonus_service_text1_rules": "Шарттар",
+  "flight_v2_component_bonus_service_text1_more_information": "Қосымша ақпаратты қоса берілген файлдан табыңыз немесе хабарласыңыз",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Саяхаттарды сақтандыру ережелері",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Ұшуды сақтандыруға қатысуға келісіңіз",
+  "flight_v2_component_booking_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_component_booking_show": "Ары қарай оқу»",
+  "flight_v2_component_booking_hide": "Жасыру",
+  "flight_v2_component_booking_adult": "Ересектер",
+  "flight_v2_component_booking_children": "Балалар",
+  "flight_v2_component_booking_infant": "Балапан",
+  "flight_v2_component_booking_baggage": "Жүк",
+  "flight_v2_component_booking_main_content_service": "Қызметтер",
+  "flight_v2_component_booking_taxes_fees": "Алымдар мен салықтар",
+  "flight_v2_component_booking_title_booking_information": "Брондау туралы ақпарат",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Ұшу рейсі",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Қайту рейсі",
+  "flight_v2_component_confirm_title_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_component_confirm_text_done": "Дайын",
+  "flight_v2_component_detail_booking_information": "Брондау туралы ақпарат",
+  "flight_v2_component_detail_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_component_detail_passenger_information": "Жолаушы туралы ақпарат",
+  "flight_v2_component_payment_booking_information": "Брондау туралы ақпарат",
+  "flight_v2_component_payment_information": "ақпарат",
+  "flight_v2_component_payment_passenger_information": "Жолаушы туралы ақпарат",
+  "flight_v2_component_payment_making_flight_payment": "Сіз келесі жолаушылар үшін рейс төлемін жасайсыз:",
+  "flight_v2_component_payment_payment_now": "Төлеу",
+  "flight_v2_component_result_title_flight_details": "Ұшу мәліметтері",
+  "flight_v2_component_result_title_fare_details": "Тариф туралы мәліметтер",
+  "flight_v2_component_result_type_direct_flight": "Тікелей ұшу",
+  "flight_v2_component_result_title_showMessDiaLog": "Хабарландырулар",
+  "flight_v2_component_result_message_selected_return": "Сіз екі жаққа баратын рейсті таңдадыңыз",
+  "flight_v2_component_result_message_cancel_book": "Бас тартуды және жаңа рейске тапсырыс беруді қалайсыз ба?",
+  "flight_v2_component_result_actionMessage_yes": "Иә",
+  "flight_v2_component_result_negativeMessage_no": "Жоқ",
+  "flight_v2_component_result_trip_turn_departure": "Шығу",
+  "flight_v2_component_result_trip_turn_arrival": "Келу",
+  "flight_v2_notify_day_invalid_cannot_choose": "Сіз таңдай алмайсыз",
+  "flight_v2_notify_day_invalid_because": "өйткені",
+  "flight_v2_notify_day_invalid_date_is": "болып табылады",
+  "flight_v2_component_result_actionMessage_btn": "Келісемін",
+  "flight_v2_component_result_message": "Ағымдағы күннен бұрынғы күндерді таңдамаңыз",
+  "flight_v2_component_search_text_guest": "Жолаушы",
+  "flight_v2_component_search_button_save": "Сақтау",
+  "flight_v2_component_search_text_choose_a_date": "Күнді таңдаңыз",
+  "flight_v2_component_search_button_choose": "таңдаңыз",
+  "flight_v2_widget_booking_total_price": "Жалпы баға",
+  "flight_v2_widget_booking_continue": "Жалғастыру",
+  "flight_v2_widget_booking_payer_information": "Төлеуші ​​туралы ақпарат",
+  "flight_v2_widget_booking_payer_use_contact_information": "Контакт ақпаратын пайдаланыңыз",
+  "flight_v2_widget_booking_save_payment": "Бұл төлем ақпаратын келесі жолы үшін сақтаңыз",
+  "flight_v2_widget_booking_title_contact_information": "Байланыс ақпараты",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Ағымдағы шот туралы ақпаратты пайдаланыңыз",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Мен жолаушымын",
+  "flight_v2_widget_booking_radio_gender": "Жыныс",
+  "flight_v2_widget_booking_radio_male": "Еркек",
+  "flight_v2_widget_booking_radio_female": "Әйел",
+  "flight_v2_widget_booking_field_card_bank_card": "Банк картасы",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Тексерілген багаж",
+  "flight_v2_widget_booking_title_passenger_information": "Жолаушы туралы ақпарат",
+  "flight_v2_widget_booking_information": "ақпарат",
+  "flight_v2_widget_common_one_way": "Бір жол",
+  "flight_v2_widget_common_details": "Егжей",
+  "flight_v2_widget_common_text_price": "Бағасы",
+  "flight_v2_widget_common_text_fare_conditions": "Тариф шарттары",
+  "flight_v2_widget_common_text_service_pack": "Қызмет пакеттері",
+  "flight_v2_widget_common_item_tax_inclusive": "Салықты қосқанда",
+  "flight_v2_widget_common_item_vat": "ҚҚС",
+  "flight_v2_widget_common_item_fee_inclusive": "Төлем қосылған",
+  "flight_v2_widget_common_item_fee_surcharge": "Жүйе және әкімші қосымша ақысы",
+  "flight_v2_widget_common_item_fee_screening": "Қауіпсіздік скринингі үшін қосымша ақы",
+  "flight_v2_widget_common_item_fee_convenient": "Ыңғайлы төлем қосымша ақы",
+  "flight_v2_widget_common_item_fee_airport": "Әуежай ақысы",
+  "flight_v2_widget_common_text_price_per_ticket": "Базалық тариф",
+  "flight_v2_widget_common_text_taxes_fees": "Салықтар мен алымдар",
+  "flight_v2_widget_common_service_service": "Қызметтер",
+  "flight_v2_widget_common_text_total_amount": "Жалпы баға",
+  "flight_v2_widget_common_button_continue": "Жалғастыру",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(салықтар мен алымдар кіреді)",
+  "flight_v2_widget_common_service_accommodation_service": "Орналастыру қызметтері",
+  "flight_v2_widget_common_text_direct_flight": "Тікелей ұшу",
+  "flight_v2_widget_confirm_description": "Жыныс",
+  "flight_v2_widget_confirm_description_full_name": "Толық аты",
+  "flight_v2_widget_confirm_description_email": "Электрондық пошта",
+  "flight_v2_widget_confirm_description_phone_number": "Телефон нөмірі",
+  "address": "Мекенжай",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Брондау сәтті болды",
+  "flight_v2_widget_confirm_text_reservation_request": "Брондау сұрауыңыз сәтті орындалды",
+  "flight_v2_widget_confirm_text_paid_already": "(Ақылы)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Маршрут мәліметтерін төменде тексере аласыз.",
+  "flight_v2_widget_confirm_title_payment_information": "Төлем туралы ақпарат",
+  "flight_v2_widget_confirm_description_orders": "Тапсырыстар",
+  "flight_v2_widget_confirm_description_price": "Бағасы",
+  "flight_v2_widget_confirm_description_payers": "Төлеуші",
+  "flight_v2_widget_confirm_button_view_details": "Мәліметтерді көру",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Жаңа кітап",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Біздің қызметімізге сенім білдіргеніңіз үшін рахмет",
+  "flight_v2_widget_confirm_textspan_question_help": "Сұрақтарыңыз болса немесе қосымша көмек қажет болса, Hahalolo Анықтамалық орталығына хабарласыңыз",
+  "flight_v2_widget_confirm_text_paid_instructions": "нұсқаулар үшін.",
+  "flight_v2_widget_confirm_title_passenger_information": "Жолаушы туралы ақпарат",
+  "flight_v2_widget_confirm_title_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_widget_confirm_text_ticket_class": "Сынып",
+  "flight_v2_widget_confirm_text_booking_code": "Брондау анықтамасы",
+  "flight_v2_widget_confirm_text_flight": "Ұшу",
+  "flight_v2_widget_confirm_description_name": "Аты",
+  "flight_v2_widget_confirm_description_guest_type": "Жолаушы түрі",
+  "flight_v2_widget_confirm_description_baggage": "Жүк",
+  "flight_v2_widget_dialog_config_button_agree": "Келісемін",
+  "flight_v2_widget_dialog_config_button_deny": "Өткізіп жіберу",
+  "flight_v2_widget_dialog_config_title": "Ақпаратты өзгерту",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Іздеу ақпаратын өзгерткіңіз келетініне сенімдісіз бе\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Іздеу ақпаратыңызды өзгертуге келісесіз, барлық алдыңғы деректер жойылады",
+  "flight_v2_widget_dialog_config_title_delete_account": "Есептік жазбаны жою",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Есептік жазба Төлем шотын таңдау бөлімінде көрсетілмейді. Осы төлем шотын жойғыңыз келе ме? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Басқа ұшу уақытын таңдаңыз",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Іздеуді өзгерту",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Ұшу рұқсат етілген уақыттан асып кетті",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Сіз таңдаған рейс рұқсат етілген Брондау уақытынан асып кетті.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Бізге хабарласыңыз",
+  "flight_v2_widget_dialog_config_text_span_by_number": "арқылы",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Жедел желі",
+  "flight_v2_widget_dialog_config_text_span_or": "немесе",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "жаңа рейс іздеуді өзгертіңіз.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Басқа рейсті таңдаңыз",
+  "flight_v2_widget_dialog_config_title_not_available": "Ұшу қолжетімсіз\n",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Кешіріңіз, таңдаған рейс бұдан былай қолжетімді емес. Өтінемін",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "басқа рейсті таңдаңыз немесе іздеуді өзгертіңіз.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Тарифтің өзгеруі",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Тарифіңіз өзгерді",
+  "flight_v2_widget_dialog_config_text_span_to": "дейін",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nәуе компаниясының тарифтерінің өзгеруіне байланысты",
+  "flight_v2_widget_field_fname_required": "Тегі қажет",
+  "flight_v2_widget_field_fname_invalid": "Жарамсыз фамилия",
+  "flight_v2_widget_field_fname_last_name": "Фамилия (тондық белгілерсіз)",
+  "flight_v2_widget_field_lname_required": "Орташа және Аты-жөні қажет",
+  "flight_v2_widget_field_lname_invalid": "Жарамсыз орта және аты/берілген",
+  "flight_v2_widget_field_lname_middle_first_name": "Ортаңғы және аты/ат (тондық белгілері жоқ)",
+  "flight_v2_widget_field_email_required": "Электрондық пошта қажет",
+  "flight_v2_widget_field_email_invalid": "Жарамсыз электрондық пошта",
+  "flight_v2_widget_field_email_email": "Электрондық пошта",
+  "flight_v2_widget_field_phone_required": "Телефон нөмірі қажет",
+  "flight_v2_widget_field_phone_invalid": "Жарамсыз телефон нөмірі",
+  "flight_v2_widget_field_phone_phone": "Телефон нөмірі",
+  "flight_v2_widget_field_address_required": "Мекенжай қажет",
+  "flight_v2_widget_field_address_invalid": "Жарамсыз мекенжай",
+  "flight_v2_widget_field_address_address": "Мекенжай",
+  "flight_v2_widget_field_city_required": "Штат/қала қажет",
+  "flight_v2_widget_field_city_invalid": "Жарамсыз штат/қала",
+  "flight_v2_widget_field_city_city": "Штат/қала",
+  "flight_v2_widget_field_city_snackbar_text": "Қаланы таңдаудан бұрын ұлтыңызды таңдаңыз",
+  "flight_v2_widget_field_country_required": "Ұлты болуы керек",
+  "flight_v2_widget_field_country_invalid": "Жарамсыз ұлт",
+  "flight_v2_widget_field_country_country": "Ұлты",
+  "flight_v2_widget_field_field_card_hint": "Мүшелік карта нөмірі",
+  "flight_v2_widget_field_field_card_error_input": "Жарамсыз карта",
+  "flight_v2_widget_field_field_card_default_error": "Карта қажет",
+  "flight_v2_widget_field_field_date_hint": "Туған жылы",
+  "flight_v2_widget_field_field_date_error_input": "Өтінемін, бос қалдырмаңыз",
+  "flight_v2_widget_field_field_date_default_error": "Өтінемін, бос қалдырмаңыз",
+  "flight_v2_widget_field_field_date_default_error_infant": "Нәрестелер 2 жасқа толмаған болуы керек",
+  "flight_v2_widget_field_field_date_default_error_children": "Балалар 2 жастан 12 жасқа дейін болуы керек",
+  "flight_v2_widget_payment_contact_information": "Байланыс ақпараты",
+  "flight_v2_widget_payment_full_name": "Толық аты",
+  "flight_v2_widget_payment_gender": "Жыныс",
+  "flight_v2_widget_payment_phone_number": "Телефон нөмірі",
+  "flight_v2_widget_payment_address": "Мекенжай",
+  "flight_v2_widget_payment_birthday": "Туған жылы",
+  "flight_v2_widget_payment_male": "Еркек",
+  "flight_v2_widget_payment_female": "Әйел",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Толық аты:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Жыныс:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Туған жылы:",
+  "flight_v2_widget_payment_checked_baggage": "Тексерілген багаж",
+  "flight_v2_widget_payment_note": "Ескерту",
+  "flight_v2_widget_payment_information": "ақпарат",
+  "flight_v2_widget_payment_adult": "Ересек",
+  "flight_v2_widget_payment_children": "Бала",
+  "flight_v2_widget_payment_infant": "Балапан",
+  "flight_v2_widget_payment_title_adult_information": "Ересектерге арналған ақпарат",
+  "flight_v2_widget_payment_title_children_information": "Бала туралы ақпарат",
+  "flight_v2_widget_payment_title_infant_information": "Нәресте туралы ақпарат",
+  "flight_v2_widget_payment_customer_information": "Жолаушы туралы ақпарат",
+  "flight_v2_widget_payment_edit_information": "Ақпаратты өңдеу",
+  "flight_v2_widget_payment_bonus_services": "Қосымша қызметтер",
+  "flight_v2_widget_payment_membership_card_number": "Мүшелік карта нөмірі",
+  "flight_v2_widget_payment_text_loyal_customer": "Жиі ұшатындар",
+  "flight_v2_widget_payment_text_making_flight_payment": "Сіз келесі жолаушылар үшін рейс төлемін жасайсыз:",
+  "flight_v2_widget_result_total_amount": "Жалпы баға",
+  "flight_v2_widget_result_taxes_fees": "(салықтар мен алымдар кіреді)",
+  "flight_v2_widget_result_elevate_button_book": "Кітап",
+  "flight_v2_widget_result_text_flight": "Сегмент",
+  "flight_v2_widget_result_text_departure_flight": "Ұшу рейсі",
+  "flight_v2_widget_result_text_return_flight": "Қайту рейсі",
+  "flight_v2_component_code_title": "Резервті іздеңіз",
+  "flight_v2_component_code_retype": "Қайта енгізіңіз",
+  "flight_v2_component_code_search_btn": "Іздеу",
+  "flight_v2_component_code_error": "Брондау туралы ақпарат табылмады.\nТексеріп, әрекетті қайталаңыз.",
+  "flight_v2_widget_detail_text_booking_code": "Брондау анықтамасы:",
+  "flight_v2_widget_detail_text_status": "Күйі:",
+  "flight_v2_widget_detail_text_booked": "Брондалды",
+  "flight_v2_widget_detail_text_cancelled": "Бас тартылды",
+  "flight_v2_widget_detail_text_paid": "Ақылы",
+  "flight_v2_widget_detail_text_unpaid": "Төленбеген",
+  "flight_showcase_domestic_round_trip_step1": "Уақыт күннің ең төменгі тарифімен көрсетіледі",
+  "flight_showcase_domestic_round_trip_step2": "Ұшу уақытын қайта таңдау үшін екі жағына сырғытыңыз",
+  "flight_showcase_domestic_round_trip_step3": "Ұшу рейсін таңдаңыз",
+  "flight_showcase_domestic_round_trip_step4": "Қайту рейсін таңдаңыз",
+  "flight_showcase_domestic_round_trip_step5": "Ұшу және кері рейстерді кез келген уақытта қайта таңдауға болады",
+  "flight_showcase_domestic_round_trip_step6": "Брондау алдында жеткілікті рейстерді таңдау керек",
+  "flight_showcase_inter_round_trip_step1": "Өзіңіз үшін қолайлы ұшу сапарын таңдаңыз",
+  "flight_showcase_inter_round_trip_step1_desc": "Ұшу сапары ұшу және кері рейстен тұрады",
+  "flight_showcase_place_from": "бастап",
+  "flight_showcase_place_to": "Кімге",
+  "flight_showcase_tutorial": "Оқулық",
+  "flight_showcase_back": "Артқа",
+  "flight_showcase_done": "Аяқталды",
+  "flight_showcase_continue": "Келесі",
+  "flight_v2_component_code_hint_text": "Брондау анықтамасын енгізіңіз",
+  "flight_v2_component_booking_text_note_upon": "Қашан",
+  "flight_v2_component_booking_text_payment_after": "КЕЙІН ТӨЛЕҢІЗ",
+  "flight_v2_component_booking_text_your_booking": ", брондау 12 сағат ішінде орындалады. Белгіленген уақыт ішінде төлеміңізді әлі де жасамасаңыз, ол автоматты түрде жойылады. Брондау процесін аяқтау үшін төлемді белгіленген уақыт ішінде жасаңыз.",
+  "flight_v2_dialog_default_payment_error": "Төлем процесінде қате орын алды. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Hahalolo тұтынушыларға қызмет көрсету орталығына хабарласыңыз",
+  "flight_v2_dialog_default_payment_not_success": "Төлем орындалмады",
+  "flight_v2_component_result_message_appropriate_flight": "Қайту рейсінің ұшып көтерілу уақыты жөнелту рейсінің қону уақытынан кейін кемінде 02 сағаттан кейін болуы керек. Сәйкес рейсті таңдаңыз.",
+  "flight_v2_component_notification_not_available": "Ұшу қолжетімді емес",
+  "flight_v2_search_enter_your_reservation": "Брондау ақпаратын іздеу үшін брондау анықтамасын енгізіңіз",
+  "flight_v2_search_booking_reference": "Брондау анықтамасы",
+  "flight_v2_search_title_booking_code": "Әуе брондауыңызды іздеу үшін брондау анықтамасын енгізіңіз",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Фамилия (тоникалық белгілерсіз)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Әкесінің аты және аты/жөні (тондық белгілері жоқ)",
+  "flight_v2_widget_common_rules_1": "Халықаралық рейстер немесе халықаралық транзит үшін төлқұжатыңыз ұшу күніне дейін кемінде 06 ай бойы жарамды болуы керек.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines және Bamboo Airways: жүкті жолаушыларды жүктілік мерзімі 36 аптадан бастап тасымалдаудан бас тартады. Vietjet Air және Vietravel Airlines: жүкті жолаушыларды жүктілігі 32 аптадан бастап тасымалдаудан бас тартады.",
+  "flight_v2_widget_common_rules_3": "14 күннен 02 жасқа дейінгі нәресте 18 жастан асқан ересек адаммен бірге жүруі керек.",
+  "flight_v2_widget_common_rules_4": "Балалардың/сәбилердің жасы баланың туу туралы куәлігі/паспорты негізінде туған күнінен бастап рейстің ұшып шығу күніне дейін есептеледі.",
+  "flight_v2_widget_common_rules_5": "Жалғыз ұшатын балалар үшін еріп жүрмейтін кәмелетке толмағандар қызметі туралы қосымша ақпарат алу үшін агентке тікелей хабарласыңыз.",
+  "flight_range_slider_price_range": "Баға диапазоны",
+  "flight_v2_common_done": "Дайын",
+  "flight_v2_detail_airline_operator_by": "Басқарушы: '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Ескерту: Жолаушылар қабылдаушы елдің өтініші бойынша кедендік ресімдеуден өтуі және транзиттік визасын ұсынуы талап етілуі мүмкін.",
+  "flight_v2_detail_airline_total_price": "Барлығы",
+  "flight_v2_detail_airline_title_tax_and_fee": "(салықтар мен алымдарды қоса алғанда)",
+  "flight_v2_detail_airline_button_add_ticket": "Билет қосыңыз",
+  "flight_v2_detail_airline_button_change_ticket": "Билетті өзгерту",
+  "flight_v2_detail_airline_button_booking_ticket": "Билет брондаңыз",
+  "flight_v2_detail_airline_departure_flight": "Ұшу рейсі",
+  "flight_v2_detail_airline_return_flight": "Қайту рейсі",
+  "flight_v2_information_contact_email": "Электрондық пошта",
+  "flight_v2_information_customer_title_full_name": "Толық аты-жөні: {fullName}",
+  "flight_v2_information_customer_title_gender": "Жынысы: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Туған күні: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Ескертпе: {HAHALOLO} пайдаланушыларға {free} банк алымдарымен қолдау көрсетеді)",
+  "flight_v2_payment_include_free_fee_payment": "ТЕГІН",
+  "flight_v2_payment_use_saved_info_user": "Контакт ақпаратын немесе сақталған төлем ақпаратын пайдаланыңыз",
+  "flight_v2_payment_success_thank_user": "'{HAHALOLO}' қызметіне сенім білдіргеніңіз үшін рахмет. Қандай да бір сұрақтарыңыз болса немесе қосымша көмек қажет болса, нұсқаулар алу үшін {phone} мекенжайы бойынша Hahalolo анықтама орталығына хабарласыңыз.",
+  "flight_v2_payment_success_notifier": "Брондау сұрауыңыз сәтті орындалды '{wasPayment}'. Маршрут мәліметтерін төменде тексере аласыз.",
+  "flight_v2_payment_success_was_payment": "(Ақылы)",
+  "flight_v2_payment_success_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_payment_success_outbound_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_payment_success_return_flight_information": "Қайту рейсі туралы ақпарат",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Ересек",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Бала",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Baby",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Ересектерге арналған ақпарат {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Бала туралы ақпарат {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Нәресте туралы ақпарат {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Ересектер",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Балалар",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Сәбилер",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "{place} ішінде шамамен {time} транзит уақыты",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Салықтар мен алымдар (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Негізгі тариф (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Соңғы кету уақыты",
+  "flight_v2_widget_detail_text_departure_flight": "Ұшу рейсі",
+  "flight_v2_widget_detail_text_return_flight": "Қайту рейсі",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(салықтар мен алымдарды қоса алғанда)",
+  "flight_input_title_note_1": "Төлқұжат маршруттағы бірінші сегменттің кету күніне дейін кемінде 06 ай бойы жарамды болуы керек екенін ескеріңіз.",
+  "flight_input_title_note_2": "Жолаушылардан тиісті құжаттары болуы және баратын елдің ережелері мен иммиграциялық процедураларына сай болуы талап етіледі.",
+  "flight_input_title_note_3": "Жолаушыларда белгіленген тәртіпте жарамды құжаттары болмаса, авиакомпания тасымалдаудан бас тарту құқығын өзіне қалдырады.",
+  "flight_input_title_note_4": "Әуе компаниясы жолаушыларды кіргізбей қойған жағдайда жауапкершілік көтермейді.",
+  "flight_input_title_note_5": "Жолаушылар әуежайда уақытында тіркелуі керек.",
+  "flight_input_title_note_6": "Еріп жүруі жоқ кәмелетке толмаған жолаушылар әуе компаниясына тікелей хабарласуы керек.",
+  "flight_input_title_note_7": "Жүктілік мерзімі 32 аптадан бастап жүкті жолаушылар әуе компаниясына тікелей хабарласуы керек.",
+  "flight_input_title_note_8": "Жолаушылардың жасы төлқұжат және туу туралы куәлік сияқты жолаушының жеке басын куәландыратын құжаттар негізінде маршруттағы бірінші рейс сегментінің туған күні мен кету күні арасындағы уақыт аралығына сәйкес есептеледі.",
+  "flight_input_passenger_choose_birth_day": "Туған күніңізді таңдаңыз",
+  "flight_input_payment_show_passenger_title": "Сіз келесі жолаушылар үшін рейске тапсырыс бересіз:",
+  "flight_input_payment_reservation": "Кітап",
+  "flight_v2_model_booking_luggage_handle": "Қол жүгі",
+  "flight_search_result_progress_searching_title": "Іздеуде...",
+  "flight_v2_dialog_unavailable_ticket": "Ұшу қолжетімді емес",
+  "flight_v2_dialog_choose_ticket": "Сіз рейсті таңдадыңыз",
+  "flight_v2_dialog_from": "бастап",
+  "flight_v2_dialog_time_take_off_flight": "Ұшу уақыты",
+  "flight_v2_dialog_happening": "орын алуы керек",
+  "flight_v2_dialog_minimum_hour": "кем дегенде 02 сағат",
+  "flight_v2_dialog_after_trip": "ұшудан кейін",
+  "flight_v2_dialog_landed": "қонды.",
+  "flight_v2_dialog_choose_again_ticket": "Басқа рейсті таңдағыңыз келе ме?",
+  "flight_passenger_view_service_packages": "Қызмет пакеттері",
+  "flight_passenger_view_check_in_baggage": "Тексерілген багаж:",
+  "flight_v2_widget_detail_text_departure": "Шығу",
+  "flight_v2_widget_detail_text_destination": "Баратын жер",
+  "flight_handnote_international_item_view_order_code": "Тапсырыс коды",
+  "flight_handnote_international_order_vieư": "Жаңартылған күн",
+  "flight_order_detail_view_booking_code": "Брондау анықтамасы",
+  "flight_handnote_international_item_view_departure_date": "Шығу күні",
+  "flight_handnote_international_item_view_booking_status": "Брондау күйі",
+  "flight_input_passenger_infor_title": "Жолаушы туралы ақпарат",
+  "flight_input_payment_show_contact_full_name": "Толық аты",
+  "flight_passenger_view_guest_type": "Жолаушы түрі",
+  "flight_passenger_view_ticket_number": "Билет нөмірі",
+  "flight_order_detail_title_flight_information": "Ұшу туралы ақпарат",
+  "flight_v2_dialog_common_agree": "Келісемін",
+  "flight_v2_dialog_common_confirm": "Растау",
+  "flight_v2_dialog_common_skip": "Өткізіп жіберу",
+  "flight_v2_dialog_common_cancel": "Болдырмау",
+  "flight_v2_dialog_common_exit": "Шығу",
+  "flight_v2_dialog_common_change_flight": "Келісемін",
+  "flight_v2_dialog_common_change_search": "Іздеуді өзгерту",
+  "flight_v2_dialog_title_change_information": "Ақпаратты өзгерту",
+  "flight_v2_dialog_sub_title_change_information": "Іздеу ақпаратын өзгерткіңіз келетініне сенімдісіз бе?",
+  "flight_v2_dialog_message_change_information": "Іздеу ақпаратын өзгертуге келісесіз, барлық алдыңғы деректер жойылады",
+  "flight_v2_dialog_title_not_available": "Ұшу қолжетімді емес",
+  "flight_v2_dialog_message_not_available": "Кешіріңіз, сіз таңдаған рейс қазір қолжетімді емес. '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "басқа рейсті таңдаңыз немесе іздеуді өзгертіңіз",
+  "flight_v2_dialog_title_exceed_time_allow": "Ұшу рұқсат етілген уақыттан асып кетті",
+  "flight_v2_dialog_message_exceed_time_allow": "Сіз таңдаған рейс рұқсат етілген брондау уақытынан асып кетті. '{HAHALOLO}' компаниясына '{hotline}' немесе '{changeOtherFlight}' арқылы хабарласыңыз.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "жаңа рейстерді іздеуді өзгерту",
+  "flight_v2_dialog_title_delete_account": "Төлем шотын жою",
+  "flight_v2_dialog_sub_title_delete_account": "Осы төлем шотын жойғыңыз келетініне сенімдісіз бе?",
+  "flight_v2_dialog_message_delete_account": "Есептік жазба енді төлем шотын таңдауда көрсетілмейді.",
+  "flight_v2_dialog_title_change_ticket_price": "Тарифтің өзгеруі",
+  "flight_v2_dialog_message_change_ticket_price": "Тапсырыс сомасы '{oldPrice}' орнынан '{newPrice}' болып өзгерді. Бар болса, купон кодын/тиындарын/ұпайларды қайта таңдаңыз.",
+  "flight_v2_dialog_title_min_support_payment": "Тапсырыс төлемге жарамайды",
+  "flight_v2_dialog_message_min_support_payment": "Жарамды тапсырыстың жалпы төлемі '{minRange}' немесе ең азы '{maxRange}'. Төлем шарттарын орындау үшін купон кодын, монеталарды немесе ұпайларды өзгертуге болады",
+  "flight_v2_dialog_title_order_not_found": "Хабарландырулар",
+  "flight_v2_dialog_message_order_not_found": "Тапсырыс табылмады",
+  "flight_v2_dialog_title_exit_order": "Тапсырысты шығыңыз",
+  "flight_v2_dialog_message_exit_order_cart": "Сіздің арбаңыз",
+  "flight_v2_dialog_title_payment_error_default": "Төлем орындалмады",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Hahalolo тұтынушыларға қызмет көрсету орталығына '{here}' хабарласыңыз.",
+  "flight_v2_dialog_message_payment_error_here": "Мұнда",
+  "flight_v2_dialog_title_voucher_fee_change": "Тарифтің өзгеруі",
+  "flight_v2_dialog_message_voucher_fee_change": "Тариф '{oldPrice}' орнынан '{newPrice}' болып өзгерді. Көмек алу үшін тұтынушыларға қызмет көрсету орталығына Hahalolo '{here}' хабарласыңыз.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "Мұнда",
+  "flight_v2_dialog_title_system_error": "Хабарландырулар",
+  "flight_v2_dialog_message_system_error": "Тапсырысыңыз сәтті төленді және жақын арада анықтамаларыңызда жаңартылады.",
+  "flight_v2_dialog_title_voucher_not_available": "Хабарландырулар",
+  "flight_v2_dialog_message_voucher_not_available": "Купон коды қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "flight_v2_dialog_title_point_not_available": "Хабарландырулар",
+  "flight_v2_dialog_message_point_not_available": "Ұпайлар қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "flight_v2_dialog_title_coin_not_available": "Хабарландырулар",
+  "flight_v2_dialog_message_coin_not_available": "Монеталар қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "flight_v2_dialog_halo_support": "'{message}'. Hahalolo тұтынушыларға қызмет көрсету орталығына '{here}'хабарласыңыз.",
+  "flight_v2_dialog_halo_support_here": "Мұнда",
+  "flight_v2_dialog_title_stripe_error": "Хабарландырулар",
+  "flight_v2_price_info_read_more": "Толығырақ көру",
+  "flight_v2_price_info_total_payment": "Жалпы төлем",
+  "flight_v2_price_info_before_payment": "Алдын ала төленген сома",
+  "flight_v2_component_booking_title_payment_information": "Төлем туралы ақпарат",
+  "flight_v2_model_booking_checked_baggage": "Тіркелген багаж (көбірек сатып алуға болады)",
+  "flight_v2_widget_booking_coupon_code": "Купон коды",
+  "flight_v2_widget_booking_use_coins": "Монеталарды пайдаланыңыз",
+  "flight_v2_component_booking_use_point": "Ұпайларды пайдаланыңыз",
+  "flight_v2_widget_booking_title_fare_details": "Тариф туралы мәліметтер",
+  "flight_v2_widget_confirm_title_contact_information": "Байланыс ақпараты",
+  "flight_input_passenger_hint_birth_day": "Туған кезі",
+  "flight_v2_widget_booking_membership_card_number": "Мүшелік карта нөмірі",
+  "flight_passenger_view_baggage": "Жүк",
+  "flight_v2_dialog_message_exit_order": "Ұшақты брондау жасалуда. Шығыңыз, тапсырысыңыз әлі де '{cart}' ішінде сақталады. Бұл тапсырысты '{time}' дейін төлей аласыз",
+  "flight_v2_dialog_message_exit_order_no_hold": "Сіздің рейске тапсырысыңыз жасалмады. Шығыңыз, тапсырысыңыз әлі де '{cart}' ішінде сақталады. Билет беруді аяқтау үшін төлем жасай аласыз",
+  "flight_v2_payment_back_from_payment": "Ұшақты брондау жасалуда. Тапсырыс туралы ақпаратты өзгерту мүмкін емес. Билетті беруді аяқтау үшін '{time}' дейін төлем жасаңыз.",
+  "flight_v2_payment_back_from_payment_no_hold": "Сіздің рейске тапсырысыңыз жасалмады. Брондау және билетті беруді аяқтау үшін төлем жасаңыз.",
+  "flight_price_detail_view_total_fare": "Жалпы тариф",
+  "flight_price_detail_view_service_fee": "Қызмет ақысы",
+  "flight_price_detail_view_payment_fee": "Төлем комиссиясы",
+  "flight_v2_notification_baggage": "Сіз {baggage} параметрін таңдадыңыз. Төмендегі мәліметтерді қараңыз.",
+  "flight_check_the_details": "Төмендегі мәліметтерді тексеруге болады.",
+  "flight_order_detail_view_information_order": "Тапсырыс туралы ақпарат",
+  "flight_v2_search_code_no_reservation_yet": "Әлі брондалмаған",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Ескерту: Тұтынушы туралы ақпарат әлі аяқталған жоқ",
+  "tour_booking_screen_update_information": "Қазір жаңартыңыз",
+  "tour_booking_screen_textspan_note": "(Ескерту: төлем комиссиясы)",
+  "tour_booking_loading_message": "Тапсырыс ақпараты алынуда, сәл күтіңіз",
+  "tour_booking_last_name": "Тек",
+  "tour_booking_middle_and_first_name": "Орташа және бірінші/берілген атау",
+  "tour_booking_or_detail_phone_number": "Телефон нөмірі",
+  "tour_booking_or_detail_address": "Мекенжай",
+  "tour_booking_province_city": "Облыс/қала",
+  "tour_booking_country": "Ел",
+  "tour_booking_title_booking_information": "Брондау туралы ақпарат",
+  "tour_booking_bottom_detail_price_error": "Карта ақпараты дұрыс емес. Қайта тексеріңіз.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Купон кодын қолдану мүмкін емес",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Жарамсыз купон коды",
+  "tour_booking_update_item_cart_action_message": "Жабық",
+  "tour_booking_update_item_cart_title": "Хабарландырулар",
+  "tour_booking_update_item_cart_msg_error_last": "Тапсырысты жаңарту кезінде қате орын алды, әрекетті қайталаңыз.",
+  "tour_booking_screen_payment_methods": "Төлем опциясы",
+  "tour_booking_screen_accept": "Қабылдау",
+  "tour_booking_screen_coupon_code": "Купон коды",
+  "tour_booking_screen_insert_code": "Кодты енгізіңіз",
+  "tour_booking_screen_default_msgError": "Қате орын алды. Қайталап көріңіз.",
+  "tour_booking_screen_on_failed_error_2008": "Сіз таңдаған ай бойынша тур кестесі қазір қолжетімді емес. Басқа тур кестесін таңдаңыз.",
+  "tour_booking_screen_on_failed_error_2202": "Бет жарияланбаған немесе сіз жасты орнатпадыңыз.",
+  "tour_booking_screen_on_failed_error_2301": "Тур қолжетімді емес.",
+  "tour_booking_screen_on_failed_error_2303": "Тур параққа жатпайды.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Брондау мерзімі аяқталды.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Hahalolo тұтынушыларға қызмет көрсету орталығына хабарласыңыз",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "Мұнда",
+  "tour_booking_screen_content_apply_voucher_failed_help": "көмек үшін.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Осы тапсырыс үшін пайдалануға болатын монеталардың максималды саны.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Қолдану",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} монеталар",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "төлеу үшін.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Сәйкес",
+  "tour_booking_success_text_done": "Дайын",
+  "tour_booking_success_header_booking_success": "Брондау сәтті болды",
+  "tour_booking_success_header_textspan_reservation_success": "Брондау сұрауыңыз сәтті орындалды",
+  "tour_booking_success_header_textspan_paid": "(Ақылы).",
+  "tour_booking_success_header_textspan_itinerary_details": "Маршрут мәліметтерін төменде тексере аласыз.",
+  "tour_booking_success_title_tour_information": "Тур туралы ақпарат",
+  "tour_booking_success_tour_information_tour_name": "Тур атауы",
+  "tour_booking_success_tour_information_departure": "Шығу",
+  "tour_booking_success_tour_information_departure_date": "Шығу күні",
+  "tour_booking_success_tour_information_end_date": "Аяқталу күні",
+  "tour_booking_success_tour_information_Number_of_days": "Күндер саны",
+  "tour_booking_success_tour_information_passengers": "Жолаушылар саны",
+  "tour_booking_success_tour_information_detail_Passengers": "1 ересек",
+  "tour_booking_success_title_contact_information": "Байланыс ақпараты",
+  "tour_booking_success_contact_information_full_name": "Толық аты:",
+  "tour_booking_success_contact_information_email": "Электрондық пошта:",
+  "tour_booking_success_contact_information_phone_number": "Телефон нөмірі:",
+  "tour_booking_success_contact_information_address": "Мекен-жайы:",
+  "tour_booking_success_title_installment_information": "Бөліп төлеу туралы ақпарат",
+  "tour_booking_success_installment_information_total_order_value": "Жалпы тапсырыс құны:",
+  "tour_booking_success_installment_information_prepaid_rate": "Алдын ала төленген мөлшерлеме:",
+  "tour_booking_success_installment_information_prepayment_amount": "Алдын ала төленген сома:",
+  "tour_booking_success_installment_information_remaining_amount": "Қалған теңгерім:",
+  "tour_booking_success_installment_information_conversion_information": "Ақпаратты түрлендіру ақысы:",
+  "tour_booking_success_installment_information_banking_fee": "Банк комиссиясы:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Бөліп төлеу мөлшерлемесі (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Бөліп төлеу пайызы (ай):",
+  "tour_booking_success_installment_information_total_amount": "Бөліп төлеудің жалпы сомасы:",
+  "tour_booking_success_installment_information_payment_term": "Бөліп төлеу мерзімі (ай):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} ай",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Ай сайынғы жарна сомасы:",
+  "tour_booking_success_installment_information_next_installment_period": "Келесі жарна теноры",
+  "tour_booking_success_title_transaction_information": "Транзакция туралы ақпарат",
+  "tour_booking_success_transaction_information_tour_id": "Тур ID:",
+  "tour_booking_success_transaction_information_booking_code": "Брондау нөмірі:",
+  "tour_booking_success_transaction_information_total_payment": "Жалпы төлем:",
+  "tour_booking_success_transaction_information_payer": "Төлеуші:",
+  "tour_booking_success_transaction_information_address": "Мекен-жайы:",
+  "tour_booking_success_transaction_information_content_billing": "Төлем мазмұны:",
+  "tour_booking_success_transaction_information_order_payment": "Төлемге тапсырыс беру",
+  "tour_booking_success_transaction_information_order_advance": "Бөліп төлеу тапсырысы",
+  "tour_booking_success_textspan_footer_thanks": "Hahalolo қызметіне сенім білдіргеніңіз үшін рахмет.",
+  "tour_booking_success_textspan_footer_doubt": "Сұрақтарыңыз болса немесе қосымша көмек қажет болса, Hahalolo анықтама орталығына хабарласыңыз",
+  "tour_booking_success_textspan_footer_last_text": "нұсқаулар үшін.",
+  "tour_booking_success_bottomview_view_details": "Мәліметтерді көру",
+  "tour_booking_success_bottomview_new_booking": "Жаңа кітап",
+  "tour_booking_title_info_detail_tour": "Тур мәліметтері",
+  "tour_booking_info_detail_tour_title_info_tour": "ақпарат",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Тур атауы",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Пху Кью аралының ашылуы",
+  "tour_booking_or_detail_tour_id": "Тур ID",
+  "tour_booking_or_detail_tour_time": "Уақыт",
+  "tour_booking_or_detail_departure_date": "Шығу күні",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Аяқталу күні",
+  "tour_booking_or_detail_tour_departure": "Шығу",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Баратын жер",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Тур түрі",
+  "tour_booking_info_detail_tour_info_tour_description": "Сипаттама",
+  "tour_booking_info_detail_tour_title_table_price": "Турдың баға тізімі",
+  "tour_booking_starttext_adult": "Ересек",
+  "tour_booking_starttext_child": "Бала",
+  "tour_booking_starttext_young_child": "Жас бала",
+  "tour_booking_starttext_baby": "Балапан",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Бөлшектердің тізімі",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Нормативтік ақпарат",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Жеке ережелер",
+  "tour_booking_info_detail_tour_title_installment_policy": "Бөліп төлеу жоспары",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Жалпы сома",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Алдын ала төленген сома",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Төлеу",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Қызметтер",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Науқан",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Науқанды пайдаланыңыз",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Тиындарды пайдаланыңыз",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Жалпы сома",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "100% алдын ала төлемге жеңілдік кіреді",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Жарнамалық құндылық:",
+  "tour_booking_title_item_count_passenger": "Жолаушылар саны",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "{age} жастан асқан",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} жаста",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "{age} жасқа толмаған",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Саяхатшы туралы ақпаратты кейінірек енгізу үшін қолдау сұраңыз",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Саяхатшы туралы ақпаратты енгізіңіз",
+  "tour_booking_title_item_info_billing": "Төлеуші ​​туралы ақпарат",
+  "tour_booking_item_info_billing_use_contact_info": "Контакт ақпаратын пайдаланыңыз",
+  "tour_booking_title_item_info_contact_person": "Байланыс ақпараты",
+  "tour_booking_title_item_method_payment": "Төлем тәсілі",
+  "tour_booking_item_method_payment_text_full_payment": "100% төлем",
+  "tour_booking_item_method_payment_text_installment_payment": "Бөліп төлеу",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Сіз {discount}% жеңілдік аласыз",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Жеңілдіктен кейінгі тапсырыс құнының жалпы төленетін сомасы:",
+  "tour_booking_title_item_select_service": "Ілеспе қызметтер",
+  "tour_booking_item_select_service_add_service": "Қызметті қосыңыз",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Біз келесі мерзімдерде бөліп төлеу тапсырысы үшін төлемнің растау кодын электрондық пошта арқылы жібереміз:",
+  "tour_booking_pay_installment_check_email": "Электрондық пошта мекенжайыңызды екі рет тексеріңіз.",
+  "tour_booking_pay_installment_number_installments_months": "Бөліп төлеу айларының саны",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Бөліп төлеу мөлшерлемесі",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Сіз тур құнының ішінара алдын ала төлемін жасауыңыз керек. Ай сайынғы жарна сомасы алдын ала сәтті төлегеннен кейін өтелмеген қалдық негізінде есептеледі.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Қалаған алдын ала төлем пайызын енгізіңіз",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Бөліп төлеу мәліметтері",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Жоқ.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "ақпарат",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Мән",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Тапсырыс мәні",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Алдын ала төленген мөлшерлеме",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Алдын ала төленген құн",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Қалған теңгерім",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Ақпаратты түрлендіру ақысы",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Банктік төлем комиссиясы",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Пайыздық мөлшерлеме (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Бөліп төлеу пайызы",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Бөліп төлеудің жалпы сомасы",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Бөліп төлеу мерзімі (ай)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Келесі жарна теноры",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Ай сайынғы жарна сомасы",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} Айлар",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Бөліп төлеу жоспары",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Бөліп төлеу жоспарының мәліметтері",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Ілеспе қызметтер",
+  "tour_booking_item_service_init_service_number_of_travelers": "Жолаушылар саны",
+  "tour_booking_group_months_installment_label": "{month} ай",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Саяхат армандары",
+  "tour_detail_text_number_people_haha_page": "1 839 017 адам Haha бұл бет",
+  "tour_detail_screen_theme_text_indochina_discovery": "Үндіқытайдың ашылуы: Теңіз жағалары және көше тағамдары",
+  "tour_detail_text_installment_tour": "БӨЛІП ТӨЛЕУ ТУР",
+  "tour_detail_text_view_details": "Мәліметтерді көру",
+  "tour_detail_number_promotions": "{promotions} Акциялар",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "қолжетімді",
+  "tour_detail_tab_info": "ақпарат",
+  "tour_detail_tab_tour_parts": "Маршрут мәліметтері",
+  "tour_detail_tab_promotion": "Науқан",
+  "tour_detail_tab_privacy_policy": "Құпиялылық саясаты",
+  "tour_detail_tab_separate_regulations": "Жеке ережелер",
+  "tour_detail_tab_contact": "Байланыс",
+  "tour_detail_view_tab_installment": "Бөліп төлеу жоспары",
+  "tour_detail_text_only_from": "Тек бастап",
+  "tour_detail_view_emptyTitle": "Тур енді қолжетімді емес",
+  "tour_detail_text_change_date": "Күнді өзгерту",
+  "tour_detail_text_book_now": "Қазір тапсырыс беріңіз",
+  "tour_detail_view_action_menu_time_line": "Хронология",
+  "tour_detail_view_action_menu_tour_List": "Тур тізімі",
+  "tour_detail_view_action_menu_introduction": "Кіріспе",
+  "tour_detail_view_action_menu_promotion": "Науқан",
+  "tour_detail_view_action_menu_appraise": "Пікірлер",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} адам Haha осы бет",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Сіз таңдаған ай бойынша тур кестесі қазір қолжетімді емес.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Басқа тур кестесін таңдаңыз.",
+  "tour_detail_choose_schedule_title": "Кестені таңдаңыз",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Шығу кестесі",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Шығу кестесі қолжетімді емес",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Кету күні: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "бастап",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "{city} қаласынан",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Соңы",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "{city} қаласына",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Науқан",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Бағасы",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Қазір брондау",
+  "tour_detail_contact_infor_view_empty_title": "Байланыс ақпараты жаңартылуда",
+  "tour_detail_contact_infor_view_company_name": "Компанияның Аты",
+  "tour_detail_infor_view_text_starting_from": "бастап",
+  "tour_detail_infor_view_text_ends_at": "Аяқталу уақыты",
+  "tour_detail_infor_view_tour_type_domestic": "Ішкі тур",
+  "tour_detail_infor_view_tour_type_international": "Халықаралық тур",
+  "tour_detail_infor_view_tour_text_info": "ақпарат",
+  "tour_detail_infor_view_tour_types": "Түр",
+  "tour_detail_infor_view_tour_service": "Тур қызметтері",
+  "tour_detail_emptyTitle_no_data_found": "Деректер табылмады",
+  "tour_detail_promotion_view_empty_title": "Ешқандай акциялар қолжетімді емес",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Жарнама деңгейлері {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% жеңілдік",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} жеңілдік",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Ең аз тапсырыс құны: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Ересектердің ең аз саны: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Артқа",
+  "tour_detail_shimmer_loading_message": "... адамдар Haha бұл бет",
+  "tour_hand_note_tabs_verify_sent_to_email": "Сізге растау кодын pham54833@gmail.com мекенжайына жібердік",
+  "tour_hand_note_tabs_price": "Бағасы",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Тапсырысты тоқтату",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Бұл әрекетті орындағыңыз келе ме?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Растау",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Болдырмау",
+  "tour_hand_note_footer_action_total_amount": "Жалпы сома",
+  "tour_hand_note_footer_action_pay": "Төлеу",
+  "tour_hand_note_order_payment_view_order_id": "Тапсырыс коды",
+  "tour_hand_note_order_payment_view_paid": "Ақылы",
+  "tour_hand_note_order_payment_view_total_price": "Жалпы баға",
+  "tour_hand_note_order_payment_view_remaining_amount": "Қалған теңгерім",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Бөліп төлеу мерзімі",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Ай: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Бөліп төлеу сомасы",
+  "tour_hand_note_order_payment_view_next_installment_period": "Келесі жарна теноры",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Жалпы төлем",
+  "tour_handnote_banner_waring_input_verify_error": "Тексеру кезінде қате орын алды. Қайталап көріңіз немесе  түймесін түртіңіз.",
+  "tour_lockup_empty_title": "Тур туралы ақпарат табылмады",
+  "tour_lockup_title_info": "Тур туралы ақпарат",
+  "tour_lockup_form_search_hind_text_enter_promo": "Жарнамалық кодты енгізіңіз",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} күндер} other{{days} күндер}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Бәрі",
+  "tour_handnote_tab_awaiting": "Растауды күтуде",
+  "tour_handnote_tab_awaiting_fulfilment": "Орындалуын күтуде",
+  "tour_handnote_tab_ongoing": "Ағымдағы",
+  "tour_handnote_tab_completed": "Аяқталды",
+  "tour_handnote_tab_canceled": "Бас тартылды",
+  "tour_detail_page_programs_detail": "Бағдарлама мәліметтері",
+  "tour_detail_page_passenger_title": "Тұтынушы",
+  "tour_detail_info_guest_edit_title": "Өңдеу",
+  "tour_detail_info_guest_update_title": "Жаңарту",
+  "tab_tour_detail_order_cancel_order": "Тапсырысты тоқтату",
+  "tab_tour_detail_order_cancel_order_confirm": "Бұл әрекетті орындағыңыз келе ме?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Растау",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Болдырмау",
+  "tab_tour_detail_order_waiting_confirmation": "Растауды күтуде",
+  "tab_tour_detail_order_code_order_tour_title": "Брондау нөмірі",
+  "tour_detail_stage_view_title": "{stage}-бөлім",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Төлемге монеталар қолданылды. Төмендегі мәліметтерді қараңыз",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Төлемге купон коды қолданылды. Төмендегі мәліметтерді қараңыз",
+  "tour_hand_note_banner_warning_update_success": "Тұтынушы туралы ақпарат толтырылды",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Төлем туралы ақпарат",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Ақылы",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Турды тоқтату жарнамасы\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Тиындарды пайдалану ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Бас тарту ақысы {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Болжалды қайтару сомасы",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Қайтару уақыты (жойылған күннен бастап): 5-7 күн (Alepay және Payme төлем шлюздері үшін) немесе 7-15 күн (Stripe төлем шлюзі үшін).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Бас тарту себебі:",
+  "tour_booking_validation_province_or_city_is_required": "Облыс/қала қажет",
+  "tour_booking_screen_on_failed_error_2801": "Турды кету күнінен {numberDay} күн бұрын брондау керек. Басқа кету күнін таңдаңыз.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Сіз таңдаған турдың шығу уақыты саясатымызға сәйкес қысқа немесе ұзағырақ. Сәйкес кету уақыты бар турды таңдаңыз.",
+  "tour_booking_bottom_view_error": "Саяхатшы туралы ақпаратты толтырыңыз немесе саяхатшы туралы ақпаратты кейінірек енгізу үшін Hahalolo қолдауын сұраңыз.",
+  "tour_booking_on_start_payment_message": "Кешіріңіз, сіз таңдаған кету күні сатылып кетті. Басқа кету күнін таңдаңыз.",
+  "tour_detail_text_full_load": "Сатылған",
+  "tour_cancel_order_info_reason_cancel": "Бас тарту себебін енгізіңіз.",
+  "tour_cancel_order_info_validate_reason_cancel": "Бас тарту себебі қажет",
+  "tour_cancel_order_info_refound_invalid_card": "Есептік жазба нөмірі қажет",
+  "tour_cancel_bank_name_required": "Банк атауы қажет",
+  "tour_cancel_bank_wrong_format": "Банк атауының пішімі дұрыс емес",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo төменде енгізген банк шоты ақпараты негізінде сізге ақшаны қайтарады)",
+  "tour_cancel_enter_bank_name": "Банк атауын енгізіңіз",
+  "tour_cancel_cancel_order_success": "Тапсырысыңыздан сәтті бас тартылды.",
+  "tour_bank_identifier_required": "SWIFT коды қажет",
+  "tour_detail_title_select_departure_month": "Шығу айын таңдаңыз",
+  "tour_detail_title_upcoming_departure_schedule": "Алдағы кету кестесі",
+  "tour_detail_schedule_title_departure": "Шығу",
+  "tour_detail_schedule_title_destination": "Баратын жер",
+  "tour_booking_fail_payment_price_change": "Тур бағасы {oldPay} орнынан {newPay} болып өзгерді. Төлеміңізді жалғастырғыңыз келе ме?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Тур бағасы {oldPay} орнынан {newPay} болып өзгерді және сізге {payAmount} алдын ала төлеу керек. Төлеміңізді жалғастырғыңыз келе ме?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Алдын ала төлем сомасы {oldPay} орнынан {newPay} болып өзгерді. Төлеміңізді жалғастырғыңыз келе ме?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Монеталарға қолданылатын сома {oldPay} орнынан {newPay} болып өзгерді. Төлеміңізді жалғастырғыңыз келе ме?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Ұпайларды пайдаланыңыз",
+  "tour_booking_screen_have_apply_points": "Төлемге ұпайлар қолданылды. Төмендегі мәліметтерді қараңыз.",
+  "tour_booking_warning_promotion": "Сіздің турыңыз брондалуда және тапсырыс ақпаратын өзгерту мүмкін емес. Тур брондауыңызды аяқтау үшін төлем жасаңыз.",
+  "tour_booking_warning_back_text_normal": "Тапсырысыңыз сақталды. Шығарсаңыз, тапсырысыңыз сақталады",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Тапсырысты тоқтату",
+  "tour_booking_warning_back_when_hold_ticket_card": "Сіздің арбаңыз.",
+  "tour_booking_warning_back_exit": "Шығу",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Тапсырыс төлем шлюзінен өтті. Купон кодын қолданбау мүмкін емес.",
+  "tour_booking_point_not_available": "Ұпайлар қолжетімді емес",
+  "tour_payment_voucher_exit_dialog_title": "Төлем орындалмады",
+  "tour_total_point_change": "Қол жетімді ұпайларыңыз өзгерді. Тапсырысқа өтініш беру үшін ұпайлар санын енгізіңіз.",
+  "tour_hand_note_text_tour": "Тур",
+  "tour_hand_note_text_amount_installment_payment": "Бөліп төлеу сомасы",
+  "tour_detail_tour_has_no_available_schedule": "Бұл тур үшін қолжетімді кестелер жоқ",
+  "tour_detail_promotion_view_time_application": "Қолданылатын кезең:",
+  "tour_detail_promotion_view_up_to_off_title": "Дейін",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% жеңілдік",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Брондау нөмірін іздеңіз",
+  "tour_you_can_sure_cancel_order": "Бұл тапсырыстан шынымен бас тартқыңыз келе ме?",
+  "tour_detail_contact_title": "Біз тәулік бойы жұмыс істейміз! Осы қызметке қатысты сұрақтарыңыз болса, төмендегі ақпаратты пайдаланып бізге хабарласыңыз. Біз 2 сағат ішінде жауап береміз!",
+  "tour_detail_rate_title_schedule": "Кесте",
+  "tour_detail_rate_title_meal": "Тамақ",
+  "tour_detail_review_there_are_no_reviews_yet": "Әзірге шолулар жоқ",
+  "tour_search_suggest_location_title": "Үздік бағыттар",
+  "tour_detail_rate_title_property": "Меншік",
+  "tour_detail_rate_title_tour_guide": "Экскурсиялық гид",
+  "tour_detail_rate_title_vehicle": "Көлік",
+  "tour_detail_choose_schedule_remain_slot": "Тек {slot} ұяшық қалды",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Күн",
+  "tour_detail_contact_text_hotline": "Жедел желі",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Пікірлер",
+  "tour_search_place_suggestion_title": "Баратын жерді таңдаңыз",
+  "tour_search_place_suggestion_hint_text": "Шығу уақытын енгізіңіз...",
+  "tour_review_title_feedback": "Саяхат тәжірибеңізді қарап шығыңыз",
+  "tour_review_title_content": "Жалпы саяхат рейтингі",
+  "tour_review_title_see_review": "Сапар туралы шолуды қараңыз",
+  "tour_review_schedule": "Кесте",
+  "tour_review_meal": "Тамақ",
+  "tour_review_accommodation": "Меншік",
+  "tour_review_tour_guide": "Экскурсиялық гид",
+  "tour_review_vehicle": "Көлік",
+  "tour_booking_screen_text_accept": "Келісемін",
+  "tour_lockup_up_tour_header_text": "Брондау ақпаратын іздеу үшін брондау нөміріңізді енгізіңіз",
+  "banner_warning_installment_noti": "Сіз келесі жарна төлеу мерзіміне жетесіз. Бөліп төлеу мерзімі {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Ұзарту",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Купон коды сәтті қолданылмады",
+  "voucher_search_on_select_voucher_fail": "Қолданбаған купон коды орындалмады. Тағы жасауды сәл кейінірек көріңізді өтінеміз.",
+  "voucher_search_coupon_code_incorrect": "Қате купон коды",
+  "voucher_search_check_or_contact_cskh": "Қайта тексеріңіз немесе тұтынушыларға қызмет көрсету орталығына хабарласыңыз",
+  "voucher_widget_item_voucher_discount": "Жеңілдік: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Мерзімі аяқталады: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Қолданылу мерзімі:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Код:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Науқан:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Шарты:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Hahalolo өнімдеріне қолданыңыз.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Әр тұтынушыға бір шектеу.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "{number} тапсырыстары үшін",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Қолданылатын өнімдер:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} өшірулі",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "* Максималды жеңілдік:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Сіз сақтадыңыз",
+  "voucher_apply_voucher_widget_order_from_discount": "осы тапсырыс бойынша купон коды бар",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Сіздің рейсіңіз әлі брондалмаған. Брондау және билетті беру үшін төлеміңізді аяқтаңыз.",
+  "cart_screen_main_title": "Сіздің арбаңыз",
+  "cart_screen_main_tour_title": "Турды брондау",
+  "cart_screen_main_flight_title": "Ұшу",
+  "cart_screen_main_car_title": "Автокөлікті брондау",
+  "cart_screen_main_tour_title_1": "Турды брондау (1)",
+  "cart_screen_main_flight_title_1": "Ұшу (1)",
+  "cart_screen_main_car_title_1": "Көлікті брондау (1)",
+  "cart_screen_domestic_flight_num_passenger": "Жолаушылар саны",
+  "cart_screen_domestic_flight_subtotal": "Аралық жиынтық",
+  "cart_screen_domestic_flight_note": "Ұшуды брондау жасалды. Билетті шығаруды аяқтау үшін төлем жасаңыз.",
+  "cart_screen_empty": "Сіздің себетіңізде ештеңе жоқ",
+  "cart_screen_empty_order_now": "Қазір іздеңіз және брондаңыз!",
+  "cart_screen_car_delete_order": "Тапсырысты жою",
+  "cart_screen_car_delete_order_confirm": "Бұл тапсырысты жойғыңыз келе ме?",
+  "cart_screen_tour_schedule_title": "Кесте",
+  "cart_screen_tour_type_title": "Тур түрі",
+  "cart_tour_type_domestic": "Ішкі",
+  "cart_tour_type_international": "Халықаралық",
+  "cart_screen_tour_num_day_num_night": "{day} күн, {night} түн",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Жолаушылар саны",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Ұпайларды пайдаланыңыз",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(ай {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Тексеру кезінде қате орын алды. Әрекетті қайталаңыз немесе {email} арқылы жаңа кодты алу үшін \"Растау кодын қайта жіберу\" түймесін түртіңіз.",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Растау кодын қайта жіберіңіз",
+  "hand_note_input_verify": "{email} мекенжайына растау кодын жібердік. Осы қадамды аяқтау үшін алынған кодты енгізіңіз",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Кодты енгізіңіз",
+  "hand_note_tour_detail_body_tour_info_title": "Тур туралы ақпарат",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Уақыт Вьетнам уақыт белдеуінде есептеледі)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Жалпы күндер",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Саяхатшылар саны",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Бас тарту саясаты",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Тегін бас тарту мерзімдері турды брондау уақыт белдеуіне және Жеткізушінің турдан бас тарту саясатына негізделген.",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Турды тоқтату үшін сізден келесі бас тарту ақысы алынады:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "• Ұшу күнінен {departureDay} күн бұрын",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Тегін бас тарту",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Бас тарту ақысы {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "100% төлеуге арналған акция",
+  "hand_note_install_policy": "Бөліп төлеу жоспары",
+  "hand_note_title_status_payment_failure": "Сәтсіз",
+  "hand_process_extension": "Ағымдағы кеңейту",
+  "hand_in_installment": "Белсенді",
+  "hand_installment_completed": "Аяқталды",
+  "hand_note_adults": "Ересектер",
+  "hand_note_children": "Балалар",
+  "hand_note_baby": "Жас балалар",
+  "hand_note_infant": "Сәбилер",
+  "hand_note_tour_service_price": "Қызмет бағасы",
+  "hand_note_total_price": "Жалпы баға",
+  "hand_note_prepaid": "Алдын ала төленген",
+  "hand_note_remaining": "Қалған теңгерім",
+  "hand_installment_status": "Бөліп төлеу күйі",
+  "hand_note_installment_payment_count_month_payment": "Бөліп төлеу айларының саны",
+  "hand_note_installment_payment_count_month_payment_num": "{month} ай",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Бөліп төлеу туралы ақпарат",
+  "hand_note_information_detail_total_value_title": "Жалпы тапсырыс",
+  "hand_note_information_detail_prepayment_amount_title": "Алдын ала төленген сома ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Бөліп төлеудің жалпы сомасы",
+  "hand_note_information_detail_installment_tenor_title": "Бөліп төлеу мерзімі",
+  "hand_note_information_detail_information_conversion_fee_title": "Ақпаратты түрлендіру ақысы",
+  "hand_note_information_detail_bank_fee_title": "Банктік комиссия",
+  "hand_note_information_detail_installment_interest_title": "Бөліп төлеу пайызы",
+  "hand_note_information_detail_monthly_installment_amount_title": "Ай сайынғы жарна сомасы",
+  "hand_note_information_detail_next_due_date_title": "Келесі жарна теноры",
+  "hand_note_installment": "Бөліп төлеу",
+  "hand_note_postpaid": "Кейін төленген",
+  "hand_note_installment_history_title": "Бөліп төлеу тарихы",
+  "hand_note_payment_installment_title": "Бөліп төлеу",
+  "hand_note_the_month_current_installment": "Ай: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Алғашқы төлем",
+  "hand_note_remaining_balance_title": "Қалған теңгерім",
+  "hand_note_extension_info": "Кеңейтім туралы ақпарат",
+  "hand_note_price_extension": "Кеңейтілген сома",
+  "hand_note_month_paid": "{month} ай төленген",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} ай қалды",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Ақпаратыңызды жаңартыңыз",
+  "hand_note_invalid_full_name": "Толық ат пішімі жарамсыз",
+  "hand_note_must_enter_full_name": "Толық аты-жөніңізді енгізуіңіз керек",
+  "hand_note_adults_num": "Ересектерге арналған ақпарат {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Бала туралы ақпарат {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Нәресте туралы ақпарат {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Кішкентай бала туралы ақпарат {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "({age} жастан асқан)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "({ageFrom} - {ageTo} жастан бастап)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "({age} жастан кіші)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} күн",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Бөлім: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Саяхатшы туралы ақпаратты жаңартыңыз",
+  "hand_note_hotel_reservation_detail_title": "Брондау мәліметтері",
+  "hand_note_tour_installment_title": "Бөліп төлеу туры",
+  "hand_note_tour_extensions_payment_title": "Төлем мерзімін ұзарту",
+  "hand_note_installment_period": "Бөліп төлеу мерзімі",
+  "hand_note_installment_amount": "Бөліп төлеу сомасы",
+  "hand_note_recommend_adjourn": "Ұзарту туралы өтініш",
+  "hand_note_number_extension": "Ұзарту күндерінің саны",
+  "hand_note_new_installment": "Жаңа төлем мерзімі",
+  "hand_note_adjourn_notice": "Әрбір бөліп төлеу мерзімі үшін төлем мерзімін {day} күнге ұзартуға бір рет қана уақыт беріледі. Егер жаңа төлем мерзімі аяқталса және ағымдағы төлем жасалмаса, турыңыздан бас тартылады.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Төлемді кешіктіру үшін кешірім",
+  "hand_note_extension_successful": "Кеңейтім сәтті",
+  "hand_note_part_due_note": "Тапсырыс мерзімі өтіп кетті. Тұтынушыларға қызмет көрсету орталығына хабарласыңыз.",
+  "hand_note_notify_error_extension": "Қате орын алды. Қайталап көріңіз.",
+  "hand_note_dialog_input_verify_1": "Біз растау кодын жібердік",
+  "hand_note_dialog_input_verify_2": "Осы қадамды аяқтау үшін алынған кодты енгізіңіз.",
+  "hand_note_verify_input_code_hint": "Растау кодын енгізіңіз",
+  "hand_note_title_hotel_order": "Қонақ үйге тапсырыс беру",
+  "hand_note_title_apply_coin": "Монеталарды пайдаланыңыз",
+  "hand_note_request_resent_code_confirm_must_1": "Растау кодын қайта жіберуді сұрамас бұрын бір минут күту керек.",
+  "hand_note_request_resent_code_confirm_must_2": "Растау кодын қайта жіберуді сұрамас бұрын 5 минут күту керек.",
+  "hand_note_request_resent_code_confirm_must_3": "Растау кодын қайта жіберуді сұрамас бұрын бір күн күту керек.",
+  "hand_note_request_resent_code_confirm_must_4": "Растау кодын қайта жіберуді сұрамас бұрын 9 минут күтуіңіз керек.",
+  "hand_note_request_resent_code_confirm_must_5": "Растау кодын жіберу кезінде қате орын алды. Қайталап көріңіз.",
+  "hand_note_history_new_order_created": "Жаңа тапсырыс жасалды",
+  "hand_note_history_change_customer_information": "Жолаушылар туралы ақпарат өзгертілді",
+  "hand_note_history_cancellation_of_passengers": "Бас тартылған жолаушы",
+  "hand_note_history_change_flights": "Өзгертілген рейс",
+  "hand_note_history_cancel_the_flight": "Бас тартылған рейс",
+  "fare_rule_toolbar_title": "Тариф шарттары",
+  "hand_note_detail_activity_history": "Әрекет тарихы:",
+  "hand_note_coin_refund_amount": "Күтілетін қайтарылған монеталар",
+  "hand_note_tour_title": "Тур",
+  "hand_note_hotel_title": "Қонақ үй",
+  "hand_note_flight_title": "Ұшу",
+  "hand_note_car_title": "Автокөлікті жалға алу",
+  "hand_note_title": "Қолданбалар",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Жарамсыз несие картасының нөмірі",
+  "payment_error_card_has_expired": "Картаның мерзімі бітті",
+  "payment_error_card_has_expired_year": "Картаның мерзімі биыл бітті",
+  "payment_error_card_date_must_only_number": "Күндерде тек сандар болуы керек",
+  "payment_error_card_date_is_3_digits": "Жарамдылық мерзімі 3 саннан тұрады",
+  "payment_error_card_date_is_4_digits": "Жарамдылық мерзімі 4 саннан көп",
+  "payment_error_card_date_only_number_in_date": "Күндерде тек сандар болуы керек",
+  "payment_card_date_expired": "Мерзімнің өту күні",
+  "payment_payme": "Payme әмиян",
+  "payment_domestic": "Банкомат картасы немесе отандық банктердің iBanking (Вьетнамда)",
+  "payment_stripe": "Халықаралық төлем картасы (Visa/MasterCard)",
+  "payment_card_number_empty": "Карта нөмірі қажет",
+  "payment_card_day_exit": "Жарамдылық мерзімі қажет",
+  "payment_ccv_empty": "CVV коды қажет",
+  "payment_error_secure_long": "Қауіпсіздік коды қате",
+  "payment_error_secure_shorted": "Бұл карта түрі үшін қауіпсіздік коды тым қысқа",
+  "payment_error_secure_alphabet": "Алфавиттік таңбаларға рұқсат етілмейді",
+  "payment_error_no_secure": "Қауіпсіздік коды берілмейді",
+  "payment_error_no_card_number": "Енгізу жоқ немесе сандық емес таңбалар жоқ",
+  "payment_error_connect_title": "Қосылым қатесі",
+  "payment_error_connect_message": "Желі қосылымыңыз тұрақсыз. Құрылғыдағы қосылымды қайта тексеріңіз",
+  "payment_error_not_load_title": "Бетті жүктеу қатесі",
+  "payment_error_not_load_message": "Төлеу бетіне қосылу кезінде қате орын алды.",
+  "payment_error_card_number_lenght": "Карта нөмірі 19 саннан көп болуы керек",
+  "payment_error_no_date": "Ешқандай күн енгізілген жоқ",
+  "payment_error_invalid_date": "Жарамсыз күн пішімі немесе жарамсыз күн",
+  "payment_error_invalid_year": "Күн мен айда тек сандарға рұқсат етіледі",
+  "payment_error_invalid_ccv": "CVV жарамсыз",
+  "payment_error_invalid_card_holder": "Жарамсыз карта ұстаушысы",
+  "payment_alert_select_payment_method_null": "Төлем шлюзін таңдаңыз",
+  "payment_alert_card_information_incorrect": "Карта ақпараты дұрыс емес. Қайта тексеріңіз",
+  "payment_alert_dialog_title": "Хабарландырулар",
+  "payment_alert_message_dialog_message": "Сәтті төлемді қамтамасыз ету үшін төлем процесінде қолданбаны жаппаңыз немесе одан шықпаңыз.",
+  "payment_alert_dialog_message_payment_error": "Төлеміңізді өңдеу кезінде қате орын алды. Қайта тексеріңіз.",
+  "payment_hint_text_country": "Ел...",
+  "payment_hint_text_province": "Қала/мемлекет...",
+  "payment_show_message_dialog_title": "Хабарландыру",
+  "payment_show_message_dialog_message": "Төлемнен шыққыңыз келе ме?",
+  "payment_show_message_dialog_negative": "Болдырмау",
+  "payment_show_message_dialog_action": "Жарайды ма",
+  "payment_bank_page_title": "Төлем процесі біркелкі болуы үшін төлем сәтті болғанша қолданбаны жаппаңыз!",
+  "payment_error_expired_date": "Картаңыздың мерзімі бітті",
+  "payment_coin_not_available": "Монеталар қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "payment_point_not_available": "Ұпайлар қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "payment_voucher_not_available": "Купон коды қолжетімді емес. Тексеріп, әрекетті қайталаңыз.",
+  "payment_fee_change_total_order": "Тапсырыс сомасы өзгерді",
+  "payment_fee_change_to": "дейін",
+  "payment_fee_change_choose_voucher_point_coint": "Бар болса, Купон кодын/Монеталарды/Ұпайларды қайта таңдаңыз.",
+  "payment_halo_wallet": "Hahalolo төлем шоты",
+  "payment_available_balance": "Қолжетімді теңгерім:",
+  "payment_card_holder_name": "Несие карточкасын иеленушісінің Аты",
+  "payment_card_cvv_cvc_name": "CVV/CVC коды",
+  "payment_card_number": "Карточка нөмірі",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Ұқсас қасиеттер",
+  "hotel_detail_hotel_images": "Қонақ үй суреттері",
+  "hotel_detail_reviews_latest": "Соңғы",
+  "hotel_detail_reviews_oldest": "Ең ескі",
+  "hotel_detail_reviews_highest": "Ең жоғары ұпай",
+  "hotel_detail_reviews_lowest": "Ең төменгі ұпай",
+  "hotel_detail_review_sort_by": "Бойынша сұрыптау",
+  "hotel_detail_reviews": "Қарау",
+  "hotel_detail_rate_location": "Орналасқан жері",
+  "hotel_detail_rate_price": "Бағасы",
+  "hotel_detail_rate_cleanliness": "Тазалық",
+  "hotel_detail_rate_service": "Қызмет",
+  "hotel_detail_rate_facilities": "Нысандар",
+  "hotel_detail_one_user_review": "1 шолу",
+  "hotel_detail_x_user_reviews": "{x} шолу",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Брондау сәтсіз аяқталды",
+  "hotel_detail_please_fill_ci_co_date": "Тіркелу және шығу күндерін енгізіңіз",
+  "hotel_detail_allow_pet_contact_hotel": "Үй жануарларына рұқсат етіледі. Үй жануарларына қатысты ережелерді білу үшін тұруға тікелей хабарласыңыз.",
+  "hotel_detail_allow_pet_and_x_fee": "Үй жануарларына рұқсат етіледі. Үй жануарларына алым: {x} (Үй жануарларына ақы тұру орнында төленеді).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "ТЕГІН бас тарту",
+  "hotel_detail_cancellation_with_refund": "Бас тарту үшін ақы алынады",
+  "hotel_detail_cancellation_without_refund": "Қайтарусыз бас тарту",
+  "hotel_detail_cancel_non_refund": "Бас тарту кезінде сіз қайтарылған ақшаны немесе төленген соманы алмайсыз.",
+  "hotel_detail_breakfast_served": "Таңғы ас берілді",
+  "hotel_detail_lunch_served": "Түскі ас берілді",
+  "hotel_detail_dinner_served": "Кешкі ас берілді",
+  "hotel_detail_smoking_allow": "Темекі шегуге рұқсат етіледі",
+  "hotel_detail_smoking_not_allow": "Темекі тартуға тыйым салынған",
+  "hotel_detail_contact_hotel": "Қонақ үйге хабарласыңыз",
+  "hotel_detail_book_first_pay_later": "Қазір тапсырыс беріңіз, кейінірек төлеңіз",
+  "hotel_detail_policy": "Саясат",
+  "hotel_detail_choose_the_bed_arrangement": "Төсек қорабын таңдаңыз",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "{y} күні {x} дейін жасалған бас тартулар: бірінші түн үшін бөлме бағасының {z}% қайтарылуын алыңыз.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Бөлме қызметтері",
+  "hotel_detail_amenities": "Ыңғайлылық",
+  "hotel_detail_general_rules": "Үй ережелері",
+  "hotel_detail_change_reservation": "Резервті өзгерту",
+  "hotel_detail_services_and_facilities": "Құралдар мен қызметтер",
+  "hotel_detail_x_room_and_y_night": "{x} бөлме/{y} түн",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} бөлме/{y} түн",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 бөлме/{x} түн",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} бөлме/1 түн",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 бөлме/1 түн",
+  "hotel_detail_x_rooms_and_y_adults": "{x} бөлме - {y} қонақ",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 бөлме - {x} қонақ",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 бөлме - 1 қонақ",
+  "hotel_detail_child_count": "1 бала",
+  "hotel_detail_x_children": "{x} бала",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Бөлме мәліметтері",
+  "hotel_detail_room_policy_and_conditions": "Шарттар мен саясаттар",
+  "hotel_detail_person_count": "1 қонақ",
+  "hotel_detail_x_people": "{x} қонақ",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} орталықтан",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} іздеу орнынан",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "Қала орталығында",
+  "hotel_detail_check_in": "Тіркеу",
+  "hotel_detail_check_out": "Шығу",
+  "hotel_detail_cancelation_policy": "Бас тарту",
+  "hotel_detail_child_policy": "Балалар",
+  "hotel_detail_pet_policy": "Үй жануарлары",
+  "hotel_detail_check_in_x": "{x} кейін",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "{x} дейін",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Тек 1 қалды",
+  "hotel_detail_only_x_room": "Тек {x} қалды",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "{range} жастан асқан балаларға рұқсат етіледі.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Үй жануарларына рұқсат етіледі. Үй жануарлары үшін төлем қонақүйде төленеді.",
+  "hotel_detail_pet_policy_do_not_allow": "Үй жануарларына рұқсат етілмейді.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Тіркелу уақытынан {x}сағат бұрын бас тартылды: бірінші түн үшін бөлме бағасының {y}% қайтарылуын алыңыз.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Тіркелу уақытынан {x}сағат бұрын бас тартылды: барлық түндер үшін бөлме бағасының {y}% қайтарылуын алыңыз.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "{x} дейін тегін бас тарту",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "1 бөлмені брондаңыз",
+  "hotel_detail_book_x_room": "{x} бөлмені брондау",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Ең жақсы баға",
+  "hotel_detail_bed": "1 төсек",
+  "hotel_detail_x_beds": "{x} төсек",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Тек бүгін {x}% жеңілдік",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Бөлмені таңдаңыз",
+  "hotel_detail_has_x_room_types": "(Барлығы {x} бөлме түрі қолжетімді",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Барлығы 1 бөлме түрі бар)",
+  "hotel_detail_children_policy_do_not_allow": "Қонақ үйде балалар саясаты жоқ. Іздеу санында балалар есепке алынбайды. Егер еріп жүретін балалар болса, қонақ үйге хабарласыңыз.",
+  "hotel_detail_children_policy_range_allow": "Қонақүйдің балалар саясаты {range} жастағы балаларға рұқсат береді. Қонақ үй саясаты мен ережелері туралы ақпаратты қонақүйдің Үй ережелері бөлімінен қараңыз немесе қосымша ақпарат алу үшін қонақүйге хабарласыңыз.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Бөлме туралы ақпарат",
+  "hotel_detail_x_fee_person_and_day": "{x}/қонақ/күн",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/көлік/күн",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Таңғы ас",
+  "hotel_detail_lunch": "Түскі ас",
+  "hotel_detail_dinner": "Кешкі ас",
+  "hotel_detail_smoking": "Темекі",
+  "hotel_detail_parking": "Көлік тұрағы",
+  "hotel_detail_local_time": "(Жергілікті уақыт)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "{y} күні {x} дейін жасалған бас тартулар: барлық түндер үшін бөлме бағасының {z}% қайтарылуын алыңыз.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "{y} күні {x} дейін жасалған бас тартулар: бөлме бағасының {z} сомасын қайтарыңыз.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Мәмілелер",
+  "hotel_detail_free_breakfast": "Тегін таңғы ас",
+  "hotel_detail_free_lunch": "Тегін түскі ас",
+  "hotel_detail_free_dinner": "Тегін түскі ас",
+  "hotel_detail_allow_smoking": "Темекі шегуге рұқсат етіледі",
+  "hotel_detail_free_parking": "Тегін тұрақ",
+  "hotel_detail_room_not_found": "Бөлмелер табылмады!",
+  "hotel_detail_no_result": "Іздеуіңізге сәйкес нәтижелер табылмады. Қайталап көріңіз.",
+  "hotel_detail_similar_hotels_title": "Ұқсас қасиеттер",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Тапсырыс төлемге жарамсыз",
+  "hotel_booking_dialog_qualified_orders": "Тапсырыс жалпы сомасымен жарамды",
+  "hotel_booking_dialog_coupon_code_coins_points": "Төлемге жарамды болу үшін купон кодын, монеталарды немесе ұпайларды өзгерте аласыз",
+  "hotel_booking_dialog_or_minimum": "немесе ең аз",
+  "hotel_booking_widget_dialog_cannot_used_information": "Бұл ақпаратты қазіргі уақытта пайдалану мүмкін емес. Басқасын пайдаланыңыз немесе жаңасын сақтаңыз.",
+  "hotel_booking_component_applied_points_successfully": "Сіз ұпайларды сәтті қолдандыңыз",
+  "hotel_booking_use_point": "Ұпайларды пайдаланыңыз",
+  "hotel_booking_point_switch_on_hint": "Осы тапсырыс үшін ұпайларды қолданудан бас тарту үшін ұпайларды пайдалануды өшіріңіз",
+  "hotel_booking_point_switch_off_hint": "Осы тапсырыс үшін пайдаланатын ұпайлар санын енгізу үшін ұпайларды пайдалануды қосыңыз",
+  "hotel_booking_point_user_point": "Қол жетімді ұпайлар",
+  "hotel_booking_point_available_point": "Тапсырыс бойынша қол жетімді",
+  "hotel_booking_point_user_want_to_use_hint": "Пайдаланғыңыз келетін ұпайлар саны",
+  "hotel_booking_point_equivalent_to": "тең",
+  "hotel_booking_point_press": "түймесін басыңыз",
+  "hotel_booking_point_apply": "Қолдану",
+  "hotel_booking_point_apply_for_payment": "соманы төлемге қолдану",
+  "hotel_booking_points_apply_hint": "Сома осы тапсырысты төлеуге жұмсалады.",
+  "hotel_booking_payment_3001_error": "Картаға қолдау көрсетілмейді. Қайталап көріңіз.",
+  "hotel_booking_payment_3002_error": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "hotel_booking_payment_3003_error": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "hotel_booking_payment_3004_error": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "hotel_booking_payment_3005_error": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "hotel_booking_payment_3006_error": "Картаның мерзімі бітті. Қайталап көріңіз.",
+  "hotel_booking_payment_3007_error": "Жарамсыз CVC коды. Қайталап көріңіз.",
+  "hotel_booking_payment_3008_error": "Жарамсыз карта нөмірі. Қайталап көріңіз.",
+  "hotel_booking_payment_3009_error": "Бұл валютаға қолдау көрсетілмейді. Қайталап көріңіз.",
+  "hotel_booking_payment_3010_error": "Төлем процесінде қате орын алды. Қайталап көріңіз.",
+  "hotel_booking_modify_coin_applied": "Төлемге монеталар қолданылды. Толық мәліметтерді қараңыз.",
+  "hotel_booking_modify_voucher_applied": "Төлемге монеталар қолданылды. Толық мәліметтерді қараңыз.",
+  "hotel_booking_modify_point_applied": "Төлемге ұпайлар қолданылды. Толық мәліметтерді қараңыз.",
+  "hotel_booking_modify_point_canceled": "Осы тапсырыс үшін төлемге ұпайларды қолдану тоқтатылды.",
+  "hotel_booking_modify_4006_error": "Ваучер қолжетімсіз",
+  "hotel_booking_modify_4007_error": "Ваучер сақталды",
+  "hotel_booking_modify_4008_error": "Тапсырыс купон коды үшін жарамсыз. Тексеріп, әрекетті қайталаңыз.",
+  "hotel_booking_modify_2004_error": "Өтініш берілмеді",
+  "hotel_booking_pay_1005_error": "Дұрыс емес мән",
+  "hotel_booking_pay_2002_error": "Тапсырыс табылмады",
+  "hotel_booking_pay_2004_error": "Төлем орындалмады",
+  "hotel_booking_pay_6002_error": "Карта туралы қате ақпарат",
+  "hotel_booking_pay_6003_error": "Карта қабылданбайды",
+  "hotel_booking_pay_6004_error": "Тапсырыс жасау қатесі",
+  "hotel_booking_pay_6005_error": "TVP брондау қатесі",
+  "hotel_booking_required_city": "Қала қажет",
+  "hotel_booking_sub_bed": "Қосымша төсек",
+  "hotel_booking_information": "Брондау туралы ақпарат",
+  "hotel_booking_room_information": "Бөлме туралы ақпарат",
+  "hotel_booking_room_hotel": "Қонақ үй",
+  "hotel_booking_x_nights": "{x} түн",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 түн",
+  "hotel_booking_change": "Өзгерту",
+  "hotel_booking_user_contact": "Байланыс ақпараты",
+  "hotel_bookng_without_tone_marks": "(тондық белгілерсіз)",
+  "hotel_booking_first_name": "Аты",
+  "hotel_booking_last_name": "Тек",
+  "hotel_booking_middle_name": "Әкесінің аты",
+  "hotel_booking_given_name": "Орташа және бірінші/берілген атау",
+  "hotel_booking_phone_number": "Телефон нөмірі",
+  "hotel_booking_email": "Электрондық пошта",
+  "hotel_booking_country": "Ел",
+  "hotel_booking_im_a_guest": "Мен қонақпын",
+  "hotel_booking_guest_information": "Қонақ туралы ақпарат",
+  "hotel_booking_fill_contact_information": "Сіздің немесе тұру қызметін жеткізушімен байланыста болуға жауапты тұлғаның байланыс ақпаратын енгізіңіз.",
+  "hotel_booking_name_as_in_passport": "Жеке куәлікте/паспортта көрсетілгендей толық аты-жөні",
+  "hotel_booking_payments": "Төлем опциялары",
+  "hotel_booking_prepay": "Қазір төлеңіз",
+  "hotel_booking_postpaid": "Кейінірек төлеңіз",
+  "hotel_booking_prepay_description": "Hahalolo төлеміңізді өңдеуге көмектеседі. Брондау аяқталғаннан кейін толық соманы бүгін төлейсіз.",
+  "hotel_booking_postpaid_description": "Меншік төлеміңізді өңдейді. Брондау шарттарына қарай, сіз мүлікті ішінара немесе толық төлей аласыз.",
+  "hotel_booking_bill_information": "Төлем туралы ақпарат",
+  "hotel_booking_use_contact_information": "Байланыс ақпаратын пайдаланыңыз",
+  "hotel_booking_state": "Мемлекет",
+  "hotel_booking_city": "Қала",
+  "hotel_booking_save_payment_information": "Төлем туралы ақпаратты келесі жолы үшін сақтаңыз",
+  "hotel_booking_use_x_y_to_pay": "Төлем үшін {x} {y} пайдаланыңыз",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "{x} {unit} эквиваленті",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Төлем тәсілі",
+  "hotel_booking_payment_note": "Ескертпе: HAHALOLO пайдаланушыларға ТЕГІН банк төлемдерімен қолдау көрсетеді",
+  "hotel_booking_free": "Тегін",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Сізге көмектесетін тағы бір нәрсе бар ма?",
+  "hotel_booking_inform_the_accommodation": "Біз сіздің осы қызметтерге қызығушылық танытатындығыңызды жылжымайтын мүлікке хабарлаймыз. Ескерту.",
+  "hotel_booking_can_not_guaranteed": "Сіздің сұранысыңызға кепілдік берілмейді. Уайымдама! Меншік сіздің қажеттіліктеріңізді қанағаттандыруға тырысады.",
+  "hotel_booking_additional_services": "Бұл брондау сұрауыңыздан тыс пайда болатын қосымша қызметтер және пайдаланылған кезде мүлік үшін қосымша ақы алынуы мүмкін.",
+  "hotel_booking_note": "Ескерту",
+  "hotel_booking_promo_apply_rule": "Монеталар мен купон коды келесі төлем түрлеріне қолданылмайды.",
+  "hotel_booking_saved_payment_information": "Төлем туралы ақпарат сақталды",
+  "hotel_booking_fill_new_payer_information": "Төлеуші ​​туралы жаңа ақпаратты енгізіңіз",
+  "hotel_booking_maximum_coins_can_be_use": "Бұл тапсырыс үшін монеталардың максималды санын пайдалануға болады.",
+  "hotel_booking_coins": "Монеталар",
+  "hotel_booking_unknown": "Мен білмеймін",
+  "hotel_booking_planning_arrive_after_x_date": "{x} кейін келуді жоспарласаңыз, хостқа жоспарланған тіркелу уақытын хабарлаңыз:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Қосымша қызметтер үшін ақы алынуы мүмкін. Қосымша ақпарат алу үшін тұруға алдын ала хабарласыңыз.",
+  "hotel_booking_term_and_policies": "Шарттар - Саясат",
+  "hotel_booking_privacy_policy": "Құпиялылық саясаты",
+  "hotel_booking_tp_and_pp": "Келесі қадамды орындау арқылы мен Hahalolo шарттарын оқып, келіскенімді растаймын - Саясат және Құпиялылық саясаты",
+  "hotel_booking_important_note": "Ескерту",
+  "hotel_booking_select_time": "Уақытты таңдаңыз",
+  "hotel_booking_room_x_night": "Бөлме x 1, 1 түн",
+  "hotel_booking_x_rooms_x_night": "Бөлме x {x}, 1 түн",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Бөлме x {x}, {y} түн",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Бөлме x 1, {x} түн",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Салықтар мен алымдар",
+  "hotel_booking_service_charge": "Қызмет ақысы",
+  "hotel_booking_payment_fees": "Төлем комиссиясы",
+  "hotel_booking_accommodation_currency": "Меншік валютасы",
+  "hotel_booking_points_fees": "Ұпайларды пайдаланыңыз",
+  "hotel_booking_coins_fees": "Монеталарды пайдаланыңыз",
+  "hotel_booking_voucher_fees": "Купон коды",
+  "hotel_booking_discount": "Науқан",
+  "hotel_booking_meal_service": "Тамақтану қызметі",
+  "hotel_booking_meal_service_description": "Төменде қонақ үй сізге ұсына алатын таңғы ас қызметтері берілген. Егер сіз осы қызметке өтініш бергіңіз келсе, тікелей қонақүйдің қабылдау бөліміне хабарласыңыз.",
+  "hotel_booking_meal_price_per_breakfast": "Таңғы ас түріне арналған баға",
+  "hotel_booking_extended_service": "Қосымша қызметтер",
+  "hotel_booking_extended_service_description": "Осы тапсырысқа қосқыңыз келетін қосымша төсектердің жалпы санын таңдаңыз. Сізге тек {x} дейін қосымша төсек қосуға рұқсат етілген.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Саны",
+  "hotel_booking_total": "Барлығы",
+  "hotel_booking_unit_price": "Бағасы",
+  "hotel_booking_x_price_per_person_per_day": "{x} адам/күн",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} төсек/адам/күн",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Баға мәліметтері",
+  "hotel_booking_billings_information": "Төлем туралы ақпарат",
+  "hotel_booking_service_charge_description": "Біз бұл төлемді Hahalolo жүйесіндегі брондаумен байланысты мәселелерде қызмет көрсету және қолдау үшін комиссия ретінде сақтаймыз.",
+  "hotel_booking_payment_fees_description": "Төлем комиссиясы - бұл онлайн төлем қызметтерін жеткізушілерге төлеуге қажет транзакция үшін комиссия.",
+  "hotel_booking_taxes_and_fees_description": "Салықтар мен алымдар - бұл мүліктің (қонақ үйлердің) ережелеріне сәйкес олардың орналастыру қызметтерін пайдалану кезінде төлеуге міндетті ақша сомасы. Қосымша мәліметтер алу үшін Пайдалану шарттарын оқып шығыңыз.",
+  "hotel_booking_accommodation_currency_description": "Баға Жеткізушінің қол жетімді валютасы негізінде айырбасталды.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Валюта бағамы төлем жасамас бұрын өзгеруі мүмкін.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Сіздің картаңыздың эмитенті шетелдік транзакция комиссиясын ала алады.",
+  "hotel_booking_enter_maximum_x_char": "Ең көбі {x} таңба енгізіңіз",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Ұпайлар қолжетімді емес.",
+  "hotel_booking_coin_not_available": "Монеталар қолжетімді емес.",
+  "hotel_booking_voucher_not_available": "Купон коды қолжетімді емес.",
+  "hotel_booking_please_check_again": "Қайта тексеріңіз.",
+  "hotel_booking_point_change": "Жалпы төлемнің өзгеруіне байланысты қолданылған ұпайлар саны өзгерді.",
+  "hotel_booking_hold_warning": "Мүлікті брондау жасалды, сондықтан тапсырыс ақпаратын өзгерте алмайсыз. Брондауыңызды аяқтау үшін төлем жасаңыз.",
+  "hotel_booking_total_point_change": "Қол жетімді ұпайларыңыз өзгерді. Тапсырысқа өтініш беру үшін ұпайлар санын енгізіңіз.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Карта",
+  "hotel_list": "Тізім",
+  "hotel_from_the_center": "Орталықтан",
+  "hotel_from_the_location": "Іздеу орнынан",
+  "hotel_right_in_the_center": "Қала орталығында",
+  "hotel_breakfast_is_served": "Тегін таңғы ас",
+  "hotel_no_breakfast_served": "Таңғы ас берілмейді",
+  "hotel_dinner_is_served": "Кешкі ас берілді",
+  "hotel_no_dinner_service": "Түскі ас берілмейді",
+  "hotel_lunch_is_served": "Түскі ас берілді",
+  "hotel_no_lunch_service": "Түскі ас берілмейді",
+  "hotel_allow_smoking": "Темекі шегуге рұқсат етіледі",
+  "hotel_no_smoking": "Темекі тартуға тыйым салынған",
+  "hotel_no_refund": "Қайтарусыз бас тарту",
+  "hotel_without_fee": "Бас тарту үшін ақы алынады",
+  "hotel_free_cancel": "ТЕГІН бас тарту",
+  "hotel_pay_later": "Қазір тапсырыс беріңіз, кейінірек төлеңіз",
+  "hotel_fee": "Таңғы ас берілді",
+  "hotel_free": "ТЕГІН таңғы ас",
+  "hotel_not_refund": "Бас тарту кезінде сіз қайтарылған ақшаны немесе төленген соманы алмайсыз",
+  "hotel_no_vacancy": "Сатылған",
+  "hotel_choose_room": "Бөлмені таңдаңыз",
+  "hotel_change_date": "Күнді өзгерту",
+  "hotel_change_price_display": "Бағаны көрсету",
+  "hotel_continue": "Тек",
+  "hotel_room_available": "сол",
+  "hotel_room": "бөлме",
+  "hotel_night": "түн",
+  "hotel_date_checking": "Тіркелу күні",
+  "hotel_date_checkout": "Шығу күні",
+  "hotel_search": "Іздеу",
+  "hotel_promotion": "Науқан",
+  "hotel_promotions": "Акциялар",
+  "hotel_applying": "қолдану",
+  "hotel_promotion_applying": "қолданылатын жылжыту",
+  "hotel_promotions_applying": "қолданылатын акциялар",
+  "hotel_title_promotions_applying": "Қолданылатын жарнама",
+  "hotel_see_detail": "Мәліметтерді көру",
+  "hotel_cancel": "Тіркелу уақытына {x} сағат қалғанда бас тарту үшін бөлме бағасының {y}% қайтарылады.",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Қонақтар {y}-{z} аралығында болса, бір түнге {x} жеңілдік алыңыз.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Қонақтар {y}-{z} аралығында болғанда, бір түнге {x} жеңілдік алыңыз (брондау тапсырысында ең көбі {a}).",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{y} күн бұрын брондау үшін {x} жеңілдік. Қонақтар {z} болған кезде қолданылады.",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{x} жеңілдік, {z} күн бұрын брондау үшін максималды {y}. Қонақтар {a} болған кезде қолданылады.",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{z} күн бұрын брондау үшін {x} жеңілдік. Қонақтар {a} болған кезде қолданылады.",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{y} түннен артық брондау үшін {x} жеңілдік. Қонақтар {a} болған кезде қолданылады.",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{x} жеңілдік, {z} түннен артық брондау үшін максималды {y}. Қонақтар {a} болған кезде қолданылады.",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{z} түннен артық брондау үшін {x} жеңілдік. Қонақтар {a} болған кезде қолданылады.",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "барлық түндер",
+  "hotel_first_night": "бірінші түн",
+  "hotel_rating": "Қарау",
+  "hotel_wonderful": "Өте жақсы",
+  "hotel_very_good": "Өте жақсы",
+  "hotel_satisfied": "Қанағаттандым",
+  "hotel_medium": "Орташа",
+  "hotel_bad": "Кедей",
+  "hotel_hand_note_consult_book_room": "Резервті іздеңіз",
+  "hotel_hand_note_enter_code_search_info": "Брондау туралы ақпаратты іздеу үшін брондау нөміріңізді енгізіңіз",
+  "hotel_hand_note_reservation_code": "Брондау нөмірі",
+  "hotel_hand_note_can_not_find_hotel": "Кешіріңіз, біз сіздің іздеуіңізге сәйкес келетін қонақүйлерді таба алмадық.",
+  "hotel_hand_note_search_night": "Түндердің саны",
+  "hotel_hand_note_num_room": "Бөлмелер саны",
+  "hotel_hand_note_status_booking": "Брондау күйі",
+  "hotel_hand_note_booked": "Брондалды",
+  "hotel_hand_note_dont_booked": "Әлі брондаған жоқсыз",
+  "hotel_hand_note_total_price": "Жалпы баға",
+  "hotel_hand_note_status": "Күй",
+  "hotel_hand_note_payment_after": "Алдын ала төлеңіз",
+  "hotel_hand_note_pay_now": "Қазір төлеңіз",
+  "hotel_hand_note_info_book_room": "Брондау туралы ақпарат",
+  "hotel_hand_note_code_book_room": "Брондау нөмірі:",
+  "hotel_hand_note_checking": "Тіркеу",
+  "hotel_hand_note_checkout": "Шығу",
+  "hotel_hand_note_detail": "Мәліметтерді көру",
+  "hotel_hand_note_kind_room": "Бөлме түрі",
+  "hotel_hand_note_quantity": "Саны",
+  "hotel_hand_note_room": "бөлме",
+  "hotel_hand_note_visited": "Қонақ",
+  "hotel_hand_note_adult": "ересек",
+  "hotel_hand_note_children": "балалар",
+  "hotel_hand_note_number_nights": "Түнгі тұру саны",
+  "hotel_hand_note_night": "түн",
+  "hotel_hand_note_status_payment": "Төлем күйі",
+  "hotel_hand_note_cancel_order": "Тапсырысты тоқтату",
+  "hotel_hand_note_info_refund": "Қайтару туралы ақпарат",
+  "hotel_hand_note_rate_experience": "Тәжірибеңізді мына жерден қарап шығыңыз",
+  "hotel_hand_note_rate": "Қарау",
+  "hotel_hand_note_see_rate": "Пікірлерді қараңыз",
+  "hotel_hand_note_rate_overall_rating": "Қонақ үйдегі жалпы шолуыңыз",
+  "hotel_hand_note_rate_average": "Орташа",
+  "hotel_hand_note_position": "Орналасқан жері",
+  "hotel_hand_note_price": "Бағасы",
+  "hotel_hand_note_clean": "Тазалық",
+  "hotel_hand_note_serve": "Қызмет",
+  "hotel_hand_note_material_facilities": "Нысандар",
+  "hotel_hand_note_review": "Сезімдеріңіз бен пікірлеріңізбен бөлісіңіз.",
+  "hotel_hand_note_review_limit": "Шолу кемінде 2 таңбадан тұруы керек.",
+  "hotel_hand_note_cancel": "Болдырмау",
+  "hotel_hand_note_submit_review": "Пікір жіберу",
+  "hotel_hand_note_room_rates": "Бөлме бағасы",
+  "hotel_hand_note_extra_bed": "Қосымша төсек",
+  "hotel_hand_note_service_charge": "Қызмет ақысы",
+  "hotel_hand_note_payment_fees": "Төлем комиссиясы",
+  "hotel_hand_note_promotion": "Науқан",
+  "hotel_hand_note_voucher": "Купон коды",
+  "hotel_hand_note_use_coins": "Монеталарды пайдаланыңыз",
+  "hotel_hand_note_rates_include": "Қосылған баға",
+  "hotel_hand_note_see_review_title": "{a} туралы пікіріңізді қараңыз",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "{a} күні қаралды",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Пікіріңіз үшін рахмет",
+  "hotel_hand_note_use_point": "Ұпайларды пайдаланыңыз",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "{x} дейін тегін бас тарту.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Жергілікті уақыт)",
+  "hotel_hand_note_hotel_apartment": "Пәтер",
+  "hotel_hand_note_hostel": "Жатақхана",
+  "hotel_hand_note_hotel": "Қонақ үй",
+  "hotel_hand_note_resort": "Курорт",
+  "hotel_hand_note_other": "Басқа",
+  "hotel_hand_note_motel": "Мотель",
+  "hotel_hand_note_villa": "Вилла",
+  "hotel_hand_note_vacation_home": "Демалыс үйі",
+  "hotel_hand_note_homestay": "Үйде тұру",
+  "hotel_hand_note_farmstay": "Фермада тұру",
+  "hotel_hand_note_condotel": "Кондотель",
+  "hotel_hand_note_cruise_ship": "Круиз",
+  "hotel_hand_note_boathouse": "Қайық",
+  "hotel_hand_note_countryhouse": "Ауыл үйі",
+  "hotel_hand_note_campground": "Кемпинг",
+  "hotel_hand_note_camper": "Мотор үйі",
+  "hotel_hand_note_lodge": "Қонақ үй",
+  "hotel_hand_note_guesthouse": "Қонақ үйі",
+  "hotel_hand_note_cancel_hotel": "Бас тарту",
+  "hotel_update_price": "Бағаларды жаңарту",
+  "hotel_distance_x_from_center": "{distance}{x} орталықтан",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "іздеу орнынан {distance}{x}",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Қонақтар {y}-{z} аралығында болса, бір түнге {x} жеңілдік.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Бөлмелер мен қонақтар саны",
+  "hotel_add_room_children": "Балалар",
+  "hotel_add_room_age_upto": "(0 - 17 жас)",
+  "hotel_add_room_child": "Бала",
+  "hotel_add_room_age": "жасы",
+  "hotel_add_room_cancel": "Болдырмау",
+  "hotel_add_room_choose_age": "Жасты таңдаңыз",
+  "hotel_add_room_done": "Дайын",
+  "hotel_add_room_room": "Бөлме",
+  "hotel_add_room_adult": "Ересек",
+  "hotel_add_room_adults": "Ересектер",
+  "hotel_add_room_age_children": "Балалардың жасы",
+  "hotel_add_room_age_child": "Балалардың жасы",
+  "hotel_add_room_condition": "Бір бөлмедегі нөмірлер мен қонақтар саны 9-дан аспауы керек.",
+  "hotel_add_room_note": "Ескерту",
+  "hotel_add_room_save": "Сақтау",
+  "hotel_cart_child": "Бала",
+  "hotel_cart_children": "Балалар",
+  "hotel_cart_delete": "Жою",
+  "hotel_cart_change": "Өзгерту",
+  "hotel_cart_book_room": "Кітап бөлмесі",
+  "hotel_cart_night": "түн",
+  "hotel_cart_title_included_texas_fee": "Салықтар мен алымдарды қоса алғанда",
+  "hotel_cart_temporary_price": "Аралық жиынтық",
+  "hotel_cart_delete_order": "Тапсырысты жою",
+  "hotel_screen_cart_delete_order_confirm": "Бұл тапсырысты жойғыңыз келе ме?",
+  "hotel_order_detail_info_hotel": "Брондау туралы ақпарат",
+  "hotel_order_detail_done": "Дайын",
+  "hotel_order_detail_detail": "Мәліметтерді көру",
+  "hotel_order_detail_book_new": "Жаңа бөлмені брондау",
+  "hotel_order_detail_success": "Брондау сәтті болды",
+  "hotel_order_detail_requests_success": "Брондау сұрауыңыз сәтті орындалды",
+  "hotel_order_detail_paid": "(Ақылы).",
+  "hotel_order_detail_reservation": "Төменде брондау мәліметтерін тексеруге болады.",
+  "hotel_order_detail_thank": "қызметтеріне сенім білдіргеніңіз үшін рахмет",
+  "hotel_order_detail_support": "Сұрақтарыңыз болса немесе қосымша көмек қажет болса, Hahalolo анықтама орталығына хабарласыңыз",
+  "hotel_order_detail_instructions": "нұсқаулар үшін.",
+  "hotel_order_detail_info_rest": "Меншік туралы ақпарат",
+  "hotel_order_detail_hotel": "Қонақ үй",
+  "hotel_order_detail_type": "Бөлме түрі",
+  "hotel_order_detail_check_in": "Тіркеу",
+  "hotel_order_detail_check_out": "Шығу",
+  "hotel_order_detail_visited": "Қонақтар саны",
+  "hotel_order_detail_adult": "ересек",
+  "hotel_order_detail_children": "балалар",
+  "hotel_order_detail_baby": "нәресте (1 жасқа дейін)",
+  "hotel_order_detail_contact": "Байланыс ақпараты",
+  "hotel_order_detail_lastname": "Толық аты",
+  "hotel_order_detail_tel_number": "Телефон нөмірі",
+  "hotel_order_detail_nationality": "Ұлты",
+  "hotel_order_detail_note": "Ескерту",
+  "hotel_order_detail_guests": "Қонақ туралы ақпарат",
+  "hotel_order_detail_trade": "Транзакция туралы ақпарат",
+  "hotel_order_detail_order_form": "Тапсырыс",
+  "hotel_order_detail_payment": "Төлем сомасы",
+  "hotel_order_detail_bed_type": "Төсек түрі",
+  "hotel_order_detail_extra_bed": "Қосымша төсек",
+  "hotel_order_detail_bed": "төсек",
+  "hotel_order_detail_reservation_code": "Брондау нөмірі",
+  "hotel_order_detail_payer": "Төлеуші",
+  "hotel_search_code_total_price": "Жалпы баға",
+  "hotel_search_code_voucher": "Купон коды",
+  "hotel_search_code_use_coin": "Монеталарды пайдаланыңыз",
+  "hotel_search_code_use_point": "Ұпайларды пайдаланыңыз",
+  "hotel_search_code_total_pay": "Жалпы төлем",
+  "hotel_search_code_detail_pay": "Төлем мәліметтері",
+  "hotel_hand_note_hotel_policy_check_out": "- {checkout} дейін шығу",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- {checkin} кейін тіркелу",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Бас тарту саясаты",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Тегін бас тарту мерзімдері мүліктің уақыт белдеуіне негізделген және мүліктің күшін жою саясатымен көрсетілген.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x бөлме, {night} x түн",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Салықтар мен алымдар",
+  "hotel_hand_note_detail_total_amount": "Жалпы төлем",
+  "hotel_hand_note_detail_success": "Сәтті",
+  "hotel_hand_note_detail_failed": "Сәтсіз",
+  "hotel_hand_note_detail_postpaid": "Кейін төленген",
+  "hotel_hand_note_detail_prepaid": "Алдын ала төленген",
+  "hotel_hand_note_detail_operation_history": "Әрекет тарихы",
+  "hotel_hand_note_detail_order_cancel_info": "Тапсырысты тоқтату туралы ақпарат",
+  "hotel_hand_note_detail_order_total_order": "Жалпы тапсырыс",
+  "hotel_hand_note_detail_total_money": "Төленген жалпы сома",
+  "hotel_hand_note_detail_coin": "монеталар",
+  "hotel_hand_note_detail_fee_cancel": "Бас тарту ақысы",
+  "hotel_hand_note_detail_refund_amount": "Болжалды қайтару сомасы",
+  "hotel_hand_note_detail_coin_refund_amount": "Болжалды қайтарылған монеталар",
+  "hotel_hand_note_detail_payment_info": "Төлем туралы ақпарат",
+  "hotel_hand_note_detail_customer_service": "Купон коды қайтарылмайды. Купон кодын қайтару үшін тұтынушыларға қызмет көрсету орталығына хабарласыңыз.",
+  "hotel_hand_note_detail_note_refund": "Қайтару уақыты (жойылған күннен бастап): 5-тен 7 күнге дейін (Alepay және Payme төлем шлюздері үшін) немесе 7-ден 15 күнге дейін (Stripe төлем шлюзі үшін).",
+  "hotel_hand_note_detail_reason_cancel": "Бас тарту себептері",
+  "hotel_hand_note_detail_checking_out": "Тіркелу және шығу уақыты",
+  "hotel_hand_note_detail_check_in_after": "Тіркелу кейін",
+  "hotel_hand_note_detail_check_out_before": "Алдын ала шығу",
+  "hotel_hand_note_detail_person_day": "адам/күн",
+  "hotel_hand_note_detail_free": "Тегін.",
+  "hotel_hand_note_detail_day": "/күн",
+  "hotel_hand_note_detail_note_hotel": "Тегін бас тарту мерзімдері мүліктің уақыт белдеуіне негізделген және мүліктің күшін жою саясатымен көрсетілген.",
+  "hotel_hand_note_detail_room_service": "Бөлме қызметтері",
+  "hotel_hand_note_detail_facilities_service": "Қондырғылар мен бөлме қызметтері",
+  "hotel_hand_note_detail_person_contact": "Байланыс жасайтын тұлға",
+  "hotel_hand_note_detail_telephone_num": "Телефон нөмірі",
+  "hotel_hand_note_detail_email": "Электрондық пошта",
+  "hotel_hand_note_detail_nationality": "Ұлты",
+  "hotel_hand_note_detail_address": "Мекенжай",
+  "hotel_hand_note_detail_paid": "Төленген сома",
+  "hotel_hand_note_detail_rest": "Төленбеген сома",
+  "hotel_hand_note_detail_payment_methods": "Төлем тәсілі",
+  "hotel_hand_note_detail_check_in_info": "Тіркелу туралы ақпарат",
+  "hotel_hand_note_detail_guest_name": "Қонақ аты",
+  "hotel_hand_note_detail_policy_cancel": "Бұрын жасалған бас тартулар",
+  "hotel_hand_note_detail_hour": "{hour} сағат",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} минут",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": қайтарылады",
+  "hotel_hand_note_detail_price_room": "үшін бөлме бағасы",
+  "hotel_hand_note_detail_one_night": "бірінші түн.",
+  "hotel_hand_note_detail_all_night": "барлық түндер.",
+  "hotel_hand_note_detail_policy": "Бас тарту саясаты",
+  "hotel_hand_note_detail_children_note": "{age} жастан асқан балаларға рұқсат етіледі.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Үй жануарларына рұқсат етіледі. Үй жануарларына ақы: {fee} (Үй жануарларына ақы тұру орнында төленеді).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Балалар",
+  "hotel_hand_note_detail_pet": "Үй жануарлары",
+  "hotel_hand_note_detail_total_room_rate": "Бөлменің жалпы бағасы",
+  "hotel_hand_note_detail_total_room_order": "бөлмелер саны",
+  "hotel_hand_note_detail_room_information": "Бөлме туралы ақпарат",
+  "hotel_hand_note_detail_person_x": "{x} адам",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Коммуналдық қызметтер, бөлмелерге қызмет көрсету",
+  "hotel_hand_note_detail_waiting_service": "Орындалуын күтуде",
+  "hotel_hand_note_detail_in_service": "Ағымдағы",
+  "hotel_hand_note_detail_completed": "Аяқталды",
+  "hotel_hand_note_detail_waiting_cancellation": "Бас тартуды күтуде",
+  "hotel_hand_note_detail_canceled": "Бас тартылды",
+  "hotel_hand_note_detail_awaiting_confirmation": "Растауды күтуде",
+  "hotel_hand_note_detail_not_refund": "Бас тарту кезінде сіз қайтарылған ақшаны немесе төленген соманы алмайсыз",
+  "hotel_hand_note_detail_other_required": "Басқа өтініш",
+  "hotel_hand_note_detail_point_refund_amount": "Болжалды қайтару ұпайлары",
+  "hotel_input_title_start_date": "Тіркелу күні",
+  "hotel_input_title_end_date": "Шығу күні",
+  "hotel_input_title_choose_date": "Күнді таңдаңыз",
+  "hotel_input_title_choose": "таңдаңыз",
+  "hotel_hand_note_price_detail_payment_type": "Төлем нысаны",
+  "hotel_hand_note_price_detail_payment_date": "Төлем күні",
+  "hotel_hand_note_price_detail_price": "Баға мәліметтерін көру",
+  "hotel_hand_note_price_detail_title": "Баға мәліметтері",
+  "hotel_hand_note_price_detail_contact_info": "Байланыс ақпараты",
+  "hotel_hand_note_utilities_title": "Ыңғайлылық",
+  "hotel_hand_note_services_title": "Қызметтер",
+  "hotel_hand_note_search_required_code": "Брондау нөмірі қажет.",
+  "cart_screen_main_hotel_title": "Қонақ үй",
+  "cart_screen_main_hotel_title_1": "Қонақ үй (1)",
+  "hotel_cancel_hotel": "Бас тарту",
+  "hotel_search_this_area ": "Осы аймақты іздеңіз",
+  "hotel_where": "Сіз қайда қалғыңыз келеді?",
+  "hotel_people": "{y} бөлме - {x} қонақ",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Бөлме",
+  "hotel_hand_note_item_view_booking_code_title": "Брондау нөмірі",
+  "hotel_hand_note_title_hotel_order": "Қонақ үйге тапсырыс беру",
+  "hotel_order_detail_view_information_order": "Тапсырыс туралы ақпарат",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Сіз қайда қалғыңыз келеді?",
+  "search_city_no_result": "Сәйкес орын табылмады...",
+  "search_city_choose_the_city": "Қонақ үйлерді іздеу",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Қонақ үйді таңдаңыз",
+  "advanced_search_any_review": "Кез келген",
+  "advanced_search_star_rating": "Жұлдызша рейтингі",
+  "advanced_search_any_star": "Бағаланбаған",
+  "advanced_search_a_star": "1 жұлдыз",
+  "advanced_search_x_star": "{x} жұлдыз",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Меншік түрі",
+  "advanced_search_reset_button": "Қалпына келтіру",
+  "advanced_search_search_button": "Іздеу",
+  "advanced_search_evaluation_point": "Қарау ұпайы",
+  "advanced_search_no_city_error": "Ешқандай сипат таңдалмаған",
+  "advanced_search_title": "Кеңейтілген іздеу",
+  "advanced_search_clear": "Таза",
+  "advanced_search_no_date_error": "Ешбір күн таңдалмаған",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Тізімді көрсету",
+  "hotel_not_found": "Қонақ үйлер табылмады!",
+  "hotel_search_near_by": "Жақын",
+  "advanced_search_less_x_unit": "{x}{unit} астында",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "{x}{unit} және одан жоғары",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "{x}{unit} бастап {y}{unit} төмен",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Орталықтан қашықтығы",
+  "hotel_booking_do_you_want_to_remove_a_user": "{user} тізімнен шынымен өшіргіңіз келе ме?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Қосымша ақы",
+  "hotel_map_filter": "Бойынша сұрыптау",
+  "hotel_map_default": "Әдепкі",
+  "hotel_map_high_star": "Жұлдызша рейтингі: жоғарыдан төменге",
+  "hotel_map_low_star": "Жұлдызша рейтингі: төменнен жоғарыға",
+  "hotel_map_distance_center": "Орталықтан қашықтығы",
+  "hotel_map_high_rate": "Жоғары бағаланған",
+  "hotel_map_high_order": "Ең көп брондалғандар",
+  "hotel_hand_note_reply": "Меншіктің жауабы",
+  "hotel_booking_payment_3011_error": "Карта қабылданбады. Басқа картаны қолданып көріңіз немесе көмек алу үшін карта эмитентіне хабарласыңыз!",
+  "hotel_hand_note_utilities_title_room": "БӨЛМЕ ЖАЙЛЫЛЫҒЫ",
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Барлығыңыз қуылды!",
+  "halo_error_wifi_error": "Wifi қатесі",
+  "halo_error_something_wrong": "Ой!\nБірдеңе дұрыс болмады, қайталап көріңіз",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

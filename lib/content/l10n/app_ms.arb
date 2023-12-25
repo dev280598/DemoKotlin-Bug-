@@ -1,0 +1,3309 @@
+{
+  "@@locale": "ms",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Cuba lagi",
+  "common_see_more": "Lihat lagi",
+  "common_see_less": "Lihat lebih sedikit",
+  "common_search_hint": "Cari…",
+  "common_loading": "Memuatkan…",
+  "common_retry": "Cuba semula",
+  "common_cancel": "Batal",
+  "common_ok": "Okey",
+  "common_save": "Jimat",
+  "common_decline": "Tolak",
+  "common_done": "Selesai",
+  "common_confirm": "sahkan",
+  "common_close": "tutup",
+  "common_continue": "teruskan",
+  "common_detail": "Butiran",
+  "common_enter_discount_code": "masukkan kod kupon",
+  "common_use_payment_or_contact_info": "Gunakan maklumat pembayar atau kenalan",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Pemilih masa",
+  "car_input_title_pick_up_place": "Masuk tempat pengambilan",
+  "car_input_title_pick_up_location": "Lokasi pengambilan",
+  "car_title_return_to_different_location": "Kembali ke lokasi yang berbeza",
+  "car_input_title_start_time": "Masa mula",
+  "car_input_title_end_time": "Masa tamat",
+  "car_input_title_start_date": "Tarikh mula",
+  "car_input_title_end_date": "Tarikh tamat",
+  "car_input_title_enter_drop_off_place": "Masuk tempat drop-off",
+  "car_input_title_enter_drop_off_location": "Lokasi penghantaran",
+  "car_title_advanced_search": "Carian terperinci",
+  "car_title_look_up_booking_number": "Cari nombor tempahan",
+  "car_header_title_look_up_booking_number": "Masukkan nombor tempahan atau kod pesanan untuk mencari maklumat tempahan anda",
+  "car_title_search": "Cari",
+  "car_notice_empty_pick_up_location": "Pilih lokasi pengambilan dan tarikh mula untuk mencari",
+  "car_title_ascending_price": "Harga menaik",
+  "car_title_descending_price": "Harga menurun",
+  "car_title_car_type": "Jenis kereta",
+  "car_title_transmission": "Penularan",
+  "car_title_segment": "Segmen",
+  "car_title_fuel_type": "Jenis bahan api",
+  "car_title_supplier": "Pembekal",
+  "car_title_price": "Harga",
+  "car_title_view_on_map": "Lihat pada peta",
+  "car_title_deals": "Tawaran",
+  "car_title_seats": "Tempat duduk",
+  "car_title_filter_by": "Tapis mengikut",
+  "car_title_un_filter": "Nyahpenapis",
+  "car_title_choose_this_car": "Pilih kereta ini",
+  "car_title_rental_terms": "Syarat sewa",
+  "car_title_search_location": "Cari lokasi",
+  "car_title_select_btn": "Pilih",
+  "car_title_select_date": "Pilih tarikh",
+  "car_title_select_time": "Pilih masa",
+  "car_title_reset_btn": "Tetapkan semula",
+  "car_title_location_type": "Jenis lokasi",
+  "car_title_number_of_seats": "Nombor tempat duduk",
+  "car_title_days": "hari-hari",
+  "car_title_unlimited_mileage": "Perbatuan tanpa had",
+  "car_title_instant_confirmation": "Pengesahan segera",
+  "car_title_time_pick_up": "Tarikh pengambilan",
+  "car_title_time_drop_off": "Tarikh turun",
+  "car_title_air_conditioning": "Penyaman udara",
+  "car_title_number_of_bag": "Bilangan beg pakaian",
+  "car_hand_note_title_booking_order_code": "Kod pesanan",
+  "car_hand_note_title_booking_code": "Nombor tempahan",
+  "car_hand_note_title_total_rental_car": "Jumlah hari sewa",
+  "car_hand_note_title_status_order": "Status pesanan",
+  "car_hand_note_title_total_price": "Jumlah bayaran",
+  "car_hand_note_title_status_payment": "Status bayaran",
+  "car_hand_note_title_reason_cancel": "Sebab pembatalan",
+  "car_hand_note_title_view_details_btn": "Lihat butiran",
+  "car_hand_note_notice_cancel_order": "Amaun bayaran balik (jika ada) pesanan yang dibatalkan akan dipindahkan ke akaun bank pelanggan dalam tempoh yang ditentukan oleh pembekal.",
+  "car_hand_note_title_tab_all": "Semua",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Menunggu pemenuhan",
+  "car_hand_note_title_tab_ongoing": "Sedang berlangsung",
+  "car_hand_note_title_tab_completed": "Selesai",
+  "car_hand_note_title_tab_canceled": "Dibatalkan",
+  "car_hand_note_title_order_manager": "Pengurusan pesanan",
+  "car_hand_note_title_create_date": "Tarikh dibuat",
+  "car_hand_note_title_view_more_btn": "Lihat lagi",
+  "car_hand_note_title_status_order_completed": "Selesai",
+  "car_hand_note_title_status_payment_successful": "Berjaya",
+  "car_hand_note_title_details_order": "Maklumat-maklumat Pesanan",
+  "car_hand_note_title_contact_info": "Butiran kenalan",
+  "car_hand_note_title_info_rental_car": "Maklumat tempahan",
+  "car_hand_note_title_driver_info": "Butiran pemandu",
+  "car_hand_note_title_pirce_details": "Butiran harga",
+  "car_hand_note_title_creator": "Dicipta oleh",
+  "car_hand_note_title_person_contact": "Orang yang boleh dihubungi",
+  "car_hand_note_title_phone": "Nombor telefon",
+  "car_hand_note_title_email": "E-mel",
+  "car_hand_note_title_country": "Negara",
+  "car_hand_note_title_address": "Alamat",
+  "car_hand_note_title_price_of_car_rental": "Harga kereta sewa",
+  "car_hand_note_title_price_payment_fee": "Bayaran bayaran",
+  "car_hand_note_title_info_extra_services": "Perkhidmatan tambahan",
+  "car_hand_note_title_type_insurance": "Jenis insurans",
+  "car_hand_note_title_info_insurance": "Maklumat insurans",
+  "car_hand_note_title_car_info": "Butiran kereta",
+  "car_search_result_not_found_title": "Maaf, kenderaan yang anda cari tidak ditemui.",
+  "car_search_result_not_found_sub_title": "Kami tidak dapat mencari padanan yang sesuai untuk permintaan anda.\nSila cuba lagi.",
+  "car_search_result_first_title_rental_car": "Kereta sewa di",
+  "car_detail_btn_rent_now": "Tempah sekarang",
+  "car_notice_title_check_connection": "Sila semak sambungan anda dan cuba lagi!",
+  "car_rent_input_title_details": "Butiran",
+  "car_rent_input_title_total_payment": "Jumlah bayaran",
+  "car_rent_input_title_payment": "Bayar",
+  "car_rent_form_input_last_name": "Nama keluarga (Tanpa tanda nada)",
+  "car_rent_form_input_first_name": "Nama Tengah & Pertama/Diberi (Tanpa tanda nada)",
+  "car_rent_input_content_cb_use_contact_details": "Gunakan butiran kenalan",
+  "car_rent_input_title_method_payment": "Bayar",
+  "car_rent_input_title_method_pay": "Pilihan pembayaran",
+  "car_rent_input_title_late_payment": "Bayar kemudian",
+  "car_rent_input_title_now_payment": "Bayar sekarang",
+  "car_rent_input_title_information_card": "Butiran kad",
+  "car_rent_input_title_driver_age": "Umur pemandu",
+  "car_rent_input_title_Do_you_need_anything_else": "Adakah anda memerlukan apa-apa lagi?",
+  "car_rent_input_title_accept_policy": "Dengan meneruskan langkah seterusnya, saya mengesahkan bahawa saya telah membaca dan bersetuju dengan Terma Hahalolo - Dasar dan Dasar Privasi",
+  "car_rent_input_title_card_must_be_valid": "Kad anda mesti sah untuk menjamin penyewaan dengan pembekal.",
+  "car_rent_input_title_accept_card_pay": "Kad pembayaran yang diterima",
+  "car_rent_input_title_content_notice_later_pay": "Pembekal kereta akan memproses pembayaran anda. Bergantung pada syarat tempahan, anda boleh membayar sepenuhnya atau sebahagian.",
+  "car_rent_input_title_select_type_card": "Pilih jenis Kad Kredit",
+  "car_rent_input_title_number_card": "Nombor kad",
+  "car_rent_input_title_enter_number_card": "Masukkan nombor kad",
+  "car_rent_input_title_name_card": "Pemegang kad nama",
+  "car_rent_input_title_enter_name_card": "Masukkan nama pemegang kad",
+  "car_rent_input_title_select_expiry_date": "Pilih tarikh luput",
+  "car_rent_input_title_expiry_date": "Tarikh luput",
+  "car_rent_input_title_gate_ways": "Gerbang pembayaran",
+  "car_rent_input_title_ccv_code": "Kod CVC",
+  "car_rent_input_title_enter_ccv_code": "Masukkan kod CVC",
+  "car_rent_input_title_first_notice_need_anything_else": "Kami akan memaklumkan pembekal bahawa anda berminat dengan perkhidmatan ini, supaya mereka boleh memberikan anda maklumat terperinci.\n\n Permintaan anda tidak boleh dijamin. Jangan risau! Pembekal akan cuba memenuhi keperluan anda.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Permintaan anda tidak boleh dijamin. Jangan risau! Pembekal akan cuba memenuhi keperluan anda.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Masukkan maksimum 55 aksara",
+  "car_rent_input_noti_invalid_last_name": "Nama keluarga tidak sah",
+  "car_rent_input_noti_invalid_first_name": "Nama Tengah & Pertama/Diberi tidak sah",
+  "car_rent_input_noti_required_last_name": "Nama keluarga diperlukan",
+  "car_rent_input_noti_required_first_name": "Nama Tengah & Pertama/Diberikan diperlukan",
+  "car_rent_input_noti_invalid_email": "Email tidak sah",
+  "car_rent_input_noti_invalid_phone": "Nombor telefon tidak sah",
+  "car_rent_input_noti_required_email": "E-mel diperlukan",
+  "car_rent_input_noti_required_phone": "Nombor telefon diperlukan",
+  "car_rent_input_noti_requried_address": "Alamat diperlukan",
+  "car_rent_input_noti_requried_country": "Negara diperlukan",
+  "car_rent_input_noti_requried_number_card": "Nombor kad diperlukan",
+  "car_rent_input_noti_requried_card_holder_name": "Nama pemegang kad diperlukan",
+  "car_rent_input_noti_requried_type_card": "Kad kredit diperlukan",
+  "car_rent_input_noti_requried_expiry": "Tarikh luput diperlukan",
+  "car_rent_input_title_type_card_credit": "Jenis kad kredit",
+  "car_rent_input_title_currency_at_rental_car_place": "Mata wang di lokasi pengambilan",
+  "car_rent_input_title_rule_age": "Peraturan umur",
+  "car_rent_input_notice_term_and_policy_first_string": "Dengan meneruskan langkah seterusnya, saya mengesahkan bahawa saya telah membaca dan bersetuju dengan Hahalolo",
+  "car_rent_input_notice_term_and_policy_append__string": "Terma - Polisi",
+  "car_rent_input_notice_term_and_policy_between_string": "dan",
+  "car_rent_input_notice_term_and_policy_append___string": "Dasar Privasi",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Pick-up",
+  "car_cart_title_drop_off": "Turunkan",
+  "car_cart_title_included_texas_fee": "Cukai dan yuran termasuk",
+  "car_cart_title_btn_delete": "Padam",
+  "car_cart_title_btn_edit": "Tukar pilihan anda",
+  "car_cart_title_sub_total": "jumlah kecil",
+  "car_cart_title_car_types": "Jenis kereta:",
+  "car_title_select_country": "Pilih negara",
+  "car_title_car_cart": "Tempahan Kereta",
+  "car_feed_input_hint_pick_up_place": "Tempat pengambilan anda",
+  "car_feed_input_hint_drop_off_place": "Tempat menghantar anda",
+  "car_feed_notice_empty_location_pick_up": "Sila pilih tempat pengambilan untuk mencari",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Masukkan lokasi drop-off",
+  "notify_error_occurred": "Ralat telah berlaku. Sila semak semula.",
+  "car_hand_note_detail_order_full_name": "Nama penuh",
+  "car_hand_note_detail_order_promotion": "kenaikan pangkat",
+  "car_hand_note_detail_order_act_history": "Log aktiviti",
+  "car_hand_note_detail_order_request_other": "Permintaan lain",
+  "car_hand_note_detail_order_order_payment": "Bayaran pesanan",
+  "car_hand_note_detail_order_cancel_info": "Maklumat pembatalan pesanan",
+  "car_hand_note_detail_order_payment_info": "Maklumat Pembayaran",
+  "car_hand_note_detail_order_paid": "Dibayar",
+  "car_hand_note_detail_order_unpaid": "Tak bergaji",
+  "car_hand_note_title_days_ago": "hari yang lalu",
+  "car_hand_note_detail_order_cancel_fee": "Bayaran pembatalan",
+  "car_hand_note_detail_order_amount_ongoing_return": "Anggaran jumlah bayaran balik",
+  "car_hand_note_detail_order_time_ongoing_return": "Anggaran masa bayaran balik",
+  "car_hand_note_detail_order_info_transaction": "Maklumat transaksi",
+  "car_hand_note_detail_order_amount_payment": "Jumlah keseluruhan",
+  "car_hand_note_detail_order_total_order": "Jumlah pesanan",
+  "car_hand_note_detail_content_define_vat": "VAT ialah cukai dan yuran yang anda perlu bayar kepada pembekal kereta di bawah peraturan mereka apabila menggunakan perkhidmatan sewa kereta.",
+  "car_title_search_result_first_character": "kereta sewa di",
+  "car_title_tool_bar_pick_up_location": "Di mana anda mahu mengambil?",
+  "car_title_tool_bar_drop_off_location": "Di mana anda ingin menurunkan?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Harga sewa kereta ditukar berdasarkan mata wang semasa yang digunakan oleh pembekal Kereta.\nNota:\n- Kadar pertukaran tertakluk kepada perubahan sebelum anda membayar.\n- Pengeluar kad anda mungkin mengenakan yuran transaksi asing kepada anda.",
+  "car_hand_note_detail_content_define_payment_fee": "Yuran transaksi yang sepadan dengan setiap permintaan sewa kereta yang anda perlukan untuk membayar pembekal perkhidmatan gerbang pembayaran dalam talian.",
+  "car_hand_note_detail_content_notice_insurance": "Nota: Jika anda ingin memohon pakej insurans ini, sila hubungi terus kaunter hadapan pembekal kereta.",
+  "car_hand_note_detail_title_header_insurance": "Banyak insurans kereta dan kontrak sewa meliputi pengecualian yang mungkin mahal berkaitan dengan kerosakan atau kecurian kereta sewa. Walau bagaimanapun, mempunyai insurans di bawah akan membantu melindungi dan menawarkan sokongan kewangan kepada anda dengan jumlah wang yang banyak.",
+  "car_result_booking_title_header_rental_car_success": "TEMPAHAN BERJAYA",
+  "car_result_booking_title_btn_continue_rental_car": "Terus tempah",
+  "car_result_booking_title_btn_view_order_details": "Lihat butiran pesanan",
+  "car_result_booking_title_header_first_char": "Permintaan tempahan anda telah berjaya dibuat",
+  "car_result_booking_title_header_second_char": "(Dibayar)",
+  "car_result_booking_title_header_third_char": ". Anda boleh menyemak butiran sewa kereta di bawah.",
+  "car_result_booking_title_header__char": "Terima kasih atas kepercayaan anda",
+  "car_result_booking_title_header____char": "perkhidmatan. Jika anda mempunyai sebarang soalan atau memerlukan bantuan lanjut, sila hubungi Pusat Bantuan kami di",
+  "car_result_booking_title_header_____char": "untuk arahan.",
+  "car_result_booking_title_header______char": ". Anda boleh menyemak butiran sewa kereta di bawah.",
+  "car_result_booking_title_order": "Pesanan",
+  "car_result_booking_title_billing_info": "Maklumat Pembayaran",
+  "car_result_booking_title_time": "Masa",
+  "car_result_booking_title_name_car": "Nama kereta",
+  "car_picker_time_from_the_date": "daripada",
+  "car_picker_time_to_the_date": "Kepada",
+  "car_picker_time": "Masa",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Pilih bandar/negeri",
+  "car_result_notice_no_data_found": "Maaf, tiada data ditemui",
+  "car_result_notice_no_flight_found_description": "Kami tidak menemui sebarang hasil yang sepadan dengan carian anda. Sila cari semula.",
+  "car_extra_service": "Beberapa perkhidmatan tambahan di bawah mungkin ditawarkan kepada anda oleh pembekal kereta. Jika anda ingin memohon untuk mereka, sila hubungi terus kaunter hadapan pembekal.",
+  "car_extra_charges": "Caj tambahan akan dikenakan kepada pemandu di bawah atau melebihi umur yang ditentukan oleh pembekal kereta",
+  "car_note_driver_age": "Nota: Bayaran ini akan dikutip di kaunter penerimaan tetamu semasa ketibaan anda untuk mengambil kereta.",
+  "car_rental_details": "Butiran sewa kereta",
+  "car_you_dont_have_any_car_rental_orders": "Anda belum mempunyai sebarang pesanan sewa kereta.",
+  "car_search_code_no_information": "Tiada maklumat tempahan ditemui.\nSila semak dan cuba lagi",
+  "car_input_code_message_empty": "Sila masukkan nombor tempahan anda",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Terima",
+  "aff_chart_day_ago": "{number} hari lepas",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Dari {from} hingga {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Tempoh kuki: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Hotel",
+  "aff_tour": "Lawatan",
+  "aff_product_name": "Nama Produk",
+  "aff_anonymous_user": "Pengguna tanpa nama",
+  "aff_unknown": "Tidak diketahui",
+  "aff_product_unknown": "Jenis produk tidak diketahui",
+  "aff_share": "Kongsi",
+  "aff_fetch_data_failure": "Gagal mendapatkan data",
+  "aff_fetch_data_failure_try_later": "Gagal mendapatkan data. Sila cuba sebentar lagi.",
+  "aff_detail": "Butiran",
+  "aff_no_data": "Tiada data dijumpai",
+  "aff_all": "Semua",
+  "aff_country": "Negara",
+  "aff_summary": "Gambaran keseluruhan",
+  "aff_link_management": "Pengurusan Pautan",
+  "aff_promotion_tool": "Alat Pemasaran",
+  "aff_help": "Tolong",
+  "aff_notification": "Pemberitahuan",
+  "aff_notification_no_data": "Anda tidak mempunyai sebarang pemberitahuan",
+  "aff_revenue": "Hasil",
+  "aff_revenue_total": "Jumlah hasil",
+  "aff_customer_id": "ID pelanggan",
+  "aff_payment_total": "Jumlah keseluruhan",
+  "aff_commission_receive": "Jumlah komisen yang diterima",
+  "aff_search_by_order": "Cari mengikut kod pesanan",
+  "aff_reset": "Tetapkan semula",
+  "aff_cancel": "Batal",
+  "aff_save": "Jimat",
+  "aff_search": "Cari",
+  "aff_continue": "teruskan",
+  "aff_payment_account": "Akaun pembayaran",
+  "aff_profile": "Profil",
+  "aff_edit_profile": "Edit maklumat",
+  "aff_affiliate": "ahli gabungan",
+  "aff_setting": "tetapan",
+  "aff_resend": "Hantar semula",
+  "aff_verify_failure": "Pengesahan gagal",
+  "aff_show_code": "Tunjukkan kod",
+  "aff_sms_block_forever": "Fungsi pengesahan telah dikunci buat sementara waktu. Sila cuba sebentar lagi.",
+  "aff_sms_wrong_code": "Kod pengesahan yang salah. Sila semak semula.",
+  "aff_sms_expired_code": "Kod pengesahan telah tamat tempoh. Sila dapatkan kod lain",
+  "aff_sms_verify_failure": "Pengesahan gagal. Sila cuba sebentar lagi.",
+  "aff_enter_verify_code": "Masukkan kod pengesahan",
+  "aff_we_send_code_to_phone": "Kami menghantar kod pengesahan ke {phone}.\nMasukkan kod yang anda terima untuk melengkapkan langkah ini.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Kod akan tamat tempoh dalam:",
+  "aff_sms_block": "Fungsi penghantaran kod melalui SMS dikunci buat sementara waktu. Sila cuba sebentar lagi.",
+  "aff_sms_resend_in": "Anda boleh memilih untuk menghantar semula kod dalam:",
+  "aff_account_information": "MAKLUMAT AKAUN",
+  "aff_account_information_subtitle": "Sila kemas kini nombor telefon anda dalam akaun pembayaran anda untuk dapat terus menggunakan perkhidmatan di Hahalolo.",
+  "aff_account_name": "Nama akaun",
+  "aff_search_county": "Cari negara",
+  "aff_wallet_create_failure": "Pembuatan akaun pembayaran gagal",
+  "aff_wallet_create_failure_try_again": "Pembuatan akaun pembayaran gagal. Sila cuba sebentar lagi.",
+  "aff_information_general": "Maklumat Am",
+  "aff_information_unknown": "(Tidak diketahui)",
+  "aff_information_full_name": "Nama penuh {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "E-mel {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Nombor telefon  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Tarikh lahir {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Jantina {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Alamat {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "negara {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Maklumat lanjut",
+  "aff_information_city": "Wilayah/Bandar {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Poskod  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID Kad /Pasport {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Tarikh luput {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Negara IssueX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "kewarganegaraan {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Tempat lahir {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Kod telefon",
+  "aff_gender_male": "jantan",
+  "aff_gender_female": "perempuan",
+  "aff_gender_other": "Lain-lain",
+  "aff_validate_full_name": "Nama penuh mestilah sekurang-kurangnya 3 aksara",
+  "aff_validate_email": "Email tidak sah",
+  "aff_validate_phone": "Nombor telefon tidak sah",
+  "aff_validate_post_code": "Poskod tidak sah",
+  "aff_validate_id_code": "Kad pengenalan/Pasport tidak sah",
+  "aff_validate_invalid_field": "Masa",
+  "aff_validate_phone_existed": "Nombor telefon telah didaftarkan untuk akaun pembayaran lain.",
+  "aff_validate_unknown_country": "Negara yang tidak diketahui",
+  "aff_date_time": "Masa",
+  "aff_date_yesterday": "Semalam",
+  "aff_date_today": "Hari ini",
+  "aff_date_unknown": "Tarikh tidak diketahui",
+  "aff_date_month": "bulan",
+  "aff_date_day": "hari",
+  "aff_date_hour": "jam",
+  "aff_date_minute": "minit",
+  "aff_date_second": "kedua",
+  "aff_date_range": "Julat tarikh",
+  "aff_report": "Laporan",
+  "aff_report_summary": "Gambaran keseluruhan laporan",
+  "aff_report_click": "Klik",
+  "aff_report_click_number": "Klik",
+  "aff_report_performance": "Prestasi",
+  "aff_report_customer": "Pelanggan",
+  "aff_report_payment": "Bayaran",
+  "aff_report_product_performance": "Prestasi produk",
+  "aff_report_product_type": "Jenis produk",
+  "aff_report_customer_detail": "Butiran pelanggan",
+  "aff_report_commission_by_product": "Komisen mengikut item",
+  "aff_report_customer_total": "Jumlah pelanggan yang membeli",
+  "aff_report_customer_serving": "Jumlah pelanggan dalam perkhidmatan",
+  "aff_report_customer_served": "Jumlah pelanggan yang dilayan",
+  "aff_report_payment_waiting": "Jumlah komisen dalam proses",
+  "aff_report_payment_pending": "Jumlah komisen belum selesai",
+  "aff_report_payment_available": "Jumlah komisen yang ada",
+  "aff_report_payment_status_waiting": "Memproses",
+  "aff_report_payment_status_pending": "Yang belum selesai",
+  "aff_report_payment_status_available": "Tersedia",
+  "aff_report_payment_status_cancel": "Dibatalkan",
+  "aff_report_payment_status": "Status",
+  "aff_report_description_click": "Carta statistik klik pautan ahli gabungan, jumlah pesanan yang diterima komisen dan hasil",
+  "aff_report_description_customer": "Carta statistik maklumat pelanggan",
+  "aff_report_description_commission": "Carta statistik komisen",
+  "aff_link": "pautan:",
+  "aff_link_copied": "Pautan disalin",
+  "aff_link_path": "Pautan ahli gabungan",
+  "aff_link_paste_here": "Tampal pautan anda di sini",
+  "aff_flight_commission_itinerary": "Jadual perjalanan",
+  "aff_flight_commission_itinerary_domestic": "Dalam negeri",
+  "aff_flight_commission_itinerary_international": "antarabangsa",
+  "aff_flight_commission_itinerary_unknown": "Jadual perjalanan tidak diketahui",
+  "aff_flight_commission_seat_class": "Kelas tempat duduk",
+  "aff_flight_commission_seat_class_plus": "Tambahan pula",
+  "aff_flight_commission_seat_class_business": "perniagaan",
+  "aff_flight_commission_seat_class_unknown": "Kelas tempat duduk tidak diketahui",
+  "aff_flight_ticket": "Tiket penerbangan",
+  "aff_flight_all_airlines": "Semua syarikat penerbangan",
+  "aff_tooltip_flight_domestic": "Penerbangan dengan destinasi dan pelepasan dalam wilayah Vietnam",
+  "aff_tooltip_seller": "Anda boleh menggunakan kod ini untuk menambah pada penghujung setiap pautan pemasaran gabungan. Hahalolo akan membuktikan bahawa ia adalah pautan dan komisen ganjaran anda apabila terdapat pesanan sah yang timbul daripada pautan itu.",
+  "aff_commission": "Suruhanjaya",
+  "aff_commission_by_country": "Komisen hotel mengikut negara",
+  "aff_commission_flight_list": "Komisen hotel mengikut negara",
+  "aff_commission_max": "Komisen Tertinggi:",
+  "aff_commission_of_product": "Komisen {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Kod pesanan",
+  "aff_order_total": "Jumlah pesanan",
+  "aff_order_tooltip_click": "Bilangan kali pengguna mengklik pada pautan ahli gabungan anda.",
+  "aff_order_conversion_rate": "Kadar penukaran",
+  "aff_order_tooltip_conversion_rate": "Satu ukuran untuk anda menganalisis prestasi promosi produk anda.",
+  "aff_order_product_total": "Jumlah produk",
+  "aff_order_click_total": "Jumlah klik",
+  "aff_order_earnings_total": "Jumlah pendapatan",
+  "aff_order_id_unknown": "Kod pesanan tidak diketahui",
+  "aff_order_added": "ditambahkan pada akaun pembayaran",
+  "aff_order_type_waiting": "Memproses",
+  "aff_order_type_pending": "Yang belum selesai",
+  "aff_order_type_available": "Tersedia",
+  "aff_order_type_cancel": "Dibatalkan",
+  "aff_ordered_total": "Jumlah produk yang dipesan",
+  "aff_order_receive_commission": "Jumlah pesanan yang diterima komisen",
+  "aff_verify_do_not_have_account": "ANDA BELUM \n MEMPUNYAI AKAUN PEMBAYARAN",
+  "aff_guild": "Arahan",
+  "aff_seller_code": "Kod penjual: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Kod penjual",
+  "aff_view_detail": "Lihat butiran",
+  "aff_notification_turn_off_link_1": "Ciri pemasaran gabungan\n",
+  "aff_notification_turn_off_link_2": "dilumpuhkan, yang bermaksud pautan ahli gabungan yang anda kongsikan akan menjadi tidak sah!",
+  "aff_notification_turn_on_link_success": "Ciri pemasaran ahli gabungan untuk {type} berjaya didayakan",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Komisen penerbangan",
+  "aff_commission_list_hotel": "Komisen hotel mengikut negara",
+  "aff_tooltip_menu": "Buka menu",
+  "aff_tooltip_dash_board": "Akses pantas ke papan pemuka",
+  "aff_tooltip_guild": "Turun ke bawah untuk arahan",
+  "aff_action_done": "Selesai",
+  "aff_check_user_failed": "Tidak dapat menyemak pengguna. Sila cuba sebentar lagi.",
+  "aff_something_went_wrong": "Sesuatu telah berlaku.",
+  "aff_page_not_found": "Laman tidak dijumpai.",
+  "aff_and": "dan",
+  "aff_month_summary": "Ringkasan untuk bulan ini",
+  "aff_see_more": "Lihat lagi",
+  "aff_try_again": "Cuba lagi",
+  "aff_error_try_again": "Ralat berlaku. Sila cuba sebentar lagi.",
+  "aff_tooltip_flight_international": "Penerbangan dengan pelepasan atau ketibaan di luar wilayah Vietnam.",
+  "aff_area_code": "Kod telefon",
+  "aff_phone_number": "Nombor telefon",
+  "aff_validate_sms_required": "Sila masukkan kod pengesahan",
+  "aff_validate_sms_min_length": "Sila masukkan kod pengesahan penuh",
+  "aff_welcome": "Selamat datang",
+  "aff_verify_update": "Kemas kini akaun pembayaran",
+  "aff_verify_create_account": "Buat akaun pembayaran",
+  "aff_verify_invalid_wallet": "Kemas kini Akaun Pembayaran",
+  "aff_verify_do_not_have_account_subtitle": "Sila buat akaun pembayaran untuk menggunakan fungsi jualan di Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Sila kemas kini nombor telefon anda dalam akaun pembayaran anda untuk dapat terus menggunakan perkhidmatan di Hahalolo",
+  "aff_guild_1": "Anda kini boleh mendayakan ciri pemasaran gabungan dengan cepat dengan mengklik",
+  "aff_guild_2": "di bahagian Hotel/Penerbangan",
+  "aff_guild_3": "Selepas menghidupkan pemasaran gabungan, anda boleh mempromosikan produk anda melalui:",
+  "aff_guild_4": "Pautan ditetapkan secara lalai oleh Hahalolo dalam",
+  "aff_guild_5": "Sebarang pautan yang berkaitan dengan bahagian yang pemasaran gabungannya didayakan, dengan syarat kod penjual anda dilampirkan pada pautan yang sepadan dengan produk.",
+  "aff_seller": "Penjual",
+  "aff_menu": "kategori",
+  "aff_dash_chart_title": "Carta statistik pendapatan dan klik anda untuk bulan ini",
+  "aff_dash_click": "Klik",
+  "aff_dash_commission": "Pendapatan",
+  "aff_flight_commission_detail_customer_way": "/ penumpang / segmen",
+  "aff_flight_commission_detail_order_total": "/ jumlah pesanan",
+  "aff_performance_chart_title": "Carta statistik klik pautan ahli gabungan, jumlah pesanan yang diterima komisen dan hasil",
+  "aff_customer_chart_title": "Carta statistik maklumat pelanggan",
+  "aff_payment_chart_title": "Carta statistik komisen",
+  "aff_action_exit": "Keluar",
+  "aff_action_update": "kemas kini",
+  "aff_action_create": "cipta",
+  "aff_dialog_check_invalid_user": "Sila {action} akaun pembayaran anda untuk dapat menggunakan perkhidmatan pemasaran gabungan di Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Tarikh",
+  "aff_action_register": "mendaftar",
+  "aff_otp_time_left": "{number} kali lagi",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "BUAT AKAUN PEMBAYARAN",
+  "wallet_create_payment_subtitle": "Menyediakan akaun pembayaran ditentukan sebagai akaun pembayaran utama, termasuk penerimaan wang, pengeluaran dan pembayaran selepas ia ditetapkan.",
+  "wallet_verify_otp_title": "Masukkan kod pengesahan",
+  "wallet_verify_otp_subtitle": "Kami telah menghantar kod pengesahan ke {phone}. \nMasukkan kod yang anda terima untuk melengkapkan langkah ini.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Akaun pembayaran",
+  "wallet_start_subtitle": "Akaun pembayaran Hahalolo ialah penyelesaian pembayaran di Hahalolo yang membantu anda mendapat pengalaman yang menarik dan mudah bersama kami.",
+  "wallet_label_choose_business": "Pilih perniagaan",
+  "wallet_label_account_name": "Nama akaun",
+  "wallet_label_email": "E-mel",
+  "wallet_label_phone": "Nombor telefon",
+  "wallet_label_choose_currency": "Pilih mata wang",
+  "wallet_label_payment_country": "Negara pembayaran",
+  "wallet_label_payment_method": "Kaedah pembayaran",
+  "wallet_label_card_holder_name": "Nama pemegang kad (tanpa tanda nada)",
+  "wallet_label_card_bank_name": "nama bank",
+  "wallet_label_card_swift_code": "SWIFT kod",
+  "wallet_label_bank_account_number": "nombor akaun bank",
+  "wallet_label_account_type": "Jenis Akaun",
+  "wallet_label_tax_code": "Kod cukai",
+  "wallet_label_tax_type": "Jenis cukai",
+  "wallet_label_address": "Alamat",
+  "wallet_label_address_2": "Alamat 2 (pilihan)",
+  "wallet_label_country": "Negara",
+  "wallet_label_city": "Wilayah/Bandar",
+  "wallet_label_district": "Daerah",
+  "wallet_label_first_name": "Nama terakhir",
+  "wallet_label_last_name": "Nama pertama",
+  "wallet_label_middle_name": "nama tengah (pilihan)",
+  "wallet_label_postal_code": "Poskod",
+  "wallet_label_city_more_description": "Negeri/Wilayah/Wilayah",
+  "wallet_label_postal_code_more_description": "Zip/Poskod",
+  "wallet_label_district_more_description": "Bandar/Pekan",
+  "wallet_label_birthday_18_years_old": "Tarikh lahir (sekurang-kurangnya 18 tahun)",
+  "wallet_label_date_of_birth": "Tarikh lahir",
+  "wallet_label_enter_password": "Masukkan kata laluan anda",
+  "wallet_label_password": "Kata laluan",
+  "wallet_label_enter_pin": "Masukkan PIN",
+  "wallet_label_re_enter_new_pin": "Masukkan semula PIN baharu",
+  "wallet_label_enter_new_pin": "Masukkan PIN baharu",
+  "wallet_label_enter_current_pin": "Masukkan PIN lama",
+  "wallet_validate_pin_required": "Sila masukkan PIN anda",
+  "wallet_validate_otp_required": "Sila masukkan kod pengesahan",
+  "wallet_validate_current_pin_required": "Sila masukkan PIN lama anda",
+  "wallet_validate_new_pin_required": "Sila masukkan PIN baharu anda.",
+  "wallet_validate_re_enter_new_pin_required": "Sila masukkan semula PIN baharu anda.",
+  "wallet_validate_re_enter_new_pin_not_match": "PIN pengesahan tidak sepadan",
+  "wallet_action_detail": "Butiran",
+  "wallet_text_pick_date": "Pilih tarikh",
+  "wallet_text_email_address": "Alamat emel",
+  "wallet_text_message_to": "Hantar mesej kepada",
+  "wallet_text_recovery_method": "Kaedah pemulihan",
+  "wallet_text_recovery_choose_method": "Pilih cara mendapatkan kod pemulihan anda",
+  "wallet_text_change_pin": "Tukar PIN anda",
+  "wallet_text_forgot_pin": "Lupa PIN?",
+  "wallet_text_show_pin": "Tunjukkan PIN",
+  "wallet_text_please_try_again_in": "Sila cuba sebentar lagi:",
+  "wallet_text_remove_account": "Padamkan akaun pembayaran",
+  "wallet_text_ineligible_payment": "Tidak layak untuk transaksi",
+  "wallet_text_ineligible_payment_description": "Anda tidak akan dapat membuat sebarang transaksi daripada sistem sehingga pentadbir kami menerima maklumat akaun pembayaran anda. Sila kemas kini maklumat akaun pembayaran anda.",
+  "wallet_text_address_2": "Alamat 2",
+  "wallet_text_new_account": "Buat akaun pembayaran",
+  "wallet_text_payout_account_detail": "Butiran akaun pembayaran",
+  "wallet_text_middle_name": "Nama tengah",
+  "wallet_text_account_owner": "Pemegang akaun",
+  "wallet_text_tax_form": "Borang cukai",
+  "wallet_text_tax_form_subtitle": "Berdasarkan maklumat yang anda berikan, anda tidak perlu memuat naik sebarang borang cukai tambahan. Sila klik Teruskan untuk meneruskan ke langkah seterusnya.",
+  "wallet_text_card_holder_name": "Pemegang kad nama",
+  "wallet_text_otp_code_expire_in": "Kod akan tamat tempoh dalam:",
+  "wallet_text_account_information": "Maklumat Akaun",
+  "wallet_text_welcome": "Hai!",
+  "wallet_text_payment_information": "Maklumat Pembayaran",
+  "wallet_text_policies_confirm": "Saya bersetuju menerima {termsAndPolicies}",
+  "wallet_terms_and_policies": "Hahalolo terma dan polisi.",
+  "wallet_text_default": "Lalai",
+  "wallet_text_code_vie_sms": "Hantar kod melalui SMS",
+  "wallet_text_pin_code_recovery_description": "Gunakan e-mel anda untuk mengesahkan jika anda terlupa PIN anda.",
+  "wallet_text_sms_recovery_description": "Gunakan nombor telefon anda untuk mengesahkan jika anda terlupa PIN anda.",
+  "wallet_text_authority": "Saya bersetuju untuk membenarkan Hahalolo menggunakan maklumat akaun saya yang diberikan untuk meneruskan pemindahan wang.",
+  "wallet_text_district_three_dot": "Daerah...",
+  "wallet_text_set_up_pin": "Sediakan PIN",
+  "wallet_text_established": "(Ditubuhkan)",
+  "wallet_text_not_have_pin_yet_title": "Anda tidak mempunyai PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Sila buat PIN untuk menggunakan fungsi ini",
+  "wallet_text_security_pin_code_description": "PIN akaun pembayaran Hahalolo diperlukan untuk melindungi akaun dan maklumat kewangan anda. Apatah lagi, anda tidak perlu memasukkan semula butiran kad apabila anda log masuk semula.",
+  "wallet_text_check_password_locked": "Fungsi semakan kata laluan dikunci buat sementara waktu. Sila cuba sebentar lagi.",
+  "wallet_text_enter_password_description": "Anda perlu memasukkan kata laluan akaun Hahalolo anda untuk mengesahkan perubahan.",
+  "wallet_text_enter_sms_code": "Masukkan kod pengesahan",
+  "wallet_text_send_sms_description_1": "Kami telah menghantar kod pengesahan kepada",
+  "wallet_text_send_sms_description_2": "\nMasukkan kod yang anda terima untuk melengkapkan langkah ini.",
+  "wallet_text_resend": "Hantar semula",
+  "wallet_text_no_data": "Tiada data tersedia buat masa ini!",
+  "wallet_text_bank_transfer": "pemindahan bank",
+  "wallet_text_tax_ptin": "Nombor Pengenalan Pembayar Cukai Penyedia",
+  "wallet_text_tax_atin": "Nombor Pengenalan Pembayar Cukai Angkat",
+  "wallet_text_tax_ssn": "Nombor keselamatan sosial",
+  "wallet_text_account_personal": "Akaun peribadi",
+  "wallet_text_account_business": "Akaun perniagaan",
+  "wallet_text_country_code_and": "kod negara dan",
+  "wallet_text_resend_time": "Hantar semula {time}",
+  "wallet_text_change_your": "Tukar {text} anda",
+  "wallet_start_person_button": "{action} akaun pembayaran peribadi",
+  "wallet_start_business_button": "{action} akaun pembayaran perniagaan",
+  "wallet_text_recovery_subtitle_1": "{text} semasa anda ialah\n{value}",
+  "wallet_text_recovery_subtitle_2": "Sila masukkan {extra_text}{text} baharu",
+  "wallet_text_enter_new": "Masukkan {title} baharu",
+  "wallet_text_new": "{title} baharu",
+  "wallet_succ_setup_pin": "PIN berjaya disediakan.",
+  "wallet_succ_setup_pin_content": "Anda telah berjaya menyediakan PIN anda.",
+  "wallet_succ_change_pin": "PIN berjaya ditukar",
+  "wallet_succ_change_pin_content": "Anda telah berjaya menukar PIN anda",
+  "wallet_succ_change_information": "Maklumat telah berjaya dikemas kini dan disahkan",
+  "wallet_war_remove_payout_account": "Adakah anda pasti mahu memadamkan akaun ini secara kekal?",
+  "wallet_war_create_payment_title": "Buat Akaun Pembayaran",
+  "wallet_war_create_payment_subtitle": "Sila buat akaun perniagaan sebelum membuat akaun pembayaran.",
+  "wallet_war_unsaved_information": "Maklumat yang anda telah edit mungkin tidak disimpan. Adakah anda mahu keluar?",
+  "wallet_err_recovery": "Pemulihan gagal. Sila cuba sebentar lagi.",
+  "wallet_err_recovery_no_user_data": "Pemulihan gagal. Tiada maklumat pengguna ditemui.",
+  "wallet_err_recovery_phone_exists": "Pemulihan gagal. Nombor telefon ini sudah wujud.",
+  "wallet_err_recovery_phone_invalid": "Pemulihan gagal. Nombor telefon tidak sah.",
+  "wallet_err_recovery_password_invalid": "Pemulihan gagal. Kata laluan anda salah.",
+  "wallet_err_pin_existed": "PIN sudah wujud.",
+  "wallet_err_pin_wallet_not_exist": "Akaun pembayaran tidak wujud",
+  "wallet_err_pin_incorrect_or_exists": "PIN tidak betul atau tidak wujud",
+  "wallet_err_pin_try_again": "Persediaan PIN gagal. Sila cuba sebentar lagi.",
+  "wallet_err_set_payout_default": "Gagal memilih akaun pembayaran lalai. Sila cuba sebentar lagi!",
+  "wallet_err_occurred_try_again": "Ralat berlaku. Sila cuba sebentar lagi.",
+  "wallet_err_send_verify_title": "Gagal menghantar kod pengesahan",
+  "wallet_err_try_again": "Ralat berlaku. Sila cuba sebentar lagi.",
+  "wallet_err_create_payout_title": "Gagal membuat akaun pembayaran. Sila cuba sebentar lagi.",
+  "wallet_err_fetch_data_failed": "Gagal memuatkan data. Sila cuba sebentar lagi!",
+  "wallet_err_occurred_processing": "Ralat berlaku semasa pemprosesan. Sila cuba sebentar lagi.",
+  "wallet_err_remove_payout": "Gagal memadamkan akaun. Sila cuba sebentar lagi.",
+  "wallet_err_change_pin": "Gagal menukar PIN",
+  "wallet_err_setup_pin": "Gagal menyediakan PIN",
+  "wallet_err_sms_code_expired": "Kod pengesahan telah tamat tempoh. Sila cuba lagi.",
+  "wallet_err_sms_code_incorrect": "Kod pengesahan tidak betul. Sila cuba lagi.",
+  "wallet_create_payout_title": "Buat akaun pembayaran",
+  "wallet_action_continue": "teruskan",
+  "wallet_action_create": "Buat",
+  "wallet_action_update": "Kemas kini",
+  "wallet_action_ok": "Setuju",
+  "wallet_action_complete": "lengkap",
+  "wallet_action_next": "teruskan",
+  "wallet_action_try_back": "Pergi balik",
+  "wallet_action_try_again": "Cuba lagi",
+  "wallet_action_accept": "Terima",
+  "wallet_action_remove": "Padam",
+  "wallet_action_change": "Ubah",
+  "wallet_action_setup": "Sediakan",
+  "wallet_action_confirm": "sahkan",
+  "wallet_action_cancel": "Batal",
+  "wallet_action_close": "tutup",
+  "wallet_overview": "Gambaran keseluruhan",
+  "wallet_notification": "Pemberitahuan",
+  "wallet_transaction_history": "Sejarah transaksi",
+  "wallet_transfer_point": "Perpindahan mata",
+  "wallet_payout_accounts": "Akaun pembayaran",
+  "wallet_security": "Keselamatan",
+  "wallet_recovery_methods": "Kaedah pemulihan",
+  "wallet_help_center": "Pusat Bantuan",
+  "wallet_view_profile": "Lihat maklumat",
+  "wallet_info_title": "Maklumat akaun pembayaran",
+  "wallet_edit_identity_card": "ID kad",
+  "wallet_edit_id_card": "ID kad",
+  "wallet_edit_passport": "pasport",
+  "wallet_edit_verify_status": "Status",
+  "wallet_edit_not_verify": "Tidak disahkan",
+  "wallet_edit_verified": "Disahkan",
+  "wallet_edit_verify_waiting": "Yang belum selesai",
+  "wallet_edit_gender": "Jantina",
+  "wallet_edit_male": "jantan",
+  "wallet_edit_female": "perempuan",
+  "wallet_edit_other": "Lain-lain",
+  "wallet_owner_title": "Maklumat pengguna",
+  "wallet_edit_fullName": "Nama penuh",
+  "wallet_edit_email": "E-mel",
+  "wallet_edit_phoneNumber": "Nombor telefon",
+  "wallet_edit_dateOfBirth": "Tarikh lahir",
+  "wallet_edit_dateOfBirth_13_yo": "Tarikh lahir (sekurang-kurangnya 13 tahun)",
+  "wallet_edit_address": "Alamat",
+  "wallet_edit_country": "Negara",
+  "wallet_edit_idType": "Jenis pengenalan",
+  "wallet_edit_id_passport": "Nombor ID/Pasport",
+  "wallet_edit_country_issue": "Negara isu",
+  "wallet_edit_id_document": "Imej kad ID/pasport",
+  "wallet_edit_front": "Bahagian depan",
+  "wallet_edit_back": "Bahagian belakang",
+  "wallet_edit_activate_date": "Tarikh kuat kuasa",
+  "wallet_edit_expiration_date": "Tarikh luput",
+  "wallet_waiting_balance": "Baki belum selesai",
+  "wallet_pending_balance": "Keseimbangan dalam proses",
+  "wallet_available_balance": "Baki yang ada",
+  "wallet_frozen_balance": "Baki beku",
+  "wallet_top10_trans": "10 transaksi terkini",
+  "wallet_source_withdrawal": "Mengeluarkan",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Wang masuk",
+  "wallet_source_outcome": "Duit keluar",
+  "wallet_source_point": "mata",
+  "wallet_source_aff_commission": "Ahli Gabungan - Komisen",
+  "wallet_source_aff_reward": "Gabungan - Program ganjaran",
+  "wallet_source_recharge": "Tambah nilai",
+  "wallet_source_order": "Pesanan",
+  "wallet_status_waiting": "Yang belum selesai",
+  "wallet_status_pending": "Menunggu kelulusan",
+  "wallet_status_available": "Tersedia",
+  "wallet_status_frozen": "beku",
+  "wallet_status_cancel": "Dibatalkan",
+  "wallet_status_success": "Berjaya",
+  "wallet_status_error": "gagal",
+  "wallet_status_outcome": "Duit keluar",
+  "wallet_status_transfer": "Perpindahan mata",
+  "wallet_action_receive": "Terima mata",
+  "wallet_action_donate": "Beri mata",
+  "wallet_action_buy_point": "Beli mata",
+  "wallet_action_payment": "Bayaran",
+  "wallet_filter_all": "Semua",
+  "wallet_filter_allTime": "Semua",
+  "wallet_filter_today": "Hari ini",
+  "wallet_filter_yesterday": "Semalam",
+  "wallet_filter_7days": "7 hari lepas",
+  "wallet_filter_30days": "30 hari lepas",
+  "wallet_filter_custom_date": "Tarikh pilihan",
+  "wallet_filter_status": "Status",
+  "wallet_filter_time": "Masa",
+  "wallet_filter_action": "Tindakan",
+  "wallet_validate_this_field": "Medan ini",
+  "wallet_validate_required": "{fieldName} diperlukan",
+  "wallet_validate_invalid_email": "Email tidak sah",
+  "wallet_validate_invalid_phone_number": "Nombor telefon tidak sah",
+  "wallet_validate_invalid_number": "Nombor tidak sah",
+  "wallet_validate_limit_length": "{fieldName} mestilah sekurang-kurangnya {minLength} aksara",
+  "wallet_validate_not_contain_number": "{fieldName} tidak boleh mengandungi aksara angka",
+  "wallet_validate_not_contain_special_char": "{fieldName} tidak boleh mengandungi aksara khas",
+  "wallet_validate_invalid_swift_code_length": "Kod Swift hanya terdiri daripada 8 hingga 11 aksara",
+  "wallet_validate_invalid_swift_code": "Kod pantas tidak sah",
+  "wallet_no_transaction": "Tiada transaksi!",
+  "wallet_no_image": "Tiada foto lagi",
+  "wallet_edit_quit_msg": "Maklumat yang anda telah edit mungkin tidak disimpan. Adakah anda mahu keluar?",
+  "wallet_point_total": "Jumlah:",
+  "wallet_payment_methods": "Kaedah pembayaran",
+  "wallet_payment_methods_note": "(Nota: '{HAHALOLO}' akan menyokong pengguna dengan caj bank '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Bilangan mata",
+  "wallet_points": "{number} mata",
+  "wallet_1point": "1 mata",
+  "wallet_msg_enter_number_of_points": "Sila masukkan bilangan mata yang anda ingin beli",
+  "wallet_msg_pin_not_correct": "PIN tidak betul atau tidak wujud",
+  "wallet_msg_balance_not_enough": "Baki tidak mencukupi",
+  "wallet_msg_error_while_buy_point": "Ralat berlaku semasa membeli mata",
+  "wallet_msg_fetch_error": "Ralat berlaku. Sila cuba sebentar lagi.",
+  "wallet_msg_buy_point_success": "Anda telah berjaya membeli mata",
+  "wallet_withdrawal_req": "Permintaan pengeluaran:",
+  "wallet_withdrawal_payment_acc_id": "ID akaun pembayaran:",
+  "wallet_withdrawal_balance": "Baki yang ada:",
+  "wallet_withdrawal_payout_acc": "akaun pembayaran",
+  "wallet_withdrawal_amount": "Jumlah ({currency})",
+  "wallet_label_desc": "Penerangan",
+  "wallet_btn_save": "Jimat",
+  "wallet_btn_edit_owner": "Sunting",
+  "wallet_btn_buy": "Beli",
+  "wallet_btn_reset": "Masuk semula",
+  "wallet_insufficient_available_balances": "Baki yang tersedia tidak mencukupi",
+  "wallet_msg_complete_info": "Sila isi maklumat",
+  "wallet_msg_success": "Anda telah berjaya menarik diri",
+  "wallet_msg_wal_not_exist": "Akaun pembayaran tidak wujud",
+  "wallet_msg_wal_blocked": "Akaun pembayaran disekat",
+  "wallet_msg_acc_incorrect": "Akaun pembayaran yang salah",
+  "wallet_msg_total_not_available": "Jumlah amaun yang diminta tidak tersedia",
+  "wallet_msg_pin_locked": "PIN akaun pembayaran dikunci",
+  "wallet_msg_withdrawal_failed": "Pengeluaran gagal. Sila cuba sebentar lagi.",
+  "wallet_msg_fill_in_all_info": "Sila isi maklumat",
+  "wallet_update_info_success": "Anda telah berjaya mengemas kini maklumat",
+  "wallet_update_info_fail": "Gagal mengemas kini maklumat",
+  "wallet_no_notifications": "Anda tidak mempunyai sebarang pemberitahuan",
+  "wallet_buy_point_payment_method_note": "(Nota: '{hahalo}' akan menyokong pengguna dengan caj bank '{free}')",
+  "wallet_note_free": "PERCUMA",
+  "wallet_buy_point_policy": "Saya bersetuju menerima {condition} dan {privacy}",
+  "wallet_term_conditions": "Terma dan syarat",
+  "wallet_privacy": "Privasi",
+  "wallet_msg_receiving_account_not_exist": "Akaun pembayaran penerima tidak wujud",
+  "wallet_msg_search_account_error": "Ralat berlaku semasa mencari akaun pembayaran",
+  "wallet_msg_sending_account_not_exist": "Akaun pembayaran pengirim tidak wujud",
+  "wallet_msg_point_balance_not_enough": "Baki mata akaun pembayaran tidak mencukupi",
+  "wallet_msg_cannot_give_to_itself": "Tidak boleh memindahkan mata kepada diri sendiri",
+  "wallet_msg_cannot_give_to_business": "Akaun pembayaran penerima tidak boleh menjadi akaun perniagaan",
+  "wallet_msg_transfer_point_err": "Ralat berlaku semasa memindahkan mata",
+  "wallet_msg_transfer_point_success": "Mata berjaya dipindahkan",
+  "wallet_recipient_info": "Maklumat penerima",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Bilangan mata",
+  "wallet_not_verified": "Akaun pembayaran yang tidak disahkan",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} jam {minute} minit",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 berhenti} other{{countStop} berhenti}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Masa transit kira-kira {time} dalam {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Dewasa (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Kanak\\-kanak (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "sayang (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} dewasa} other{{count} dewasa}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} anak} other{, {count} kanak-kanak}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} bayi} other{, {count} bayi}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Masa transit kira-kira {times} dalam {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAM } other{{countBag} KILOGRAM }}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Penerbangan sehala",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Penerbangan berlepas",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Penerbangan pergi balik",
+  "flight_fare_rule_title_fare_conditions": "Syarat tambang",
+  "flight_fare_rule_title_departure_flight": "Penerbangan",
+  "flight_fare_rule_title_segment": "Segmen",
+  "flight_fare_rule_notice_empty_fare_rule": "Syarat tambang daripada syarikat penerbangan tidak ditemui",
+  "flight_filter_by_title_filter": "Penapis",
+  "flight_filter_by_content_btn_filter": "Penapis",
+  "flight_filter_by_title_airline": "Syarikat penerbangan",
+  "flight_filter_by_title_flight_times": "Masa penerbangan",
+  "flight_filter_by_title_type_flight_times_early_morning": "Awal Pagi \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Pagi \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Petang \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Petang \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Bilangan perhentian",
+  "flight_filter_by_title_select_all": "Pilih semua",
+  "flight_filter_by_title_unselect_all": "Nyahpilih semua",
+  "flight_filter_by_title_type_segment_all": "Semua",
+  "flight_filter_by_title_type_segment_direct": "Penerbangan terus",
+  "flight_filter_by_title_type_segment_transit": "Transit",
+  "flight_sort_by_title_sort_by": "Disusun mengikut",
+  "flight_sort_by_title_sort_by_ascending_price": "Harga menaik",
+  "flight_sort_by_title_sort_by_descending_price": "Harga menurun",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Waktu berlepas paling awal",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Waktu ketibaan paling awal",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Waktu ketibaan terkini",
+  "flight_search_result_title_count_adult": "dewasa",
+  "flight_search_result_title_count_child": "anak",
+  "flight_search_result_title_count_baby": "sayang",
+  "flight_search_result_title_segment": "berhenti",
+  "flight_search_result_title_hours": "Jam",
+  "flight_search_result_title_minutes": "minit",
+  "flight_search_result_title_view_detail_price": "Lihat butiran",
+  "flight_search_result_title_hide_detail_price": "Sembunyikan butiran",
+  "flight_search_result_title_view_detail": "Butiran",
+  "flight_search_result_title_btn_book_ticket": "Buku",
+  "flight_search_result_title_basic_price_ticket": "Harga setiap tiket",
+  "flight_search_result_title_taxes_and_fee": "Cukai & Yuran",
+  "flight_search_result_title_total_amount": "Jumlah keseluruhan",
+  "flight_search_result_title_total": "Jumlah",
+  "flight_search_result_title_fare_details": "Butiran tambang",
+  "flight_search_result_title_quantity": "Kuantiti",
+  "flight_search_result_title_passenger": "Penumpang",
+  "flight_search_result_title_one_way_flight": "Penerbangan sehala",
+  "flight_search_result_title_round_trip_flight": "Penerbangan pergi balik",
+  "flight_change_search_title_btn_agree": "Setuju",
+  "flight_change_search_title_btn_cancel": "Batal",
+  "flight_change_search_title_header_dialog": "Tukar carian",
+  "flight_change_search_title_body_dialog": "Adakah anda pasti mahu menukar maklumat carian anda?",
+  "flight_change_search_title_footer_dialog": "Jika anda bersetuju untuk menukar maklumat carian anda, semua data sebelumnya akan dipadamkan.",
+  "flight_search_result_detail_title_flight_details": "Butiran penerbangan",
+  "flight_search_result_detail_title_checked_baggage": "Bagasi yang didaftarkan",
+  "flight_search_result_detail_title_aircraft": "Kapal terbang",
+  "flight_search_result_detail_title_seat_class": "Kelas tempat duduk",
+  "flight_search_result_detail_title_class_seat_type_all": "Semua",
+  "flight_search_result_detail_title_class_seat_type_economy": "Ekonomi",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Pertama",
+  "flight_search_result_detail_title_class_seat_type_business": "perniagaan",
+  "flight_search_result_detail_content_note_transit_body": "Nota: Penumpang mungkin dikehendaki membuat pelepasan kastam dan menyerahkan visa transit mereka atas permintaan negara tuan rumah.",
+  "flight_transit_alter_note": "Nota: Penumpang mungkin dikehendaki membuat pelepasan kastam dan menyerahkan visa transit mereka atas permintaan negara tuan rumah.",
+  "flight_luggage": "Bagasi",
+  "flight_signed_luggage": "Bagasi yang didaftarkan",
+  "flight_service_package": "Pakej perkhidmatan",
+  "flight_run_by": "Dikendalikan oleh",
+  "flight_result_notice_no_flight_found": "Tiada penerbangan ditemui!",
+  "flight_result_notice_no_flight_found_filter": "Maaf, tiada penerbangan yang sepadan dengan kriteria anda",
+  "flight_result_notice_check_internet_again": "Sambungan anda telah terganggu. Sila semak sambungan sekali lagi",
+  "flight_result_notice_error_authentication": "Sesi log masuk anda telah tamat tempoh. Sila log masuk semula",
+  "flight_search_result_notice_booking_expired": "Tempoh tempahan hampir tamat",
+  "flight_search_result_notice_click_continue_to_proceed": "Sila klik \"Teruskan\" untuk meneruskan tempahan.",
+  "flight_search_result_btn_continue": "teruskan",
+  "flight_input_title_gender": "Jantina",
+  "flight_input_title_gender_male": "jantan",
+  "flight_input_title_gender_female": "perempuan",
+  "flight_input_title_gender_other": "Lain-lain",
+  "flight_search_price_info_bottom_sheet_tax_include": "Termasuk cukai",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Termasuk yuran",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Surcaj sistem dan pentadbir",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Yuran pemeriksaan keselamatan",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Bayaran surcaj yang mudah",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Bayaran lapangan terbang",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Dewasa",
+  "flight_v2_model_booking_children": "Kanak-kanak",
+  "flight_v2_model_booking_infant": "Bayi",
+  "flight_v2_model_detail_infant": "(bawah 2 tahun)",
+  "flight_v2_model_detail_children": "(dari 02 - 12 tahun)",
+  "flight_v2_component_bonus_services_title_string": "Perkhidmatan tambahan",
+  "flight_v2_component_bonus_service_header": "Perkhidmatan tambahan",
+  "flight_v2_component_bonus_service_content_header_price": "Yuran insurans",
+  "flight_v2_component_bonus_service_flight_table_header": "Jumlah yuran insurans",
+  "flight_v2_component_bonus_service_text1_introduce": "pengenalan",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Jenis insurans:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Insurans penerbangan",
+  "flight_v2_component_bonus_service_text1_supplier": "Pembekal:",
+  "flight_v2_component_bonus_service_text2_company": "Syarikat Saham Bersama Insurans Vietinbank (Insurans Vietinbank)",
+  "flight_v2_component_bonus_service_text1_trusted": "Anda hendaklah yakin sepenuhnya mengembara dengan insurans perjalanan yang dipercayai kami",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Subjek Insurans",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Individu menggunakan perkhidmatan tempahan tiket penerbangan pada sistem Hahalolo untuk melakukan perjalanan melalui udara.",
+  "flight_v2_component_bonus_service_text1_age": "Umur: Dari 07 hari.",
+  "flight_v2_component_bonus_service_text1_range": "Skop",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Perlindungan insurans termasuk risiko berikut:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Kematian atau kecederaan badan yang disebabkan oleh kemalangan.",
+  "flight_v2_component_bonus_service_text1_impediments": "Risiko perjalanan, iaitu pembatalan/pemendekan perjalanan, kehilangan atau kerosakan pada bagasi, pakaian, dan barang peribadi Orang Yang Diinsuranskan, kelewatan penerbangan syarikat penerbangan, bagasi tertunda, kehilangan dokumen perjalanan atau rampasan.",
+  "flight_v2_component_bonus_service_text1_benefit": "Faedah",
+  "flight_v2_component_bonus_service_text1_small_amount": "Belanjakan hanya sejumlah kecil wang untuk perlindungan berganda.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Faedah insurans peribadi:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Orang yang diinsuranskan yang meninggal dunia akibat kemalangan atau kecederaan yang dilindungi oleh insurans akan menerima jumlah penuh diinsuranskan sehingga VND 1,000,000",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Faedah insurans perjalanan berisiko:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Orang yang diinsuranskan akan diberi pampasan sehingga maksimum VND 20,000,000",
+  "flight_v2_component_bonus_service_text1_rules": "Syarat",
+  "flight_v2_component_bonus_service_text1_more_information": "Sila dapatkan butiran lanjut dalam fail yang dilampirkan atau sila hubungi",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Peraturan insurans perjalanan",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Bersetuju untuk mengambil bahagian dalam Insurans Penerbangan",
+  "flight_v2_component_booking_flight_information": "Maklumat penerbangan",
+  "flight_v2_component_booking_show": "Baca lagi",
+  "flight_v2_component_booking_hide": "Sembunyi",
+  "flight_v2_component_booking_adult": "Dewasa",
+  "flight_v2_component_booking_children": "Kanak-kanak",
+  "flight_v2_component_booking_infant": "sayang",
+  "flight_v2_component_booking_baggage": "Bagasi",
+  "flight_v2_component_booking_main_content_service": "Perkhidmatan",
+  "flight_v2_component_booking_taxes_fees": "Yuran dan cukai",
+  "flight_v2_component_booking_title_booking_information": "Maklumat tempahan",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Penerbangan berlepas",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Penerbangan pergi balik",
+  "flight_v2_component_confirm_title_flight_information": "Maklumat penerbangan",
+  "flight_v2_component_confirm_text_done": "Selesai",
+  "flight_v2_component_detail_booking_information": "Maklumat tempahan",
+  "flight_v2_component_detail_flight_information": "Maklumat penerbangan",
+  "flight_v2_component_detail_passenger_information": "Maklumat penumpang",
+  "flight_v2_component_payment_booking_information": "Maklumat tempahan",
+  "flight_v2_component_payment_information": "Maklumat",
+  "flight_v2_component_payment_passenger_information": "Maklumat penumpang",
+  "flight_v2_component_payment_making_flight_payment": "Anda membuat pembayaran penerbangan untuk penumpang berikut:",
+  "flight_v2_component_payment_payment_now": "bayar",
+  "flight_v2_component_result_title_flight_details": "Butiran penerbangan",
+  "flight_v2_component_result_title_fare_details": "Butiran tambang",
+  "flight_v2_component_result_type_direct_flight": "Penerbangan terus",
+  "flight_v2_component_result_title_showMessDiaLog": "Pemberitahuan",
+  "flight_v2_component_result_message_selected_return": "Anda telah memilih penerbangan pergi dan balik",
+  "flight_v2_component_result_message_cancel_book": "Adakah anda ingin membatalkan dan menempah penerbangan baharu?",
+  "flight_v2_component_result_actionMessage_yes": "ya",
+  "flight_v2_component_result_negativeMessage_no": "Tidak",
+  "flight_v2_component_result_trip_turn_departure": "Pemergian",
+  "flight_v2_component_result_trip_turn_arrival": "Ketibaan",
+  "flight_v2_notify_day_invalid_cannot_choose": "Anda tidak boleh memilih",
+  "flight_v2_notify_day_invalid_because": "sebab",
+  "flight_v2_notify_day_invalid_date_is": "ialah",
+  "flight_v2_component_result_actionMessage_btn": "Setuju",
+  "flight_v2_component_result_message": "Sila jangan pilih tarikh sebelum tarikh semasa",
+  "flight_v2_component_search_text_guest": "Penumpang",
+  "flight_v2_component_search_button_save": "Jimat",
+  "flight_v2_component_search_text_choose_a_date": "Pilih tarikh",
+  "flight_v2_component_search_button_choose": "Pilih",
+  "flight_v2_widget_booking_total_price": "Harga keseluruhan",
+  "flight_v2_widget_booking_continue": "teruskan",
+  "flight_v2_widget_booking_payer_information": "Maklumat pembayar",
+  "flight_v2_widget_booking_payer_use_contact_information": "Gunakan maklumat kenalan",
+  "flight_v2_widget_booking_save_payment": "Simpan maklumat pembayaran ini untuk masa seterusnya",
+  "flight_v2_widget_booking_title_contact_information": "Maklumat perhubungan",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Gunakan maklumat akaun semasa",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Saya penumpang",
+  "flight_v2_widget_booking_radio_gender": "Jantina",
+  "flight_v2_widget_booking_radio_male": "jantan",
+  "flight_v2_widget_booking_radio_female": "perempuan",
+  "flight_v2_widget_booking_field_card_bank_card": "kad bank",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Bagasi yang didaftarkan",
+  "flight_v2_widget_booking_title_passenger_information": "Maklumat penumpang",
+  "flight_v2_widget_booking_information": "maklumat",
+  "flight_v2_widget_common_one_way": "Sehala",
+  "flight_v2_widget_common_details": "Butiran",
+  "flight_v2_widget_common_text_price": "harga",
+  "flight_v2_widget_common_text_fare_conditions": "Syarat tambang",
+  "flight_v2_widget_common_text_service_pack": "Pakej perkhidmatan",
+  "flight_v2_widget_common_item_tax_inclusive": "Termasuk cukai",
+  "flight_v2_widget_common_item_vat": "VAT",
+  "flight_v2_widget_common_item_fee_inclusive": "Termasuk yuran",
+  "flight_v2_widget_common_item_fee_surcharge": "Surcaj sistem dan pentadbir",
+  "flight_v2_widget_common_item_fee_screening": "Surcaj pemeriksaan keselamatan",
+  "flight_v2_widget_common_item_fee_convenient": "Bayaran surcaj yang mudah",
+  "flight_v2_widget_common_item_fee_airport": "Bayaran lapangan terbang",
+  "flight_v2_widget_common_text_price_per_ticket": "Tambang asas",
+  "flight_v2_widget_common_text_taxes_fees": "Cukai dan yuran",
+  "flight_v2_widget_common_service_service": "Perkhidmatan",
+  "flight_v2_widget_common_text_total_amount": "Harga keseluruhan",
+  "flight_v2_widget_common_button_continue": "teruskan",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Termasuk cukai dan yuran)",
+  "flight_v2_widget_common_service_accommodation_service": "Perkhidmatan penginapan",
+  "flight_v2_widget_common_text_direct_flight": "Penerbangan terus",
+  "flight_v2_widget_confirm_description": "Jantina",
+  "flight_v2_widget_confirm_description_full_name": "Nama penuh",
+  "flight_v2_widget_confirm_description_email": "E-mel",
+  "flight_v2_widget_confirm_description_phone_number": "Nombor telefon",
+  "address": "Alamat",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Tempahan berjaya",
+  "flight_v2_widget_confirm_text_reservation_request": "Permintaan Tempahan anda telah berjaya dibuat",
+  "flight_v2_widget_confirm_text_paid_already": "(Dibayar)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Anda boleh menyemak butiran jadual perjalanan di bawah.",
+  "flight_v2_widget_confirm_title_payment_information": "Maklumat Pembayaran",
+  "flight_v2_widget_confirm_description_orders": "Pesanan",
+  "flight_v2_widget_confirm_description_price": "harga",
+  "flight_v2_widget_confirm_description_payers": "Pembayar",
+  "flight_v2_widget_confirm_button_view_details": "Lihat butiran",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Tempah baru",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Terima kasih atas kepercayaan anda terhadap perkhidmatan kami",
+  "flight_v2_widget_confirm_textspan_question_help": "Jika anda mempunyai sebarang soalan atau memerlukan bantuan lanjut, sila hubungi Hahalolo \\nPusat Bantuan",
+  "flight_v2_widget_confirm_text_paid_instructions": "untuk arahan.",
+  "flight_v2_widget_confirm_title_passenger_information": "Maklumat penumpang",
+  "flight_v2_widget_confirm_title_flight_information": "Maklumat penerbangan",
+  "flight_v2_widget_confirm_text_ticket_class": "Kelas",
+  "flight_v2_widget_confirm_text_booking_code": "Rujukan tempahan",
+  "flight_v2_widget_confirm_text_flight": "Penerbangan",
+  "flight_v2_widget_confirm_description_name": "nama",
+  "flight_v2_widget_confirm_description_guest_type": "Jenis penumpang",
+  "flight_v2_widget_confirm_description_baggage": "Bagasi",
+  "flight_v2_widget_dialog_config_button_agree": "Setuju",
+  "flight_v2_widget_dialog_config_button_deny": "Langkau",
+  "flight_v2_widget_dialog_config_title": "Tukar maklumat",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Adakah anda pasti mahu menukar maklumat carian anda\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Jika anda bersetuju untuk menukar maklumat carian anda, semua data sebelumnya akan dipadamkan",
+  "flight_v2_widget_dialog_config_title_delete_account": "Padam akaun",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Akaun tidak akan muncul dalam bahagian Pilih akaun pembayaran. Adakah anda mahu memadamkan akaun pembayaran ini? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Pilih masa penerbangan lain",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Tukar carian",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Penerbangan melebihi masa yang dibenarkan",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Penerbangan yang anda pilih telah melebihi masa Tempahan yang dibenarkan.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Sila hubungi kami",
+  "flight_v2_widget_dialog_config_text_span_by_number": "melalui",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Hotline",
+  "flight_v2_widget_dialog_config_text_span_or": "atau",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "tukar carian anda untuk penerbangan baharu.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Pilih penerbangan lain",
+  "flight_v2_widget_dialog_config_title_not_available": "Penerbangan tidak\n tersedia",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Maaf, penerbangan pilihan anda tidak lagi tersedia. Tolonglah",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "pilih penerbangan lain atau tukar carian anda.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Perubahan tambang",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Tambang anda telah berubah daripada",
+  "flight_v2_widget_dialog_config_text_span_to": "kepada",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\ndisebabkan oleh perubahan tambang syarikat penerbangan",
+  "flight_v2_widget_field_fname_required": "Nama keluarga diperlukan",
+  "flight_v2_widget_field_fname_invalid": "Nama keluarga tidak sah",
+  "flight_v2_widget_field_fname_last_name": "Nama keluarga (Tanpa tanda nada)",
+  "flight_v2_widget_field_lname_required": "Nama Tengah & Pertama/Diberi diperlukan",
+  "flight_v2_widget_field_lname_invalid": "Nama Tengah & Pertama/Diberi tidak sah",
+  "flight_v2_widget_field_lname_middle_first_name": "Nama Tengah & Pertama/Diberi (Tanpa tanda nada)",
+  "flight_v2_widget_field_email_required": "E-mel diperlukan",
+  "flight_v2_widget_field_email_invalid": "Email tidak sah",
+  "flight_v2_widget_field_email_email": "E-mel",
+  "flight_v2_widget_field_phone_required": "Nombor telefon diperlukan",
+  "flight_v2_widget_field_phone_invalid": "Nombor telefon tidak sah",
+  "flight_v2_widget_field_phone_phone": "Nombor telefon",
+  "flight_v2_widget_field_address_required": "Alamat diperlukan",
+  "flight_v2_widget_field_address_invalid": "Alamat tidak sah",
+  "flight_v2_widget_field_address_address": "Alamat",
+  "flight_v2_widget_field_city_required": "Negeri/Bandar diperlukan",
+  "flight_v2_widget_field_city_invalid": "Negeri/Bandar tidak sah",
+  "flight_v2_widget_field_city_city": "Negeri/Bandar",
+  "flight_v2_widget_field_city_snackbar_text": "Sila pilih kewarganegaraan anda sebelum memilih bandar",
+  "flight_v2_widget_field_country_required": "Warganegara diperlukan",
+  "flight_v2_widget_field_country_invalid": "Kewarganegaraan tidak sah",
+  "flight_v2_widget_field_country_country": "kewarganegaraan",
+  "flight_v2_widget_field_field_card_hint": "Nombor kad keahlian",
+  "flight_v2_widget_field_field_card_error_input": "Kad tidak sah",
+  "flight_v2_widget_field_field_card_default_error": "Kad diperlukan",
+  "flight_v2_widget_field_field_date_hint": "Tarikh lahir",
+  "flight_v2_widget_field_field_date_error_input": "Tolong jangan biarkan kosong",
+  "flight_v2_widget_field_field_date_default_error": "Tolong jangan biarkan kosong",
+  "flight_v2_widget_field_field_date_default_error_infant": "Bayi mestilah berumur di bawah 2 tahun",
+  "flight_v2_widget_field_field_date_default_error_children": "Kanak-kanak mestilah berumur dari 2 hingga 12 tahun",
+  "flight_v2_widget_payment_contact_information": "Maklumat perhubungan",
+  "flight_v2_widget_payment_full_name": "Nama penuh",
+  "flight_v2_widget_payment_gender": "Jantina",
+  "flight_v2_widget_payment_phone_number": "Nombor telefon",
+  "flight_v2_widget_payment_address": "Alamat",
+  "flight_v2_widget_payment_birthday": "Tarikh lahir",
+  "flight_v2_widget_payment_male": "jantan",
+  "flight_v2_widget_payment_female": "perempuan",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Nama penuh:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Jantina:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Tarikh lahir:",
+  "flight_v2_widget_payment_checked_baggage": "Bagasi yang didaftarkan",
+  "flight_v2_widget_payment_note": "Catatan",
+  "flight_v2_widget_payment_information": "Maklumat",
+  "flight_v2_widget_payment_adult": "Dewasa",
+  "flight_v2_widget_payment_children": "anak",
+  "flight_v2_widget_payment_infant": "sayang",
+  "flight_v2_widget_payment_title_adult_information": "Maklumat dewasa",
+  "flight_v2_widget_payment_title_children_information": "Maklumat kanak-kanak",
+  "flight_v2_widget_payment_title_infant_information": "Maklumat bayi",
+  "flight_v2_widget_payment_customer_information": "Maklumat penumpang",
+  "flight_v2_widget_payment_edit_information": "Edit maklumat",
+  "flight_v2_widget_payment_bonus_services": "Perkhidmatan tambahan",
+  "flight_v2_widget_payment_membership_card_number": "Nombor kad keahlian",
+  "flight_v2_widget_payment_text_loyal_customer": "Flyers kerap",
+  "flight_v2_widget_payment_text_making_flight_payment": "Anda membuat pembayaran penerbangan untuk penumpang berikut:",
+  "flight_v2_widget_result_total_amount": "Harga keseluruhan",
+  "flight_v2_widget_result_taxes_fees": "(Termasuk cukai dan yuran)",
+  "flight_v2_widget_result_elevate_button_book": "Buku",
+  "flight_v2_widget_result_text_flight": "Segmen",
+  "flight_v2_widget_result_text_departure_flight": "Penerbangan berlepas",
+  "flight_v2_widget_result_text_return_flight": "Penerbangan pergi balik",
+  "flight_v2_component_code_title": "Cari tempahan",
+  "flight_v2_component_code_retype": "Masuk semula",
+  "flight_v2_component_code_search_btn": "Tengok atas",
+  "flight_v2_component_code_error": "Tiada maklumat tempahan ditemui.\nSila semak dan cuba lagi.",
+  "flight_v2_widget_detail_text_booking_code": "Rujukan tempahan:",
+  "flight_v2_widget_detail_text_status": "Status:",
+  "flight_v2_widget_detail_text_booked": "Tempah",
+  "flight_v2_widget_detail_text_cancelled": "Dibatalkan",
+  "flight_v2_widget_detail_text_paid": "Dibayar",
+  "flight_v2_widget_detail_text_unpaid": "Tak bergaji",
+  "flight_showcase_domestic_round_trip_step1": "Masa dipaparkan dengan tambang terendah pada hari itu",
+  "flight_showcase_domestic_round_trip_step2": "Leret ke kedua-dua belah pihak untuk memilih semula masa penerbangan",
+  "flight_showcase_domestic_round_trip_step3": "Pilih penerbangan berlepas anda",
+  "flight_showcase_domestic_round_trip_step4": "Pilih penerbangan pulang anda",
+  "flight_showcase_domestic_round_trip_step5": "Anda boleh memilih semula penerbangan berlepas dan pergi balik pada bila-bila masa",
+  "flight_showcase_domestic_round_trip_step6": "Anda perlu memilih penerbangan yang mencukupi sebelum membuat tempahan",
+  "flight_showcase_inter_round_trip_step1": "Pilih perjalanan penerbangan yang sesuai untuk diri sendiri",
+  "flight_showcase_inter_round_trip_step1_desc": "Perjalanan penerbangan terdiri daripada penerbangan berlepas dan penerbangan pulang",
+  "flight_showcase_place_from": "Daripada",
+  "flight_showcase_place_to": "Kepada",
+  "flight_showcase_tutorial": "Tutorial",
+  "flight_showcase_back": "Belakang",
+  "flight_showcase_done": "lengkap",
+  "flight_showcase_continue": "Seterusnya",
+  "flight_v2_component_code_hint_text": "Masukkan rujukan tempahan",
+  "flight_v2_component_booking_text_note_upon": "Bila",
+  "flight_v2_component_booking_text_payment_after": "BAYAR KEMUDIAN",
+  "flight_v2_component_booking_text_your_booking": ", tempahan anda akan ditahan dalam masa 12 jam. Ia akan dibatalkan secara automatik jika anda masih tidak membuat pembayaran anda dalam masa yang diperuntukkan. Sila buat pembayaran dalam masa yang ditetapkan untuk menyelesaikan proses tempahan.",
+  "flight_v2_dialog_default_payment_error": "Ralat berlaku semasa proses pembayaran. Sila cuba sebentar lagi.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Hubungi Perkhidmatan Pelanggan Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Pembayaran gagal",
+  "flight_v2_component_result_message_appropriate_flight": "Masa berlepas untuk penerbangan pergi balik mesti berlaku sekurang-kurangnya 02 jam selepas masa mendarat untuk penerbangan berlepas. Sila pilih penerbangan yang sesuai.",
+  "flight_v2_component_notification_not_available": "Penerbangan tidak tersedia",
+  "flight_v2_search_enter_your_reservation": "Masukkan rujukan tempahan anda untuk mencari maklumat tempahan anda",
+  "flight_v2_search_booking_reference": "Rujukan tempahan",
+  "flight_v2_search_title_booking_code": "Masukkan rujukan tempahan anda untuk mencari tempahan penerbangan anda",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Nama keluarga (Tanpa tanda nada)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Nama tengah & nama pertama/diberi (Tanpa tanda nada)",
+  "flight_v2_widget_common_rules_1": "Untuk penerbangan antarabangsa atau transit antarabangsa, pasport anda mesti sah sekurang-kurangnya 06 bulan sebelum tarikh berlepas.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines dan Bamboo Airways: Enggan membawa penumpang hamil dengan tempoh kehamilan mereka dari 36 minggu. Vietjet Air dan Vietravel Airlines: Enggan membawa penumpang hamil dengan tempoh kehamilan mereka dari 32 minggu.",
+  "flight_v2_widget_common_rules_3": "Bayi dari umur 14 hari hingga ke bawah 02 tahun mesti ditemani oleh orang dewasa yang berumur 18 tahun ke atas.",
+  "flight_v2_widget_common_rules_4": "Umur kanak-kanak/bayi akan dikira dari tarikh lahir hingga tarikh penerbangan berlepas, berdasarkan sijil lahir/pasport anak.",
+  "flight_v2_widget_common_rules_5": "Bagi kanak-kanak yang terbang secara solo, sila hubungi terus ejen untuk mendapatkan maklumat lanjut tentang perkhidmatan kecil tanpa diiringi.",
+  "flight_range_slider_price_range": "Julat harga",
+  "flight_v2_common_done": "Selesai",
+  "flight_v2_detail_airline_operator_by": "Dikendalikan oleh '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Nota: Penumpang mungkin dikehendaki membuat pelepasan kastam dan menyerahkan visa transit mereka atas permintaan negara tuan rumah.",
+  "flight_v2_detail_airline_total_price": "Jumlah",
+  "flight_v2_detail_airline_title_tax_and_fee": "(termasuk cukai dan yuran)",
+  "flight_v2_detail_airline_button_add_ticket": "Tambah tiket",
+  "flight_v2_detail_airline_button_change_ticket": "Tukar tiket",
+  "flight_v2_detail_airline_button_booking_ticket": "Tempah tiket",
+  "flight_v2_detail_airline_departure_flight": "Penerbangan berlepas",
+  "flight_v2_detail_airline_return_flight": "Penerbangan pergi balik",
+  "flight_v2_information_contact_email": "E-mel",
+  "flight_v2_information_customer_title_full_name": "Nama penuh: {fullName}",
+  "flight_v2_information_customer_title_gender": "Jantina: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Tarikh lahir: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Nota: {HAHALOLO} akan menyokong pengguna dengan bayaran bank {free})",
+  "flight_v2_payment_include_free_fee_payment": "PERCUMA",
+  "flight_v2_payment_use_saved_info_user": "Gunakan maklumat Kenalan atau maklumat pembayaran yang disimpan",
+  "flight_v2_payment_success_thank_user": "Terima kasih atas kepercayaan anda terhadap perkhidmatan '{HAHALOLO}'. Jika anda mempunyai sebarang soalan atau memerlukan bantuan lanjut, sila hubungi Pusat Bantuan Hahalolo di {phone} untuk mendapatkan arahan.",
+  "flight_v2_payment_success_notifier": "Permintaan Tempahan anda telah berjaya dibuat '{wasPayment}'. Anda boleh menyemak butiran jadual perjalanan di bawah.",
+  "flight_v2_payment_success_was_payment": "(Dibayar)",
+  "flight_v2_payment_success_flight_information": "Maklumat penerbangan",
+  "flight_v2_payment_success_outbound_flight_information": "Maklumat penerbangan berlepas",
+  "flight_v2_payment_success_return_flight_information": "Maklumat penerbangan pulang",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Dewasa",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Kanak-kanak",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Bayi",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Maklumat dewasa {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Maklumat kanak-kanak {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Maklumat bayi {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Dewasa",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Kanak-kanak",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Bayi",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Masa transit kira-kira {time} di {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Cukai dan yuran (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Tambang asas (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Waktu berlepas terkini",
+  "flight_v2_widget_detail_text_departure_flight": "Penerbangan berlepas",
+  "flight_v2_widget_detail_text_return_flight": "Penerbangan pergi balik",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(termasuk cukai dan yuran)",
+  "flight_input_title_note_1": "Sila ambil perhatian bahawa pasport mesti sah untuk sekurang-kurangnya 06 bulan sebelum tarikh berlepas segmen pertama dalam jadual perjalanan.",
+  "flight_input_title_note_2": "Penumpang dikehendaki mempunyai dokumen yang mencukupi dan memenuhi peraturan dan prosedur imigresen negara destinasi.",
+  "flight_input_title_note_3": "Syarikat penerbangan berhak untuk menolak pengangkutan jika penumpang tidak mempunyai dokumen yang sah seperti yang ditetapkan.",
+  "flight_input_title_note_4": "Syarikat penerbangan itu tidak bertanggungjawab sekiranya penumpang tidak dibenarkan masuk.",
+  "flight_input_title_note_5": "Penumpang mesti mendaftar masuk di lapangan terbang tepat pada masanya.",
+  "flight_input_title_note_6": "Penumpang bawah umur tanpa ditemani dikehendaki menghubungi syarikat penerbangan secara terus.",
+  "flight_input_title_note_7": "Penumpang hamil dengan tempoh kehamilan mereka dari 32 minggu dikehendaki menghubungi syarikat penerbangan secara terus.",
+  "flight_input_title_note_8": "Umur penumpang dikira mengikut selang masa antara tarikh lahir dan tarikh berlepas segmen penerbangan pertama dalam jadual perjalanan, berdasarkan dokumen pengenalan penumpang seperti Pasport dan Sijil Kelahiran.",
+  "flight_input_passenger_choose_birth_day": "Pilih tarikh lahir anda",
+  "flight_input_payment_show_passenger_title": "Anda menempah penerbangan untuk penumpang berikut:",
+  "flight_input_payment_reservation": "Buku",
+  "flight_v2_model_booking_luggage_handle": "Bagasi bawa",
+  "flight_search_result_progress_searching_title": "Mencari...",
+  "flight_v2_dialog_unavailable_ticket": "Penerbangan tidak tersedia",
+  "flight_v2_dialog_choose_ticket": "Anda telah memilih penerbangan",
+  "flight_v2_dialog_from": "daripada",
+  "flight_v2_dialog_time_take_off_flight": "Masa berlepas penerbangan",
+  "flight_v2_dialog_happening": "mesti berlaku",
+  "flight_v2_dialog_minimum_hour": "sekurang-kurangnya 02 jam",
+  "flight_v2_dialog_after_trip": "selepas penerbangan",
+  "flight_v2_dialog_landed": "mendarat.",
+  "flight_v2_dialog_choose_again_ticket": "Adakah anda mahu memilih penerbangan lain?",
+  "flight_passenger_view_service_packages": "Pakej perkhidmatan",
+  "flight_passenger_view_check_in_baggage": "Bagasi didaftarkan:",
+  "flight_v2_widget_detail_text_departure": "Pemergian",
+  "flight_v2_widget_detail_text_destination": "Destinasi",
+  "flight_handnote_international_item_view_order_code": "Kod pesanan",
+  "flight_handnote_international_order_view": "Tarikh dikemas kini",
+  "flight_order_detail_view_booking_code": "Rujukan tempahan",
+  "flight_handnote_international_item_view_departure_date": "Tarikh berlepas",
+  "flight_handnote_international_item_view_booking_status": "Status tempahan",
+  "flight_input_passenger_infor_title": "Maklumat penumpang",
+  "flight_input_payment_show_contact_full_name": "Nama penuh",
+  "flight_passenger_view_guest_type": "Jenis penumpang",
+  "flight_passenger_view_ticket_number": "Nombor tiket",
+  "flight_order_detail_title_flight_information": "Maklumat penerbangan",
+  "flight_v2_dialog_common_agree": "Setuju",
+  "flight_v2_dialog_common_confirm": "sahkan",
+  "flight_v2_dialog_common_skip": "Langkau",
+  "flight_v2_dialog_common_cancel": "Batal",
+  "flight_v2_dialog_common_exit": "Keluar",
+  "flight_v2_dialog_common_change_flight": "Setuju",
+  "flight_v2_dialog_common_change_search": "Tukar carian",
+  "flight_v2_dialog_title_change_information": "Tukar maklumat",
+  "flight_v2_dialog_sub_title_change_information": "Adakah anda pasti mahu menukar maklumat carian?",
+  "flight_v2_dialog_message_change_information": "Jika anda bersetuju untuk menukar maklumat carian, semua data sebelumnya akan dipadamkan",
+  "flight_v2_dialog_title_not_available": "Penerbangan tidak tersedia",
+  "flight_v2_dialog_message_not_available": "Maaf, penerbangan yang anda pilih tidak tersedia sekarang. Sila '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "pilih penerbangan lain atau tukar carian anda",
+  "flight_v2_dialog_title_exceed_time_allow": "Penerbangan telah melebihi masa yang dibenarkan",
+  "flight_v2_dialog_message_exceed_time_allow": "Penerbangan yang anda pilih telah melebihi masa tempahan yang dibenarkan. Sila hubungi '{HAHALOLO}' melalui hotline '{hotline}' atau '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "tukar carian untuk penerbangan baharu",
+  "flight_v2_dialog_title_delete_account": "Padamkan akaun pembayaran",
+  "flight_v2_dialog_sub_title_delete_account": "Adakah anda pasti mahu memadamkan akaun pembayaran ini?",
+  "flight_v2_dialog_message_delete_account": "Akaun tidak akan muncul lagi dalam pilihan akaun pembayaran.",
+  "flight_v2_dialog_title_change_ticket_price": "Perubahan tambang",
+  "flight_v2_dialog_message_change_ticket_price": "Jumlah pesanan telah berubah daripada '{oldPrice}' kepada '{newPrice}'. Sila pilih semula Kod Kupon/Syiling/Mata jika ada.",
+  "flight_v2_dialog_title_min_support_payment": "Pesanan tidak layak untuk pembayaran",
+  "flight_v2_dialog_message_min_support_payment": "Pesanan yang layak mempunyai jumlah pembayaran sebanyak '{minRange}' atau minimum '{maxRange}'. Anda boleh menukar Kod Kupon, Syiling atau Mata untuk memenuhi syarat pembayaran",
+  "flight_v2_dialog_title_order_not_found": "Pemberitahuan",
+  "flight_v2_dialog_message_order_not_found": "Tiada pesanan ditemui",
+  "flight_v2_dialog_title_exit_order": "Keluar dari pesanan",
+  "flight_v2_dialog_message_exit_order_cart": "Troli anda",
+  "flight_v2_dialog_title_payment_error_default": "Pembayaran gagal",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Hubungi Perkhidmatan Pelanggan Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "di sini",
+  "flight_v2_dialog_title_voucher_fee_change": "Perubahan tambang",
+  "flight_v2_dialog_message_voucher_fee_change": "Tambang telah berubah daripada '{oldPrice}' kepada '{newPrice}'. Hubungi Khidmat Pelanggan Hahalolo '{here}' untuk mendapatkan bantuan.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "di sini",
+  "flight_v2_dialog_title_system_error": "Pemberitahuan",
+  "flight_v2_dialog_message_system_error": "Pesanan anda telah berjaya dibayar dan akan dikemas kini dalam Nota Tangan anda tidak lama lagi.",
+  "flight_v2_dialog_title_voucher_not_available": "Pemberitahuan",
+  "flight_v2_dialog_message_voucher_not_available": "Kod kupon tidak tersedia. Sila semak dan cuba lagi.",
+  "flight_v2_dialog_title_point_not_available": "Pemberitahuan",
+  "flight_v2_dialog_message_point_not_available": "Mata tidak tersedia. Sila semak dan cuba lagi.",
+  "flight_v2_dialog_title_coin_not_available": "Pemberitahuan",
+  "flight_v2_dialog_message_coin_not_available": "Syiling tidak tersedia. Sila semak dan cuba lagi.",
+  "flight_v2_dialog_halo_support": "'{message}'. Hubungi Perkhidmatan Pelanggan Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "di sini",
+  "flight_v2_dialog_title_stripe_error": "Pemberitahuan",
+  "flight_v2_price_info_read_more": "Lihat lagi",
+  "flight_v2_price_info_total_payment": "Jumlah bayaran",
+  "flight_v2_price_info_before_payment": "Jumlah prabayar",
+  "flight_v2_component_booking_title_payment_information": "Maklumat Pembayaran",
+  "flight_v2_model_booking_checked_baggage": "Bagasi berdaftar (boleh beli lebih banyak)",
+  "flight_v2_widget_booking_coupon_code": "Kod Kupon",
+  "flight_v2_widget_booking_use_coins": "Gunakan syiling",
+  "flight_v2_component_booking_use_point": "Gunakan Mata",
+  "flight_v2_widget_booking_title_fare_details": "Butiran tambang",
+  "flight_v2_widget_confirm_title_contact_information": "Maklumat perhubungan",
+  "flight_input_passenger_hint_birth_day": "Tarikh lahir",
+  "flight_v2_widget_booking_membership_card_number": "Nombor kad keahlian",
+  "flight_passenger_view_baggage": "Bagasi",
+  "flight_v2_dialog_message_exit_order": "Tempahan penerbangan anda sedang dibuat. Jika anda keluar, pesanan anda masih akan disimpan dalam '{cart}'. Anda boleh membayar pesanan ini sebelum '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Tempahan penerbangan anda belum dibuat. Jika anda keluar, pesanan anda masih akan disimpan dalam '{cart}'. Anda boleh membuat pembayaran untuk melengkapkan pengeluaran tiket",
+  "flight_v2_payment_back_from_payment": "Tempahan penerbangan anda sedang dibuat. Anda tidak boleh menukar maklumat pesanan. Sila buat pembayaran sebelum '{time}' untuk menyelesaikan pengeluaran tiket.",
+  "flight_v2_payment_back_from_payment_no_hold": "Tempahan penerbangan anda belum dibuat. Sila buat bayaran untuk melengkapkan tempahan dan pengeluaran tiket.",
+  "flight_price_detail_view_total_fare": "Jumlah tambang",
+  "flight_price_detail_view_service_fee": "Bayaran perkhidmatan",
+  "flight_price_detail_view_payment_fee": "Bayaran bayaran",
+  "flight_v2_notification_baggage": "Anda telah memilih {baggage}. Sila lihat butiran di bawah.",
+  "flight_check_the_details": "Anda boleh menyemak butiran di bawah.",
+  "flight_order_detail_view_information_order": "Maklumat pesanan",
+  "flight_v2_search_code_no_reservation_yet": "Belum ditempah",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Nota: Maklumat pelanggan belum dilengkapkan lagi",
+  "tour_booking_screen_update_information": "Mengemas kini sekarang",
+  "tour_booking_screen_textspan_note": "(Nota: Bayaran bayaran)",
+  "tour_booking_loading_message": "Mendapatkan semula maklumat pesanan, sila tunggu sebentar",
+  "tour_booking_last_name": "Nama terakhir",
+  "tour_booking_middle_and_first_name": "Nama Tengah & Pertama/Diberi",
+  "tour_booking_or_detail_phone_number": "Nombor telefon",
+  "tour_booking_or_detail_address": "Alamat",
+  "tour_booking_province_city": "Wilayah/Bandar",
+  "tour_booking_country": "Negara",
+  "tour_booking_title_booking_information": "Maklumat tempahan",
+  "tour_booking_bottom_detail_price_error": "Maklumat kad tidak betul. Sila semak semula.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Tidak boleh menggunakan kod kupon",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Kod kupon tidak sah",
+  "tour_booking_update_item_cart_action_message": "tutup",
+  "tour_booking_update_item_cart_title": "Pemberitahuan",
+  "tour_booking_update_item_cart_msg_error_last": "Ralat berlaku semasa mengemas kini pesanan, sila cuba lagi.",
+  "tour_booking_screen_payment_methods": "Pilihan pembayaran",
+  "tour_booking_screen_accept": "Terima",
+  "tour_booking_screen_coupon_code": "Kod Kupon",
+  "tour_booking_screen_insert_code": "Masukkan kod",
+  "tour_booking_screen_default_msgError": "Ralat berlaku. Sila cuba lagi.",
+  "tour_booking_screen_on_failed_error_2008": "Jadual lawatan mengikut bulan yang anda pilih tidak tersedia sekarang. Sila pilih jadual lawatan lain.",
+  "tour_booking_screen_on_failed_error_2202": "Halaman itu belum diterbitkan atau anda belum menetapkan umur.",
+  "tour_booking_screen_on_failed_error_2301": "Lawatan tidak tersedia.",
+  "tour_booking_screen_on_failed_error_2303": "Lawatan itu bukan milik halaman.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Tempoh tempahan telah tamat.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Sila hubungi Pusat Khidmat Pelanggan Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "di sini",
+  "tour_booking_screen_content_apply_voucher_failed_help": "untuk bantuan.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Bilangan maksimum syiling yang boleh digunakan untuk pesanan ini.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "guna",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} Syiling",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "untuk bayaran.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Sesuai dengan",
+  "tour_booking_success_text_done": "Selesai",
+  "tour_booking_success_header_booking_success": "Tempahan berjaya",
+  "tour_booking_success_header_textspan_reservation_success": "Permintaan Tempahan anda telah berjaya dibuat",
+  "tour_booking_success_header_textspan_paid": "(Dibayar).",
+  "tour_booking_success_header_textspan_itinerary_details": "Anda boleh menyemak butiran jadual perjalanan di bawah.",
+  "tour_booking_success_title_tour_information": "Maklumat lawatan",
+  "tour_booking_success_tour_information_tour_name": "Nama lawatan",
+  "tour_booking_success_tour_information_departure": "Pemergian",
+  "tour_booking_success_tour_information_departure_date": "Tarikh berlepas",
+  "tour_booking_success_tour_information_end_date": "Tarikh tamat",
+  "tour_booking_success_tour_information_Number_of_days": "Bilangan hari",
+  "tour_booking_success_tour_information_passengers": "Bilangan penumpang",
+  "tour_booking_success_tour_information_detail_Passengers": "1 orang dewasa",
+  "tour_booking_success_title_contact_information": "Maklumat hubungan",
+  "tour_booking_success_contact_information_full_name": "Nama penuh:",
+  "tour_booking_success_contact_information_email": "e-mel:",
+  "tour_booking_success_contact_information_phone_number": "Nombor telefon:",
+  "tour_booking_success_contact_information_address": "Alamat:",
+  "tour_booking_success_title_installment_information": "Maklumat pesanan ansuran",
+  "tour_booking_success_installment_information_total_order_value": "Jumlah nilai pesanan:",
+  "tour_booking_success_installment_information_prepaid_rate": "Kadar prabayar:",
+  "tour_booking_success_installment_information_prepayment_amount": "Jumlah prabayar:",
+  "tour_booking_success_installment_information_remaining_amount": "Baki yang tinggal:",
+  "tour_booking_success_installment_information_conversion_information": "Yuran penukaran maklumat:",
+  "tour_booking_success_installment_information_banking_fee": "Bayaran bank:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Kadar faedah ansuran (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Faedah ansuran (bulan):",
+  "tour_booking_success_installment_information_total_amount": "Jumlah bayaran ansuran:",
+  "tour_booking_success_installment_information_payment_term": "Tempoh ansuran (bulan):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} bulan",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Jumlah ansuran bulanan:",
+  "tour_booking_success_installment_information_next_installment_period": "Tempoh ansuran seterusnya",
+  "tour_booking_success_title_transaction_information": "Maklumat transaksi",
+  "tour_booking_success_transaction_information_tour_id": "ID Lawatan:",
+  "tour_booking_success_transaction_information_booking_code": "Nombor tempahan:",
+  "tour_booking_success_transaction_information_total_payment": "Jumlah bayaran:",
+  "tour_booking_success_transaction_information_payer": "Pembayar:",
+  "tour_booking_success_transaction_information_address": "Alamat:",
+  "tour_booking_success_transaction_information_content_billing": "Kandungan pembayaran:",
+  "tour_booking_success_transaction_information_order_payment": "Bayaran pesanan",
+  "tour_booking_success_transaction_information_order_advance": "Bayaran pendahuluan pesanan ansuran",
+  "tour_booking_success_textspan_footer_thanks": "Terima kasih atas kepercayaan anda pada servis Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Jika anda mempunyai sebarang soalan atau memerlukan bantuan lanjut, sila hubungi Pusat Bantuan Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "untuk arahan.",
+  "tour_booking_success_bottomview_view_details": "Lihat butiran",
+  "tour_booking_success_bottomview_new_booking": "Tempah baru",
+  "tour_booking_title_info_detail_tour": "Butiran lawatan",
+  "tour_booking_info_detail_tour_title_info_tour": "Maklumat",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Nama lawatan",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Penemuan Pulau Phu Quy",
+  "tour_booking_or_detail_tour_id": "ID Lawatan",
+  "tour_booking_or_detail_tour_time": "Masa",
+  "tour_booking_or_detail_departure_date": "Tarikh berlepas",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Tarikh tamat",
+  "tour_booking_or_detail_tour_departure": "Pemergian",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Destinasi",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Jenis lawatan",
+  "tour_booking_info_detail_tour_info_tour_description": "Penerangan",
+  "tour_booking_info_detail_tour_title_table_price": "Senarai harga pelancongan",
+  "tour_booking_starttext_adult": "Dewasa",
+  "tour_booking_starttext_child": "anak",
+  "tour_booking_starttext_young_child": "Anak kecil",
+  "tour_booking_starttext_baby": "sayang",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Senarai bahagian",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Maklumat peraturan",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Peraturan persendirian",
+  "tour_booking_info_detail_tour_title_installment_policy": "Pelan ansuran",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Jumlah keseluruhan",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Jumlah prabayar",
+  "tour_booking_bottom_detail_price_collapsed_pay": "bayar",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Perkhidmatan",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "kenaikan pangkat",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Gunakan promosi",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Gunakan syiling",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Jumlah keseluruhan",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Diskaun termasuk untuk 100% bayaran pendahuluan",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Nilai promosi:",
+  "tour_booking_title_item_count_passenger": "Bilangan penumpang",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Lebih {age} tahun",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} tahun",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Bawah {age} tahun",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Minta sokongan dalam memasukkan maklumat pengembara",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Masukkan maklumat pengembara",
+  "tour_booking_title_item_info_billing": "Maklumat pembayar",
+  "tour_booking_item_info_billing_use_contact_info": "Gunakan maklumat kenalan",
+  "tour_booking_title_item_info_contact_person": "Maklumat perhubungan",
+  "tour_booking_title_item_method_payment": "Kaedah pembayaran",
+  "tour_booking_item_method_payment_text_full_payment": "100% bayaran",
+  "tour_booking_item_method_payment_text_installment_payment": "Bayaran ansuran",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Anda mendapat diskaun {discount}%.",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Jumlah nilai pesanan yang perlu dibayar selepas diskaun:",
+  "tour_booking_title_item_select_service": "Perkhidmatan yang disertai",
+  "tour_booking_item_select_service_add_service": "Tambah perkhidmatan",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Kami akan menghantar kod pengesahan pembayaran untuk pesanan ansuran dalam tenor seterusnya melalui e-mel:",
+  "tour_booking_pay_installment_check_email": "Sila semak semula alamat e-mel anda.",
+  "tour_booking_pay_installment_number_installments_months": "Bilangan bulan ansuran",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Kadar ansuran",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Anda mesti membuat bayaran pendahuluan sebahagian daripada nilai pelancongan. Amaun ansuran bulanan akan dikira berdasarkan baki tertunggak selepas pembayaran pendahuluan yang berjaya.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Masukkan peratusan prabayaran yang anda inginkan",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Butiran ansuran",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Tidak.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Maklumat",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Nilai",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Nilai pesanan",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Kadar prabayar",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Nilai prabayar",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Baki yang tinggal",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Yuran penukaran maklumat",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Bayaran bayaran bank",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Kadar bunga (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Faedah ansuran",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Jumlah ansuran",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Tempoh ansuran (Bulan)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Tempoh ansuran seterusnya",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Jumlah ansuran bulanan",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} Bulan",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Pelan ansuran",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Butiran pelan ansuran",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Perkhidmatan yang disertai",
+  "tour_booking_item_service_init_service_number_of_travelers": "Bilangan penumpang",
+  "tour_booking_group_months_installment_label": "{month} bulan",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Impian perjalanan",
+  "tour_detail_text_number_people_haha_page": "1,839,017 orang Haha halaman ini",
+  "tour_detail_screen_theme_text_indochina_discovery": "Penemuan Indochina: Tepi pantai dan makanan jalanan",
+  "tour_detail_text_installment_tour": "LAWATAN ANSURAN",
+  "tour_detail_text_view_details": "Lihat butiran",
+  "tour_detail_number_promotions": "{promotions} Promosi",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "tersedia",
+  "tour_detail_tab_info": "Maklumat",
+  "tour_detail_tab_tour_parts": "Butiran jadual perjalanan",
+  "tour_detail_tab_promotion": "kenaikan pangkat",
+  "tour_detail_tab_privacy_policy": "Dasar privasi",
+  "tour_detail_tab_separate_regulations": "Peraturan persendirian",
+  "tour_detail_tab_contact": "Kenalan",
+  "tour_detail_view_tab_installment": "Pelan ansuran",
+  "tour_detail_text_only_from": "Hanya dari",
+  "tour_detail_view_emptyTitle": "Lawatan tidak lagi tersedia",
+  "tour_detail_text_change_date": "Tukar tarikh",
+  "tour_detail_text_book_now": "Tempah sekarang",
+  "tour_detail_view_action_menu_time_line": "Garis masa",
+  "tour_detail_view_action_menu_tour_List": "Senarai lawatan",
+  "tour_detail_view_action_menu_introduction": "pengenalan",
+  "tour_detail_view_action_menu_promotion": "kenaikan pangkat",
+  "tour_detail_view_action_menu_appraise": "Ulasan",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} orang Haha halaman ini",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Jadual lawatan mengikut bulan yang anda pilih tidak tersedia sekarang.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Sila pilih jadual lawatan lain.",
+  "tour_detail_choose_schedule_title": "Pilih jadual",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Jadual berlepas",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Jadual berlepas tidak tersedia",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Tarikh berlepas: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "daripada",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "dari {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "tamat",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "Ke {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "kenaikan pangkat",
+  "tour_detail_choose_schedule_detail_cell_text_price": "harga",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Tempah sekarang",
+  "tour_detail_contact_infor_view_empty_title": "Maklumat hubungan sedang dikemas kini",
+  "tour_detail_contact_infor_view_company_name": "Nama syarikat",
+  "tour_detail_infor_view_text_starting_from": "Bermula dari",
+  "tour_detail_infor_view_text_ends_at": "Tamat pada",
+  "tour_detail_infor_view_tour_type_domestic": "Lawatan domestik",
+  "tour_detail_infor_view_tour_type_international": "Lawatan antarabangsa",
+  "tour_detail_infor_view_tour_text_info": "Maklumat",
+  "tour_detail_infor_view_tour_types": "taip",
+  "tour_detail_infor_view_tour_service": "Perkhidmatan pelancongan",
+  "tour_detail_emptyTitle_no_data_found": "Tiada data dijumpai",
+  "tour_detail_promotion_view_empty_title": "Tiada promosi tersedia",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Tahap promosi {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% diskaun",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} diskaun",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Nilai pesanan minimum: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Bilangan minimum orang dewasa: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "belakang",
+  "tour_detail_shimmer_loading_message": "... orang Haha halaman ini",
+  "tour_hand_note_tabs_verify_sent_to_email": "Kami menghantar kod pengesahan kepada anda ke pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "harga",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Batalkan pesanan",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Adakah anda mahu melakukan tindakan ini?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "sahkan",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Batal",
+  "tour_hand_note_footer_action_total_amount": "Jumlah keseluruhan",
+  "tour_hand_note_footer_action_pay": "bayar",
+  "tour_hand_note_order_payment_view_order_id": "Kod pesanan",
+  "tour_hand_note_order_payment_view_paid": "Dibayar",
+  "tour_hand_note_order_payment_view_total_price": "Harga keseluruhan",
+  "tour_hand_note_order_payment_view_remaining_amount": "Baki yang tinggal",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Tempoh ansuran",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Bulan: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Jumlah ansuran",
+  "tour_hand_note_order_payment_view_next_installment_period": "Tempoh ansuran seterusnya",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Jumlah bayaran",
+  "tour_handnote_banner_waring_input_verify_error": "Ralat berlaku semasa pengesahan. Sila cuba lagi atau ketik ",
+  "tour_lockup_empty_title": "Tiada maklumat pelancongan ditemui",
+  "tour_lockup_title_info": "Maklumat lawatan",
+  "tour_lockup_form_search_hind_text_enter_promo": "Masukkan kod promosi",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} hari} other{{days} hari}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Semua",
+  "tour_handnote_tab_awaiting": "Menunggu pengesahan",
+  "tour_handnote_tab_awaiting_fulfilment": "Menunggu pemenuhan",
+  "tour_handnote_tab_ongoing": "Sedang berlangsung",
+  "tour_handnote_tab_completed": "Selesai",
+  "tour_handnote_tab_canceled": "Dibatalkan",
+  "tour_detail_page_programs_detail": "Butiran program",
+  "tour_detail_page_passenger_title": "Pelanggan",
+  "tour_detail_info_guest_edit_title": "Sunting",
+  "tour_detail_info_guest_update_title": "Kemas kini",
+  "tab_tour_detail_order_cancel_order": "Batalkan pesanan",
+  "tab_tour_detail_order_cancel_order_confirm": "Adakah anda mahu melakukan tindakan ini?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "sahkan",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Batal",
+  "tab_tour_detail_order_waiting_confirmation": "Menunggu pengesahan",
+  "tab_tour_detail_order_code_order_tour_title": "Nombor tempahan",
+  "tour_detail_stage_view_title": "Bahagian {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Syiling telah digunakan untuk pembayaran. Lihat butiran di bawah",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Kod kupon telah digunakan pada pembayaran. Lihat butiran di bawah",
+  "tour_hand_note_banner_warning_update_success": "Maklumat pelanggan telah dilengkapkan",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Maklumat Pembayaran",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Dibayar",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Promosi pembatalan lawatan\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Gunakan syiling ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Yuran pembatalan {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Anggaran jumlah bayaran balik",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Masa bayaran balik (Dari tarikh pembatalan): 5-7 hari (Untuk gerbang pembayaran Alepay dan Payme) atau 7-15 hari (Untuk gerbang pembayaran Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Sebab pembatalan:",
+  "tour_booking_validation_province_or_city_is_required": "Wilayah/Bandar diperlukan",
+  "tour_booking_screen_on_failed_error_2801": "Anda perlu menempah Lawatan {numberDay} hari sebelum tarikh berlepas. Sila pilih tarikh berlepas yang lain.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Masa berlepas lawatan yang anda pilih adalah lebih pendek atau lebih lama mengikut dasar kami. Sila pilih lawatan dengan masa berlepas yang sesuai.",
+  "tour_booking_bottom_view_error": "Sila lengkapkan maklumat pengembara atau minta sokongan Hahalolo dalam memasukkan maklumat pengembara nanti.",
+  "tour_booking_on_start_payment_message": "Maaf, tarikh berlepas yang anda pilih telah habis dijual. Sila pilih tarikh berlepas yang lain.",
+  "tour_detail_text_full_load": "Habis dijual",
+  "tour_cancel_order_info_reason_cancel": "Masukkan sebab pembatalan.",
+  "tour_cancel_order_info_validate_reason_cancel": "Sebab pembatalan diperlukan",
+  "tour_cancel_order_info_refound_invalid_card": "Nombor akaun diperlukan",
+  "tour_cancel_bank_name_required": "Nama bank diperlukan",
+  "tour_cancel_bank_wrong_format": "Format nama bank tidak betul",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo akan memberi anda bayaran balik berdasarkan maklumat akaun bank yang anda masukkan di bawah)",
+  "tour_cancel_enter_bank_name": "Masukkan nama Bank",
+  "tour_cancel_cancel_order_success": "Pesanan anda telah berjaya dibatalkan.",
+  "tour_bank_identifier_required": "Kod SWIFT diperlukan",
+  "tour_detail_title_select_departure_month": "Pilih bulan berlepas",
+  "tour_detail_title_upcoming_departure_schedule": "Jadual berlepas akan datang",
+  "tour_detail_schedule_title_departure": "Pemergian",
+  "tour_detail_schedule_title_destination": "Destinasi",
+  "tour_booking_fail_payment_price_change": "Harga lawatan telah berubah daripada {oldPay} kepada {newPay}. Adakah anda mahu meneruskan pembayaran anda?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Harga pelancongan telah berubah daripada {oldPay} kepada {newPay} dan anda perlu membayar {payAmount} terlebih dahulu. Adakah anda mahu meneruskan pembayaran anda?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Amaun prabayaran telah berubah daripada {oldPay} kepada {newPay}. Adakah anda mahu meneruskan pembayaran anda?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Amaun yang digunakan daripada syiling telah berubah daripada {oldPay} kepada {newPay}. Adakah anda mahu meneruskan pembayaran anda?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Gunakan mata",
+  "tour_booking_screen_have_apply_points": "Mata telah digunakan untuk pembayaran. Sila lihat butiran di bawah.",
+  "tour_booking_warning_promotion": "Lawatan anda sedang ditempah dan maklumat pesanan tidak boleh diubah. Sila buat bayaran untuk melengkapkan tempahan lawatan anda.",
+  "tour_booking_warning_back_text_normal": "Pesanan anda telah ditempah. Jika anda berhenti, pesanan anda masih akan disimpan",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Hentikan pesanan",
+  "tour_booking_warning_back_when_hold_ticket_card": "Troli anda.",
+  "tour_booking_warning_back_exit": "Berhenti",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Pesanan telah melalui gerbang pembayaran. Kod kupon tidak boleh dibatalkan.",
+  "tour_booking_point_not_available": "Mata tidak tersedia",
+  "tour_payment_voucher_exit_dialog_title": "Pembayaran gagal",
+  "tour_total_point_change": "Mata tersedia anda telah berubah. Sila masukkan bilangan Mata untuk memohon pesanan.",
+  "tour_hand_note_text_tour": "Lawatan",
+  "tour_hand_note_text_amount_installment_payment": "Jumlah bayaran ansuran",
+  "tour_detail_tour_has_no_available_schedule": "Tiada jadual tersedia untuk lawatan ini",
+  "tour_detail_promotion_view_time_application": "Tempoh yang berkenaan:",
+  "tour_detail_promotion_view_up_to_off_title": "Sehingga",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% diskaun",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Cari nombor tempahan",
+  "tour_you_can_sure_cancel_order": "Adakah anda pasti mahu membatalkan pesanan ini?",
+  "tour_detail_contact_title": "Kami sedia 24/7! Jika anda mempunyai sebarang pertanyaan tentang perkhidmatan ini, sila hubungi kami menggunakan maklumat di bawah. Kami akan bertindak balas dalam masa 2 jam!",
+  "tour_detail_rate_title_schedule": "Jadual",
+  "tour_detail_rate_title_meal": "Makan",
+  "tour_detail_review_there_are_no_reviews_yet": "Tiada ulasan lagi",
+  "tour_search_suggest_location_title": "Destinasi teratas",
+  "tour_detail_rate_title_property": "Harta benda",
+  "tour_detail_rate_title_tour_guide": "Pemandu pelancong",
+  "tour_detail_rate_title_vehicle": "Kenderaan",
+  "tour_detail_choose_schedule_remain_slot": "Hanya tinggal {slot} slot",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Tarikh",
+  "tour_detail_contact_text_hotline": "Hotline",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Ulasan",
+  "tour_search_place_suggestion_title": "Pilih destinasi",
+  "tour_search_place_suggestion_hint_text": "Masukkan pelepasan...",
+  "tour_review_title_feedback": "Semak pengalaman perjalanan anda",
+  "tour_review_title_content": "Penilaian perjalanan keseluruhan",
+  "tour_review_title_see_review": "Lihat ulasan perjalanan anda",
+  "tour_review_schedule": "Jadual",
+  "tour_review_meal": "Makan",
+  "tour_review_accommodation": "Harta benda",
+  "tour_review_tour_guide": "Pemandu pelancong",
+  "tour_review_vehicle": "Kenderaan",
+  "tour_booking_screen_text_accept": "Setuju",
+  "tour_lockup_up_tour_header_text": "Masukkan nombor tempahan anda untuk mencari maklumat tempahan anda",
+  "banner_warning_installment_noti": "Anda akan mencapai tarikh akhir pembayaran ansuran seterusnya. Tarikh akhir ansuran {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Panjangkan",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Kod kupon berjaya tidak digunakan",
+  "voucher_search_on_select_voucher_fail": "Gagal menggunakan kod kupon. Sila cuba sebentar lagi.",
+  "voucher_search_coupon_code_incorrect": "Kod kupon salah",
+  "voucher_search_check_or_contact_cskh": "Sila semak semula atau hubungi Pusat Khidmat Pelanggan kami",
+  "voucher_widget_item_voucher_discount": "Diskaun: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Tamat tempoh: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Tarikh luput:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Kod:",
+  "voucher_widget_item_voucher_info_detail_text_program": "promosi:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "keadaan:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Sapukan pada produk Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Hadkan satu untuk setiap pelanggan.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Untuk pesanan daripada {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Produk yang digunakan untuk:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} diskaun",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Diskaun maksimum:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Anda telah menyimpan",
+  "voucher_apply_voucher_widget_order_from_discount": "pada pesanan ini dengan kod kupon",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Penerbangan anda belum ditempah lagi. Sila lengkapkan pembayaran anda untuk menempah dan mengeluarkan tiket.",
+  "cart_screen_main_title": "Troli anda",
+  "cart_screen_main_tour_title": "Tempahan lawatan",
+  "cart_screen_main_flight_title": "Penerbangan",
+  "cart_screen_main_car_title": "Tempahan kereta",
+  "cart_screen_main_tour_title_1": "Tempahan lawatan (1)",
+  "cart_screen_main_flight_title_1": "Penerbangan (1)",
+  "cart_screen_main_car_title_1": "Tempahan kereta (1)",
+  "cart_screen_domestic_flight_num_passenger": "Bilangan penumpang",
+  "cart_screen_domestic_flight_subtotal": "jumlah kecil",
+  "cart_screen_domestic_flight_note": "Tempahan penerbangan anda telah dibuat. Sila buat bayaran untuk melengkapkan pengeluaran tiket.",
+  "cart_screen_empty": "Tiada item dalam troli anda",
+  "cart_screen_empty_order_now": "Cari & Tempah sekarang!",
+  "cart_screen_car_delete_order": "Padam pesanan",
+  "cart_screen_car_delete_order_confirm": "Adakah anda mahu memadamkan pesanan ini?",
+  "cart_screen_tour_schedule_title": "Jadual",
+  "cart_screen_tour_type_title": "Jenis lawatan",
+  "cart_tour_type_domestic": "Dalam negeri",
+  "cart_tour_type_international": "antarabangsa",
+  "cart_screen_tour_num_day_num_night": "{day} hari, {night} malam",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Bilangan penumpang",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Gunakan Mata",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Bulan {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Ralat berlaku semasa pengesahan. Sila cuba lagi atau ketik \"Hantar semula kod pengesahan\" untuk menerima kod baharu melalui {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Hantar semula kod pengesahan",
+  "hand_note_input_verify": "Kami telah menghantar kod pengesahan ke {email}. Masukkan kod yang anda terima untuk melengkapkan langkah ini",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Masukkan kod",
+  "hand_note_tour_detail_body_tour_info_title": "Maklumat lawatan",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Masa dikira dalam zon waktu Vietnam)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Jumlah hari",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Bilangan pengembara",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Dasar pembatalan",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Garis masa pembatalan percuma adalah berdasarkan zon waktu tempahan lawatan dan dasar pembatalan lawatan Pembekal",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Untuk pembatalan lawatan, anda akan dikenakan bayaran pembatalan berikut:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} hari sebelum tarikh berlepas",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Pembatalan percuma",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Yuran pembatalan sebanyak {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Promosi untuk bayaran 100%.",
+  "hand_note_install_policy": "Pelan ansuran",
+  "hand_note_title_status_payment_failure": "gagal",
+  "hand_process_extension": "Sambungan berterusan",
+  "hand_in_installment": "Aktif",
+  "hand_installment_completed": "Selesai",
+  "hand_note_adults": "Dewasa",
+  "hand_note_children": "Kanak-kanak",
+  "hand_note_baby": "Anak kecil",
+  "hand_note_infant": "bayi",
+  "hand_note_tour_service_price": "Harga perkhidmatan",
+  "hand_note_total_price": "Harga keseluruhan",
+  "hand_note_prepaid": "Prabayar",
+  "hand_note_remaining": "Baki yang tinggal",
+  "hand_installment_status": "Status ansuran",
+  "hand_note_installment_payment_count_month_payment": "Bilangan bulan ansuran",
+  "hand_note_installment_payment_count_month_payment_num": "{month} bulan",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Maklumat ansuran",
+  "hand_note_information_detail_total_value_title": "Jumlah pesanan",
+  "hand_note_information_detail_prepayment_amount_title": "Amaun prabayar ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Jumlah ansuran",
+  "hand_note_information_detail_installment_tenor_title": "Tempoh ansuran",
+  "hand_note_information_detail_information_conversion_fee_title": "Yuran penukaran maklumat",
+  "hand_note_information_detail_bank_fee_title": "Bayaran bank",
+  "hand_note_information_detail_installment_interest_title": "Faedah ansuran",
+  "hand_note_information_detail_monthly_installment_amount_title": "Jumlah ansuran bulanan",
+  "hand_note_information_detail_next_due_date_title": "Tempoh ansuran seterusnya",
+  "hand_note_installment": "ansuran",
+  "hand_note_postpaid": "Pascabayar",
+  "hand_note_installment_history_title": "Sejarah ansuran",
+  "hand_note_payment_installment_title": "Bayaran ansuran",
+  "hand_note_the_month_current_installment": "Bulan: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Bayaran pertama",
+  "hand_note_remaining_balance_title": "Baki yang tinggal",
+  "hand_note_extension_info": "Maklumat lanjutan",
+  "hand_note_price_extension": "Jumlah lanjutan",
+  "hand_note_month_paid": "{month} bulan dibayar",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} bulan lagi",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Kemas kini maklumat anda",
+  "hand_note_invalid_full_name": "Format nama penuh tidak sah",
+  "hand_note_must_enter_full_name": "Anda mesti memasukkan nama penuh anda",
+  "hand_note_adults_num": "Maklumat dewasa {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Maklumat kanak-kanak {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Maklumat bayi {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Maklumat anak kecil {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(Berumur lebih dari {age} tahun)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Dari {ageFrom} - {ageTo} tahun)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(Bawah {age} tahun)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} hari",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Bahagian: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Kemas kini maklumat pengembara",
+  "hand_note_hotel_reservation_detail_title": "Butiran tempahan",
+  "hand_note_tour_installment_title": "Lawatan ansuran",
+  "hand_note_tour_extensions_payment_title": "Sambungan pembayaran",
+  "hand_note_installment_period": "Tempoh ansuran",
+  "hand_note_installment_amount": "Jumlah ansuran",
+  "hand_note_recommend_adjourn": "Permintaan lanjutan",
+  "hand_note_number_extension": "Bilangan hari lanjutan",
+  "hand_note_new_installment": "Tarikh akhir ansuran baharu",
+  "hand_note_adjourn_notice": "Untuk setiap tempoh ansuran, anda hanya mempunyai sekali untuk mendapatkan lanjutan pembayaran selama {day} hari. Jika tarikh akhir ansuran baharu tamat dan bayaran tenor semasa belum dibuat, lawatan anda akan dibatalkan.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Alasan pembayaran lewat",
+  "hand_note_extension_successful": "Sambungan berjaya",
+  "hand_note_part_due_note": "Pesanan sudah lewat tempoh. Sila hubungi Pusat Khidmat Pelanggan kami.",
+  "hand_note_notify_error_extension": "Ralat berlaku. Sila cuba lagi.",
+  "hand_note_dialog_input_verify_1": "Kami telah menghantar kod pengesahan kepada",
+  "hand_note_dialog_input_verify_2": "Masukkan kod yang anda terima untuk melengkapkan langkah ini.",
+  "hand_note_verify_input_code_hint": "Masukkan kod pengesahan",
+  "hand_note_title_hotel_order": "Pesanan tempahan hotel",
+  "hand_note_title_apply_coin": "Gunakan syiling",
+  "hand_note_request_resent_code_confirm_must_1": "Anda perlu menunggu sebentar sebelum meminta untuk menghantar semula kod pengesahan.",
+  "hand_note_request_resent_code_confirm_must_2": "Anda perlu menunggu 5 minit sebelum meminta untuk menghantar semula kod pengesahan.",
+  "hand_note_request_resent_code_confirm_must_3": "Anda perlu menunggu sehari sebelum meminta untuk menghantar semula kod pengesahan.",
+  "hand_note_request_resent_code_confirm_must_4": "Anda perlu menunggu 9 minit sebelum meminta untuk menghantar semula kod pengesahan.",
+  "hand_note_request_resent_code_confirm_must_5": "Ralat berlaku semasa menghantar kod pengesahan. Sila cuba lagi.",
+  "hand_note_history_new_order_created": "Pesanan baharu dibuat",
+  "hand_note_history_change_customer_information": "Maklumat penumpang berubah",
+  "hand_note_history_cancellation_of_passengers": "Penumpang yang dibatalkan",
+  "hand_note_history_change_flights": "Penerbangan ditukar",
+  "hand_note_history_cancel_the_flight": "Penerbangan dibatalkan",
+  "fare_rule_toolbar_title": "Syarat tambang",
+  "hand_note_detail_activity_history": "Sejarah aktiviti:",
+  "hand_note_coin_refund_amount": "Syiling bayaran balik yang dijangka",
+  "hand_note_tour_title": "Lawatan",
+  "hand_note_hotel_title": "Hotel",
+  "hand_note_flight_title": "Penerbangan",
+  "hand_note_car_title": "Sewa kereta",
+  "hand_note_title": "Nota tangan",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Nombor kad kredit tidak sah",
+  "payment_error_card_has_expired": "Kad telah tamat tempoh",
+  "payment_error_card_has_expired_year": "Kad telah tamat tempoh tahun ini",
+  "payment_error_card_date_must_only_number": "Mesti mempunyai nombor dalam tarikh sahaja",
+  "payment_error_card_date_is_3_digits": "Tahun tamat tempoh adalah 3 digit panjang",
+  "payment_error_card_date_is_4_digits": "Tahun tamat tempoh lebih panjang daripada 4 digit",
+  "payment_error_card_date_only_number_in_date": "Mesti mempunyai nombor dalam tarikh sahaja",
+  "payment_card_date_expired": "Tarikh luput",
+  "payment_payme": "Dompet Payme",
+  "payment_domestic": "Kad ATM atau iBanking bank domestik (di Vietnam)",
+  "payment_stripe": "Kad pembayaran antarabangsa (Visa/MasterCard)",
+  "payment_card_number_empty": "Nombor kad diperlukan",
+  "payment_card_day_exit": "Tarikh luput diperlukan",
+  "payment_ccv_empty": "Kod CVV diperlukan",
+  "payment_error_secure_long": "Kod keselamatan yang salah",
+  "payment_error_secure_shorted": "Kod keselamatan terlalu pendek untuk jenis kad ini",
+  "payment_error_secure_alphabet": "Aksara abjad tidak dibenarkan",
+  "payment_error_no_secure": "Tiada kod keselamatan disediakan",
+  "payment_error_no_card_number": "Tiada input atau mengandungi aksara bukan angka",
+  "payment_error_connect_title": "Ralat sambungan",
+  "payment_error_connect_message": "Sambungan rangkaian anda tidak stabil. Sila semak sambungan pada peranti anda sekali lagi",
+  "payment_error_not_load_title": "Ralat memuatkan halaman",
+  "payment_error_not_load_message": "Ralat berlaku semasa menyambung ke halaman pembayaran.",
+  "payment_error_card_number_lenght": "Nombor kad mestilah lebih besar daripada 19 digit",
+  "payment_error_no_date": "Tiada tarikh dimasukkan",
+  "payment_error_invalid_date": "Format tarikh tidak sah atau tarikh tidak sah",
+  "payment_error_invalid_year": "Hanya nombor dibenarkan pada tarikh dan bulan",
+  "payment_error_invalid_ccv": "CVV tidak sah",
+  "payment_error_invalid_card_holder": "Pemegang kad tidak sah",
+  "payment_alert_select_payment_method_null": "Sila pilih gerbang pembayaran",
+  "payment_alert_card_information_incorrect": "Maklumat kad tidak betul. Sila semak semula",
+  "payment_alert_dialog_title": "Pemberitahuan",
+  "payment_alert_message_dialog_message": "Sila jangan tutup atau berhenti permohonan semasa proses pembayaran untuk memastikan pembayaran berjaya.",
+  "payment_alert_dialog_message_payment_error": "Ralat berlaku semasa memproses pembayaran anda. Sila semak semula.",
+  "payment_hint_text_country": "negara...",
+  "payment_hint_text_province": "Ibu negeri...",
+  "payment_show_message_dialog_title": "Pemberitahuan",
+  "payment_show_message_dialog_message": "Adakah anda mahu keluar dari pembayaran anda?",
+  "payment_show_message_dialog_negative": "Batal",
+  "payment_show_message_dialog_action": "Okey",
+  "payment_bank_page_title": "Untuk proses pembayaran yang lancar, sila jangan tutup permohonan sebelum pembayaran berjaya!",
+  "payment_error_expired_date": "Kad anda telah tamat tempoh",
+  "payment_coin_not_available": "Syiling tidak tersedia. Sila semak dan cuba lagi.",
+  "payment_point_not_available": "Mata tidak tersedia. Sila semak dan cuba lagi.",
+  "payment_voucher_not_available": "Kod kupon tidak tersedia. Sila semak dan cuba lagi.",
+  "payment_fee_change_total_order": "Jumlah pesanan telah berubah daripada",
+  "payment_fee_change_to": "kepada",
+  "payment_fee_change_choose_voucher_point_coint": "Sila pilih semula kod Kupon/Syiling/Mata jika ada.",
+  "payment_halo_wallet": "Hahahalolo akaun pembayaran",
+  "payment_available_balance": "Baki yang ada:",
+  "payment_card_holder_name": "Pemegang kad nama",
+  "payment_card_cvv_cvc_name": "Kod CVV/CVC",
+  "payment_card_number": "Nombor kad",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Sifat yang serupa",
+  "hotel_detail_hotel_images": "Imej hotel",
+  "hotel_detail_reviews_latest": "Terkini",
+  "hotel_detail_reviews_oldest": "Tertua",
+  "hotel_detail_reviews_highest": "Skor tertinggi",
+  "hotel_detail_reviews_lowest": "Skor terendah",
+  "hotel_detail_review_sort_by": "Disusun mengikut",
+  "hotel_detail_reviews": "Semakan",
+  "hotel_detail_rate_location": "Lokasi",
+  "hotel_detail_rate_price": "harga",
+  "hotel_detail_rate_cleanliness": "Kebersihan",
+  "hotel_detail_rate_service": "Perkhidmatan",
+  "hotel_detail_rate_facilities": "Kemudahan",
+  "hotel_detail_one_user_review": "1 ulasan",
+  "hotel_detail_x_user_reviews": "{x} ulasan",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Tempahan gagal",
+  "hotel_detail_please_fill_ci_co_date": "Sila masukkan tarikh daftar masuk dan daftar keluar",
+  "hotel_detail_allow_pet_contact_hotel": "Haiwan peliharaan dibenarkan. Untuk polisi haiwan kesayangan, sila hubungi terus pihak penginapan.",
+  "hotel_detail_allow_pet_and_x_fee": "Haiwan peliharaan dibenarkan. Yuran haiwan peliharaan: {x} (Yuran haiwan peliharaan dibayar di tempat penginapan).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "Pembatalan PERCUMA",
+  "hotel_detail_cancellation_with_refund": "Pembatalan dikenakan",
+  "hotel_detail_cancellation_without_refund": "Pembatalan tanpa bayaran balik",
+  "hotel_detail_cancel_non_refund": "Anda tidak akan menerima bayaran balik atau jumlah yang dibayar selepas pembatalan.",
+  "hotel_detail_breakfast_served": "Sarapan disediakan",
+  "hotel_detail_lunch_served": "Makan tengahari disediakan",
+  "hotel_detail_dinner_served": "Makan malam disediakan",
+  "hotel_detail_smoking_allow": "Merokok dibenarkan",
+  "hotel_detail_smoking_not_allow": "Merokok tidak dibenarkan",
+  "hotel_detail_contact_hotel": "Hubungi hotel",
+  "hotel_detail_book_first_pay_later": "Tempah sekarang, bayar kemudian",
+  "hotel_detail_policy": "dasar",
+  "hotel_detail_choose_the_bed_arrangement": "Pilih sarung katil",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Pembatalan dibuat sebelum {x} pada {y}: dapatkan bayaran balik {z}% daripada kadar bilik untuk malam pertama.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Perkhidmatan bilik",
+  "hotel_detail_amenities": "Kemudahan",
+  "hotel_detail_general_rules": "Peraturan rumah",
+  "hotel_detail_change_reservation": "Tukar tempahan",
+  "hotel_detail_services_and_facilities": "Kemudahan dan perkhidmatan",
+  "hotel_detail_x_room_and_y_night": "{x} bilik/{y} malam",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} bilik/{y} malam",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 bilik/{x} malam",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} bilik/1 malam",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 bilik/1 malam",
+  "hotel_detail_x_rooms_and_y_adults": "{x} bilik - {y} tetamu",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 bilik - {x} tetamu",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 bilik - 1 tetamu",
+  "hotel_detail_child_count": "1 anak",
+  "hotel_detail_x_children": "{x} kanak-kanak",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Butiran bilik",
+  "hotel_detail_room_policy_and_conditions": "Syarat dan Polisi",
+  "hotel_detail_person_count": "1 tetamu",
+  "hotel_detail_x_people": "{x} tetamu",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} dari pusat",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} dari lokasi carian",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "Di pusat bandar",
+  "hotel_detail_check_in": "Daftar masuk",
+  "hotel_detail_check_out": "Daftar keluar",
+  "hotel_detail_cancelation_policy": "Pembatalan",
+  "hotel_detail_child_policy": "Kanak-kanak",
+  "hotel_detail_pet_policy": "Haiwan peliharaan",
+  "hotel_detail_check_in_x": "Selepas {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Sebelum {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Hanya tinggal 1 sahaja",
+  "hotel_detail_only_x_room": "Hanya {x} lagi",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Kanak-kanak berumur dari {range} dibenarkan.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Haiwan peliharaan dibenarkan. Bayaran haiwan peliharaan dibayar di hotel.",
+  "hotel_detail_pet_policy_do_not_allow": "Haiwan peliharaan tidak dibenarkan.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Pembatalan yang dibuat {x}jam sebelum waktu daftar masuk: dapatkan bayaran balik {y}% daripada kadar bilik untuk malam pertama.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Pembatalan dibuat {x}jam sebelum waktu daftar masuk: dapatkan bayaran balik {y}% daripada kadar bilik untuk semua malam.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Pembatalan percuma sebelum {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Tempah 1 bilik",
+  "hotel_detail_book_x_room": "Tempah {x} bilik",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Harga terbaik",
+  "hotel_detail_bed": "1 katil",
+  "hotel_detail_x_beds": "{x} katil",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Diskaun {x}% hari ini sahaja",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Pilih bilik",
+  "hotel_detail_has_x_room_types": "(Jumlah {x} jenis bilik tersedia)",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Jumlah 1 jenis bilik tersedia)",
+  "hotel_detail_children_policy_do_not_allow": "Hotel ini tidak mempunyai polisi kanak-kanak. Kanak-kanak tidak akan dikira dalam bilangan carian. Sila hubungi pihak hotel jika terdapat kanak-kanak yang menemani.",
+  "hotel_detail_children_policy_range_allow": "Polisi kanak-kanak hotel membenarkan kanak-kanak berumur {range}. Untuk maklumat tentang dasar dan peraturan hotel, sila rujuk bahagian peraturan Rumah hotel atau hubungi hotel untuk maklumat lanjut.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Maklumat bilik",
+  "hotel_detail_x_fee_person_and_day": "{x}/tetamu/hari",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/kereta/hari",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Sarapan pagi",
+  "hotel_detail_lunch": "Makan tengah hari",
+  "hotel_detail_dinner": "makan malam",
+  "hotel_detail_smoking": "Tembakau",
+  "hotel_detail_parking": "Tempat letak kenderaan",
+  "hotel_detail_local_time": "(waktu tempatan)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Pembatalan dibuat sebelum {x} pada {y}: Dapatkan bayaran balik {z}% daripada kadar bilik untuk semua malam.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Pembatalan dibuat sebelum {x} pada {y}: Dapatkan bayaran balik sebanyak {z} daripada kadar bilik.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Tawaran",
+  "hotel_detail_free_breakfast": "Sarapan percuma",
+  "hotel_detail_free_lunch": "Makan tengah hari percuma",
+  "hotel_detail_free_dinner": "Makan malam percuma",
+  "hotel_detail_allow_smoking": "Merokok dibenarkan",
+  "hotel_detail_free_parking": "Tempat letak kereta percuma",
+  "hotel_detail_room_not_found": "Tiada bilik ditemui!",
+  "hotel_detail_no_result": "Kami tidak menemui sebarang hasil yang sepadan dengan carian anda. Sila cuba lagi.",
+  "hotel_detail_similar_hotels_title": "Sifat yang serupa",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Pesanan tidak layak untuk pembayaran",
+  "hotel_booking_dialog_qualified_orders": "Pesanan itu layak dengan jumlah keseluruhan",
+  "hotel_booking_dialog_coupon_code_coins_points": "Anda boleh menukar Kod Kupon, Syiling atau Mata untuk layak menerima pembayaran",
+  "hotel_booking_dialog_or_minimum": "atau sekurang-kurangnya",
+  "hotel_booking_widget_dialog_cannot_used_information": "Maklumat ini tidak boleh digunakan pada masa ini. Sila gunakan yang lain atau simpan yang baharu.",
+  "hotel_booking_component_applied_points_successfully": "Anda telah berjaya menggunakan mata",
+  "hotel_booking_use_point": "Gunakan mata",
+  "hotel_booking_point_switch_on_hint": "Matikan menggunakan mata untuk membatalkan penggunaan mata untuk pesanan ini",
+  "hotel_booking_point_switch_off_hint": "Hidupkan menggunakan mata untuk memasukkan bilangan mata yang akan anda gunakan untuk pesanan ini",
+  "hotel_booking_point_user_point": "Mata yang tersedia",
+  "hotel_booking_point_available_point": "Tersedia untuk pesanan",
+  "hotel_booking_point_user_want_to_use_hint": "Bilangan mata yang anda mahu gunakan",
+  "hotel_booking_point_equivalent_to": "Bersamaan dengan",
+  "hotel_booking_point_press": "Tekan",
+  "hotel_booking_point_apply": "Mohon",
+  "hotel_booking_point_apply_for_payment": "untuk menggunakan jumlah tersebut pada pembayaran",
+  "hotel_booking_points_apply_hint": "Jumlah tersebut akan digunakan untuk membayar pesanan ini.",
+  "hotel_booking_payment_3001_error": "Kad tidak disokong. Sila cuba lagi.",
+  "hotel_booking_payment_3002_error": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "hotel_booking_payment_3003_error": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "hotel_booking_payment_3004_error": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "hotel_booking_payment_3005_error": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "hotel_booking_payment_3006_error": "Kad telah tamat tempoh. Sila cuba lagi.",
+  "hotel_booking_payment_3007_error": "Kod CVC tidak sah. Sila cuba lagi.",
+  "hotel_booking_payment_3008_error": "Nombor kad tidak sah. Sila cuba lagi.",
+  "hotel_booking_payment_3009_error": "Mata wang ini tidak disokong. Sila cuba lagi.",
+  "hotel_booking_payment_3010_error": "Ralat berlaku semasa proses pembayaran. Sila cuba lagi.",
+  "hotel_booking_modify_coin_applied": "Syiling telah digunakan untuk pembayaran. Sila lihat butiran dalam Jumlah.",
+  "hotel_booking_modify_voucher_applied": "Syiling telah digunakan untuk pembayaran. Sila lihat butiran dalam Jumlah.",
+  "hotel_booking_modify_point_applied": "Mata telah digunakan untuk pembayaran. Sila lihat butiran dalam Jumlah.",
+  "hotel_booking_modify_point_canceled": "Penggunaan Mata untuk pembayaran untuk pesanan ini telah dibatalkan.",
+  "hotel_booking_modify_4006_error": "Baucar tidak tersedia",
+  "hotel_booking_modify_4007_error": "Baucar telah disimpan",
+  "hotel_booking_modify_4008_error": "Pesanan tidak layak untuk kod kupon. Sila semak dan cuba lagi.",
+  "hotel_booking_modify_2004_error": "Gagal memohon",
+  "hotel_booking_pay_1005_error": "Nilai yang salah",
+  "hotel_booking_pay_2002_error": "Tiada pesanan ditemui",
+  "hotel_booking_pay_2004_error": "Pembayaran gagal",
+  "hotel_booking_pay_6002_error": "Maklumat kad yang salah",
+  "hotel_booking_pay_6003_error": "Kad tidak diterima",
+  "hotel_booking_pay_6004_error": "Ralat penciptaan pesanan",
+  "hotel_booking_pay_6005_error": "Ralat tempahan TVP",
+  "hotel_booking_required_city": "Bandar diperlukan",
+  "hotel_booking_sub_bed": "Katil tambahan",
+  "hotel_booking_information": "Maklumat tempahan",
+  "hotel_booking_room_information": "Maklumat bilik",
+  "hotel_booking_room_hotel": "Hotel",
+  "hotel_booking_x_nights": "{x} malam",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 malam",
+  "hotel_booking_change": "Ubah",
+  "hotel_booking_user_contact": "Maklumat perhubungan",
+  "hotel_bookng_without_tone_marks": "(tanpa tanda nada)",
+  "hotel_booking_first_name": "Nama pertama",
+  "hotel_booking_last_name": "Nama terakhir",
+  "hotel_booking_middle_name": "Nama tengah",
+  "hotel_booking_given_name": "Nama Tengah & Pertama/Diberi",
+  "hotel_booking_phone_number": "Nombor telefon",
+  "hotel_booking_email": "E-mel",
+  "hotel_booking_country": "Negara",
+  "hotel_booking_im_a_guest": "Saya tetamu",
+  "hotel_booking_guest_information": "Maklumat tetamu",
+  "hotel_booking_fill_contact_information": "Masukkan maklumat hubungan anda atau orang yang bertanggungjawab untuk terus berhubung dengan pembekal perkhidmatan penginapan.",
+  "hotel_booking_name_as_in_passport": "Nama penuh seperti yang tertera pada kad pengenalan/Pasport",
+  "hotel_booking_payments": "Pilihan pembayaran",
+  "hotel_booking_prepay": "Bayar sekarang",
+  "hotel_booking_postpaid": "Bayar kemudian",
+  "hotel_booking_prepay_description": "Hahalolo akan bantu proses pembayaran anda. Anda akan membayar jumlah penuh hari ini setelah selesai membuat tempahan.",
+  "hotel_booking_postpaid_description": "Pihak penginapan akan memproses pembayaran anda. Bergantung pada syarat tempahan, anda boleh membayar sebahagian atau sepenuhnya di tempat penginapan ini.",
+  "hotel_booking_bill_information": "Maklumat Pembayaran",
+  "hotel_booking_use_contact_information": "Gunakan maklumat kenalan",
+  "hotel_booking_state": "negeri",
+  "hotel_booking_city": "Bandar",
+  "hotel_booking_save_payment_information": "Simpan maklumat pembayaran untuk kali seterusnya",
+  "hotel_booking_use_x_y_to_pay": "Gunakan {x} {y} untuk pembayaran",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Bersamaan dengan {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Kaedah pembayaran",
+  "hotel_booking_payment_note": "Nota: HAHALOLO akan menyokong pengguna dengan caj bank PERCUMA",
+  "hotel_booking_free": "Percuma",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Adakah terdapat apa-apa lagi yang boleh kami bantu anda?",
+  "hotel_booking_inform_the_accommodation": "Kami akan memaklumkan kepada pihak penginapan bahawa anda berminat dengan perkhidmatan ini. Sila ambil perhatian.",
+  "hotel_booking_can_not_guaranteed": "Permintaan anda tidak boleh dijamin. Jangan risau! Hartanah ini akan cuba memenuhi keperluan anda.",
+  "hotel_booking_additional_services": "Ini adalah perkhidmatan tambahan yang timbul di luar permintaan tempahan anda dan mungkin dikenakan bayaran tambahan untuk hartanah apabila digunakan.",
+  "hotel_booking_note": "Catatan",
+  "hotel_booking_promo_apply_rule": "Syiling dan Kod Kupon tidak digunakan pada bentuk pembayaran berikut.",
+  "hotel_booking_saved_payment_information": "Maklumat pembayaran disimpan",
+  "hotel_booking_fill_new_payer_information": "Masukkan maklumat pembayar baharu",
+  "hotel_booking_maximum_coins_can_be_use": "Bilangan maksimum syiling boleh digunakan untuk pesanan ini.",
+  "hotel_booking_coins": "syiling",
+  "hotel_booking_unknown": "saya tak tahu",
+  "hotel_booking_planning_arrive_after_x_date": "Jika anda bercadang untuk tiba selepas {x}, sila maklumkan hos masa daftar masuk anda yang dijadualkan:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Perkhidmatan tambahan boleh dikenakan bayaran. Sila hubungi pihak penginapan terlebih dahulu untuk maklumat lanjut.",
+  "hotel_booking_term_and_policies": "Terma - Polisi",
+  "hotel_booking_privacy_policy": "Dasar Privasi",
+  "hotel_booking_tp_and_pp": "Dengan meneruskan langkah seterusnya, saya mengesahkan bahawa saya telah membaca dan bersetuju dengan Terma Hahalolo - Dasar dan Dasar Privasi",
+  "hotel_booking_important_note": "Catatan",
+  "hotel_booking_select_time": "Pilih masa",
+  "hotel_booking_room_x_night": "Bilik x 1, 1 malam",
+  "hotel_booking_x_rooms_x_night": "Bilik x {x}, 1 malam",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Bilik x {x}, {y} malam",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Bilik x 1, {x} malam",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Cukai & yuran",
+  "hotel_booking_service_charge": "Bayaran perkhidmatan",
+  "hotel_booking_payment_fees": "Bayaran bayaran",
+  "hotel_booking_accommodation_currency": "Mata wang hartanah",
+  "hotel_booking_points_fees": "Gunakan mata",
+  "hotel_booking_coins_fees": "Gunakan syiling",
+  "hotel_booking_voucher_fees": "Kod Kupon",
+  "hotel_booking_discount": "kenaikan pangkat",
+  "hotel_booking_meal_service": "Perkhidmatan makan",
+  "hotel_booking_meal_service_description": "Di bawah adalah perkhidmatan sarapan pagi yang boleh disediakan oleh penginapan kepada anda. Jika anda ingin memohon perkhidmatan ini, sila hubungi terus kaunter penerimaan tetamu penginapan.",
+  "hotel_booking_meal_price_per_breakfast": "Harga setiap jenis sarapan pagi",
+  "hotel_booking_extended_service": "Perkhidmatan tambahan",
+  "hotel_booking_extended_service_description": "Pilih jumlah bilangan katil tambahan yang anda ingin tambahkan pada pesanan ini. Anda hanya dibenarkan menambah sehingga {x} katil tambahan.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Kuantiti",
+  "hotel_booking_total": "Jumlah",
+  "hotel_booking_unit_price": "harga",
+  "hotel_booking_x_price_per_person_per_day": "{x} orang/hari",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} katil/orang/hari",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Butiran harga",
+  "hotel_booking_billings_information": "Maklumat Pembayaran",
+  "hotel_booking_service_charge_description": "Kami akan mengekalkan yuran ini sebagai komisen untuk perkhidmatan dan sokongan dalam isu berkaitan tempahan anda pada sistem Hahalolo.",
+  "hotel_booking_payment_fees_description": "Yuran pembayaran ialah jumlah yuran transaksi setiap transaksi yang anda perlukan untuk membayar pembekal perkhidmatan pembayaran dalam talian.",
+  "hotel_booking_taxes_and_fees_description": "Cukai dan yuran ialah jumlah wang yang dikenakan di bawah peraturan hartanah (hotel) yang anda perlu bayar apabila menggunakan perkhidmatan penginapan mereka. Sila baca Syarat Penggunaan untuk butiran lanjut.",
+  "hotel_booking_accommodation_currency_description": "Harga telah ditukar berdasarkan mata wang Pembekal yang tersedia.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Kadar pertukaran tertakluk kepada perubahan sebelum anda membayar.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Pengeluar kad anda boleh mengenakan yuran transaksi asing.",
+  "hotel_booking_enter_maximum_x_char": "Masukkan maksimum {x} aksara",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Mata tidak tersedia.",
+  "hotel_booking_coin_not_available": "Syiling tidak tersedia.",
+  "hotel_booking_voucher_not_available": "Kod kupon tidak tersedia.",
+  "hotel_booking_please_check_again": "Sila semak semula.",
+  "hotel_booking_point_change": "Bilangan mata yang digunakan telah berubah disebabkan oleh perubahan jumlah pembayaran.",
+  "hotel_booking_hold_warning": "Tempahan hartanah anda telah dibuat, jadi anda tidak boleh menukar maklumat pesanan. Sila buat pembayaran untuk melengkapkan tempahan anda.",
+  "hotel_booking_total_point_change": "Mata tersedia anda telah berubah. Sila masukkan bilangan Mata untuk memohon pesanan.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Peta",
+  "hotel_list": "Senaraikan",
+  "hotel_from_the_center": "Dari pusat",
+  "hotel_from_the_location": "Dari lokasi carian",
+  "hotel_right_in_the_center": "Di pusat bandar",
+  "hotel_breakfast_is_served": "Sarapan percuma",
+  "hotel_no_breakfast_served": "Tiada sarapan disediakan",
+  "hotel_dinner_is_served": "Makan malam disediakan",
+  "hotel_no_dinner_service": "Tiada makan malam disediakan",
+  "hotel_lunch_is_served": "Makan tengahari disediakan",
+  "hotel_no_lunch_service": "Tiada makan tengah hari disediakan",
+  "hotel_allow_smoking": "Merokok dibenarkan",
+  "hotel_no_smoking": "Merokok tidak dibenarkan",
+  "hotel_no_refund": "Pembatalan tanpa bayaran balik",
+  "hotel_without_fee": "Pembatalan dikenakan",
+  "hotel_free_cancel": "Pembatalan PERCUMA",
+  "hotel_pay_later": "Tempah sekarang, bayar kemudian",
+  "hotel_fee": "Sarapan disediakan",
+  "hotel_free": "Sarapan PERCUMA",
+  "hotel_not_refund": "Anda tidak akan menerima bayaran balik atau jumlah yang dibayar selepas pembatalan",
+  "hotel_no_vacancy": "Habis dijual",
+  "hotel_choose_room": "Pilih bilik",
+  "hotel_change_date": "Tukar tarikh",
+  "hotel_change_price_display": "Tunjukkan harga",
+  "hotel_continue": "Sahaja",
+  "hotel_room_available": "ditinggalkan",
+  "hotel_room": "bilik",
+  "hotel_night": "malam",
+  "hotel_date_checking": "Tarikh daftar masuk",
+  "hotel_date_checkout": "Tarikh daftar keluar",
+  "hotel_search": "Cari",
+  "hotel_promotion": "kenaikan pangkat",
+  "hotel_promotions": "Promosi",
+  "hotel_applying": "memohon",
+  "hotel_promotion_applying": "promosi yang berlaku",
+  "hotel_promotions_applying": "promosi yang berkenaan",
+  "hotel_title_promotions_applying": "Promosi yang berkenaan",
+  "hotel_see_detail": "Lihat butiran",
+  "hotel_cancel": "Pembatalan dalam masa {x}jam sebelum masa daftar masuk akan dibayar balik {y}% daripada kadar bilik",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Dapatkan potongan {x} setiap kadar malam apabila tetamu menginap antara {y}-{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Dapatkan potongan {x} setiap kadar malam, (maksimum {a} untuk pesanan tempahan) apabila tetamu menginap antara {y}-{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "Potongan {x} untuk tempahan awal {y} hari. Berkenaan apabila tetamu menginap dari {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Potongan {x}, maksimum {y} untuk tempahan awal {z} hari. Berkenaan apabila tetamu menginap dari {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "Potongan {x} untuk tempahan awal {z} hari. Berkenaan apabila tetamu menginap dari {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "Potongan {x} untuk tempahan lebih daripada {y} malam. Berkenaan apabila tetamu menginap dari {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Diskaun {x}, maksimum {y} untuk tempahan lebih daripada {z} malam. Berkenaan apabila tetamu menginap dari {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "Potongan {x} untuk tempahan lebih daripada {z} malam. Berkenaan apabila tetamu menginap dari {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "sepanjang malam",
+  "hotel_first_night": "malam pertama",
+  "hotel_rating": "Semakan",
+  "hotel_wonderful": "Cemerlang",
+  "hotel_very_good": "Sangat bagus",
+  "hotel_satisfied": "Berpuas hati",
+  "hotel_medium": "Purata",
+  "hotel_bad": "miskin",
+  "hotel_hand_note_consult_book_room": "Cari tempahan",
+  "hotel_hand_note_enter_code_search_info": "Masukkan nombor tempahan anda untuk mencari maklumat tempahan anda",
+  "hotel_hand_note_reservation_code": "Nombor tempahan",
+  "hotel_hand_note_can_not_find_hotel": "Maaf, kami tidak menemui sebarang hotel yang sepadan dengan carian anda.",
+  "hotel_hand_note_search_night": "Bilangan malam",
+  "hotel_hand_note_num_room": "Bilangan bilik",
+  "hotel_hand_note_status_booking": "Status tempahan",
+  "hotel_hand_note_booked": "Tempah",
+  "hotel_hand_note_dont_booked": "belum tempah lagi",
+  "hotel_hand_note_total_price": "Harga keseluruhan",
+  "hotel_hand_note_status": "Status",
+  "hotel_hand_note_payment_after": "Sila bayar awal",
+  "hotel_hand_note_pay_now": "Bayar sekarang",
+  "hotel_hand_note_info_book_room": "Maklumat tempahan",
+  "hotel_hand_note_code_book_room": "Nombor tempahan:",
+  "hotel_hand_note_checking": "Daftar masuk",
+  "hotel_hand_note_checkout": "Daftar keluar",
+  "hotel_hand_note_detail": "Lihat butiran",
+  "hotel_hand_note_kind_room": "Jenis bilik",
+  "hotel_hand_note_quantity": "Kuantiti",
+  "hotel_hand_note_room": "bilik",
+  "hotel_hand_note_visited": "tetamu",
+  "hotel_hand_note_adult": "dewasa",
+  "hotel_hand_note_children": "kanak-kanak",
+  "hotel_hand_note_number_nights": "Bilangan penginapan malam",
+  "hotel_hand_note_night": "malam",
+  "hotel_hand_note_status_payment": "Status bayaran",
+  "hotel_hand_note_cancel_order": "Batalkan pesanan",
+  "hotel_hand_note_info_refund": "Informasi pulangan",
+  "hotel_hand_note_rate_experience": "Semak pengalaman anda di",
+  "hotel_hand_note_rate": "Semakan",
+  "hotel_hand_note_see_rate": "Lihat ulasan",
+  "hotel_hand_note_rate_overall_rating": "Ulasan keseluruhan anda di hotel",
+  "hotel_hand_note_rate_average": "Purata",
+  "hotel_hand_note_position": "Lokasi",
+  "hotel_hand_note_price": "harga",
+  "hotel_hand_note_clean": "Kebersihan",
+  "hotel_hand_note_serve": "Perkhidmatan",
+  "hotel_hand_note_material_facilities": "Kemudahan",
+  "hotel_hand_note_review": "Sila kongsi perasaan dan ulasan anda.",
+  "hotel_hand_note_review_limit": "Ulasan hendaklah mempunyai sekurang-kurangnya 2 aksara.",
+  "hotel_hand_note_cancel": "Batal",
+  "hotel_hand_note_submit_review": "Hantar semakan",
+  "hotel_hand_note_room_rates": "Kadar bilik",
+  "hotel_hand_note_extra_bed": "Katil tambahan",
+  "hotel_hand_note_service_charge": "Bayaran perkhidmatan",
+  "hotel_hand_note_payment_fees": "Bayaran bayaran",
+  "hotel_hand_note_promotion": "kenaikan pangkat",
+  "hotel_hand_note_voucher": "Kod Kupon",
+  "hotel_hand_note_use_coins": "Gunakan syiling",
+  "hotel_hand_note_rates_include": "Harga inklusif",
+  "hotel_hand_note_see_review_title": "Lihat ulasan anda tentang {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Disemak pada {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Terima kasih atas ulasan anda",
+  "hotel_hand_note_use_point": "Gunakan mata",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Pembatalan percuma sebelum {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(waktu tempatan)",
+  "hotel_hand_note_hotel_apartment": "Pangsapuri",
+  "hotel_hand_note_hostel": "Asrama",
+  "hotel_hand_note_hotel": "Hotel",
+  "hotel_hand_note_resort": "Tempat peranginan",
+  "hotel_hand_note_other": "Lain-lain",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Vila",
+  "hotel_hand_note_vacation_home": "Rumah percutian",
+  "hotel_hand_note_homestay": "Homestay",
+  "hotel_hand_note_farmstay": "Penginapan ladang",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Pelayaran",
+  "hotel_hand_note_boathouse": "bot",
+  "hotel_hand_note_countryhouse": "Rumah desa",
+  "hotel_hand_note_campground": "Tapak perkhemahan",
+  "hotel_hand_note_camper": "Motorhome",
+  "hotel_hand_note_lodge": "Pondok",
+  "hotel_hand_note_guesthouse": "Rumah tetamu",
+  "hotel_hand_note_cancel_hotel": "Pembatalan",
+  "hotel_update_price": "Mengemas kini harga",
+  "hotel_distance_x_from_center": "{distance}{x} dari pusat",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} dari lokasi carian",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Potongan {x} setiap kadar malam apabila tetamu menginap antara {y}-{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Bilangan bilik & tetamu",
+  "hotel_add_room_children": "Kanak-kanak",
+  "hotel_add_room_age_upto": "(Umur 0 - 17)",
+  "hotel_add_room_child": "anak",
+  "hotel_add_room_age": "umur",
+  "hotel_add_room_cancel": "Batal",
+  "hotel_add_room_choose_age": "Pilih umur",
+  "hotel_add_room_done": "Selesai",
+  "hotel_add_room_room": "Bilik",
+  "hotel_add_room_adult": "Dewasa",
+  "hotel_add_room_adults": "Dewasa",
+  "hotel_add_room_age_children": "Umur kanak-kanak",
+  "hotel_add_room_age_child": "Umur kanak-kanak",
+  "hotel_add_room_condition": "Bilangan bilik dan tetamu setiap bilik mestilah tidak lebih daripada 9.",
+  "hotel_add_room_note": "Catatan",
+  "hotel_add_room_save": "Jimat",
+  "hotel_cart_child": "anak",
+  "hotel_cart_children": "Kanak-kanak",
+  "hotel_cart_delete": "Padam",
+  "hotel_cart_change": "Ubah",
+  "hotel_cart_book_room": "Bilik buku",
+  "hotel_cart_night": "malam",
+  "hotel_cart_title_included_texas_fee": "Termasuk cukai dan yuran",
+  "hotel_cart_temporary_price": "jumlah kecil",
+  "hotel_cart_delete_order": "Padam pesanan",
+  "hotel_screen_cart_delete_order_confirm": "Adakah anda mahu memadamkan pesanan ini?",
+  "hotel_order_detail_info_hotel": "Maklumat tempahan",
+  "hotel_order_detail_done": "Selesai",
+  "hotel_order_detail_detail": "Lihat butiran",
+  "hotel_order_detail_book_new": "Tempah bilik baru",
+  "hotel_order_detail_success": "Tempahan berjaya",
+  "hotel_order_detail_requests_success": "Permintaan tempahan anda telah berjaya dibuat",
+  "hotel_order_detail_paid": "(Dibayar).",
+  "hotel_order_detail_reservation": "Anda boleh menyemak butiran tempahan di bawah.",
+  "hotel_order_detail_thank": "Terima kasih atas kepercayaan anda terhadap perkhidmatan daripada",
+  "hotel_order_detail_support": "Jika anda mempunyai sebarang soalan atau memerlukan bantuan lanjut, sila hubungi Pusat Bantuan Hahalolo",
+  "hotel_order_detail_instructions": "untuk arahan.",
+  "hotel_order_detail_info_rest": "Maklumat harta",
+  "hotel_order_detail_hotel": "Hotel",
+  "hotel_order_detail_type": "Jenis bilik",
+  "hotel_order_detail_check_in": "Daftar masuk",
+  "hotel_order_detail_check_out": "Daftar keluar",
+  "hotel_order_detail_visited": "Bilangan tetamu",
+  "hotel_order_detail_adult": "dewasa",
+  "hotel_order_detail_children": "kanak-kanak",
+  "hotel_order_detail_baby": "bayi (bawah 1 tahun)",
+  "hotel_order_detail_contact": "Maklumat perhubungan",
+  "hotel_order_detail_lastname": "Nama penuh",
+  "hotel_order_detail_tel_number": "Nombor telefon",
+  "hotel_order_detail_nationality": "kewarganegaraan",
+  "hotel_order_detail_note": "Catatan",
+  "hotel_order_detail_guests": "Maklumat tetamu",
+  "hotel_order_detail_trade": "Maklumat transaksi",
+  "hotel_order_detail_order_form": "Pesanan",
+  "hotel_order_detail_payment": "Jumlah pembayaran",
+  "hotel_order_detail_bed_type": "Jenis katil",
+  "hotel_order_detail_extra_bed": "Katil tambahan",
+  "hotel_order_detail_bed": "katil",
+  "hotel_order_detail_reservation_code": "Nombor tempahan",
+  "hotel_order_detail_payer": "Pembayar",
+  "hotel_search_code_total_price": "Harga keseluruhan",
+  "hotel_search_code_voucher": "Kod Kupon",
+  "hotel_search_code_use_coin": "Gunakan syiling",
+  "hotel_search_code_use_point": "Gunakan mata",
+  "hotel_search_code_total_pay": "Jumlah bayaran",
+  "hotel_search_code_detail_pay": "Butiran pembayaran",
+  "hotel_hand_note_hotel_policy_check_out": "- Daftar keluar sebelum {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Daftar masuk selepas {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Dasar pembatalan",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Garis masa pembatalan percuma adalah berdasarkan zon waktu hartanah dan ditentukan oleh dasar pembatalan hartanah.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x bilik, {night} x malam",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Cukai dan yuran",
+  "hotel_hand_note_detail_total_amount": "Jumlah bayaran",
+  "hotel_hand_note_detail_success": "Berjaya",
+  "hotel_hand_note_detail_failed": "gagal",
+  "hotel_hand_note_detail_postpaid": "Pascabayar",
+  "hotel_hand_note_detail_prepaid": "Prabayar",
+  "hotel_hand_note_detail_operation_history": "Sejarah aktiviti",
+  "hotel_hand_note_detail_order_cancel_info": "Maklumat pembatalan pesanan",
+  "hotel_hand_note_detail_order_total_order": "Jumlah pesanan",
+  "hotel_hand_note_detail_total_money": "Jumlah amaun yang dibayar",
+  "hotel_hand_note_detail_coin": "syiling",
+  "hotel_hand_note_detail_fee_cancel": "Bayaran pembatalan",
+  "hotel_hand_note_detail_refund_amount": "Anggaran jumlah bayaran balik",
+  "hotel_hand_note_detail_coin_refund_amount": "Anggaran syiling bayaran balik",
+  "hotel_hand_note_detail_payment_info": "Maklumat Pembayaran",
+  "hotel_hand_note_detail_customer_service": "Kod kupon tidak boleh dikembalikan. Sila hubungi Pusat Khidmat Pelanggan kami untuk mengembalikan kod kupon anda.",
+  "hotel_hand_note_detail_note_refund": "Masa bayaran balik (Dari tarikh pembatalan): 5 hingga 7 hari (Untuk gerbang pembayaran Alepay dan Payme) atau 7 hingga 15 hari (Untuk gerbang pembayaran Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Sebab pembatalan",
+  "hotel_hand_note_detail_checking_out": "Masa daftar masuk dan daftar keluar",
+  "hotel_hand_note_detail_check_in_after": "Daftar masuk selepas",
+  "hotel_hand_note_detail_check_out_before": "Daftar keluar sebelum",
+  "hotel_hand_note_detail_person_day": "orang/hari",
+  "hotel_hand_note_detail_free": "Percuma.",
+  "hotel_hand_note_detail_day": "/hari",
+  "hotel_hand_note_detail_note_hotel": "Garis masa pembatalan percuma adalah berdasarkan zon waktu hartanah dan ditentukan oleh dasar pembatalan hartanah.",
+  "hotel_hand_note_detail_room_service": "Perkhidmatan bilik",
+  "hotel_hand_note_detail_facilities_service": "Kemudahan dan perkhidmatan bilik",
+  "hotel_hand_note_detail_person_contact": "Orang hubungan",
+  "hotel_hand_note_detail_telephone_num": "Nombor telefon",
+  "hotel_hand_note_detail_email": "E-mel",
+  "hotel_hand_note_detail_nationality": "kewarganegaraan",
+  "hotel_hand_note_detail_address": "Alamat",
+  "hotel_hand_note_detail_paid": "Jumlah bayaran",
+  "hotel_hand_note_detail_rest": "Jumlah yang belum dibayar",
+  "hotel_hand_note_detail_payment_methods": "Kaedah pembayaran",
+  "hotel_hand_note_detail_check_in_info": "Maklumat Daftar masuk",
+  "hotel_hand_note_detail_guest_name": "Nama tetamu",
+  "hotel_hand_note_detail_policy_cancel": "Pembatalan dibuat sebelum ini",
+  "hotel_hand_note_detail_hour": "{hour} jam",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} minit",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":akan dikembalikan",
+  "hotel_hand_note_detail_price_room": "daripada kadar bilik untuk",
+  "hotel_hand_note_detail_one_night": "malam pertama.",
+  "hotel_hand_note_detail_all_night": "sepanjang malam.",
+  "hotel_hand_note_detail_policy": "Dasar pembatalan",
+  "hotel_hand_note_detail_children_note": "Kanak-kanak berumur dari {age} dibenarkan.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Haiwan peliharaan dibenarkan. Yuran haiwan peliharaan: {fee} (Yuran haiwan peliharaan dibayar di penginapan).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Kanak-kanak",
+  "hotel_hand_note_detail_pet": "Haiwan peliharaan",
+  "hotel_hand_note_detail_total_room_rate": "Jumlah harga bilik",
+  "hotel_hand_note_detail_total_room_order": "Bilangan bilik",
+  "hotel_hand_note_detail_room_information": "Maklumat bilik",
+  "hotel_hand_note_detail_person_x": "{x} orang",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Utiliti, perkhidmatan bilik",
+  "hotel_hand_note_detail_waiting_service": "Menunggu pemenuhan",
+  "hotel_hand_note_detail_in_service": "Sedang berlangsung",
+  "hotel_hand_note_detail_completed": "Selesai",
+  "hotel_hand_note_detail_waiting_cancellation": "Menunggu pembatalan",
+  "hotel_hand_note_detail_canceled": "Dibatalkan",
+  "hotel_hand_note_detail_awaiting_confirmation": "Menunggu pengesahan",
+  "hotel_hand_note_detail_not_refund": "Anda tidak akan menerima bayaran balik atau jumlah yang dibayar selepas pembatalan",
+  "hotel_hand_note_detail_other_required": "Permintaan lain",
+  "hotel_hand_note_detail_point_refund_amount": "Anggaran mata bayaran balik",
+  "hotel_input_title_start_date": "Tarikh daftar masuk",
+  "hotel_input_title_end_date": "Tarikh daftar keluar",
+  "hotel_input_title_choose_date": "Pilih tarikh",
+  "hotel_input_title_choose": "Pilih",
+  "hotel_hand_note_price_detail_payment_type": "Bentuk pembayaran",
+  "hotel_hand_note_price_detail_payment_date": "Tarikh pembayaran",
+  "hotel_hand_note_price_detail_price": "Lihat butiran harga",
+  "hotel_hand_note_price_detail_title": "Butiran harga",
+  "hotel_hand_note_price_detail_contact_info": "Maklumat kenalan",
+  "hotel_hand_note_utilities_title": "Kemudahan",
+  "hotel_hand_note_services_title": "Perkhidmatan",
+  "hotel_hand_note_search_required_code": "Nombor tempahan diperlukan.",
+  "cart_screen_main_hotel_title": "Hotel",
+  "cart_screen_main_hotel_title_1": "Hotel (1)",
+  "hotel_cancel_hotel": "Pembatalan",
+  "hotel_search_this_area ": "Cari kawasan ini",
+  "hotel_where": "Di mana anda mahu tinggal?",
+  "hotel_people": "{y} bilik - {x} tetamu",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Bilik",
+  "hotel_hand_note_item_view_booking_code_title": "Nombor tempahan",
+  "hotel_hand_note_title_hotel_order": "Pesanan tempahan hotel",
+  "hotel_order_detail_view_information_order": "Maklumat pesanan",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Di mana anda mahu tinggal?",
+  "search_city_no_result": "Tiada lokasi sepadan ditemui...",
+  "search_city_choose_the_city": "Cari hotel",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Pilih hotel",
+  "advanced_search_any_review": "mana-mana",
+  "advanced_search_star_rating": "Kedudukan bintang",
+  "advanced_search_any_star": "Tidak dinilai",
+  "advanced_search_a_star": "1 bintang",
+  "advanced_search_x_star": "{x} bintang",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Jenis hartanah",
+  "advanced_search_reset_button": "Tetapkan semula",
+  "advanced_search_search_button": "Cari",
+  "advanced_search_evaluation_point": "Skor ulasan",
+  "advanced_search_no_city_error": "Tiada harta dipilih",
+  "advanced_search_title": "Carian terperinci",
+  "advanced_search_clear": "Jelas",
+  "advanced_search_no_date_error": "Tiada tarikh dipilih",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Tunjukkan senarai",
+  "hotel_not_found": "Tiada hotel ditemui!",
+  "hotel_search_near_by": "Berdekatan",
+  "advanced_search_less_x_unit": "Di bawah {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Daripada {x}{unit} dan lebih",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Daripada {x}{unit} hingga di bawah {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Jarak dari pusat",
+  "hotel_booking_do_you_want_to_remove_a_user": "Adakah anda benar-benar mahu mengalih keluar {user} daripada senarai?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Surcaj",
+  "hotel_map_filter": "Disusun mengikut",
+  "hotel_map_default": "Lalai",
+  "hotel_map_high_star": "Penilaian bintang: Tinggi ke rendah",
+  "hotel_map_low_star": "Penilaian bintang: Rendah ke tinggi",
+  "hotel_map_distance_center": "Jarak dari pusat",
+  "hotel_map_high_rate": "Kedudukan tertinggi",
+  "hotel_map_high_order": "Paling banyak ditempah",
+  "hotel_hand_note_reply": "Maklum balas hartanah",
+  "hotel_booking_payment_3011_error": "Kad telah ditolak. Sila cuba kad lain atau hubungi pengeluar kad anda untuk mendapatkan bantuan!",
+  "hotel_hand_note_utilities_title_room": "KEMUDAHAN BILIK",
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Anda semua terperangkap!",
+  "halo_error_wifi_error": "Ralat Wifi",
+  "halo_error_something_wrong": "Op!\nSesuatu telah berlaku, sila cuba lagi",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+}

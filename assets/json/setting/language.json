@@ -1,0 +1,266 @@
+[
+    {
+        "id": "language_001",
+        "name": "English",
+        "code": "en",
+        "image": "file:///android_asset/flag/flag_united_kingdom.png"
+    },
+    {
+        "id": "language_002",
+        "name": "Tiếng Việt",
+        "code": "vi",
+        "image": "file:///android_asset/flag/flag_vietnam.png"
+    },
+    {
+        "id": "language_003",
+        "name": "Español",
+        "code": "es",
+        "image": "file:///android_asset/flag/flag_spain.png"
+    },
+    {
+        "id": "language_004",
+        "name": "Português",
+        "code": "pt",
+        "image": "file:///android_asset/flag/flag_portugal.png"
+    },
+    {
+        "id": "language_005",
+        "name": "हिन्दी",
+        "code": "hi",
+        "image": "file:///android_asset/flag/flag_india.png"
+    },
+    {
+        "id": "language_006",
+        "name": "Русский",
+        "code": "ru",
+        "image": "file:///android_asset/flag/flag_russian_federation.png"
+    },
+    {
+        "id": "language_007",
+        "name": "中文(简体)",
+        "code": "zh",
+        "image": "file:///android_asset/flag/flag_china.png"
+    },
+    {
+        "id": "language_008",
+        "name": "日本語",
+        "code": "ja",
+        "image": "file:///android_asset/flag/flag_japan.png"
+    },
+    {
+        "id": "language_009",
+        "name": "한국어",
+        "code": "ko",
+        "image": "file:///android_asset/flag/flag_south_korea.png"
+    },
+    {
+        "id": "language_010",
+        "name": "Deutsch",
+        "code": "de",
+        "image": "file:///android_asset/flag/flag_germany.png"
+    },
+    {
+        "id": "language_011",
+        "name": "Français",
+        "code": "fr",
+        "image": "file:///android_asset/flag/flag_france.png"
+    },
+    {
+        "id": "language_012",
+        "name": "Bahasa Indonesia",
+        "code": "id",
+        "image": "file:///android_asset/flag/flag_indonesia.png"
+    },
+    {
+        "id": "language_013",
+        "name": "ภาษาไทย",
+        "code": "th",
+        "image": "file:///android_asset/flag/flag_thailand.png"
+    },
+    {
+        "id": "language_014",
+        "name": "Italiano",
+        "code": "it",
+        "image": "file:///android_asset/flag/flag_italy.png"
+    },
+    {
+        "id": "language_015",
+        "name": "Bahasa Melayu",
+        "code": "ms",
+        "image": "file:///android_asset/flag/flag_malaysia.png"
+    },
+    {
+        "id": "language_016",
+        "name": "မြန်မာဘာသာ",
+        "code": "my",
+        "image": "file:///android_asset/flag/flag_myanmar.png"
+    },
+    {
+        "id": "language_017",
+        "name": "বাংলা",
+        "code": "bn",
+        "image": "file:///android_asset/flag/flag_bangladesh.png"
+    },
+    {
+        "id": "language_018",
+        "name": "Kiswahili",
+        "code": "sw",
+        "image": "file:///android_asset/flag/flag_tanzania.png"
+    },
+    {
+        "id": "language_019",
+        "name": "தமிழ்",
+        "code": "ta",
+        "image": "file:///android_asset/flag/flag_sri_lanka.png"
+    },
+    {
+        "id": "language_020",
+        "name": "Filipino ",
+        "code": "tl",
+        "image": "file:///android_asset/flag/flag_philippines.png"
+    },
+    {
+        "id": "language_021",
+        "name": "Türk Dili",
+        "code": "tr",
+        "image": "file:///android_asset/flag/flag_turkey.png"
+    },
+    {
+        "id": "language_022",
+        "name": "украї́нська мо́ва ",
+        "code": "uk",
+        "image": "file:///android_asset/flag/flag_ukraine.png"
+    },
+    {
+        "id": "language_023",
+        "name": "Suomalainen ",
+        "code": "fi",
+        "image": "file:///android_asset/flag/flag_finland.png"
+    },
+    {
+        "id": "language_024",
+        "name": "Slovenija ",
+        "code": "sl",
+        "image": "file:///android_asset/flag/flag_slovenia.png"
+    },
+    {
+        "id": "language_025",
+        "name": "Polskie ",
+        "code": "pl",
+        "image": "file:///android_asset/flag/flag_poland.png"
+    },
+    {
+        "id": "language_026",
+        "name": "România ",
+        "code": "ro",
+        "image": "file:///android_asset/flag/flag_romania.png"
+    },
+    {
+        "id": "language_027",
+        "name": "Беларусь ",
+        "code": "be",
+        "image": "file:///android_asset/flag/flag_belarus.png"
+    },
+    {
+        "id": "language_028",
+        "name": "Azerbaijan ",
+        "code": "az",
+        "image": "file:///android_asset/flag/flag_azerbaijan.png"
+    },
+    {
+        "id": "language_029",
+        "name": "Ελλάδα ",
+        "code": "el",
+        "image": "file:///android_asset/flag/flag_greece.png"
+    },
+    {
+        "id": "language_030",
+        "name": "България ",
+        "code": "bn",
+        "image": "file:///android_asset/flag/flag_bulgaria.png"
+    },
+    {
+        "id": "language_031",
+        "name": "Magyarország ",
+        "code": "hu",
+        "image": "file:///android_asset/flag/flag_hungary.png"
+    },
+    {
+        "id": "language_032",
+        "name": "Србија ",
+        "code": "sr",
+        "image": "file:///android_asset/flag/flag_serbia.png"
+    },
+    {
+        "id": "language_033",
+        "name": "Česky",
+        "code": "cs",
+        "image": ""
+    },
+    {
+        "id": "language_034",
+        "name": "Қазақша",
+        "code": "kk",
+        "image": ""
+    },
+    {
+        "id": "language_035",
+        "name": "Lietuvių ",
+        "code": "lt",
+        "image": ""
+    },
+    {
+        "id": "language_036",
+        "name": "Latviešu ",
+        "code": "lv",
+        "image": ""
+    },
+    {
+        "id": "language_037",
+        "name": "Hrvatski ",
+        "code": "hr",
+        "image": ""
+    },
+    {
+        "id": "language_038",
+        "name": "Bosanski ",
+        "code": "bs",
+        "image": ""
+    },
+    {
+        "id": "language_039",
+        "name": "Slovenčina ",
+        "code": "sk",
+        "image": ""
+    },
+    {
+        "id": "language_040",
+        "name": "Eesti ",
+        "code": "et",
+        "image": ""
+    },
+    {
+        "id": "language_041",
+        "name": "Nederlands ",
+        "code": "nl",
+        "image": ""
+    },
+    {
+        "id": "language_042",
+        "name": "Shqip ",
+        "code": "sq",
+        "image": ""
+    },
+    {
+        "id": "language_043",
+        "name": "Català ",
+        "code": "ca",
+        "image": ""
+    },
+    {
+        "id": "language_044",
+        "name": "Svenska ",
+        "code": "sv",
+        "image": ""
+    }
+]

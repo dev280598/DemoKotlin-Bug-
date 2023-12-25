@@ -1,0 +1,81 @@
+name: halo_design
+publish_to: none
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  lottie: ">=2.3.2"
+  google_fonts: ">=4.0.3"
+  kotlin_flavor: ">=0.2.0"
+  flutter_spinkit: ">=5.1.0"
+  # golden test
+  alchemist: '>=0.6.1<0.7.0'
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ">=2.0.0"
+
+flutter_gen:
+  output: lib/assets/gen/
+  integrations:
+    lottie: true
+  fonts:
+    enabled: false
+  assets:
+    enabled: true
+    outputs:
+      class_name: HaloAssets
+      package_parameter_enabled: true
+    exclude:
+      - assets/**/2x/**
+      - assets/**/3x/**
+
+flutter:
+  uses-material-design : true
+  assets:
+    # ======== ICONS ==========
+    - assets/icons/
+    - assets/icons/2x/
+    - assets/icons/3x/
+    # =========================
+    - assets/images/
+    - assets/images/2x/
+    - assets/images/3x/
+    - assets/images/flag/
+    - assets/images/car/
+    - assets/images/car/2x/
+    - assets/images/car/3x/
+    - assets/images/flight/
+    - assets/images/flight/2x/
+    - assets/images/flight/3x/
+    - assets/images/hotel/
+    - assets/images/hotel/2x/
+    - assets/images/hotel/3x/
+    - assets/images/HotelAmenityIcon/ez/
+    - assets/images/HotelAmenityIcon/ez/2x/
+    - assets/images/HotelAmenityIcon/ez/3x/
+    - assets/images/HotelAmenityIcon/tp/
+    - assets/images/HotelAmenityIcon/tp/2x/
+    - assets/images/HotelAmenityIcon/tp/3x/
+    - assets/lotties/
+    - assets/images/tour/
+    - assets/images/tour/2x/
+    - assets/images/tour/3x/
+    - assets/images/empty/
+    - assets/images/empty/2x/
+    - assets/images/empty/3x/
+    - assets/json/setting/
+
+  fonts:
+    - family: ServiceTourFont
+      fonts:
+        - asset: assets/fonts/tour/ServiceTourIcons.ttf

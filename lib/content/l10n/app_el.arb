@@ -1,0 +1,3307 @@
+{
+  "@@locale": "el",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Προσπάθησε ξανά",
+  "common_see_more": "Δείτε περισσότερα",
+  "common_see_less": "Δείτε λιγότερο",
+  "common_search_hint": "Αναζήτηση …",
+  "common_loading": "Φόρτωση…",
+  "common_retry": "Ξαναδοκιμάσετε",
+  "common_cancel": "Ματαίωση",
+  "common_ok": "Εντάξει",
+  "common_save": "Αποθηκεύσετε",
+  "common_decline": "Πτώση",
+  "common_done": "Ολοκληρώθηκε",
+  "common_confirm": "Επιβεβαιώνω",
+  "common_close": "Κλείσε",
+  "common_continue": "Να συνεχίσει",
+  "common_detail": "Λεπτομέριες",
+  "common_enter_discount_code": "Εισαγάγετε τον κωδικό κουπονιού",
+  "common_use_payment_or_contact_info": "Χρησιμοποιήστε στοιχεία πληρωτή ή επικοινωνίας",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Επιλογέας χρόνου",
+  "car_input_title_pick_up_place": "Εισαγάγετε τη θέση παραλαβής",
+  "car_input_title_pick_up_location": "Τοποθεσία παραλαβής",
+  "car_title_return_to_different_location": "Επιστροφή σε διαφορετική τοποθεσία",
+  "car_input_title_start_time": "Ωρα έναρξης",
+  "car_input_title_end_time": "Τέλος χρόνου",
+  "car_input_title_start_date": "Ημερομηνία έναρξης",
+  "car_input_title_end_date": "Ημερομηνία λήξης",
+  "car_input_title_enter_drop_off_place": "Εισαγάγετε τον τόπο παράδοσης",
+  "car_input_title_enter_drop_off_location": "Τοποθεσία παράδοσης",
+  "car_title_advanced_search": "Προχωρημένη Αναζήτηση",
+  "car_title_look_up_booking_number": "Αναζητήστε τον αριθμό κράτησης",
+  "car_header_title_look_up_booking_number": "Εισαγάγετε τον αριθμό κράτησης ή τον κωδικό παραγγελίας για να βρείτε τα στοιχεία της κράτησής σας",
+  "car_title_search": "Αναζήτηση",
+  "car_notice_empty_pick_up_location": "Επιλέξτε μια τοποθεσία παραλαβής και ημερομηνία έναρξης για αναζήτηση",
+  "car_title_ascending_price": "Αύξουσα τιμή",
+  "car_title_descending_price": "Φθίνουσα τιμή",
+  "car_title_car_type": "Τύπος αυτοκινήτου",
+  "car_title_transmission": "Μετάδοση",
+  "car_title_segment": "Τμήμα",
+  "car_title_fuel_type": "Τύπος καυσίμου",
+  "car_title_supplier": "Προμηθευτής",
+  "car_title_price": "Τιμή",
+  "car_title_view_on_map": "Προβολή στο χάρτη",
+  "car_title_deals": "Συμφωνίες",
+  "car_title_seats": "Καθίσματα",
+  "car_title_filter_by": "Φιλτράρισμα κατά",
+  "car_title_un_filter": "Ξεφιλτράρισμα",
+  "car_title_choose_this_car": "Επιλέξτε αυτό το αυτοκίνητο",
+  "car_title_rental_terms": "Όροι ενοικίασης",
+  "car_title_search_location": "Αναζήτηση τοποθεσίας",
+  "car_title_select_btn": "Επιλέγω",
+  "car_title_select_date": "Επιλέξτε ημερομηνία",
+  "car_title_select_time": "Επιλέξτε ώρα",
+  "car_title_reset_btn": "Επαναφορά",
+  "car_title_location_type": "Τύπος τοποθεσίας",
+  "car_title_number_of_seats": "αριθμός θέσεων",
+  "car_title_days": "Ημέρες",
+  "car_title_unlimited_mileage": "Απεριόριστα χιλιόμετρα",
+  "car_title_instant_confirmation": "Άμεση επιβεβαίωση",
+  "car_title_time_pick_up": "Ημερομηνία Παραλαβής",
+  "car_title_time_drop_off": "Ημερομηνία αποχώρησης",
+  "car_title_air_conditioning": "Κλιματισμός",
+  "car_title_number_of_bag": "Αριθμός βαλιτσών",
+  "car_hand_note_title_booking_order_code": "Κωδικός παραγγελίας",
+  "car_hand_note_title_booking_code": "Αριθμός κράτησης",
+  "car_hand_note_title_total_rental_car": "Συνολικές ημέρες ενοικίασης",
+  "car_hand_note_title_status_order": "Κατάσταση παραγγελίας",
+  "car_hand_note_title_total_price": "Συνολική πληρωμή",
+  "car_hand_note_title_status_payment": "Κατάσταση πληρωμής",
+  "car_hand_note_title_reason_cancel": "Λόγοι ακύρωσης",
+  "car_hand_note_title_view_details_btn": "Δείτε λεπτομέρειες",
+  "car_hand_note_notice_cancel_order": "Το ποσό επιστροφής χρημάτων (εάν υπάρχει) της ακυρωμένης παραγγελίας θα μεταφερθεί στον τραπεζικό λογαριασμό του πελάτη εντός της προθεσμίας που καθορίζεται από τον προμηθευτή.",
+  "car_hand_note_title_tab_all": "Ολα",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Εν αναμονή Εκπλήρωσης",
+  "car_hand_note_title_tab_ongoing": "Σε εξέλιξη",
+  "car_hand_note_title_tab_completed": "Ολοκληρώθηκε το",
+  "car_hand_note_title_tab_canceled": "Ακυρώθηκε",
+  "car_hand_note_title_order_manager": "Διαχείριση παραγγελιών",
+  "car_hand_note_title_create_date": "Ημερομηνία Δημιουργίας",
+  "car_hand_note_title_view_more_btn": "Δείτε περισσότερα",
+  "car_hand_note_title_status_order_completed": "Ολοκληρώθηκε το",
+  "car_hand_note_title_status_payment_successful": "Επιτυχής",
+  "car_hand_note_title_details_order": "Λεπτομέρειες Παραγγελίας",
+  "car_hand_note_title_contact_info": "Στοιχεία επικοινωνίας",
+  "car_hand_note_title_info_rental_car": "Πληροφορίες κράτησης",
+  "car_hand_note_title_driver_info": "Στοιχεία προγράμματος οδήγησης",
+  "car_hand_note_title_pirce_details": "Λεπτομέρειες τιμής",
+  "car_hand_note_title_creator": "Δημιουργήθηκε από",
+  "car_hand_note_title_person_contact": "Υπεύθυνος επικοινωνίας",
+  "car_hand_note_title_phone": "Τηλεφωνικό νούμερο",
+  "car_hand_note_title_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "car_hand_note_title_country": "Χώρα",
+  "car_hand_note_title_address": "Διεύθυνση",
+  "car_hand_note_title_price_of_car_rental": "Τιμή ενοικίασης αυτοκινήτου",
+  "car_hand_note_title_price_payment_fee": "Τέλος πληρωμής",
+  "car_hand_note_title_info_extra_services": "Επιπλέον υπηρεσίες",
+  "car_hand_note_title_type_insurance": "Είδος ασφάλισης",
+  "car_hand_note_title_info_insurance": "Ασφαλιστικές πληροφορίες",
+  "car_hand_note_title_car_info": "Στοιχεία αυτοκινήτου",
+  "car_search_result_not_found_title": "Λυπούμαστε, το όχημα που ψάχνετε δεν βρέθηκε.",
+  "car_search_result_not_found_sub_title": "Δεν μπορούμε να βρούμε την κατάλληλη αντιστοίχιση για το αίτημά σας.\nΔοκιμάστε ξανά.",
+  "car_search_result_first_title_rental_car": "Ενοικίαση αυτοκινήτου σε",
+  "car_detail_btn_rent_now": "Κάνετε κράτηση τώρα",
+  "car_notice_title_check_connection": "Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά!",
+  "car_rent_input_title_details": "Λεπτομέριες",
+  "car_rent_input_title_total_payment": "Συνολική πληρωμή",
+  "car_rent_input_title_payment": "Πληρωμή",
+  "car_rent_form_input_last_name": "Επώνυμο (Χωρίς τόνους)",
+  "car_rent_form_input_first_name": "Μέσο & Όνομα/Ονοματεπώνυμο (Χωρίς ηχητικά σημάδια)",
+  "car_rent_input_content_cb_use_contact_details": "Χρησιμοποιήστε τα στοιχεία επικοινωνίας",
+  "car_rent_input_title_method_payment": "Πληρωμή",
+  "car_rent_input_title_method_pay": "Επιλογή πληρωμής",
+  "car_rent_input_title_late_payment": "Πλήρωσε αργότερα",
+  "car_rent_input_title_now_payment": "Πλήρωσε τώρα",
+  "car_rent_input_title_information_card": "Στοιχεία κάρτας",
+  "car_rent_input_title_driver_age": "Ηλικία οδηγού",
+  "car_rent_input_title_Do_you_need_anything_else": "Χρειάζεσαι κάτι άλλο?",
+  "car_rent_input_title_accept_policy": "Προχωρώντας στο επόμενο βήμα, επιβεβαιώνω ότι έχω διαβάσει και συμφωνήσω με τους Όρους - Πολιτικές και Πολιτική Απορρήτου της Hahalolo",
+  "car_rent_input_title_card_must_be_valid": "Η κάρτα σας πρέπει να είναι έγκυρη για να εξασφαλίσετε την ενοικίαση με τον προμηθευτή.",
+  "car_rent_input_title_accept_card_pay": "Αποδεκτές κάρτες πληρωμής",
+  "car_rent_input_title_content_notice_later_pay": "Ο προμηθευτής του αυτοκινήτου θα επεξεργαστεί την πληρωμή σας. Ανάλογα με τις συνθήκες κράτησης, μπορείτε να πληρώσετε πλήρως ή εν μέρει.",
+  "car_rent_input_title_select_type_card": "Επιλέξτε Τύπος πιστωτικής κάρτας",
+  "car_rent_input_title_number_card": "Αριθμός κάρτας",
+  "car_rent_input_title_enter_number_card": "Εισαγάγετε τον αριθμό της κάρτας",
+  "car_rent_input_title_name_card": "Ονομα ιδιοκτήτη κάρτας",
+  "car_rent_input_title_enter_name_card": "Εισαγάγετε το όνομα κατόχου κάρτας",
+  "car_rent_input_title_select_expiry_date": "Επιλέξτε ημερομηνία λήξης",
+  "car_rent_input_title_expiry_date": "Ημερομηνία λήξης",
+  "car_rent_input_title_gate_ways": "Πύλη πληρωμής",
+  "car_rent_input_title_ccv_code": "Κωδικός CVC",
+  "car_rent_input_title_enter_ccv_code": "Εισαγάγετε τον κωδικό CVC",
+  "car_rent_input_title_first_notice_need_anything_else": "Θα ενημερώσουμε τον προμηθευτή ότι ενδιαφέρεστε για αυτές τις υπηρεσίες, ώστε να σας παράσχει λεπτομερείς πληροφορίες.\n\n Το αίτημά σας δεν είναι εγγυημένο. Μην ανησυχείς! Ο προμηθευτής θα προσπαθήσει να ικανοποιήσει τις ανάγκες σας.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Το αίτημά σας δεν είναι εγγυημένο. Μην ανησυχείς! Ο προμηθευτής θα προσπαθήσει να ικανοποιήσει τις ανάγκες σας.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Εισαγάγετε έως 55 χαρακτήρες",
+  "car_rent_input_noti_invalid_last_name": "Μη έγκυρο επώνυμο",
+  "car_rent_input_noti_invalid_first_name": "Μη έγκυρο μεσαίο και όνομα/όνομα",
+  "car_rent_input_noti_required_last_name": "Το επώνυμο είναι υποχρεωτικό",
+  "car_rent_input_noti_required_first_name": "Απαιτείται μεσαίο και όνομα/όνομα",
+  "car_rent_input_noti_invalid_email": "Ακυρη διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "car_rent_input_noti_invalid_phone": "Μη έγκυρος αριθμός τηλεφώνου",
+  "car_rent_input_noti_required_email": "Απαιτείται email",
+  "car_rent_input_noti_required_phone": "Απαιτείται αριθμός τηλεφώνου",
+  "car_rent_input_noti_requried_address": "Απαιτείται διεύθυνση",
+  "car_rent_input_noti_requried_country": "Απαιτείται χώρα",
+  "car_rent_input_noti_requried_number_card": "Απαιτείται αριθμός κάρτας",
+  "car_rent_input_noti_requried_card_holder_name": "Απαιτείται όνομα κατόχου κάρτας",
+  "car_rent_input_noti_requried_type_card": "Απαιτείται πιστωτική κάρτα",
+  "car_rent_input_noti_requried_expiry": "Απαιτείται ημερομηνία λήξης",
+  "car_rent_input_title_type_card_credit": "Τύπος πιστωτικής κάρτας",
+  "car_rent_input_title_currency_at_rental_car_place": "Νόμισμα στην τοποθεσία παραλαβής",
+  "car_rent_input_title_rule_age": "Κανόνες ηλικίας",
+  "car_rent_input_notice_term_and_policy_first_string": "Προχωρώντας στο επόμενο βήμα, επιβεβαιώνω ότι έχω διαβάσει και συμφωνήσω με το Hahalolo",
+  "car_rent_input_notice_term_and_policy_append__string": "Όροι - Πολιτικές",
+  "car_rent_input_notice_term_and_policy_between_string": "και",
+  "car_rent_input_notice_term_and_policy_append___string": "Πολιτική Απορρήτου",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Μαζεύω",
+  "car_cart_title_drop_off": "Αποβίβαση",
+  "car_cart_title_included_texas_fee": "Συμπεριλαμβάνονται φόροι και τέλη",
+  "car_cart_title_btn_delete": "Διαγράφω",
+  "car_cart_title_btn_edit": "Αλλάξτε την επιλογή σας",
+  "car_cart_title_sub_total": "ΜΕΡΙΚΟ ΣΥΝΟΛΟ",
+  "car_cart_title_car_types": "Τύπος αυτοκινήτου:",
+  "car_title_select_country": "Διάλεξε χώρα",
+  "car_title_car_cart": "Κράτηση αυτοκινήτου",
+  "car_feed_input_hint_pick_up_place": "Το μέρος παραλαβής σας",
+  "car_feed_input_hint_drop_off_place": "Ο τόπος παραλαβής σας",
+  "car_feed_notice_empty_location_pick_up": "Επιλέξτε ένα μέρος παραλαβής για αναζήτηση",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Εισαγάγετε την τοποθεσία παράδοσης",
+  "notify_error_occurred": "Προέκυψε ένα σφάλμα. Παρακαλώ ξαναελέγξτε.",
+  "car_hand_note_detail_order_full_name": "Πλήρες όνομα",
+  "car_hand_note_detail_order_promotion": "Προβολή",
+  "car_hand_note_detail_order_act_history": "Αρχείο καταγραφής δραστηριότητας",
+  "car_hand_note_detail_order_request_other": "Άλλα αιτήματα",
+  "car_hand_note_detail_order_order_payment": "Παραγγελία πληρωμής",
+  "car_hand_note_detail_order_cancel_info": "Πληροφορίες ακύρωσης παραγγελίας",
+  "car_hand_note_detail_order_payment_info": "Πληροφορίες Πληρωμής",
+  "car_hand_note_detail_order_paid": "επί πληρωμή",
+  "car_hand_note_detail_order_unpaid": "Απλήρωτος",
+  "car_hand_note_title_days_ago": "μέρες πριν",
+  "car_hand_note_detail_order_cancel_fee": "Τέλος ακύρωσης",
+  "car_hand_note_detail_order_amount_ongoing_return": "Εκτιμώμενο ποσό επιστροφής χρημάτων",
+  "car_hand_note_detail_order_time_ongoing_return": "Εκτιμώμενος χρόνος επιστροφής χρημάτων",
+  "car_hand_note_detail_order_info_transaction": "Πληροφορίες συναλλαγής",
+  "car_hand_note_detail_order_amount_payment": "Συνολικό ποσό",
+  "car_hand_note_detail_order_total_order": "Σύνολο παραγγελίας",
+  "car_hand_note_detail_content_define_vat": "Ο VAT είναι ο φόρος και το τέλος που απαιτείται να πληρώσετε στον προμηθευτή αυτοκινήτου σύμφωνα με τους κανονισμούς του όταν χρησιμοποιείτε την υπηρεσία ενοικίασης αυτοκινήτου.",
+  "car_title_search_result_first_character": "Ενοικίαση αυτοκινήτου σε",
+  "car_title_tool_bar_pick_up_location": "Πού θέλετε να παραλάβετε;",
+  "car_title_tool_bar_drop_off_location": "Πού θέλετε να αφήσετε;",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Η τιμή ενοικίασης αυτοκινήτου μετατρέπεται με βάση το τρέχον νόμισμα που χρησιμοποιεί ο προμηθευτής αυτοκινήτου.\nΣημείωση:\n- Η συναλλαγματική ισοτιμία υπόκειται σε αλλαγές προτού πληρώσετε.\n- Ο εκδότης της κάρτας σας ενδέχεται να σας χρεώσει μια χρέωση συναλλαγής στο εξωτερικό.",
+  "car_hand_note_detail_content_define_payment_fee": "Η χρέωση συναλλαγής που αντιστοιχεί σε κάθε αίτημα ενοικίασης αυτοκινήτου που πρέπει να πληρώσετε στον πάροχο υπηρεσιών πύλης πληρωμών στο διαδίκτυο.",
+  "car_hand_note_detail_content_notice_insurance": "Σημείωση: Εάν θέλετε να υποβάλετε αίτηση για αυτά τα πακέτα ασφάλισης, επικοινωνήστε απευθείας με τη ρεσεψιόν του προμηθευτή αυτοκινήτου.",
+  "car_hand_note_detail_title_header_insurance": "Πολλά συμβόλαια ασφάλισης και ενοικίασης αυτοκινήτου καλύπτουν εξαιρέσεις που μπορεί να είναι ακριβές που σχετίζονται με ζημιά ή κλοπή από ενοικίαση αυτοκινήτου. Ωστόσο, η παρακάτω ασφάλιση θα σας βοηθήσει να προστατέψετε και να σας προσφέρει οικονομική υποστήριξη με ένα σημαντικό χρηματικό ποσό.",
+  "car_result_booking_title_header_rental_car_success": "ΕΠΙΤΥΧΗ ΚΡΑΤΗΣΗ",
+  "car_result_booking_title_btn_continue_rental_car": "Συνεχίστε την κράτηση",
+  "car_result_booking_title_btn_view_order_details": "προβολή λεπτομερειών παραγγελίας",
+  "car_result_booking_title_header_first_char": "Το αίτημα κράτησής σας έγινε με επιτυχία",
+  "car_result_booking_title_header_second_char": "(Επί πληρωμή)",
+  "car_result_booking_title_header_third_char": ". Μπορείτε να ελέγξετε τις λεπτομέρειες ενοικίασης αυτοκινήτου παρακάτω.",
+  "car_result_booking_title_header__char": "Σας ευχαριστούμε για την εμπιστοσύνη σας",
+  "car_result_booking_title_header____char": "υπηρεσία. Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περαιτέρω βοήθεια, επικοινωνήστε με το Κέντρο βοήθειας στη διεύθυνση",
+  "car_result_booking_title_header_____char": "για οδηγίες.",
+  "car_result_booking_title_header______char": ". Μπορείτε να ελέγξετε τις λεπτομέρειες ενοικίασης αυτοκινήτου παρακάτω.",
+  "car_result_booking_title_order": "Σειρά",
+  "car_result_booking_title_billing_info": "Πληροφορίες Πληρωμής",
+  "car_result_booking_title_time": "χρόνος",
+  "car_result_booking_title_name_car": "Όνομα αυτοκινήτου",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Επιλέξτε πόλη/πολιτεία",
+  "car_result_notice_no_data_found": "Λυπούμαστε, δεν βρέθηκαν δεδομένα",
+  "car_result_notice_no_flight_found_description": "Δεν μπορέσαμε να βρούμε αποτελέσματα που να ταιριάζουν με την αναζήτησή σας. Παρακαλώ ψάξτε ξανά.",
+  "car_extra_service": "Ορισμένες πρόσθετες υπηρεσίες παρακάτω ενδέχεται να σας προσφερθούν από τον πάροχο του αυτοκινήτου. Εάν θέλετε να υποβάλετε αίτηση για αυτές, επικοινωνήστε απευθείας με τη ρεσεψιόν του παρόχου.",
+  "car_extra_charges": "Θα ισχύουν επιπλέον χρεώσεις για οδηγούς κάτω ή άνω της ηλικίας που καθορίζεται από τον προμηθευτή του αυτοκινήτου",
+  "car_note_driver_age": "Σημείωση: Αυτή η χρέωση θα εισπραχθεί στη ρεσεψιόν κατά την άφιξή σας για να παραλάβετε το αυτοκίνητο.",
+  "car_rental_details": "Λεπτομέρειες ενοικίασης αυτοκινήτου",
+  "car_you_dont_have_any_car_rental_orders": "Δεν έχετε ακόμη παραγγελίες ενοικίασης αυτοκινήτου.",
+  "car_search_code_no_information": "Δεν βρέθηκαν πληροφορίες κράτησης.\nΕλέγξτε και δοκιμάστε ξανά",
+  "car_input_code_message_empty": "Εισαγάγετε τον αριθμό κράτησής σας",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Αποδέχομαι",
+  "aff_chart_day_ago": "πριν {number} μέρες",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "Από {from} έως {to}",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Διάρκεια cookie: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Ξενοδοχειο",
+  "aff_tour": "Περιοδεία",
+  "aff_product_name": "Ονομασία προϊόντος",
+  "aff_anonymous_user": "Ανώνυμος χρήστης",
+  "aff_unknown": "Αγνωστος",
+  "aff_product_unknown": "Άγνωστος τύπος προϊόντος",
+  "aff_share": "Μερίδιο",
+  "aff_fetch_data_failure": "Αποτυχία λήψης δεδομένων",
+  "aff_fetch_data_failure_try_later": "Αποτυχία λήψης δεδομένων. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+  "aff_detail": "Λεπτομέριες",
+  "aff_no_data": "Δε βρέθηκαν δεδομένα",
+  "aff_all": "Ολα",
+  "aff_country": "Χώρα",
+  "aff_summary": "ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ",
+  "aff_link_management": "Διαχείριση συνδέσμων",
+  "aff_promotion_tool": "Εργαλεία Μάρκετινγκ",
+  "aff_help": "Βοήθεια",
+  "aff_notification": "Ειδοποιήσεις",
+  "aff_notification_no_data": "Δεν έχετε ειδοποιήσεις",
+  "aff_revenue": "Εσοδα",
+  "aff_revenue_total": "Τα συνολικά έσοδα",
+  "aff_customer_id": "Κωδικός ID",
+  "aff_payment_total": "Συνολικό ποσό",
+  "aff_commission_receive": "Συνολικές προμήθειες που ελήφθησαν",
+  "aff_search_by_order": "Αναζήτηση με κωδικό παραγγελίας",
+  "aff_reset": "Επαναφορά",
+  "aff_cancel": "Ματαίωση",
+  "aff_save": "Σώσει",
+  "aff_search": "Αναζήτηση",
+  "aff_continue": "Να συνεχίσει",
+  "aff_payment_account": "Λογαριασμός πληρωμής",
+  "aff_profile": "Προφίλ",
+  "aff_edit_profile": "Επεξεργασία πληροφοριών",
+  "aff_affiliate": "Υιοθετώ",
+  "aff_setting": "Ρυθμίσεις",
+  "aff_resend": "Εκ νέου αποστολή",
+  "aff_verify_failure": "Η επαλήθευση απέτυχε",
+  "aff_show_code": "Εμφάνιση κωδικού",
+  "aff_sms_block_forever": "Η λειτουργία επαλήθευσης έχει κλειδωθεί προσωρινά. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "aff_sms_wrong_code": "Εσφαλμένος κωδικός επαλήθευσης. Ελέγξτε το ξανά.",
+  "aff_sms_expired_code": "Ο κωδικός επαλήθευσης έχει λήξει. Λάβετε έναν άλλο κωδικό",
+  "aff_sms_verify_failure": "Η επαλήθευση απέτυχε. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "aff_enter_verify_code": "βάλτε κωδικό επιβεβαίωσης",
+  "aff_we_send_code_to_phone": "Στείλαμε έναν κωδικό επαλήθευσης στο {phone}.\nΕισαγάγετε τον κωδικό που λάβατε για να ολοκληρώσετε αυτό το βήμα.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Ο κωδικός θα λήξει σε:",
+  "aff_sms_block": "Η λειτουργία αποστολής κωδικού μέσω SMS είναι προσωρινά κλειδωμένη. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+  "aff_sms_resend_in": "Μπορείτε να επιλέξετε να στείλετε ξανά τον κωδικό σε:",
+  "aff_account_information": "ΠΛΗΡΟΦΟΡΙΕΣ ΛΟΓΑΡΙΑΣΜΟΥ",
+  "aff_account_information_subtitle": "Ενημερώστε τον αριθμό τηλεφώνου σας στον λογαριασμό πληρωμών σας για να μπορείτε να συνεχίσετε να χρησιμοποιείτε τις υπηρεσίες στο Hahalolo.",
+  "aff_account_name": "Ονομα λογαριασμού",
+  "aff_search_county": "Αναζήτηση χώρας",
+  "aff_wallet_create_failure": "Η δημιουργία λογαριασμού πληρωμών απέτυχε",
+  "aff_wallet_create_failure_try_again": "Η δημιουργία λογαριασμού πληρωμών απέτυχε. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+  "aff_information_general": "Γενικές πληροφορίες",
+  "aff_information_unknown": "(Αγνωστος)",
+  "aff_information_full_name": "Πλήρες όνομα {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Τηλεφωνικό νούμερο  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Ημερομηνια γεννησης {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Φύλο {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Διεύθυνση {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Χώρα {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Περισσότερες πληροφορίες",
+  "aff_information_city": "Επαρχία/Πόλη {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Ταχυδρομικός Κώδικας  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID Κάρτα /Διαβατήριο {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Ημερομηνία λήξης {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Χώρα έκδοσης X {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Εθνικότητα {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Τόπος γέννησης {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Κωδικός τηλεφώνου",
+  "aff_gender_male": "Αρσενικός",
+  "aff_gender_female": "Θηλυκός",
+  "aff_gender_other": "Αλλα",
+  "aff_validate_full_name": "Το πλήρες όνομα πρέπει να αποτελείται από τουλάχιστον 3 χαρακτήρες",
+  "aff_validate_email": "Ακυρη διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "aff_validate_phone": "Μη έγκυρος αριθμός τηλεφώνου",
+  "aff_validate_post_code": "Μη έγκυρος ταχυδρομικός κώδικας",
+  "aff_validate_id_code": "Μη έγκυρη κάρτα ID/Διαβατήριο",
+  "aff_validate_invalid_field": "χρόνος",
+  "aff_validate_phone_existed": "Ο αριθμός τηλεφώνου έχει καταχωρηθεί για άλλον λογαριασμό πληρωμών.",
+  "aff_validate_unknown_country": "Άγνωστη χώρα",
+  "aff_date_time": "χρόνος",
+  "aff_date_yesterday": "Εχθές",
+  "aff_date_today": "Σήμερα",
+  "aff_date_unknown": "Άγνωστη ημερομηνία",
+  "aff_date_month": "μήνας",
+  "aff_date_day": "ημέρα",
+  "aff_date_hour": "ώρα",
+  "aff_date_minute": "λεπτό",
+  "aff_date_second": "δεύτερος",
+  "aff_date_range": "Εύρος ημερομηνιών",
+  "aff_report": "Κανω ΑΝΑΦΟΡΑ",
+  "aff_report_summary": "Επισκόπηση αναφοράς",
+  "aff_report_click": "Κλικ",
+  "aff_report_click_number": "Κλικ",
+  "aff_report_performance": "Εκτέλεση",
+  "aff_report_customer": "Πελάτης",
+  "aff_report_payment": "Πληρωμή",
+  "aff_report_product_performance": "Απόδοση προϊόντος",
+  "aff_report_product_type": "Τύπος Προϊόντος",
+  "aff_report_customer_detail": "Πληροφορίες Πελάτη",
+  "aff_report_commission_by_product": "Προμήθεια ανά είδος",
+  "aff_report_customer_total": "Συνολικές αγορές πελατών",
+  "aff_report_customer_serving": "Σύνολο πελατών σε υπηρεσία",
+  "aff_report_customer_served": "Σύνολο εξυπηρετούμενων πελατών",
+  "aff_report_payment_waiting": "Συνολικές προμήθειες σε εξέλιξη",
+  "aff_report_payment_pending": "Συνολικές εκκρεμείς προμήθειες",
+  "aff_report_payment_available": "Συνολικές διαθέσιμες προμήθειες",
+  "aff_report_payment_status_waiting": "Επεξεργασία",
+  "aff_report_payment_status_pending": "εκκρεμής",
+  "aff_report_payment_status_available": "Διαθέσιμος",
+  "aff_report_payment_status_cancel": "Ακυρώθηκε",
+  "aff_report_payment_status": "Κατάσταση",
+  "aff_report_description_click": "Στατιστικό γράφημα των κλικ σε συνδέσμους συνεργατών, των συνολικών παραγγελιών που ελήφθησαν και των εσόδων",
+  "aff_report_description_customer": "Στατιστικό διάγραμμα πληροφοριών πελατών",
+  "aff_report_description_commission": "Στατιστικό διάγραμμα προμηθειών",
+  "aff_link": "Σύνδεσμος:",
+  "aff_link_copied": "Ο σύνδεσμος αντιγράφηκε",
+  "aff_link_path": "Σύνδεσμος συνεργατών",
+  "aff_link_paste_here": "Επικολλήστε τον σύνδεσμο σας εδώ",
+  "aff_flight_commission_itinerary": "Δρομολόγιο",
+  "aff_flight_commission_itinerary_domestic": "Οικιακός",
+  "aff_flight_commission_itinerary_international": "Διεθνές",
+  "aff_flight_commission_itinerary_unknown": "Άγνωστο δρομολόγιο",
+  "aff_flight_commission_seat_class": "Κατηγορία καθισμάτων",
+  "aff_flight_commission_seat_class_plus": "Συν",
+  "aff_flight_commission_seat_class_business": "Επιχείρηση",
+  "aff_flight_commission_seat_class_unknown": "Άγνωστη κατηγορία καθισμάτων",
+  "aff_flight_ticket": "Εισιτήριο πτήσης",
+  "aff_flight_all_airlines": "Όλες οι αεροπορικές εταιρείες",
+  "aff_tooltip_flight_domestic": "Πτήσεις με προορισμούς και αναχωρήσεις εντός της επικράτειας του Βιετνάμ",
+  "aff_tooltip_seller": "Μπορείτε να χρησιμοποιήσετε αυτόν τον κωδικό για προσθήκη στο τέλος κάθε συνδέσμου μάρκετινγκ θυγατρικών. Η Hahalolo θα βεβαιώσει ότι είναι ο σύνδεσμός σας και οι προμήθειες ανταμοιβής όταν υπάρχουν έγκυρες παραγγελίες που προκύπτουν από αυτόν τον σύνδεσμο.",
+  "aff_commission": "Επιτροπή",
+  "aff_commission_by_country": "Προμήθειες ξενοδοχείων ανά χώρα",
+  "aff_commission_flight_list": "Προμήθειες ξενοδοχείων ανά χώρα",
+  "aff_commission_max": "Ανώτατη Επιτροπή:",
+  "aff_commission_of_product": "Οι προμήθειες του {order}",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Κωδικός παραγγελίας",
+  "aff_order_total": "Σύνολο παραγγελιών",
+  "aff_order_tooltip_click": "Ο αριθμός των φορών που οι χρήστες κάνουν κλικ στον σύνδεσμο συνεργάτη σας.",
+  "aff_order_conversion_rate": "Συναλλαγματική ισοτιμία",
+  "aff_order_tooltip_conversion_rate": "Ένα μέτρο για να αναλύσετε την απόδοση της προώθησης του προϊόντος σας.",
+  "aff_order_product_total": "Σύνολο προϊόντων",
+  "aff_order_click_total": "Συνολικά κλικ",
+  "aff_order_earnings_total": "Συνολικες αποδοχες",
+  "aff_order_id_unknown": "Άγνωστος κωδικός παραγγελίας",
+  "aff_order_added": "προστέθηκε στον λογαριασμό πληρωμών",
+  "aff_order_type_waiting": "Επεξεργασία",
+  "aff_order_type_pending": "εκκρεμής",
+  "aff_order_type_available": "Διαθέσιμος",
+  "aff_order_type_cancel": "Ακυρώθηκε",
+  "aff_ordered_total": "Σύνολο παραγγελθέντων προϊόντων",
+  "aff_order_receive_commission": "Συνολικές παραγγελίες που ελήφθησαν προμήθειες",
+  "aff_verify_do_not_have_account": "ΔΕΝ\n ΕΧΕΤΕ ΑΚΟΜΑ ΛΟΓΑΡΙΑΣΜΟ ΠΛΗΡΩΜΗΣ",
+  "aff_guild": "Οδηγίες",
+  "aff_seller_code": "Κωδικός πωλητή: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Κωδικός πωλητή",
+  "aff_view_detail": "Δείτε λεπτομέρειες",
+  "aff_notification_turn_off_link_1": "Η λειτουργία μάρκετινγκ θυγατρικών του\n",
+  "aff_notification_turn_off_link_2": "είναι απενεργοποιημένο, πράγμα που σημαίνει ότι οι σύνδεσμοι συνεργατών που μοιραστήκατε θα είναι άκυροι!",
+  "aff_notification_turn_on_link_success": "Η λειτουργία μάρκετινγκ συνεργατών για το {type} ενεργοποιήθηκε με επιτυχία",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Προμήθειες πτήσεων",
+  "aff_commission_list_hotel": "Προμήθειες ξενοδοχείων ανά χώρα",
+  "aff_tooltip_menu": "Άνοιγμα μενού",
+  "aff_tooltip_dash_board": "Γρήγορη πρόσβαση στο ταμπλό",
+  "aff_tooltip_guild": "Αναδιπλώστε για οδηγίες",
+  "aff_action_done": "Ολοκληρώθηκε",
+  "aff_check_user_failed": "Δεν είναι δυνατός ο έλεγχος του χρήστη. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "aff_something_went_wrong": "Κάτι πήγε στραβά.",
+  "aff_page_not_found": "Η σελίδα δεν βρέθηκε.",
+  "aff_and": "και",
+  "aff_month_summary": "Περίληψη αυτού του μήνα",
+  "aff_see_more": "Δείτε περισσότερα",
+  "aff_try_again": "Προσπάθησε ξανά",
+  "aff_error_try_again": "Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "aff_tooltip_flight_international": "Πτήσεις με αναχωρήσεις ή αφίξεις εκτός της επικράτειας του Βιετνάμ.",
+  "aff_area_code": "Κωδικός τηλεφώνου",
+  "aff_phone_number": "Τηλεφωνικό νούμερο",
+  "aff_validate_sms_required": "Εισαγάγετε τον κωδικό επαλήθευσης",
+  "aff_validate_sms_min_length": "Εισαγάγετε τον πλήρη κωδικό επαλήθευσης",
+  "aff_welcome": "καλως ΗΡΘΑΤΕ",
+  "aff_verify_update": "Ενημέρωση λογαριασμού πληρωμών",
+  "aff_verify_create_account": "Δημιουργία λογαριασμού πληρωμής",
+  "aff_verify_invalid_wallet": "Ενημέρωση λογαριασμού πληρωμών",
+  "aff_verify_do_not_have_account_subtitle": "Δημιουργήστε έναν λογαριασμό πληρωμής για να χρησιμοποιήσετε τη λειτουργία πωλήσεων στο Hahalolo!",
+  "aff_verify_invalid_wallet_subtitle": "Ενημερώστε τον αριθμό τηλεφώνου σας στον λογαριασμό πληρωμών σας για να μπορείτε να συνεχίσετε να χρησιμοποιείτε τις υπηρεσίες στο Hahalolo",
+  "aff_guild_1": "Τώρα μπορείτε να ενεργοποιήσετε γρήγορα τη λειτουργία μάρκετινγκ συνεργατών κάνοντας κλικ",
+  "aff_guild_2": "στην ενότητα Ξενοδοχείο/Πτήση",
+  "aff_guild_3": "Αφού ενεργοποιήσετε το μάρκετινγκ συνεργατών, μπορείτε να προωθήσετε τα προϊόντα σας μέσω:",
+  "aff_guild_4": "Ο σύνδεσμος που έχει οριστεί από προεπιλογή από το Hahalolo in",
+  "aff_guild_5": "Οποιοσδήποτε σύνδεσμος που σχετίζεται με την ενότητα της οποίας το μάρκετινγκ θυγατρικών είναι ενεργοποιημένο, υπό την προϋπόθεση ότι ο κωδικός πωλητή σας επισυνάπτεται στον αντίστοιχο σύνδεσμο του προϊόντος.",
+  "aff_seller": "Πωλητής",
+  "aff_menu": "Κατηγορία",
+  "aff_dash_chart_title": "Στατιστικό γράφημα των κερδών και των κλικ σας για αυτόν τον μήνα",
+  "aff_dash_click": "Κλικ",
+  "aff_dash_commission": "Κέρδη",
+  "aff_flight_commission_detail_customer_way": "/ επιβάτης / τμήμα",
+  "aff_flight_commission_detail_order_total": "/ συνολικές παραγγελίες",
+  "aff_performance_chart_title": "Στατιστικό γράφημα των κλικ σε συνδέσμους συνεργατών, των συνολικών παραγγελιών που ελήφθησαν προμήθεια και των εσόδων",
+  "aff_customer_chart_title": "Στατιστικό διάγραμμα πληροφοριών πελατών",
+  "aff_payment_chart_title": "Στατιστικό διάγραμμα προμηθειών",
+  "aff_action_exit": "Εξοδος",
+  "aff_action_update": "εκσυγχρονίζω",
+  "aff_action_create": "δημιουργώ",
+  "aff_dialog_check_invalid_user": "{action} τον λογαριασμό πληρωμών σας για να μπορείτε να χρησιμοποιείτε υπηρεσίες μάρκετινγκ συνεργατών στο Hahalolo",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Ημερομηνία",
+  "aff_action_register": "κανω ΕΓΓΡΑΦΗ",
+  "aff_otp_time_left": "Απομένουν {number} φορές",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "ΔΗΜΙΟΥΡΓΙΑ ΛΟΓΑΡΙΑΣΜΟΥ ΠΛΗΡΩΜΗΣ",
+  "wallet_create_payment_subtitle": "Η δημιουργία λογαριασμού πληρωμών καθορίζεται ως ο κύριος λογαριασμός πληρωμής, συμπεριλαμβανομένης της λήψης χρημάτων, της ανάληψης και της πληρωμής μετά την εκχώρηση.",
+  "wallet_verify_otp_title": "Εισάγετε τον κωδικό επιβεβαίωσης",
+  "wallet_verify_otp_subtitle": "Έχουμε στείλει έναν κωδικό επιβεβαίωσης στο {phone}. \nΕισαγάγετε τον κωδικό που λάβατε για να ολοκληρώσετε αυτό το βήμα.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Λογαριασμός πληρωμής",
+  "wallet_start_subtitle": "Ο λογαριασμός πληρωμής Hahalolo είναι μια λύση πληρωμής στο Hahalolo που σας βοηθά να έχετε ενδιαφέρουσες και βολικές εμπειρίες μαζί μας.",
+  "wallet_label_choose_business": "Επιλέξτε επιχείρηση",
+  "wallet_label_account_name": "Ονομα λογαριασμού",
+  "wallet_label_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "wallet_label_phone": "Τηλεφωνικό νούμερο",
+  "wallet_label_choose_currency": "Επιλέξτε νόμισμα",
+  "wallet_label_payment_country": "Χώρα πληρωμής",
+  "wallet_label_payment_method": "Μέθοδος πληρωμής",
+  "wallet_label_card_holder_name": "Όνομα κατόχου κάρτας (χωρίς ηχητικά σημάδια)",
+  "wallet_label_card_bank_name": "όνομα τράπεζας",
+  "wallet_label_card_swift_code": "Κωδικός SWIFT",
+  "wallet_label_bank_account_number": "αριθμός τραπεζικού λογαριασμού",
+  "wallet_label_account_type": "Τύπος Λογαριασμού",
+  "wallet_label_tax_code": "Φορολογικός κώδικας",
+  "wallet_label_tax_type": "Είδος φόρου",
+  "wallet_label_address": "Διεύθυνση",
+  "wallet_label_address_2": "Διεύθυνση 2 (προαιρετικό)",
+  "wallet_label_country": "Χώρα",
+  "wallet_label_city": "Επαρχία/Πόλη",
+  "wallet_label_district": "Περιοχή",
+  "wallet_label_first_name": "Επίθετο",
+  "wallet_label_last_name": "Ονομα",
+  "wallet_label_middle_name": "Μεσαίο όνομα (προαιρετικό)",
+  "wallet_label_postal_code": "Ταχυδρομικός Κώδικας",
+  "wallet_label_city_more_description": "Πολιτεία/Επαρχία/Περιοχή",
+  "wallet_label_postal_code_more_description": "Zip/Ταχυδρομικός κώδικας",
+  "wallet_label_district_more_description": "Πόλη/Πόλη",
+  "wallet_label_birthday_18_years_old": "Ημερομηνία γέννησης (τουλάχιστον 18 ετών)",
+  "wallet_label_date_of_birth": "Ημερομηνια γεννησης",
+  "wallet_label_enter_password": "Εισάγετε τον κωδικό σας",
+  "wallet_label_password": "Κωδικός πρόσβασης",
+  "wallet_label_enter_pin": "Εισαγάγετε το PIN",
+  "wallet_label_re_enter_new_pin": "Εισαγάγετε ξανά το νέο PIN",
+  "wallet_label_enter_new_pin": "Εισαγάγετε νέο PIN",
+  "wallet_label_enter_current_pin": "Εισαγάγετε το παλιό PIN",
+  "wallet_validate_pin_required": "Εισαγάγετε το PIN σας",
+  "wallet_validate_otp_required": "Εισαγάγετε τον κωδικό επαλήθευσης",
+  "wallet_validate_current_pin_required": "Εισαγάγετε το παλιό σας PIN",
+  "wallet_validate_new_pin_required": "Εισαγάγετε το νέο σας PIN.",
+  "wallet_validate_re_enter_new_pin_required": "Εισαγάγετε ξανά το νέο σας PIN.",
+  "wallet_validate_re_enter_new_pin_not_match": "Το PIN επιβεβαίωσης δεν ταιριάζει",
+  "wallet_action_detail": "Λεπτομέριες",
+  "wallet_text_pick_date": "Επιλέξτε μια ημερομηνία",
+  "wallet_text_email_address": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "wallet_text_message_to": "Αποστολή μηνύματος σε",
+  "wallet_text_recovery_method": "Μέθοδος ανάκτησης",
+  "wallet_text_recovery_choose_method": "Επιλέξτε πώς θα λάβετε τον κωδικό ανάκτησης",
+  "wallet_text_change_pin": "Αλλάξτε το PIN σας",
+  "wallet_text_forgot_pin": "Ξεχάσατε το PIN;",
+  "wallet_text_show_pin": "Εμφάνιση PIN",
+  "wallet_text_please_try_again_in": "Παρακαλώ προσπαθήστε ξανά αργότερα:",
+  "wallet_text_remove_account": "Διαγραφή λογαριασμού πληρωμής",
+  "wallet_text_ineligible_payment": "Δεν είναι κατάλληλο για συναλλαγή",
+  "wallet_text_ineligible_payment_description": "Δεν θα μπορείτε να πραγματοποιήσετε συναλλαγές από το σύστημα έως ότου ο διαχειριστής μας αποδεχτεί τα στοιχεία του λογαριασμού πληρωμών σας. Ενημερώστε τα στοιχεία του λογαριασμού πληρωμών σας.",
+  "wallet_text_address_2": "Διεύθυνση 2",
+  "wallet_text_new_account": "Δημιουργία λογαριασμού πληρωμών",
+  "wallet_text_payout_account_detail": "Στοιχεία λογαριασμού πληρωμής",
+  "wallet_text_middle_name": "Μεσαίο όνομα",
+  "wallet_text_account_owner": "Κάτοχος λογαριασμού",
+  "wallet_text_tax_form": "Φορολογικό έντυπο",
+  "wallet_text_tax_form_subtitle": "Με βάση τα στοιχεία που παρείχατε, δεν χρειάζεται να ανεβάσετε πρόσθετα φορολογικά έντυπα. Κάντε κλικ στο Continue για να προχωρήσετε στο επόμενο βήμα.",
+  "wallet_text_card_holder_name": "Ονομα ιδιοκτήτη κάρτας",
+  "wallet_text_otp_code_expire_in": "Ο κωδικός θα λήξει σε:",
+  "wallet_text_account_information": "Πληροφορίες λογαριασμού",
+  "wallet_text_welcome": "Γεια!",
+  "wallet_text_payment_information": "Πληροφορίες Πληρωμής",
+  "wallet_text_policies_confirm": "Συμφωνώ με τις {termsAndPolicies}",
+  "wallet_terms_and_policies": "Όροι και πολιτικές Hahalolo.",
+  "wallet_text_default": "Προκαθορισμένο",
+  "wallet_text_code_vie_sms": "Αποστολή κωδικού μέσω SMS",
+  "wallet_text_pin_code_recovery_description": "Χρησιμοποιήστε το email σας για να επαληθεύσετε εάν ξεχάσατε το PIN σας.",
+  "wallet_text_sms_recovery_description": "Χρησιμοποιήστε τον αριθμό τηλεφώνου σας για να επαληθεύσετε εάν ξεχάσατε το PIN σας.",
+  "wallet_text_authority": "Συμφωνώ να επιτρέψω στη Hahalolo να χρησιμοποιήσει τα στοιχεία του λογαριασμού μου για να προχωρήσει στη μεταφορά χρημάτων.",
+  "wallet_text_district_three_dot": "Περιοχή...",
+  "wallet_text_set_up_pin": "Ρυθμίστε ένα PIN",
+  "wallet_text_established": "(Καθιερωμένος)",
+  "wallet_text_not_have_pin_yet_title": "Δεν έχετε PIN",
+  "wallet_text_not_have_pin_yet_subtitle": "Δημιουργήστε ένα PIN για να χρησιμοποιήσετε αυτήν τη λειτουργία",
+  "wallet_text_security_pin_code_description": "Απαιτείται ένα PIN λογαριασμού πληρωμής Hahalolo για την προστασία του λογαριασμού και των οικονομικών σας πληροφοριών. Επιπλέον, δεν χρειάζεται να εισαγάγετε ξανά τα στοιχεία της κάρτας όταν συνδέεστε ξανά.",
+  "wallet_text_check_password_locked": "Η λειτουργία ελέγχου κωδικού πρόσβασης είναι προσωρινά κλειδωμένη. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_text_enter_password_description": "Πρέπει να εισαγάγετε τον κωδικό πρόσβασης του λογαριασμού Hahalolo για να επιβεβαιώσετε την αλλαγή.",
+  "wallet_text_enter_sms_code": "Εισάγετε τον κωδικό επιβεβαίωσης",
+  "wallet_text_send_sms_description_1": "Έχουμε στείλει έναν κωδικό επιβεβαίωσης στο",
+  "wallet_text_send_sms_description_2": "\nΕισαγάγετε τον κωδικό που λάβατε για να ολοκληρώσετε αυτό το βήμα.",
+  "wallet_text_resend": "Εκ νέου αποστολή",
+  "wallet_text_no_data": "Δεν υπάρχουν διαθέσιμα δεδομένα αυτήν τη στιγμή!",
+  "wallet_text_bank_transfer": "τραπεζική μεταφορά",
+  "wallet_text_tax_ptin": "Προπαρασκευαστής Αριθμός Φορολογικού Μητρώου",
+  "wallet_text_tax_atin": "Αριθμός Ταυτότητας Φορολογούμενου Υιοθεσίας",
+  "wallet_text_tax_ssn": "Αριθμός κοινωνικής ασφάλισης",
+  "wallet_text_account_personal": "ΠΡΟΣΩΠΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ",
+  "wallet_text_account_business": "Επαγγελματικός λογαριασμός",
+  "wallet_text_country_code_and": "κωδικός χώρας και",
+  "wallet_text_resend_time": "Εκ νέου αποστολή {time}",
+  "wallet_text_change_your": "Αλλάξτε το {text} σας",
+  "wallet_start_person_button": "{action} προσωπικός λογαριασμός πληρωμής",
+  "wallet_start_business_button": "λογαριασμός πληρωμών επιχείρησης {action}",
+  "wallet_text_recovery_subtitle_1": "Το τρέχον {text} σας είναι\n{value}",
+  "wallet_text_recovery_subtitle_2": "Εισαγάγετε νέο {extra_text}{text}",
+  "wallet_text_enter_new": "Εισαγάγετε νέο {title}",
+  "wallet_text_new": "νέος {title}",
+  "wallet_succ_setup_pin": "Το PIN ρυθμίστηκε με επιτυχία.",
+  "wallet_succ_setup_pin_content": "Ρυθμίσατε με επιτυχία το PIN σας.",
+  "wallet_succ_change_pin": "Το PIN άλλαξε με επιτυχία",
+  "wallet_succ_change_pin_content": "Αλλάξατε επιτυχώς το PIN σας",
+  "wallet_succ_change_information": "Οι πληροφορίες ενημερώθηκαν και επαληθεύτηκαν με επιτυχία",
+  "wallet_war_remove_payout_account": "Είστε βέβαιοι ότι θέλετε να διαγράψετε οριστικά αυτόν τον λογαριασμό;",
+  "wallet_war_create_payment_title": "Δημιουργία λογαριασμού πληρωμών",
+  "wallet_war_create_payment_subtitle": "Δημιουργήστε έναν επαγγελματικό λογαριασμό πριν δημιουργήσετε έναν λογαριασμό πληρωμών.",
+  "wallet_war_unsaved_information": "Οι πληροφορίες που έχετε επεξεργαστεί ενδέχεται να μην αποθηκευτούν. Θέλετε να βγείτε;",
+  "wallet_err_recovery": "Η ανάκτηση απέτυχε. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_recovery_no_user_data": "Η ανάκτηση απέτυχε. Δεν βρέθηκαν πληροφορίες χρήστη.",
+  "wallet_err_recovery_phone_exists": "Η ανάκτηση απέτυχε. Αυτός ο αριθμός τηλεφώνου υπάρχει ήδη.",
+  "wallet_err_recovery_phone_invalid": "Η ανάκτηση απέτυχε. Ο αριθμός τηλεφώνου δεν είναι έγκυρος.",
+  "wallet_err_recovery_password_invalid": "Η ανάκτηση απέτυχε. Ο κωδικός πρόσβασής σας είναι λάθος.",
+  "wallet_err_pin_existed": "Το PIN υπάρχει ήδη.",
+  "wallet_err_pin_wallet_not_exist": "Λογαριασμός πληρωμής δεν υπάρχει",
+  "wallet_err_pin_incorrect_or_exists": "Το PIN είναι λανθασμένο ή δεν υπάρχει",
+  "wallet_err_pin_try_again": "Η ρύθμιση του PIN απέτυχε. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_set_payout_default": "Αποτυχία επιλογής προεπιλεγμένου λογαριασμού πληρωμών. Παρακαλώ προσπαθήστε ξανά αργότερα!",
+  "wallet_err_occurred_try_again": "Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_send_verify_title": "Αποτυχία αποστολής κωδικού επαλήθευσης",
+  "wallet_err_try_again": "Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_create_payout_title": "Η δημιουργία λογαριασμού πληρωμών απέτυχε. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_fetch_data_failed": "Αποτυχία φόρτωσης δεδομένων. Παρακαλώ προσπαθήστε ξανά αργότερα!",
+  "wallet_err_occurred_processing": "Παρουσιάστηκε σφάλμα κατά την επεξεργασία. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_remove_payout": "Αποτυχία διαγραφής λογαριασμού. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_err_change_pin": "Η αλλαγή του PIN απέτυχε",
+  "wallet_err_setup_pin": "Η ρύθμιση του PIN απέτυχε",
+  "wallet_err_sms_code_expired": "Ο κωδικός επαλήθευσης έχει λήξει. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "wallet_err_sms_code_incorrect": "Ο κωδικός επαλήθευσης είναι λανθασμένος. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "wallet_create_payout_title": "Δημιουργία λογαριασμού πληρωμών",
+  "wallet_action_continue": "Να συνεχίσει",
+  "wallet_action_create": "Δημιουργώ",
+  "wallet_action_update": "Εκσυγχρονίζω",
+  "wallet_action_ok": "Συμφωνώ",
+  "wallet_action_complete": "Πλήρης",
+  "wallet_action_next": "Να συνεχίσει",
+  "wallet_action_try_back": "Πήγαινε πίσω",
+  "wallet_action_try_again": "Προσπάθησε ξανά",
+  "wallet_action_accept": "Αποδέχομαι",
+  "wallet_action_remove": "Διαγράφω",
+  "wallet_action_change": "Αλλαγή",
+  "wallet_action_setup": "Στήνω",
+  "wallet_action_confirm": "Επιβεβαιώνω",
+  "wallet_action_cancel": "Ματαίωση",
+  "wallet_action_close": "Κλείσε",
+  "wallet_overview": "ΣΦΑΙΡΙΚΗ ΕΙΚΟΝΑ",
+  "wallet_notification": "Ειδοποιήσεις",
+  "wallet_transaction_history": "Ιστορικό συναλλαγών",
+  "wallet_transfer_point": "Σημεία μεταφοράς",
+  "wallet_payout_accounts": "Λογαριασμός πληρωμής",
+  "wallet_security": "Ασφάλεια",
+  "wallet_recovery_methods": "Μέθοδος ανάκτησης",
+  "wallet_help_center": "Κέντρο βοηθείας",
+  "wallet_view_profile": "Προβολή πληροφοριών",
+  "wallet_info_title": "Πληροφορίες λογαριασμού πληρωμών",
+  "wallet_edit_identity_card": "ID κάρτα",
+  "wallet_edit_id_card": "ID κάρτα",
+  "wallet_edit_passport": "Διαβατήριο",
+  "wallet_edit_verify_status": "Κατάσταση",
+  "wallet_edit_not_verify": "Ανεπιβεβαίωτος",
+  "wallet_edit_verified": "Επαληθεύτηκε",
+  "wallet_edit_verify_waiting": "εκκρεμής",
+  "wallet_edit_gender": "Γένος",
+  "wallet_edit_male": "Αρσενικός",
+  "wallet_edit_female": "Θηλυκός",
+  "wallet_edit_other": "Αλλα",
+  "wallet_owner_title": "Πληροφορίες χρήστη",
+  "wallet_edit_fullName": "Πλήρες όνομα",
+  "wallet_edit_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "wallet_edit_phoneNumber": "Τηλεφωνικό νούμερο",
+  "wallet_edit_dateOfBirth": "Ημερομηνια γεννησης",
+  "wallet_edit_dateOfBirth_13_yo": "Ημερομηνία γέννησης (τουλάχιστον 13 ετών)",
+  "wallet_edit_address": "Διεύθυνση",
+  "wallet_edit_country": "Χώρα",
+  "wallet_edit_idType": "Τύπος αναγνώρισης",
+  "wallet_edit_id_passport": "Αριθμός ID/Διαβατήριο",
+  "wallet_edit_country_issue": "Χώρα έκδοσης",
+  "wallet_edit_id_document": "Εικόνες της κάρτας ID/Διαβατήριο",
+  "wallet_edit_front": "Μπροστινή πλευρά",
+  "wallet_edit_back": "Πίσω πλευρά",
+  "wallet_edit_activate_date": "Ημερομηνία ισχύος",
+  "wallet_edit_expiration_date": "Ημερομηνία λήξης",
+  "wallet_waiting_balance": "Υπόλοιπο σε εκκρεμότητα",
+  "wallet_pending_balance": "Ισορροπία σε διαδικασία",
+  "wallet_available_balance": "Διαθέσιμο υπόλοιπο",
+  "wallet_frozen_balance": "Παγωμένη ισορροπία",
+  "wallet_top10_trans": "Οι τελευταίες 10 συναλλαγές",
+  "wallet_source_withdrawal": "Απόσυρση",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Χρήματα μέσα",
+  "wallet_source_outcome": "Λεφτά έξω",
+  "wallet_source_point": "Πόντοι",
+  "wallet_source_aff_commission": "Συνεργάτης - Επιτροπή",
+  "wallet_source_aff_reward": "Affiliate - Πρόγραμμα επιβράβευσης",
+  "wallet_source_recharge": "Ξεχειλίζω",
+  "wallet_source_order": "Σειρά",
+  "wallet_status_waiting": "εκκρεμής",
+  "wallet_status_pending": "Εκκρεμεί έγκριση",
+  "wallet_status_available": "Διαθέσιμος",
+  "wallet_status_frozen": "Παγωμένος",
+  "wallet_status_cancel": "Ακυρώθηκε",
+  "wallet_status_success": "Επιτυχής",
+  "wallet_status_error": "Απέτυχε",
+  "wallet_status_outcome": "Λεφτά έξω",
+  "wallet_status_transfer": "Σημεία μεταφοράς",
+  "wallet_action_receive": "Λάβετε πόντους",
+  "wallet_action_donate": "Δώστε βαθμούς",
+  "wallet_action_buy_point": "Αγοράστε πόντους",
+  "wallet_action_payment": "Πληρωμή",
+  "wallet_filter_all": "Ολα",
+  "wallet_filter_allTime": "Ολα",
+  "wallet_filter_today": "Σήμερα",
+  "wallet_filter_yesterday": "Εχθές",
+  "wallet_filter_7days": "Τελευταίες 7 μέρες",
+  "wallet_filter_30days": "Τελευταίες 30 ημέρες",
+  "wallet_filter_custom_date": "Προαιρετική ημερομηνία",
+  "wallet_filter_status": "Κατάσταση",
+  "wallet_filter_time": "χρόνος",
+  "wallet_filter_action": "Δράση",
+  "wallet_validate_this_field": "Αυτό το πεδίο",
+  "wallet_validate_required": "Το {fieldName} απαιτείται",
+  "wallet_validate_invalid_email": "Ακυρη διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "wallet_validate_invalid_phone_number": "Μη έγκυρος αριθμός τηλεφώνου",
+  "wallet_validate_invalid_number": "Μη έγκυρος αριθμός",
+  "wallet_validate_limit_length": "Το {fieldName} πρέπει να αποτελείται από τουλάχιστον {minLength} χαρακτήρες",
+  "wallet_validate_not_contain_number": "Το {fieldName} δεν πρέπει να περιέχει αριθμητικούς χαρακτήρες",
+  "wallet_validate_not_contain_special_char": "Το {fieldName} δεν πρέπει να περιέχει ειδικούς χαρακτήρες",
+  "wallet_validate_invalid_swift_code_length": "Ο κωδικός Swift αποτελείται μόνο από 8 έως 11 χαρακτήρες",
+  "wallet_validate_invalid_swift_code": "Μη έγκυρος κωδικός swift",
+  "wallet_no_transaction": "Χωρίς συναλλαγές!",
+  "wallet_no_image": "Δεν υπάρχουν ακόμα φωτογραφίες",
+  "wallet_edit_quit_msg": "Οι πληροφορίες που έχετε επεξεργαστεί ενδέχεται να μην αποθηκευτούν. Θέλετε να βγείτε;",
+  "wallet_point_total": "Σύνολο:",
+  "wallet_payment_methods": "Μέθοδος πληρωμής",
+  "wallet_payment_methods_note": "(Σημείωση: Η '{HAHALOLO}' θα υποστηρίζει τους χρήστες με τραπεζικές χρεώσεις '{MIỄN PHÍ}')",
+  "wallet_num_of_points": "Αριθμός πόντων",
+  "wallet_points": "{number} πόντους",
+  "wallet_1point": "1 βαθμός",
+  "wallet_msg_enter_number_of_points": "Εισαγάγετε τον αριθμό των πόντων που θέλετε να αγοράσετε",
+  "wallet_msg_pin_not_correct": "Το PIN είναι λανθασμένο ή δεν υπάρχει",
+  "wallet_msg_balance_not_enough": "Ανεπαρκής ισορροπία",
+  "wallet_msg_error_while_buy_point": "Παρουσιάστηκε σφάλμα κατά την αγορά πόντων",
+  "wallet_msg_fetch_error": "Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_msg_buy_point_success": "Έχετε αγοράσει πόντους με επιτυχία",
+  "wallet_withdrawal_req": "Αίτημα απόσυρσης:",
+  "wallet_withdrawal_payment_acc_id": "Λογαριασμός πληρωμής ID:",
+  "wallet_withdrawal_balance": "Διαθέσιμο υπόλοιπο:",
+  "wallet_withdrawal_payout_acc": "λογαριασμός πληρωμής",
+  "wallet_withdrawal_amount": "Ποσό ({currency})",
+  "wallet_label_desc": "Περιγραφή",
+  "wallet_btn_save": "Αποθηκεύσετε",
+  "wallet_btn_edit_owner": "Επεξεργασία",
+  "wallet_btn_buy": "Αγορά",
+  "wallet_btn_reset": "Εισέρχομαι πάλι",
+  "wallet_insufficient_available_balances": "Μη επαρκές διαθέσιμο υπόλοιπο",
+  "wallet_msg_complete_info": "Συμπληρώστε τις πληροφορίες",
+  "wallet_msg_success": "Έχετε αποσυρθεί με επιτυχία",
+  "wallet_msg_wal_not_exist": "Λογαριασμός πληρωμής δεν υπάρχει",
+  "wallet_msg_wal_blocked": "Αποκλείστηκε ο λογαριασμός πληρωμής",
+  "wallet_msg_acc_incorrect": "Λανθασμένος λογαριασμός πληρωμής",
+  "wallet_msg_total_not_available": "Το συνολικό ποσό που ζητήθηκε δεν είναι διαθέσιμο",
+  "wallet_msg_pin_locked": "Το PIN του λογαριασμού πληρωμής είναι κλειδωμένο",
+  "wallet_msg_withdrawal_failed": "Η απόσυρση απέτυχε. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "wallet_msg_fill_in_all_info": "Συμπληρώστε τις πληροφορίες",
+  "wallet_update_info_success": "Ενημερώσατε με επιτυχία τις πληροφορίες",
+  "wallet_update_info_fail": "Αποτυχία ενημέρωσης πληροφοριών",
+  "wallet_no_notifications": "Δεν έχετε ειδοποιήσεις",
+  "wallet_buy_point_payment_method_note": "(Σημείωση: Το '{hahalo}' θα υποστηρίζει τους χρήστες με '{free}' τραπεζικές χρεώσεις)",
+  "wallet_note_free": "ΕΛΕΥΘΕΡΟΣ",
+  "wallet_buy_point_policy": "Συμφωνώ με {condition} και {privacy}",
+  "wallet_term_conditions": "Οροι και Προϋποθέσεις",
+  "wallet_privacy": "Μυστικότητα",
+  "wallet_msg_receiving_account_not_exist": "Ο λογαριασμός πληρωμής του παραλήπτη δεν υπάρχει",
+  "wallet_msg_search_account_error": "Παρουσιάστηκε σφάλμα κατά την αναζήτηση λογαριασμού πληρωμής",
+  "wallet_msg_sending_account_not_exist": "Ο λογαριασμός πληρωμής του αποστολέα δεν υπάρχει",
+  "wallet_msg_point_balance_not_enough": "Το υπόλοιπο πόντων του λογαριασμού πληρωμών δεν επαρκεί",
+  "wallet_msg_cannot_give_to_itself": "Δεν μπορείτε να μεταφέρετε πόντους στον εαυτό σας",
+  "wallet_msg_cannot_give_to_business": "Ο λογαριασμός πληρωμών του παραλήπτη δεν μπορεί να είναι επαγγελματικός λογαριασμός",
+  "wallet_msg_transfer_point_err": "Παρουσιάστηκε σφάλμα κατά τη μεταφορά σημείων",
+  "wallet_msg_transfer_point_success": "Οι πόντοι μεταφέρθηκαν με επιτυχία",
+  "wallet_recipient_info": "Πληροφορίες παραλήπτη",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Αριθμός πόντων",
+  "wallet_not_verified": "Μη επαληθευμένος λογαριασμός πληρωμής",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} ώρα {minute} λεπτό",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 σταματά} other{{countStop} σταματά}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Χρόνος διέλευσης περίπου {time} μέσα {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Ενήλικες (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Παιδιά (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Μωρό (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} ενήλικες} other{{count} ενήλικες}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} παιδί} other{, {count} παιδιά}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} μωρό} other{, {count} μωρά}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Χρόνος διέλευσης περίπου {times} μέσα {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} ΚΙΛΟΓΡΑΜΜΑ} other{{countBag} ΚΙΛΟΓΡΑΜΜΑΤΑ}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Πτήση μονής κατεύθυνσης",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Πτήση αναχώρησης",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Πτήση επιστροφής",
+  "flight_fare_rule_title_fare_conditions": "Προϋποθέσεις ναύλων",
+  "flight_fare_rule_title_departure_flight": "Πτήση",
+  "flight_fare_rule_title_segment": "Τμήμα",
+  "flight_filter_by_title_filter": "Φίλτρο",
+  "flight_filter_by_content_btn_filter": "Φίλτρο",
+  "flight_filter_by_title_airline": "Αερογραμμή",
+  "flight_filter_by_title_flight_times": "Ωρα πτήσης",
+  "flight_filter_by_title_type_flight_times_early_morning": "Νωρίς το πρωί \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Πρωί \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Απόγευμα \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Βράδυ \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Αριθμός στάσεων",
+  "flight_filter_by_title_select_all": "Επιλογή όλων",
+  "flight_filter_by_title_unselect_all": "Καταργήστε την επιλογή όλων",
+  "flight_filter_by_title_type_segment_all": "Ολα",
+  "flight_filter_by_title_type_segment_direct": "Απευθείας πτήση",
+  "flight_filter_by_title_type_segment_transit": "Διαμετακόμιση",
+  "flight_sort_by_title_sort_by": "Ταξινόμηση κατά",
+  "flight_sort_by_title_sort_by_ascending_price": "Αύξουσα τιμή",
+  "flight_sort_by_title_sort_by_descending_price": "Φθίνουσα τιμή",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Πρωιμότερη ώρα αναχώρησης",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Η νωρίτερη ώρα άφιξης",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Τελευταία ώρα άφιξης",
+  "flight_search_result_title_count_adult": "ενήλικας",
+  "flight_search_result_title_count_child": "παιδί",
+  "flight_search_result_title_count_baby": "μωρό",
+  "flight_search_result_title_segment": "να σταματήσει",
+  "flight_search_result_title_hours": "ώρες",
+  "flight_search_result_title_minutes": "λεπτά",
+  "flight_search_result_title_view_detail_price": "Δείτε λεπτομέρειες",
+  "flight_search_result_title_hide_detail_price": "Κρύψε τις λεπτομέρειες",
+  "flight_search_result_title_view_detail": "Λεπτομέριες",
+  "flight_search_result_title_btn_book_ticket": "Βιβλίο",
+  "flight_search_result_title_basic_price_ticket": "Τιμή ανά εισιτήριο",
+  "flight_search_result_title_taxes_and_fee": "Φόροι & Τέλη",
+  "flight_search_result_title_total_amount": "Συνολικό ποσό",
+  "flight_search_result_title_total": "Σύνολο",
+  "flight_search_result_title_fare_details": "Λεπτομέρειες ναύλου",
+  "flight_search_result_title_quantity": "Ποσότητα",
+  "flight_search_result_title_passenger": "Επιβάτης",
+  "flight_search_result_title_one_way_flight": "Πτήση μονής κατεύθυνσης",
+  "flight_search_result_title_round_trip_flight": "Πτήση μετ'' επιστροφής",
+  "flight_change_search_title_btn_agree": "Συμφωνώ",
+  "flight_change_search_title_btn_cancel": "Ματαίωση",
+  "flight_change_search_title_header_dialog": "Αλλαγή αναζήτησης",
+  "flight_change_search_title_body_dialog": "Είστε βέβαιοι ότι θέλετε να αλλάξετε τις πληροφορίες αναζήτησής σας;",
+  "flight_change_search_title_footer_dialog": "Εάν συμφωνήσετε να αλλάξετε τις πληροφορίες αναζήτησής σας, όλα τα προηγούμενα δεδομένα θα διαγραφούν.",
+  "flight_search_result_detail_title_flight_details": "Λεπτομέρειες πτήσης",
+  "flight_search_result_detail_title_checked_baggage": "Ελεγμένες αποσκευές",
+  "flight_search_result_detail_title_aircraft": "Αεροσκάφος",
+  "flight_search_result_detail_title_seat_class": "Κατηγορία καθισμάτων",
+  "flight_search_result_detail_title_class_seat_type_all": "Ολα",
+  "flight_search_result_detail_title_class_seat_type_economy": "Οικονομία",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Πρώτα",
+  "flight_search_result_detail_title_class_seat_type_business": "Επιχείρηση",
+  "flight_search_result_detail_content_note_transit_body": "Σημείωση: Ενδέχεται να ζητηθεί από τους επιβάτες να πραγματοποιήσουν εκτελωνισμό και να υποβάλουν τη βίζα διέλευσης κατόπιν αιτήματος της χώρας υποδοχής.",
+  "flight_transit_alter_note": "Σημείωση: Ενδέχεται να ζητηθεί από τους επιβάτες να πραγματοποιήσουν εκτελωνισμό και να υποβάλουν τη βίζα διέλευσης κατόπιν αιτήματος της χώρας υποδοχής.",
+  "flight_luggage": "Αποσκευές",
+  "flight_signed_luggage": "Ελεγμένες αποσκευές",
+  "flight_service_package": "Πακέτα υπηρεσιών",
+  "flight_run_by": "Λειτουργεί από",
+  "flight_result_notice_no_flight_found": "Δεν βρέθηκαν πτήσεις!",
+  "flight_result_notice_no_flight_found_filter": "Λυπούμαστε, δεν υπάρχουν πτήσεις που να ανταποκρίνονται στα κριτήριά σας",
+  "flight_result_notice_check_internet_again": "Η σύνδεσή σας διακόπηκε. Ελέγξτε ξανά τη σύνδεση",
+  "flight_result_notice_error_authentication": "Η συνεδρία σύνδεσής σας έχει λήξει. Παρακαλούμε συνδεθείτε ξανά",
+  "flight_search_result_notice_booking_expired": "Η περίοδος κράτησης πρόκειται να λήξει",
+  "flight_search_result_notice_click_continue_to_proceed": "Κάντε κλικ στο \"Συνέχεια\" για να προχωρήσετε με την κράτηση.",
+  "flight_search_result_btn_continue": "Να συνεχίσει",
+  "flight_input_title_gender": "Γένος",
+  "flight_input_title_gender_male": "Αρσενικός",
+  "flight_input_title_gender_female": "Θηλυκός",
+  "flight_input_title_gender_other": "Αλλα",
+  "flight_search_price_info_bottom_sheet_tax_include": "Συμπεριλαμβανομένου του φόρου",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Συμπεριλαμβανομένης της αμοιβής",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Επιβάρυνση συστήματος και διαχειριστή",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Τέλος ελέγχου ασφαλείας",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Βολική προσαύξηση πληρωμής",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Τέλος αεροδρομίου",
+  "flight_fare_rule_notice_empty_fare_rule": "Οι όροι ναύλων από την αεροπορική εταιρεία δεν βρέθηκαν",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Ενήλικες",
+  "flight_v2_model_booking_children": "Παιδιά",
+  "flight_v2_model_booking_infant": "Βρέφος",
+  "flight_v2_model_detail_infant": "(κάτω των 2 ετών)",
+  "flight_v2_model_detail_children": "(από 02 - 12 ετών)",
+  "flight_v2_component_bonus_services_title_string": "Επιπρόσθετες υπηρεσίες",
+  "flight_v2_component_bonus_service_header": "Επιπρόσθετες υπηρεσίες",
+  "flight_v2_component_bonus_service_content_header_price": "Τέλη ασφάλισης",
+  "flight_v2_component_bonus_service_flight_table_header": "Συνολική αμοιβή ασφάλισης",
+  "flight_v2_component_bonus_service_text1_introduce": "Εισαγωγή",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Είδος ασφάλισης:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Ασφάλιση πτήσης",
+  "flight_v2_component_bonus_service_text1_supplier": "Προμηθευτής:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance Joint Stock Company (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "Θα είστε απόλυτα σίγουροι ταξιδεύοντας με την αξιόπιστη ταξιδιωτική μας ασφάλεια",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Αντικείμενο Ασφάλισης",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Τα άτομα χρησιμοποιούν την υπηρεσία κρατήσεων αεροπορικών εισιτηρίων στο σύστημα Hahalolo για να ταξιδέψουν αεροπορικώς.",
+  "flight_v2_component_bonus_service_text1_age": "Ηλικία: Από 07 ημερών.",
+  "flight_v2_component_bonus_service_text1_range": "Πεδίο εφαρμογής",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Η ασφαλιστική κάλυψη περιλαμβάνει τους ακόλουθους κινδύνους:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Θάνατος ή σωματική βλάβη που προκλήθηκε από ατύχημα.",
+  "flight_v2_component_bonus_service_text1_impediments": "Κίνδυνοι ταξιδιού, συγκεκριμένα ακύρωση/συντόμευση ταξιδιού, απώλεια ή ζημιά σε αποσκευές, ρούχα και προσωπικά αντικείμενα του Ασφαλισμένου, καθυστέρηση πτήσης αεροπορικής εταιρείας, καθυστερημένη αποσκευή, απώλεια ταξιδιωτικών εγγράφων ή αεροπειρατεία.",
+  "flight_v2_component_bonus_service_text1_benefit": "Οφέλη",
+  "flight_v2_component_bonus_service_text1_small_amount": "Ξοδέψτε μόνο ένα μικρό χρηματικό ποσό για πολλαπλή προστασία.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Παροχές προσωπικής ασφάλισης:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Ο ασφαλισμένος που πεθαίνει από ατύχημα ή τραυματισμό που καλύπτεται από την ασφάλιση θα λάβει ολόκληρο το ασφαλιστικό ποσό έως 1.000.000 VND",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Οφέλη ταξιδιωτικής ασφάλισης κινδύνου:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Ο ασφαλισμένος θα αποζημιωθεί μέχρι το ανώτατο όριο των 20.000.000 VND",
+  "flight_v2_component_bonus_service_text1_rules": "Οροι",
+  "flight_v2_component_bonus_service_text1_more_information": "Βρείτε περισσότερες λεπτομέρειες στο συνημμένο αρχείο ή επικοινωνήστε",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Κανόνες ταξιδιωτικής ασφάλισης",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Συμφωνήστε να συμμετάσχετε στην Ασφάλιση Πτήσεων",
+  "flight_v2_component_booking_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_component_booking_show": "Διαβάστε περισσότερα",
+  "flight_v2_component_booking_hide": "Κρύβω",
+  "flight_v2_component_booking_adult": "Ενήλικες",
+  "flight_v2_component_booking_children": "Παιδιά",
+  "flight_v2_component_booking_infant": "Μωρό",
+  "flight_v2_component_booking_baggage": "Αποσκευές",
+  "flight_v2_component_booking_main_content_service": "Υπηρεσίες",
+  "flight_v2_component_booking_taxes_fees": "Τέλη και φόροι",
+  "flight_v2_component_booking_title_booking_information": "Πληροφορίες κράτησης",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Πτήση αναχώρησης",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Πτήση επιστροφής",
+  "flight_v2_component_confirm_title_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_component_confirm_text_done": "Εγινε",
+  "flight_v2_component_detail_booking_information": "Πληροφορίες κρατήσεων",
+  "flight_v2_component_detail_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_component_detail_passenger_information": "Πληροφορίες επιβατών",
+  "flight_v2_component_payment_booking_information": "Πληροφορίες κράτησης",
+  "flight_v2_component_payment_information": "Πληροφορίες",
+  "flight_v2_component_payment_passenger_information": "Πληροφορίες επιβατών",
+  "flight_v2_component_payment_making_flight_payment": "Πραγματοποιείτε πληρωμή πτήσης για τους ακόλουθους επιβάτες:",
+  "flight_v2_component_payment_payment_now": "Πληρωμή",
+  "flight_v2_component_result_title_flight_details": "Λεπτομέρειες πτήσης",
+  "flight_v2_component_result_title_fare_details": "Λεπτομέρειες ναύλου",
+  "flight_v2_component_result_type_direct_flight": "Απευθείας πτήση",
+  "flight_v2_component_result_title_showMessDiaLog": "Ειδοποιήσεις",
+  "flight_v2_component_result_message_selected_return": "Έχετε επιλέξει την πτήση μετ'' επιστροφής στις",
+  "flight_v2_component_result_message_cancel_book": "Θέλετε να ακυρώσετε και να κλείσετε μια νέα πτήση;",
+  "flight_v2_component_result_actionMessage_yes": "Ναί",
+  "flight_v2_component_result_negativeMessage_no": "Οχι",
+  "flight_v2_component_result_trip_turn_departure": "Αναχώρηση",
+  "flight_v2_component_result_trip_turn_arrival": "Αφιξη",
+  "flight_v2_notify_day_invalid_cannot_choose": "Δεν μπορείτε να επιλέξετε",
+  "flight_v2_notify_day_invalid_because": "επειδή",
+  "flight_v2_notify_day_invalid_date_is": "είναι",
+  "flight_v2_component_result_actionMessage_btn": "Συμφωνώ",
+  "flight_v2_component_result_message": "Μην επιλέξετε ημερομηνίες πριν από την τρέχουσα ημερομηνία",
+  "flight_v2_component_search_text_guest": "Επιβάτης",
+  "flight_v2_component_search_button_save": "Σώσει",
+  "flight_v2_component_search_text_choose_a_date": "Επιλέξτε μια ημερομηνία",
+  "flight_v2_component_search_button_choose": "Επιλέγω",
+  "flight_v2_widget_booking_total_price": "Συνολικό ποσό",
+  "flight_v2_widget_booking_continue": "Να συνεχίσει",
+  "flight_v2_widget_booking_payer_information": "Πληροφορίες πληρωτή",
+  "flight_v2_widget_booking_payer_use_contact_information": "Χρησιμοποιήστε τα στοιχεία επικοινωνίας",
+  "flight_v2_widget_booking_save_payment": "Αποθηκεύστε αυτές τις πληροφορίες πληρωμής για την επόμενη φορά",
+  "flight_v2_widget_booking_title_contact_information": "Στοιχεία επικοινωνίας",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Χρησιμοποιήστε πληροφορίες τρέχοντος λογαριασμού",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Είμαι επιβάτης",
+  "flight_v2_widget_booking_radio_gender": "Γένος",
+  "flight_v2_widget_booking_radio_male": "Αρσενικός",
+  "flight_v2_widget_booking_radio_female": "Θηλυκός",
+  "flight_v2_widget_booking_field_card_bank_card": "κάρτα τράπεζας",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Ελεγμένες αποσκευές",
+  "flight_v2_widget_booking_title_passenger_information": "Πληροφορίες επιβατών",
+  "flight_v2_widget_booking_information": "πληροφορίες",
+  "flight_v2_widget_common_one_way": "Μονόδρομος",
+  "flight_v2_widget_common_details": "Λεπτομέριες",
+  "flight_v2_widget_common_text_price": "Τιμή",
+  "flight_v2_widget_common_text_fare_conditions": "Προϋποθέσεις ναύλων",
+  "flight_v2_widget_common_text_service_pack": "Πακέτα υπηρεσιών",
+  "flight_v2_widget_common_item_tax_inclusive": "Συμπεριλαμβανομένου του φόρου",
+  "flight_v2_widget_common_item_vat": "ΔΕΞΑΜΕΝΗ",
+  "flight_v2_widget_common_item_fee_inclusive": "Συμπεριλαμβανομένης της αμοιβής",
+  "flight_v2_widget_common_item_fee_surcharge": "Επιβάρυνση συστήματος και διαχειριστή",
+  "flight_v2_widget_common_item_fee_screening": "Επιβάρυνση ελέγχου ασφαλείας",
+  "flight_v2_widget_common_item_fee_convenient": "Βολική προσαύξηση πληρωμής",
+  "flight_v2_widget_common_item_fee_airport": "Τέλος αεροδρομίου",
+  "flight_v2_widget_common_text_price_per_ticket": "Βασικός ναύλος",
+  "flight_v2_widget_common_text_taxes_fees": "Φόροι και τέλη",
+  "flight_v2_widget_common_service_service": "Υπηρεσίες",
+  "flight_v2_widget_common_text_total_amount": "Συνολικό ποσό",
+  "flight_v2_widget_common_button_continue": "Να συνεχίσει",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(συμπεριλαμβάνονται φόροι και τέλη)",
+  "flight_v2_widget_common_service_accommodation_service": "Υπηρεσίες διαμονής",
+  "flight_v2_widget_common_text_direct_flight": "Απευθείας πτήση",
+  "flight_v2_widget_confirm_description": "Γένος",
+  "flight_v2_widget_confirm_description_full_name": "Πλήρες όνομα",
+  "flight_v2_widget_confirm_description_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "flight_v2_widget_confirm_description_phone_number": "Τηλεφωνικό νούμερο",
+  "address": "Διεύθυνση",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Επιτυχής κράτηση",
+  "flight_v2_widget_confirm_text_reservation_request": "Το αίτημα κράτησής σας πραγματοποιήθηκε με επιτυχία",
+  "flight_v2_widget_confirm_text_paid_already": "(Επί πληρωμή)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Μπορείτε να ελέγξετε τις λεπτομέρειες του δρομολογίου παρακάτω.",
+  "flight_v2_widget_confirm_title_payment_information": "Πληροφορίες Πληρωμής",
+  "flight_v2_widget_confirm_description_orders": "Παραγγελίες",
+  "flight_v2_widget_confirm_description_price": "Τιμή",
+  "flight_v2_widget_confirm_description_payers": "Πληρωτής",
+  "flight_v2_widget_confirm_button_view_details": "Δείτε λεπτομέρειες",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Βιβλίο νέο",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Σας ευχαριστούμε για την εμπιστοσύνη σας στην υπηρεσία μας",
+  "flight_v2_widget_confirm_textspan_question_help": "Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περαιτέρω βοήθεια, επικοινωνήστε με το Hahalolo Κέντρο βοήθειας",
+  "flight_v2_widget_confirm_text_paid_instructions": "για οδηγίες.",
+  "flight_v2_widget_confirm_title_passenger_information": "Πληροφορίες επιβατών",
+  "flight_v2_widget_confirm_title_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_widget_confirm_text_ticket_class": "Τάξη",
+  "flight_v2_widget_confirm_text_booking_code": "Αναφορά κράτησης",
+  "flight_v2_widget_confirm_text_flight": "Πτήση",
+  "flight_v2_widget_confirm_description_name": "Ονομα",
+  "flight_v2_widget_confirm_description_guest_type": "Τύπος επιβάτη",
+  "flight_v2_widget_confirm_description_baggage": "Αποσκευές",
+  "flight_v2_widget_dialog_config_button_agree": "Συμφωνώ",
+  "flight_v2_widget_dialog_config_button_deny": "Παραλείπω",
+  "flight_v2_widget_dialog_config_title": "Αλλαγή πληροφοριών",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Είστε βέβαιοι ότι θέλετε να αλλάξετε τις πληροφορίες αναζήτησής σας\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Εάν συμφωνήσετε να αλλάξετε τις πληροφορίες αναζήτησής σας, όλα τα προηγούμενα δεδομένα θα διαγραφούν",
+  "flight_v2_widget_dialog_config_title_delete_account": "Διαγραφή λογαριασμού",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Ο λογαριασμός δεν θα εμφανίζεται στην ενότητα Επιλογή λογαριασμού πληρωμής. Θέλετε να διαγράψετε αυτόν τον λογαριασμό πληρωμής; \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Επιλέξτε άλλη ώρα πτήσης",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Αλλαγή αναζήτησης",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Η πτήση υπερέβη τον επιτρεπόμενο χρόνο",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Η πτήση που επιλέξατε έχει υπερβεί τον επιτρεπόμενο χρόνο κράτησης.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Παρακαλώ επικοινωνήστε μαζί μας",
+  "flight_v2_widget_dialog_config_text_span_by_number": "μέσω",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Γραμμή επικοινωνίας",
+  "flight_v2_widget_dialog_config_text_span_or": "ή",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "αλλάξτε την αναζήτησή σας για μια νέα πτήση.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Επιλέξτε άλλη πτήση",
+  "flight_v2_widget_dialog_config_title_not_available": "Η πτήση δεν είναι\n διαθέσιμη",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Λυπούμαστε, η πτήση που επιλέξατε δεν είναι πλέον διαθέσιμη. Σας παρακαλούμε",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "επιλέξτε άλλη πτήση ή αλλάξτε την αναζήτησή σας.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Αλλαγές ναύλων",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Ο ναύλος σας άλλαξε από",
+  "flight_v2_widget_dialog_config_text_span_to": "προς την",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nλόγω αλλαγών ναύλων της αεροπορικής εταιρείας",
+  "flight_v2_widget_field_fname_required": "Το επώνυμο είναι υποχρεωτικό",
+  "flight_v2_widget_field_fname_invalid": "Μη έγκυρο επώνυμο",
+  "flight_v2_widget_field_fname_last_name": "Επώνυμο (Χωρίς τόνους)",
+  "flight_v2_widget_field_lname_required": "Απαιτείται Μέσος & Όνομα/Όνομα",
+  "flight_v2_widget_field_lname_invalid": "Μη έγκυρο μεσαίο και όνομα/όνομα",
+  "flight_v2_widget_field_lname_middle_first_name": "Μέσο & Όνομα/Ονοματεπώνυμο (Χωρίς ηχητικά σημάδια)",
+  "flight_v2_widget_field_email_required": "Απαιτείται email",
+  "flight_v2_widget_field_email_invalid": "Ακυρη διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "flight_v2_widget_field_email_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ",
+  "flight_v2_widget_field_phone_required": "Απαιτείται αριθμός τηλεφώνου",
+  "flight_v2_widget_field_phone_invalid": "Μη έγκυρος αριθμός τηλεφώνου",
+  "flight_v2_widget_field_phone_phone": "Τηλεφωνικό νούμερο",
+  "flight_v2_widget_field_address_required": "Απαιτείται διεύθυνση",
+  "flight_v2_widget_field_address_invalid": "Μη έγκυρη διεύθυνση",
+  "flight_v2_widget_field_address_address": "Διεύθυνση",
+  "flight_v2_widget_field_city_required": "Πολιτεία/Πόλη απαιτείται",
+  "flight_v2_widget_field_city_invalid": "Μη έγκυρη Πολιτεία/Πόλη",
+  "flight_v2_widget_field_city_city": "Πόλη κράτος",
+  "flight_v2_widget_field_city_snackbar_text": "Επιλέξτε την εθνικότητα σας πριν επιλέξετε πόλη",
+  "flight_v2_widget_field_country_required": "Απαιτείται εθνικότητα",
+  "flight_v2_widget_field_country_invalid": "Άκυρη εθνικότητα",
+  "flight_v2_widget_field_country_country": "Εθνικότητα",
+  "flight_v2_widget_field_field_card_hint": "Αριθμός κάρτας μέλους",
+  "flight_v2_widget_field_field_card_error_input": "Άκυρη κάρτα",
+  "flight_v2_widget_field_field_card_default_error": "Απαιτείται κάρτα",
+  "flight_v2_widget_field_field_date_hint": "Ημερομηνια γεννησης",
+  "flight_v2_widget_field_field_date_error_input": "Παρακαλώ μην το αφήνετε κενό",
+  "flight_v2_widget_field_field_date_default_error": "Παρακαλώ μην το αφήνετε κενό",
+  "flight_v2_widget_field_field_date_default_error_infant": "Τα βρέφη πρέπει να είναι κάτω των 2 ετών",
+  "flight_v2_widget_field_field_date_default_error_children": "Τα παιδιά πρέπει να είναι από 2 έως 12 ετών",
+  "flight_v2_widget_payment_contact_information": "Στοιχεία επικοινωνίας",
+  "flight_v2_widget_payment_full_name": "Πλήρες όνομα",
+  "flight_v2_widget_payment_gender": "Γένος",
+  "flight_v2_widget_payment_phone_number": "Τηλεφωνικό νούμερο",
+  "flight_v2_widget_payment_address": "Διεύθυνση",
+  "flight_v2_widget_payment_birthday": "Ημερομηνια γεννησης",
+  "flight_v2_widget_payment_male": "Αρσενικός",
+  "flight_v2_widget_payment_female": "Θηλυκός",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Πλήρες όνομα:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Γένος:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Ημερομηνια γεννησης:",
+  "flight_v2_widget_payment_checked_baggage": "Ελεγμένες αποσκευές",
+  "flight_v2_widget_payment_note": "Σημείωση",
+  "flight_v2_widget_payment_information": "Πληροφορίες",
+  "flight_v2_widget_payment_adult": "Ενήλικας",
+  "flight_v2_widget_payment_children": "Παιδί",
+  "flight_v2_widget_payment_infant": "Μωρό",
+  "flight_v2_widget_payment_title_adult_information": "Πληροφορίες για ενήλικες",
+  "flight_v2_widget_payment_title_children_information": "Πληροφορίες για το παιδί",
+  "flight_v2_widget_payment_title_infant_information": "Πληροφορίες για το μωρό",
+  "flight_v2_widget_payment_customer_information": "Πληροφορίες επιβατών",
+  "flight_v2_widget_payment_edit_information": "Επεξεργασία πληροφοριών",
+  "flight_v2_widget_payment_bonus_services": "Επιπρόσθετες υπηρεσίες",
+  "flight_v2_widget_payment_membership_card_number": "Αριθμός κάρτας μέλους",
+  "flight_v2_widget_payment_text_loyal_customer": "Συχνοί επιβάτες",
+  "flight_v2_widget_payment_text_making_flight_payment": "Πραγματοποιείτε πληρωμή πτήσης για τους ακόλουθους επιβάτες:",
+  "flight_v2_widget_result_total_amount": "Συνολικό ποσό",
+  "flight_v2_widget_result_taxes_fees": "(συμπεριλαμβάνονται φόροι και τέλη)",
+  "flight_v2_widget_result_elevate_button_book": "Βιβλίο",
+  "flight_v2_widget_result_text_flight": "Τμήμα",
+  "flight_v2_widget_result_text_departure_flight": "Πτήση αναχώρησης",
+  "flight_v2_widget_result_text_return_flight": "Πτήση επιστροφής",
+  "flight_v2_component_code_title": "Αναζητήστε την κράτηση",
+  "flight_v2_component_code_retype": "Εισέρχομαι πάλι",
+  "flight_v2_component_code_search_btn": "Ψάχνω",
+  "flight_v2_component_code_error": "Δεν βρέθηκαν πληροφορίες κράτησης.\nΕλέγξτε και δοκιμάστε ξανά.",
+  "flight_v2_widget_detail_text_booking_code": "Αναφορά κράτησης:",
+  "flight_v2_widget_detail_text_status": "Κατάσταση:",
+  "flight_v2_widget_detail_text_booked": "Κράτηση",
+  "flight_v2_widget_detail_text_cancelled": "Ακυρώθηκε",
+  "flight_v2_widget_detail_text_paid": "επί πληρωμή",
+  "flight_v2_widget_detail_text_unpaid": "Απλήρωτος",
+  "flight_showcase_domestic_round_trip_step1": "Η ώρα εμφανίζεται με τον χαμηλότερο ναύλο της ημέρας",
+  "flight_showcase_domestic_round_trip_step2": "Σύρετε και στις δύο πλευρές για να επιλέξετε ξανά τον χρόνο πτήσης",
+  "flight_showcase_domestic_round_trip_step3": "Επιλέξτε την πτήση αναχώρησης",
+  "flight_showcase_domestic_round_trip_step4": "Επιλέξτε την πτήση επιστροφής",
+  "flight_showcase_domestic_round_trip_step5": "Μπορείτε να επιλέξετε ξανά πτήσεις αναχώρησης και επιστροφής ανά πάσα στιγμή",
+  "flight_showcase_domestic_round_trip_step6": "Πρέπει να επιλέξετε αρκετές πτήσεις πριν κάνετε κράτηση",
+  "flight_showcase_inter_round_trip_step1": "Επιλέξτε ένα κατάλληλο ταξίδι πτήσης για τον εαυτό σας",
+  "flight_showcase_inter_round_trip_step1_desc": "Ένα ταξίδι πτήσης αποτελείται από μια πτήση αναχώρησης και μια πτήση επιστροφής",
+  "flight_showcase_place_from": "Από",
+  "flight_showcase_place_to": "Προς την",
+  "flight_showcase_tutorial": "Φροντιστήριο",
+  "flight_showcase_back": "Πίσω",
+  "flight_showcase_done": "Πλήρης",
+  "flight_showcase_continue": "Επόμενο",
+  "flight_v2_component_code_hint_text": "Εισαγάγετε αναφορά κράτησης",
+  "flight_v2_component_booking_text_note_upon": "Πότε",
+  "flight_v2_component_booking_text_payment_after": "ΠΛΗΡΩΣΕ ΑΡΓΟΤΕΡΑ",
+  "flight_v2_component_booking_text_your_booking": ", η κράτησή σας θα πραγματοποιηθεί εντός 12 ωρών. Θα ακυρωθεί αυτόματα εάν δεν κάνετε την πληρωμή σας εντός του καθορισμένου χρόνου. Κάντε την πληρωμή εντός του καθορισμένου χρόνου για να ολοκληρώσετε τη διαδικασία κράτησης.",
+  "flight_v2_dialog_default_payment_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. Παρακαλώ προσπαθήστε ξανά αργότερα.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Επικοινωνήστε με την Εξυπηρέτηση Πελατών της Hahalolo",
+  "flight_v2_dialog_default_payment_not_success": "Η πληρωμή απέτυχε",
+  "flight_v2_component_result_message_appropriate_flight": "Ο χρόνος απογείωσης για την πτήση επιστροφής πρέπει να πραγματοποιείται τουλάχιστον 02 ώρες μετά την ώρα προσγείωσης για την πτήση αναχώρησης. Επιλέξτε την κατάλληλη πτήση.",
+  "flight_v2_component_notification_not_available": "Η πτήση δεν είναι διαθέσιμη",
+  "flight_v2_search_enter_your_reservation": "Εισαγάγετε την αναφορά της κράτησής σας για να αναζητήσετε τα στοιχεία της κράτησής σας",
+  "flight_v2_search_booking_reference": "Αναφορά κράτησης",
+  "flight_v2_search_title_booking_code": "Εισαγάγετε την αναφορά κράτησης για να αναζητήσετε την κράτηση της πτήσης σας",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Επώνυμο (Χωρίς τόνους)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Μεσαίο όνομα και όνομα/όνομα (Χωρίς ηχητικά σημάδια)",
+  "flight_v2_widget_common_rules_1": "Για διεθνείς πτήσεις ή διεθνείς μεταφορές, το διαβατήριό σας πρέπει να ισχύει για τουλάχιστον 06 μήνες πριν από την ημερομηνία αναχώρησης.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines και Bamboo Airways: Αρνηθείτε να μεταφέρετε έγκυες επιβάτες με περίοδο εγκυμοσύνης από 36 εβδομάδες. Vietjet Air και Vietravel Airlines: Αρνούνται να μεταφέρουν έγκυες επιβάτες με περίοδο εγκυμοσύνης από 32 εβδομάδες.",
+  "flight_v2_widget_common_rules_3": "Μωρό από 14 ημερών έως κάτω των 02 ετών πρέπει να συνοδεύεται από ενήλικα άνω των 18 ετών.",
+  "flight_v2_widget_common_rules_4": "Η ηλικία των παιδιών/μωρών θα υπολογίζεται από την ημερομηνία γέννησης έως την ημερομηνία αναχώρησης της πτήσης, με βάση το πιστοποιητικό γέννησης/διαβατήριο του παιδιού.",
+  "flight_v2_widget_common_rules_5": "Για παιδιά που πετούν μεμονωμένα, επικοινωνήστε απευθείας με τον πράκτορα για περισσότερες πληροφορίες σχετικά με την υπηρεσία ασυνόδευτων ανηλίκων.",
+  "flight_range_slider_price_range": "Εύρος τιμών",
+  "flight_v2_common_done": "Ολοκληρώθηκε",
+  "flight_v2_detail_airline_operator_by": "Λειτουργεί από '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Σημείωση: Ενδέχεται να ζητηθεί από τους επιβάτες να πραγματοποιήσουν εκτελωνισμό και να υποβάλουν τη βίζα διέλευσης κατόπιν αιτήματος της χώρας υποδοχής.",
+  "flight_v2_detail_airline_total_price": "Σύνολο",
+  "flight_v2_detail_airline_title_tax_and_fee": "(συμπεριλαμβανομένων των φόρων και τελών)",
+  "flight_v2_detail_airline_button_add_ticket": "Προσθήκη εισιτηρίου",
+  "flight_v2_detail_airline_button_change_ticket": "Αλλαγή εισιτηρίου",
+  "flight_v2_detail_airline_button_booking_ticket": "Κάντε κράτηση εισιτηρίου",
+  "flight_v2_detail_airline_departure_flight": "Πτήση αναχώρησης",
+  "flight_v2_detail_airline_return_flight": "Πτήση επιστροφής",
+  "flight_v2_information_contact_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "flight_v2_information_customer_title_full_name": "Πλήρες όνομα: {fullName}",
+  "flight_v2_information_customer_title_gender": "Φύλο: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Ημερομηνία γέννησης: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Σημείωση: Το {HAHALOLO} θα υποστηρίζει τους χρήστες με {free} τραπεζικές προμήθειες)",
+  "flight_v2_payment_include_free_fee_payment": "ΕΛΕΥΘΕΡΟΣ",
+  "flight_v2_payment_use_saved_info_user": "Χρησιμοποιήστε τα στοιχεία επικοινωνίας ή τα αποθηκευμένα στοιχεία πληρωμής",
+  "flight_v2_payment_success_thank_user": "Σας ευχαριστούμε για την εμπιστοσύνη σας στην υπηρεσία '{HAHALOLO}'. Εάν έχετε ερωτήσεις ή χρειάζεστε περαιτέρω βοήθεια, επικοινωνήστε με το Κέντρο βοήθειας Hahalolo στο {phone} για οδηγίες.",
+  "flight_v2_payment_success_notifier": "Το αίτημα κράτησής σας ολοκληρώθηκε με επιτυχία '{wasPayment}'. Μπορείτε να ελέγξετε τις λεπτομέρειες του δρομολογίου παρακάτω.",
+  "flight_v2_payment_success_was_payment": "(Επί πληρωμή)",
+  "flight_v2_payment_success_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_payment_success_outbound_flight_information": "Πληροφορίες πτήσης αναχώρησης",
+  "flight_v2_payment_success_return_flight_information": "Πληροφορίες πτήσης επιστροφής",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Ενήλικας",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Παιδί",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Μωρό",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Πληροφορίες για ενήλικες {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Παιδικές πληροφορίες {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Πληροφορίες για το μωρό {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Ενήλικες",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Παιδιά",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Μωρά",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Χρόνος διέλευσης περίπου {time} στο {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Φόροι και τέλη (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Βασικός ναύλος (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Τελευταία ώρα αναχώρησης",
+  "flight_v2_widget_detail_text_departure_flight": "Πτήση αναχώρησης",
+  "flight_v2_widget_detail_text_return_flight": "Πτήση επιστροφής",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(συμπεριλαμβανομένων των φόρων και τελών)",
+  "flight_input_title_note_1": "Λάβετε υπόψη ότι το διαβατήριο πρέπει να ισχύει για τουλάχιστον 06 μήνες πριν από την ημερομηνία αναχώρησης του πρώτου τμήματος του δρομολογίου.",
+  "flight_input_title_note_2": "Οι επιβάτες πρέπει να έχουν επαρκή έγγραφα και να πληρούν τους κανονισμούς και τις διαδικασίες μετανάστευσης της χώρας προορισμού.",
+  "flight_input_title_note_3": "Η αεροπορική εταιρεία διατηρεί το δικαίωμα να αρνηθεί τη μεταφορά εάν οι επιβάτες δεν διαθέτουν έγκυρα έγγραφα όπως ορίζεται.",
+  "flight_input_title_note_4": "Η αεροπορική εταιρεία δεν φέρει ευθύνη σε περίπτωση απαγόρευσης εισόδου στους επιβάτες.",
+  "flight_input_title_note_5": "Οι επιβάτες πρέπει να κάνουν check in στο αεροδρόμιο έγκαιρα.",
+  "flight_input_title_note_6": "Οι ασυνόδευτοι ανήλικοι επιβάτες πρέπει να επικοινωνούν απευθείας με την αεροπορική εταιρεία.",
+  "flight_input_title_note_7": "Έγκυες επιβάτες με περίοδο εγκυμοσύνης από 32 εβδομάδες πρέπει να επικοινωνήσουν απευθείας με την αεροπορική εταιρεία.",
+  "flight_input_title_note_8": "Η ηλικία των επιβατών υπολογίζεται σύμφωνα με το χρονικό διάστημα μεταξύ της ημερομηνίας γέννησης και της ημερομηνίας αναχώρησης του πρώτου τμήματος πτήσης στο δρομολόγιο, με βάση τα έγγραφα ταυτότητας του επιβάτη, όπως Διαβατήριο και Πιστοποιητικό Γέννησης.",
+  "flight_input_passenger_choose_birth_day": "Επιλέξτε την ημερομηνία γέννησής σας",
+  "flight_input_payment_show_passenger_title": "Κλείνετε πτήση για τους παρακάτω επιβάτες:",
+  "flight_input_payment_reservation": "Βιβλίο",
+  "flight_v2_model_booking_luggage_handle": "Χειραποσκευές",
+  "flight_search_result_progress_searching_title": "Ερευνητικός...",
+  "flight_v2_dialog_unavailable_ticket": "Η πτήση δεν είναι διαθέσιμη",
+  "flight_v2_dialog_choose_ticket": "Έχετε επιλέξει την πτήση",
+  "flight_v2_dialog_from": "από",
+  "flight_v2_dialog_time_take_off_flight": "Ώρα απογείωσης πτήσης",
+  "flight_v2_dialog_happening": "πρέπει να συμβεί",
+  "flight_v2_dialog_minimum_hour": "τουλάχιστον 02 ώρες",
+  "flight_v2_dialog_after_trip": "μετά την πτήση",
+  "flight_v2_dialog_landed": "προσγειώθηκε.",
+  "flight_v2_dialog_choose_again_ticket": "Θέλετε να επιλέξετε άλλη πτήση;",
+  "flight_passenger_view_service_packages": "Πακέτα υπηρεσιών",
+  "flight_passenger_view_check_in_baggage": "Ελεγμένες αποσκευές:",
+  "flight_v2_widget_detail_text_departure": "Αναχώρηση",
+  "flight_v2_widget_detail_text_destination": "Προορισμός",
+  "flight_handnote_international_item_view_order_code": "Κωδικός παραγγελίας",
+  "flight_handnote_international_order_vieư": "Ημερομηνία ενημέρωσης",
+  "flight_order_detail_view_booking_code": "Αναφορά κράτησης",
+  "flight_handnote_international_item_view_departure_date": "Ημερομηνία αναχώρησης",
+  "flight_handnote_international_item_view_booking_status": "Κατάσταση κράτησης",
+  "flight_input_passenger_infor_title": "Πληροφορίες επιβατών",
+  "flight_input_payment_show_contact_full_name": "Πλήρες όνομα",
+  "flight_passenger_view_guest_type": "Τύπος επιβάτη",
+  "flight_passenger_view_ticket_number": "Αριθμός εισιτηρίου",
+  "flight_order_detail_title_flight_information": "Πληροφορίες πτήσης",
+  "flight_v2_dialog_common_agree": "Συμφωνώ",
+  "flight_v2_dialog_common_confirm": "Επιβεβαιώνω",
+  "flight_v2_dialog_common_skip": "Παραλείπω",
+  "flight_v2_dialog_common_cancel": "Ματαίωση",
+  "flight_v2_dialog_common_exit": "Εξοδος",
+  "flight_v2_dialog_common_change_flight": "Συμφωνώ",
+  "flight_v2_dialog_common_change_search": "Αλλαγή αναζήτησης",
+  "flight_v2_dialog_title_change_information": "Αλλαγή πληροφοριών",
+  "flight_v2_dialog_sub_title_change_information": "Είστε βέβαιοι ότι θέλετε να αλλάξετε τις πληροφορίες αναζήτησης;",
+  "flight_v2_dialog_message_change_information": "Εάν συμφωνήσετε να αλλάξετε τις πληροφορίες αναζήτησης, όλα τα προηγούμενα δεδομένα θα διαγραφούν",
+  "flight_v2_dialog_title_not_available": "Η πτήση δεν είναι διαθέσιμη",
+  "flight_v2_dialog_message_not_available": "Λυπούμαστε, η πτήση που επιλέξατε δεν είναι διαθέσιμη τώρα. '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "επιλέξτε άλλη πτήση ή αλλάξτε την αναζήτησή σας",
+  "flight_v2_dialog_title_exceed_time_allow": "Η πτήση έχει υπερβεί τον επιτρεπόμενο χρόνο",
+  "flight_v2_dialog_message_exceed_time_allow": "Η πτήση που επιλέξατε έχει υπερβεί τον επιτρεπόμενο χρόνο κράτησης. Επικοινωνήστε με το '{HAHALOLO}' μέσω της γραμμής επικοινωνίας '{hotline}' ή του '{changeOtherFlight}'.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "αλλαγή αναζήτησης για νέες πτήσεις",
+  "flight_v2_dialog_title_delete_account": "Διαγραφή λογαριασμού πληρωμής",
+  "flight_v2_dialog_sub_title_delete_account": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον λογαριασμό πληρωμής;",
+  "flight_v2_dialog_message_delete_account": "Ο λογαριασμός δεν θα εμφανίζεται πλέον στην επιλογή λογαριασμού πληρωμών.",
+  "flight_v2_dialog_title_change_ticket_price": "Αλλαγή ναύλου",
+  "flight_v2_dialog_message_change_ticket_price": "Το σύνολο της παραγγελίας άλλαξε από '{oldPrice}' σε '{newPrice}'. Παρακαλούμε επιλέξτε ξανά Κωδικός κουπονιού/Κέρματα/Πόντοι εάν υπάρχουν.",
+  "flight_v2_dialog_title_min_support_payment": "Η παραγγελία δεν είναι επιλέξιμη για πληρωμή",
+  "flight_v2_dialog_message_min_support_payment": "Η κατάλληλη παραγγελία έχει συνολική πληρωμή '{minRange}' ή ελάχιστο ποσό '{maxRange}'. Μπορείτε να αλλάξετε τον κωδικό κουπονιού, τα νομίσματα ή τους πόντους για να πληροίτε τους όρους πληρωμής",
+  "flight_v2_dialog_title_order_not_found": "Ειδοποιήσεις",
+  "flight_v2_dialog_message_order_not_found": "Δεν βρέθηκαν παραγγελίες",
+  "flight_v2_dialog_title_exit_order": "Έξοδος από την παραγγελία",
+  "flight_v2_dialog_message_exit_order_cart": "Το καλάθι σας",
+  "flight_v2_dialog_title_payment_error_default": "Η πληρωμή απέτυχε",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Επικοινωνήστε με την Εξυπηρέτηση Πελατών της Hahalolo '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "εδώ",
+  "flight_v2_dialog_title_voucher_fee_change": "Αλλαγή ναύλου",
+  "flight_v2_dialog_message_voucher_fee_change": "Ο ναύλος άλλαξε από '{oldPrice}' σε '{newPrice}'. Επικοινωνήστε με την Εξυπηρέτηση Πελατών Hahalolo '{here}' για βοήθεια.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "εδώ",
+  "flight_v2_dialog_title_system_error": "Ειδοποιήσεις",
+  "flight_v2_dialog_message_system_error": "Η παραγγελία σας πληρώθηκε με επιτυχία και πρόκειται να ενημερωθεί σύντομα στα Handnotes σας.",
+  "flight_v2_dialog_title_voucher_not_available": "Ειδοποιήσεις",
+  "flight_v2_dialog_message_voucher_not_available": "Ο κωδικός κουπονιού δεν είναι διαθέσιμος. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "flight_v2_dialog_title_point_not_available": "Ειδοποιήσεις",
+  "flight_v2_dialog_message_point_not_available": "Οι πόντοι δεν είναι διαθέσιμοι. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "flight_v2_dialog_title_coin_not_available": "Ειδοποιήσεις",
+  "flight_v2_dialog_message_coin_not_available": "Τα νομίσματα δεν είναι διαθέσιμα. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "flight_v2_dialog_halo_support": "'{message}'. Επικοινωνήστε με την Εξυπηρέτηση Πελατών της Hahalolo '{here}'.",
+  "flight_v2_dialog_halo_support_here": "εδώ",
+  "flight_v2_dialog_title_stripe_error": "Ειδοποιήσεις",
+  "flight_v2_price_info_read_more": "Δείτε περισσότερα",
+  "flight_v2_price_info_total_payment": "Συνολική πληρωμή",
+  "flight_v2_price_info_before_payment": "Προπληρωμένο ποσό",
+  "flight_v2_component_booking_title_payment_information": "Πληροφορίες Πληρωμής",
+  "flight_v2_model_booking_checked_baggage": "Παραδοτέες αποσκευές (μπορείτε να αγοράσετε περισσότερες)",
+  "flight_v2_widget_booking_coupon_code": "Κωδικός κουπονιού",
+  "flight_v2_widget_booking_use_coins": "Χρησιμοποιήστε νομίσματα",
+  "flight_v2_component_booking_use_point": "Χρήση Πόντων",
+  "flight_v2_widget_booking_title_fare_details": "Λεπτομέρειες ναύλου",
+  "flight_v2_widget_confirm_title_contact_information": "Στοιχεία επικοινωνίας",
+  "flight_input_passenger_hint_birth_day": "Ημερομηνια γεννησης",
+  "flight_v2_widget_booking_membership_card_number": "Αριθμός κάρτας μέλους",
+  "flight_passenger_view_baggage": "Αποσκευές",
+  "flight_v2_dialog_message_exit_order": "Γίνεται η κράτηση της πτήσης σας. Εάν βγείτε, η παραγγελία σας θα εξακολουθήσει να αποθηκευτεί στο '{cart}'. Μπορείτε να πληρώσετε για αυτήν την παραγγελία πριν από τις '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Η κράτηση της πτήσης σας δεν έχει πραγματοποιηθεί. Εάν βγείτε, η παραγγελία σας θα εξακολουθήσει να αποθηκευτεί στο '{cart}'. Μπορείτε να κάνετε μια πληρωμή για να ολοκληρώσετε την έκδοση του εισιτηρίου",
+  "flight_v2_payment_back_from_payment": "Γίνεται η κράτηση της πτήσης σας. Δεν μπορείτε να αλλάξετε τις πληροφορίες παραγγελίας. Κάντε μια πληρωμή πριν από τις '{time}' για να ολοκληρώσετε την έκδοση του εισιτηρίου.",
+  "flight_v2_payment_back_from_payment_no_hold": "Η κράτηση της πτήσης σας δεν έχει πραγματοποιηθεί. Κάντε μια πληρωμή για να ολοκληρώσετε την κράτηση και την έκδοση του εισιτηρίου.",
+  "flight_price_detail_view_total_fare": "Συνολικός ναύλος",
+  "flight_price_detail_view_service_fee": "Κόστος υπηρεσίας",
+  "flight_price_detail_view_payment_fee": "Τέλος πληρωμής",
+  "flight_v2_notification_baggage": "Έχετε επιλέξει {baggage}. Δείτε λεπτομέρειες παρακάτω.",
+  "flight_check_the_details": "Μπορείτε να ελέγξετε τις λεπτομέρειες παρακάτω.",
+  "flight_order_detail_view_information_order": "Πληροφορίες Παραγγελίας",
+  "flight_v2_search_code_no_reservation_yet": "Δεν έχει γίνει ακόμη κράτηση",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Σημείωση: Οι πληροφορίες πελατών δεν έχουν συμπληρωθεί ακόμη",
+  "tour_booking_screen_update_information": "Ενημέρωση τώρα",
+  "tour_booking_screen_textspan_note": "(Σημείωση: Τέλος πληρωμής)",
+  "tour_booking_loading_message": "Ανάκτηση πληροφοριών παραγγελίας, περιμένετε λίγο",
+  "tour_booking_last_name": "Επίθετο",
+  "tour_booking_middle_and_first_name": "Μέσος & Όνομα/Ονοματεπώνυμο",
+  "tour_booking_or_detail_phone_number": "Τηλεφωνικό νούμερο",
+  "tour_booking_or_detail_address": "Διεύθυνση",
+  "tour_booking_province_city": "Επαρχία/Πόλη",
+  "tour_booking_country": "Χώρα",
+  "tour_booking_title_booking_information": "Πληροφορίες κράτησης",
+  "tour_booking_bottom_detail_price_error": "Τα στοιχεία της κάρτας είναι λανθασμένα. Ελέγξτε το ξανά.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Δεν είναι δυνατή η εφαρμογή του κωδικού κουπονιού",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Μη έγκυρος κωδικός κουπονιού",
+  "tour_booking_update_item_cart_action_message": "Κλείσε",
+  "tour_booking_update_item_cart_title": "Ειδοποιήσεις",
+  "tour_booking_update_item_cart_msg_error_last": "Παρουσιάστηκε σφάλμα κατά την ενημέρωση της παραγγελίας, δοκιμάστε ξανά.",
+  "tour_booking_screen_payment_methods": "Επιλογή πληρωμής",
+  "tour_booking_screen_accept": "Αποδέχομαι",
+  "tour_booking_screen_coupon_code": "Κωδικός κουπονιού",
+  "tour_booking_screen_insert_code": "Εισάγετε τον κωδικό",
+  "tour_booking_screen_default_msgError": "Παρουσιάστηκε σφάλμα. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "tour_booking_screen_on_failed_error_2008": "Το πρόγραμμα περιοδειών ανά μήνα που επιλέξατε δεν είναι διαθέσιμο αυτήν τη στιγμή. Επιλέξτε άλλο πρόγραμμα περιήγησης.",
+  "tour_booking_screen_on_failed_error_2202": "Η σελίδα δεν έχει δημοσιευτεί ή δεν έχετε ορίσει ηλικίες.",
+  "tour_booking_screen_on_failed_error_2301": "Η περιήγηση δεν είναι διαθέσιμη.",
+  "tour_booking_screen_on_failed_error_2303": "Η ξενάγηση δεν ανήκει στη σελίδα.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Η περίοδος κράτησης έχει λήξει.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Επικοινωνήστε με το Κέντρο Εξυπηρέτησης Πελατών της Hahalolo",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "εδώ",
+  "tour_booking_screen_content_apply_voucher_failed_help": "για βοήθεια.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Ο μέγιστος αριθμός κερμάτων που μπορεί να χρησιμοποιηθεί για αυτήν την παραγγελία.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Χρήση",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} Νομίσματα",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "για πληρωμή.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Που αντιστοιχεί σε",
+  "tour_booking_success_text_done": "Εγινε",
+  "tour_booking_success_header_booking_success": "Επιτυχής κράτηση",
+  "tour_booking_success_header_textspan_reservation_success": "Το αίτημα κράτησής σας πραγματοποιήθηκε με επιτυχία",
+  "tour_booking_success_header_textspan_paid": "(Επί πληρωμή).",
+  "tour_booking_success_header_textspan_itinerary_details": "Μπορείτε να ελέγξετε τις λεπτομέρειες του δρομολογίου παρακάτω.",
+  "tour_booking_success_title_tour_information": "Πληροφορίες ξενάγησης",
+  "tour_booking_success_tour_information_tour_name": "Όνομα περιοδείας",
+  "tour_booking_success_tour_information_departure": "Αναχώρηση",
+  "tour_booking_success_tour_information_departure_date": "Ημερομηνία αναχώρησης",
+  "tour_booking_success_tour_information_end_date": "Ημερομηνία λήξης",
+  "tour_booking_success_tour_information_Number_of_days": "Αριθμός ημερών",
+  "tour_booking_success_tour_information_passengers": "Αριθμός επιβατών",
+  "tour_booking_success_tour_information_detail_Passengers": "1 ενήλικας",
+  "tour_booking_success_title_contact_information": "Στοιχεία επικοινωνίας",
+  "tour_booking_success_contact_information_full_name": "Πλήρες όνομα:",
+  "tour_booking_success_contact_information_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ:",
+  "tour_booking_success_contact_information_phone_number": "Τηλεφωνικό νούμερο:",
+  "tour_booking_success_contact_information_address": "Διεύθυνση:",
+  "tour_booking_success_title_installment_information": "Πληροφορίες παραγγελίας δόσεων",
+  "tour_booking_success_installment_information_total_order_value": "Συνολική αξία παραγγελίας:",
+  "tour_booking_success_installment_information_prepaid_rate": "Προπληρωμένη τιμή:",
+  "tour_booking_success_installment_information_prepayment_amount": "Προπληρωμένο ποσό:",
+  "tour_booking_success_installment_information_remaining_amount": "Εναπομείναν ποσό:",
+  "tour_booking_success_installment_information_conversion_information": "Τέλος μετατροπής πληροφοριών:",
+  "tour_booking_success_installment_information_banking_fee": "Τραπεζική προμήθεια:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Επιτόκιο δόσεων (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Τόκοι δόσεων (μήνας):",
+  "tour_booking_success_installment_information_total_amount": "Συνολική πληρωμή δόσεων:",
+  "tour_booking_success_installment_information_payment_term": "Χρόνος δόσεων (μήνας):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} μήνες",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Ποσό μηνιαίας δόσης:",
+  "tour_booking_success_installment_information_next_installment_period": "Επόμενη δόση τενόρος",
+  "tour_booking_success_title_transaction_information": "Πληροφορίες συναλλαγής",
+  "tour_booking_success_transaction_information_tour_id": "Περιήγηση ID:",
+  "tour_booking_success_transaction_information_booking_code": "Αριθμός κράτησης:",
+  "tour_booking_success_transaction_information_total_payment": "Συνολική πληρωμή:",
+  "tour_booking_success_transaction_information_payer": "Πληρωτής:",
+  "tour_booking_success_transaction_information_address": "Διεύθυνση:",
+  "tour_booking_success_transaction_information_content_billing": "Περιεχόμενο πληρωμής:",
+  "tour_booking_success_transaction_information_order_payment": "Παραγγελία πληρωμής",
+  "tour_booking_success_transaction_information_order_advance": "Προπληρωμή εντολής με δόσεις",
+  "tour_booking_success_textspan_footer_thanks": "Σας ευχαριστούμε για την εμπιστοσύνη σας στην υπηρεσία της Hahalolo.",
+  "tour_booking_success_textspan_footer_doubt": "Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περαιτέρω βοήθεια, επικοινωνήστε με το Κέντρο βοήθειας Hahalolo",
+  "tour_booking_success_textspan_footer_last_text": "για οδηγίες.",
+  "tour_booking_success_bottomview_view_details": "Δείτε λεπτομέρειες",
+  "tour_booking_success_bottomview_new_booking": "Βιβλίο νέο",
+  "tour_booking_title_info_detail_tour": "Λεπτομέρειες περιήγησης",
+  "tour_booking_info_detail_tour_title_info_tour": "Πληροφορίες",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Όνομα περιοδείας",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Ανακάλυψη του νησιού Phu Quy",
+  "tour_booking_or_detail_tour_id": "Περιήγηση ID",
+  "tour_booking_or_detail_tour_time": "χρόνος",
+  "tour_booking_or_detail_departure_date": "Ημερομηνία αναχώρησης",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Ημερομηνία λήξης",
+  "tour_booking_or_detail_tour_departure": "Αναχώρηση",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Προορισμός",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Τύπος ξενάγησης",
+  "tour_booking_info_detail_tour_info_tour_description": "Περιγραφή",
+  "tour_booking_info_detail_tour_title_table_price": "Τιμοκατάλογος περιήγησης",
+  "tour_booking_starttext_adult": "Ενήλικας",
+  "tour_booking_starttext_child": "Παιδί",
+  "tour_booking_starttext_young_child": "Μικρο ΠΑΙΔΙ",
+  "tour_booking_starttext_baby": "Μωρό",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Κατάλογος εξαρτημάτων",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Πληροφορίες κανονισμού",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Ιδιωτικός κανονισμός",
+  "tour_booking_info_detail_tour_title_installment_policy": "Πρόγραμμα δόσεων",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Συνολικό ποσό",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Προπληρωμένο ποσό",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Πληρωμή",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Υπηρεσίες",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Προβολή",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Χρησιμοποιήστε την προώθηση",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Χρησιμοποιήστε νομίσματα",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Συνολικό ποσό",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Περιλαμβάνεται έκπτωση για 100% προπληρωμή",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Αξία προώθησης:",
+  "tour_booking_title_item_count_passenger": "Αριθμός επιβατών",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Πάνω από {age} ετών",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} ετών",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Κάτω από {age} ετών",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Ζητήστε από τη υποστήριξη για την εισαγωγή πληροφοριών ταξιδιωτών",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Εισαγάγετε πληροφορίες ταξιδιωτών",
+  "tour_booking_title_item_info_billing": "Πληροφορίες πληρωτή",
+  "tour_booking_item_info_billing_use_contact_info": "Χρησιμοποιήστε τα στοιχεία επικοινωνίας",
+  "tour_booking_title_item_info_contact_person": "Στοιχεία επικοινωνίας",
+  "tour_booking_title_item_method_payment": "Μέθοδος πληρωμής",
+  "tour_booking_item_method_payment_text_full_payment": "100% πληρωμή",
+  "tour_booking_item_method_payment_text_installment_payment": "Πληρωμή δόσης",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Λαμβάνετε έκπτωση {discount}%.",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Συνολικό πληρωτέο ποσό της αξίας της παραγγελίας μετά την έκπτωση:",
+  "tour_booking_title_item_select_service": "Συνοδευόμενες υπηρεσίες",
+  "tour_booking_item_select_service_add_service": "Προσθήκη υπηρεσίας",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Θα στείλουμε έναν κωδικό επιβεβαίωσης της πληρωμής για την εντολή δόσεων στους επόμενους τενόρ μέσω email:",
+  "tour_booking_pay_installment_check_email": "Ελέγξτε ξανά τη διεύθυνση email σας.",
+  "tour_booking_pay_installment_number_installments_months": "Αριθμός μηνών δόσεων",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Ποσοστό δόσεων",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Πρέπει να κάνετε μερική προπληρωμή της αξίας της εκδρομής. Το ποσό της μηνιαίας δόσης θα υπολογιστεί με βάση το οφειλόμενο υπόλοιπο μετά την επιτυχή προπληρωμή.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Εισαγάγετε το ποσοστό προπληρωμής που επιθυμείτε",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Στοιχεία δόσεων",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Οχι.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Πληροφορίες",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "αξία",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Αξία παραγγελίας",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Προπληρωμένο επιτόκιο",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Προπληρωμένη αξία",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Εναπομείναν ποσό",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Τέλος μετατροπής πληροφοριών",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Τραπεζική προμήθεια πληρωμής",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Επιτόκιο (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Τόκοι δόσεων",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Συνολικό ποσό δόσης",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Δόση διάρκειας (μήνας)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Επόμενη δόση τενόρος",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Ποσό μηνιαίας δόσης",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} Μήνες",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Πρόγραμμα δόσεων",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Λεπτομέρειες προγράμματος δόσεων",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Συνοδευόμενες υπηρεσίες",
+  "tour_booking_item_service_init_service_number_of_travelers": "Αριθμός επιβατών",
+  "tour_booking_group_months_installment_label": "{month} μήνες",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Ταξιδιωτικά όνειρα",
+  "tour_detail_text_number_people_haha_page": "1.839.017 άτομα Haha αυτή τη σελίδα",
+  "tour_detail_screen_theme_text_indochina_discovery": "Ανακάλυψη της Ινδοκίνας: Seasides and street food",
+  "tour_detail_text_installment_tour": "ΞΕΝΑΓΗΣΗ ΜΕ ΔΟΣΗ",
+  "tour_detail_text_view_details": "Δείτε λεπτομέρειες",
+  "tour_detail_number_promotions": "{promotions} Προσφορές",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "διαθέσιμος",
+  "tour_detail_tab_info": "Πληροφορίες",
+  "tour_detail_tab_tour_parts": "Λεπτομέρειες δρομολογίου",
+  "tour_detail_tab_promotion": "Προβολή",
+  "tour_detail_tab_privacy_policy": "Πολιτική απορρήτου",
+  "tour_detail_tab_separate_regulations": "Ιδιωτικός κανονισμός",
+  "tour_detail_tab_contact": "Επικοινωνία",
+  "tour_detail_view_tab_installment": "Πρόγραμμα δόσεων",
+  "tour_detail_text_only_from": "Μόνο από",
+  "tour_detail_view_emptyTitle": "Η περιήγηση δεν είναι πλέον διαθέσιμη",
+  "tour_detail_text_change_date": "Αλλαγή ημερομηνίας",
+  "tour_detail_text_book_now": "Κάνετε κράτηση τώρα",
+  "tour_detail_view_action_menu_time_line": "Χρονοδιάγραμμα",
+  "tour_detail_view_action_menu_tour_List": "Λίστα περιηγήσεων",
+  "tour_detail_view_action_menu_introduction": "Εισαγωγή",
+  "tour_detail_view_action_menu_promotion": "Προβολή",
+  "tour_detail_view_action_menu_appraise": "Κριτικές",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} άτομα Haha αυτή η σελίδα",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Το πρόγραμμα περιοδειών ανά μήνα που επιλέξατε δεν είναι διαθέσιμο αυτήν τη στιγμή.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Επιλέξτε άλλο πρόγραμμα περιήγησης.",
+  "tour_detail_choose_schedule_title": "Επιλέξτε χρονοδιάγραμμα",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Πρόγραμμα αναχωρήσεων",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Το πρόγραμμα αναχώρησης δεν είναι διαθέσιμο",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Ημερομηνία αναχώρησης: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Από",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Από {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Τέλος",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "Προς {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Προβολή",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Τιμή",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Κάνετε κράτηση τώρα",
+  "tour_detail_contact_infor_view_empty_title": "Τα στοιχεία επικοινωνίας ενημερώνονται",
+  "tour_detail_contact_infor_view_company_name": "Ονομα εταιρείας",
+  "tour_detail_infor_view_text_starting_from": "Ξεκίνα από",
+  "tour_detail_infor_view_text_ends_at": "Τέλος στο",
+  "tour_detail_infor_view_tour_type_domestic": "Περιοδεία εσωτερικού",
+  "tour_detail_infor_view_tour_type_international": "Διεθνής περιοδεία",
+  "tour_detail_infor_view_tour_text_info": "Πληροφορίες",
+  "tour_detail_infor_view_tour_types": "Τύπος",
+  "tour_detail_infor_view_tour_service": "Υπηρεσίες περιήγησης",
+  "tour_detail_emptyTitle_no_data_found": "Δε βρέθηκαν δεδομένα",
+  "tour_detail_promotion_view_empty_title": "Δεν υπάρχουν διαθέσιμες προσφορές",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Επίπεδα προώθησης {level}::",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "Έκπτωση {price}%.",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "Έκπτωση {price}",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Ελάχιστη αξία παραγγελίας: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Ελάχιστος αριθμός ενηλίκων: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Πίσω",
+  "tour_detail_shimmer_loading_message": "... άνθρωποι Haha αυτή η σελίδα",
+  "tour_hand_note_tabs_verify_sent_to_email": "Σας στείλαμε έναν κωδικό επιβεβαίωσης στο pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Τιμή",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Ακύρωση παραγγελίας",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Θέλετε να εκτελέσετε αυτήν την ενέργεια;",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Επιβεβαιώνω",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Ματαίωση",
+  "tour_hand_note_footer_action_total_amount": "Συνολικό ποσό",
+  "tour_hand_note_footer_action_pay": "Πληρωμή",
+  "tour_hand_note_order_payment_view_order_id": "Κωδικός παραγγελίας",
+  "tour_hand_note_order_payment_view_paid": "επί πληρωμή",
+  "tour_hand_note_order_payment_view_total_price": "Συνολικό ποσό",
+  "tour_hand_note_order_payment_view_remaining_amount": "Εναπομείναν ποσό",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Τενόρος δόσεων",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Μήνας: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Ποσό δόσεων",
+  "tour_hand_note_order_payment_view_next_installment_period": "Επόμενη δόση τενόρος",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Συνολική πληρωμή",
+  "tour_handnote_banner_waring_input_verify_error": "Παρουσιάστηκε σφάλμα κατά την επαλήθευση. Δοκιμάστε ξανά ή πατήστε ",
+  "tour_lockup_empty_title": "Δεν βρέθηκαν πληροφορίες περιήγησης",
+  "tour_lockup_title_info": "Πληροφορίες ξενάγησης",
+  "tour_lockup_form_search_hind_text_enter_promo": "Εισαγάγετε τον κωδικό προσφοράς",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} μέρες} other{{days} μέρες}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Ολα",
+  "tour_handnote_tab_awaiting": "Εν αναμονή της επιβεβαίωσης",
+  "tour_handnote_tab_awaiting_fulfilment": "Εν αναμονή Εκπλήρωσης",
+  "tour_handnote_tab_ongoing": "Σε εξέλιξη",
+  "tour_handnote_tab_completed": "Ολοκληρώθηκε το",
+  "tour_handnote_tab_canceled": "Ακυρώθηκε",
+  "tour_detail_page_programs_detail": "Λεπτομέρειες προγράμματος",
+  "tour_detail_page_passenger_title": "Πελάτης",
+  "tour_detail_info_guest_edit_title": "Επεξεργασία",
+  "tour_detail_info_guest_update_title": "Εκσυγχρονίζω",
+  "tab_tour_detail_order_cancel_order": "Ακύρωση παραγγελίας",
+  "tab_tour_detail_order_cancel_order_confirm": "Θέλετε να εκτελέσετε αυτήν την ενέργεια;",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Επιβεβαιώνω",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Ματαίωση",
+  "tab_tour_detail_order_waiting_confirmation": "Εν αναμονή της επιβεβαίωσης",
+  "tab_tour_detail_order_code_order_tour_title": "Αριθμός κράτησης",
+  "tour_detail_stage_view_title": "Μέρος {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Έχουν εφαρμοστεί νομίσματα για την πληρωμή. Δείτε λεπτομέρειες παρακάτω",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Ο κωδικός κουπονιού έχει εφαρμοστεί στην πληρωμή. Δείτε λεπτομέρειες παρακάτω",
+  "tour_hand_note_banner_warning_update_success": "Οι πληροφορίες πελατών έχουν συμπληρωθεί",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Πληροφορίες Πληρωμής",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "επί πληρωμή",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Προώθηση ακύρωσης περιοδείας\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Χρήση νομισμάτων ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Χρέωση ακύρωσης {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Εκτιμώμενο ποσό επιστροφής χρημάτων",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Χρόνος επιστροφής χρημάτων (Από την ημερομηνία ακύρωσης): 5-7 ημέρες (Για τις πύλες πληρωμής Alepay και Payme) ή 7-15 ημέρες (Για την πύλη πληρωμής Stripe).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Λόγος ακύρωσης:",
+  "tour_booking_validation_province_or_city_is_required": "Απαιτείται επαρχία/πόλη",
+  "tour_booking_screen_on_failed_error_2801": "Πρέπει να κάνετε κράτηση για την περιήγηση {numberDay} ημέρες πριν από την ημερομηνία αναχώρησης. Επιλέξτε άλλη ημερομηνία αναχώρησης.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Η επιλεγμένη ώρα αναχώρησης της περιοδείας σας είναι μικρότερη ή μεγαλύτερη σύμφωνα με την πολιτική μας. Επιλέξτε μια περιήγηση με την κατάλληλη ώρα αναχώρησης.",
+  "tour_booking_bottom_view_error": "Συμπληρώστε τις πληροφορίες ταξιδιού ή ζητήστε υποστήριξη της Hahalolo για την εισαγωγή των πληροφοριών ταξιδιού αργότερα.",
+  "tour_booking_on_start_payment_message": "Λυπούμαστε, η ημερομηνία αναχώρησης που επιλέξατε έχει εξαντληθεί. Επιλέξτε άλλη ημερομηνία αναχώρησης.",
+  "tour_detail_text_full_load": "Εξαντλημένα",
+  "tour_cancel_order_info_reason_cancel": "Εισαγάγετε τον λόγο ακύρωσης.",
+  "tour_cancel_order_info_validate_reason_cancel": "Απαιτείται λόγος ακύρωσης",
+  "tour_cancel_order_info_refound_invalid_card": "Απαιτείται αριθμός λογαριασμού",
+  "tour_cancel_bank_name_required": "Απαιτείται όνομα τράπεζας",
+  "tour_cancel_bank_wrong_format": "Λανθασμένη μορφή ονόματος τράπεζας",
+  "tour_cancel_hahalolo_will_refund_you": "(Η Hahalolo θα σας επιστρέψει τα χρήματα με βάση τα στοιχεία τραπεζικού λογαριασμού που εισάγετε παρακάτω)",
+  "tour_cancel_enter_bank_name": "Εισαγάγετε το όνομα της τράπεζας",
+  "tour_cancel_cancel_order_success": "Η παραγγελία σας ακυρώθηκε με επιτυχία.",
+  "tour_bank_identifier_required": "Απαιτείται κωδικός SWIFT",
+  "tour_detail_title_select_departure_month": "Επιλέξτε μήνα αναχώρησης",
+  "tour_detail_title_upcoming_departure_schedule": "Επικείμενο πρόγραμμα αναχωρήσεων",
+  "tour_detail_schedule_title_departure": "Αναχώρηση",
+  "tour_detail_schedule_title_destination": "Προορισμός",
+  "tour_booking_fail_payment_price_change": "Η τιμή της περιοδείας άλλαξε από {oldPay} σε {newPay}. Θέλετε να συνεχίσετε με την πληρωμή σας;",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Η τιμή της περιοδείας άλλαξε από {oldPay} σε {newPay} και πρέπει να πληρώσετε {payAmount} εκ των προτέρων. Θέλετε να συνεχίσετε με την πληρωμή σας;",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Το ποσό προπληρωμής άλλαξε από {oldPay} σε {newPay}. Θέλετε να συνεχίσετε με την πληρωμή σας;",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Το ποσό που εφαρμόζεται από τα νομίσματα έχει αλλάξει από {oldPay} σε {newPay}. Θέλετε να συνεχίσετε με την πληρωμή σας;",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Χρησιμοποιήστε πόντους",
+  "tour_booking_screen_have_apply_points": "Έχουν εφαρμοστεί πόντοι για την πληρωμή. Δείτε λεπτομέρειες παρακάτω.",
+  "tour_booking_warning_promotion": "Η περιήγησή σας έχει γίνει κράτηση και οι πληροφορίες παραγγελίας δεν μπορούν να αλλάξουν. Κάντε μια πληρωμή για να ολοκληρώσετε την κράτηση της περιοδείας σας.",
+  "tour_booking_warning_back_text_normal": "Η παραγγελία σας έχει κρατηθεί. Εάν παραιτηθείτε, η παραγγελία σας θα εξακολουθήσει να αποθηκευτεί",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Κλείστε την παραγγελία",
+  "tour_booking_warning_back_when_hold_ticket_card": "Το καλάθι σας.",
+  "tour_booking_warning_back_exit": "Εγκαταλείπω",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Η παραγγελία έχει περάσει από την πύλη πληρωμής. Ο κωδικός κουπονιού δεν μπορεί να μην εφαρμοστεί.",
+  "tour_booking_point_not_available": "Οι πόντοι δεν είναι διαθέσιμοι",
+  "tour_payment_voucher_exit_dialog_title": "Η πληρωμή απέτυχε",
+  "tour_total_point_change": "Οι διαθέσιμοι πόντοι σας έχουν αλλάξει. Εισαγάγετε τον αριθμό των Πόντων για να κάνετε αίτηση για την παραγγελία.",
+  "tour_hand_note_text_tour": "Περιοδεία",
+  "tour_hand_note_text_amount_installment_payment": "Ποσό πληρωμής με δόσεις",
+  "tour_detail_tour_has_no_available_schedule": "Δεν υπάρχουν διαθέσιμα προγράμματα για αυτήν την περιοδεία",
+  "tour_detail_promotion_view_time_application": "Ισχύουσα περίοδος:",
+  "tour_detail_promotion_view_up_to_off_title": "Μέχρι και",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% Έκπτωση",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Αναζητήστε τον αριθμό κράτησης",
+  "tour_you_can_sure_cancel_order": "Είστε βέβαιοι ότι θέλετε να ακυρώσετε αυτήν την παραγγελία;",
+  "tour_detail_contact_title": "Είμαστε διαθέσιμοι 24/7! Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με αυτήν την υπηρεσία, επικοινωνήστε μαζί μας χρησιμοποιώντας τις παρακάτω πληροφορίες. Θα απαντήσουμε εντός 2 ωρών!",
+  "tour_detail_rate_title_schedule": "Πρόγραμμα",
+  "tour_detail_rate_title_meal": "Γεύμα",
+  "tour_detail_review_there_are_no_reviews_yet": "Δεν υπάρχουν σχόλια ακόμη",
+  "tour_search_suggest_location_title": "Κορυφαίοι προορισμοί",
+  "tour_detail_rate_title_property": "Ιδιοκτησία",
+  "tour_detail_rate_title_tour_guide": "Ξεναγός",
+  "tour_detail_rate_title_vehicle": "Οχημα",
+  "tour_detail_choose_schedule_remain_slot": "Απομένουν μόνο {slot} υποδοχές",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Ημερομηνία",
+  "tour_detail_contact_text_hotline": "Γραμμή επικοινωνίας",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Κριτικές",
+  "tour_search_place_suggestion_title": "Επιλέξτε έναν προορισμό",
+  "tour_search_place_suggestion_hint_text": "Εισαγωγή αναχώρησης...",
+  "tour_review_title_feedback": "Ελέγξτε την εμπειρία του ταξιδιού σας",
+  "tour_review_title_content": "Συνολική βαθμολογία ταξιδιού",
+  "tour_review_title_see_review": "Δείτε την κριτική του ταξιδιού σας",
+  "tour_review_schedule": "Πρόγραμμα",
+  "tour_review_meal": "Γεύμα",
+  "tour_review_accommodation": "Ιδιοκτησία",
+  "tour_review_tour_guide": "Ξεναγός",
+  "tour_review_vehicle": "Οχημα",
+  "tour_lockup_up_tour_header_text": "Εισαγάγετε τον αριθμό κράτησής σας για να αναζητήσετε τα στοιχεία της κράτησής σας",
+  "banner_warning_installment_noti": "Θα φτάσετε στην επόμενη προθεσμία πληρωμής δόσης. Ημερομηνία λήξης δόσεων {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Επεκτείνω",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Ο κωδικός κουπονιού δεν εφαρμόστηκε με επιτυχία",
+  "voucher_search_on_select_voucher_fail": "Ο μη εφαρμόσιμος κωδικός κουπονιού απέτυχε. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+  "voucher_search_coupon_code_incorrect": "Λανθασμένος κωδικός κουπονιού",
+  "voucher_search_check_or_contact_cskh": "Ελέγξτε ξανά ή επικοινωνήστε με το Κέντρο Εξυπηρέτησης Πελατών",
+  "voucher_widget_item_voucher_discount": "Έκπτωση: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Λήγει: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Ημερομηνία λήξης:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Κώδικας:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Προβολή:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Κατάσταση:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Εφαρμογή σε προϊόντα Hahalolo.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Περιορίστε ένα ανά πελάτη.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Για παραγγελίες από {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Προϊόντα που εφαρμόζονται σε:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} έκπτωση",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Μέγιστη έκπτωση:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Έχετε σώσει",
+  "voucher_apply_voucher_widget_order_from_discount": "σε αυτήν την παραγγελία με κωδικό κουπονιού",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Η πτήση σας δεν έχει γίνει ακόμη κράτηση. Παρακαλούμε ολοκληρώστε την πληρωμή σας για να κάνετε κράτηση και να εκδώσετε το εισιτήριο.",
+  "cart_screen_main_title": "Το καλάθι σας",
+  "cart_screen_main_tour_title": "Κράτηση εκδρομών",
+  "cart_screen_main_flight_title": "Πτήση",
+  "cart_screen_main_car_title": "Κράτηση αυτοκινήτου",
+  "cart_screen_main_tour_title_1": "Κράτηση εκδρομών (1)",
+  "cart_screen_main_flight_title_1": "Πτήση (1)",
+  "cart_screen_main_car_title_1": "Κράτηση αυτοκινήτου (1)",
+  "cart_screen_domestic_flight_num_passenger": "Αριθμός επιβατών",
+  "cart_screen_domestic_flight_subtotal": "ΜΕΡΙΚΟ ΣΥΝΟΛΟ",
+  "cart_screen_domestic_flight_note": "Η κράτηση της πτήσης σας έχει πραγματοποιηθεί. Κάντε μια πληρωμή για να ολοκληρωθεί η έκδοση του εισιτηρίου.",
+  "cart_screen_empty": "Δεν υπάρχουν αντικείμενα στο καλάθι σας",
+  "cart_screen_empty_order_now": "Αναζήτηση & Κράτηση τώρα!",
+  "cart_screen_car_delete_order": "Διαγραφή παραγγελίας",
+  "cart_screen_car_delete_order_confirm": "Θέλετε να διαγράψετε αυτήν την παραγγελία;",
+  "cart_screen_tour_schedule_title": "Πρόγραμμα",
+  "cart_screen_tour_type_title": "Τύπος ξενάγησης",
+  "cart_tour_type_domestic": "Οικιακός",
+  "cart_tour_type_international": "Διεθνές",
+  "cart_screen_tour_num_day_num_night": "{day} ημέρες, {night} νύχτες",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Αριθμός επιβατών",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Χρήση Πόντων",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Μήνας {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Παρουσιάστηκε σφάλμα κατά την επαλήθευση. Δοκιμάστε ξανά ή πατήστε \"Επανάληψη αποστολής κωδικού επιβεβαίωσης\" για να λάβετε νέο κωδικό μέσω {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Αποστολή εκ νέου κωδικού επιβεβαίωσης",
+  "hand_note_input_verify": "Έχουμε στείλει έναν κωδικό επιβεβαίωσης στη διεύθυνση {email}. Εισαγάγετε τον κωδικό που λάβατε για να ολοκληρώσετε αυτό το βήμα",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Εισάγετε τον κωδικό",
+  "hand_note_tour_detail_body_tour_info_title": "Πληροφορίες ξενάγησης",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Η ώρα υπολογίζεται στη ζώνη ώρας του Βιετνάμ)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Σύνολο ημερών",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Αριθμός ταξιδιωτών",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Πολιτική ακύρωσης",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Τα δωρεάν χρονοδιαγράμματα ακύρωσης βασίζονται στη ζώνη ώρας κράτησης εκδρομών και στην πολιτική ακύρωσης της περιοδείας του προμηθευτή",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Για ακύρωση περιοδείας, θα χρεωθείτε με την ακόλουθη χρέωση ακύρωσης:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} ημέρες πριν από την ημερομηνία αναχώρησης",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Δωρεάν ακύρωση",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Χρέωση ακύρωσης {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Προσφορά για πληρωμή 100%.",
+  "hand_note_install_policy": "Πρόγραμμα δόσεων",
+  "hand_note_title_status_payment_failure": "Απέτυχε",
+  "hand_process_extension": "Σε εξέλιξη επέκταση",
+  "hand_in_installment": "Ενεργός",
+  "hand_installment_completed": "Ολοκληρώθηκε το",
+  "hand_note_adults": "Ενήλικες",
+  "hand_note_children": "Παιδιά",
+  "hand_note_baby": "Νέα παιδιά",
+  "hand_note_infant": "Μωρά",
+  "hand_note_tour_service_price": "Τιμή υπηρεσίας",
+  "hand_note_total_price": "Συνολικό ποσό",
+  "hand_note_prepaid": "Προπληρωμένος",
+  "hand_note_remaining": "Εναπομείναν ποσό",
+  "hand_installment_status": "Κατάσταση δόσεων",
+  "hand_note_installment_payment_count_month_payment": "Αριθμός μηνών δόσεων",
+  "hand_note_installment_payment_count_month_payment_num": "{month} μήνες",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Πληροφορίες για τις δόσεις",
+  "hand_note_information_detail_total_value_title": "Σύνολο παραγγελίας",
+  "hand_note_information_detail_prepayment_amount_title": "προπληρωμένο ποσό ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Συνολικό ποσό δόσης",
+  "hand_note_information_detail_installment_tenor_title": "Τενόρος δόσεων",
+  "hand_note_information_detail_information_conversion_fee_title": "Τέλος μετατροπής πληροφοριών",
+  "hand_note_information_detail_bank_fee_title": "Τραπεζική προμήθεια",
+  "hand_note_information_detail_installment_interest_title": "Τόκοι δόσεων",
+  "hand_note_information_detail_monthly_installment_amount_title": "Ποσό μηνιαίας δόσης",
+  "hand_note_information_detail_next_due_date_title": "Επόμενη δόση τενόρος",
+  "hand_note_installment": "Δόση πληρωμής",
+  "hand_note_postpaid": "Μεταπληρωμή",
+  "hand_note_installment_history_title": "Ιστορικό δόσεων",
+  "hand_note_payment_installment_title": "Πληρωμή δόσης",
+  "hand_note_the_month_current_installment": "Μήνας: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Πρώτη πληρωμή",
+  "hand_note_remaining_balance_title": "Εναπομείναν ποσό",
+  "hand_note_extension_info": "Πληροφορίες επέκτασης",
+  "hand_note_price_extension": "Διευρυμένο ποσό",
+  "hand_note_month_paid": "{month} μήνες πληρωμής",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "Απομένουν {month} μήνες",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Ενημερώστε τις πληροφορίες σας",
+  "hand_note_invalid_full_name": "Μη έγκυρη μορφή πλήρους ονόματος",
+  "hand_note_must_enter_full_name": "Πρέπει να εισαγάγετε το πλήρες όνομά σας",
+  "hand_note_adults_num": "Πληροφορίες για ενήλικες {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Στοιχεία παιδιού {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Πληροφορίες για το μωρό {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Πληροφορίες για μικρά παιδιά {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(άνω των {age} ετών)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Από {ageFrom} - {ageTo} ετών)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(κάτω από {age} ετών)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} ημέρες",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Μέρος: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Ενημερώστε τις πληροφορίες ταξιδιωτών",
+  "hand_note_hotel_reservation_detail_title": "Λεπτομέρειες κράτησης",
+  "hand_note_tour_installment_title": "Ξενάγηση με δόσεις",
+  "hand_note_tour_extensions_payment_title": "Παράταση πληρωμής",
+  "tour_booking_screen_text_accept": "Συμφωνώ",
+  "hand_note_installment_period": "Τενόρος δόσεων",
+  "hand_note_installment_amount": "Ποσό δόσεων",
+  "hand_note_recommend_adjourn": "Αίτημα για παράταση",
+  "hand_note_number_extension": "Αριθμός ημερών παράτασης",
+  "hand_note_new_installment": "Ημερομηνία λήξης νέας δόσης",
+  "hand_note_adjourn_notice": "Για κάθε διάρκεια δόσης, έχετε μόνο μία φορά για να λάβετε παράταση πληρωμής {day} ημερών. Εάν η ημερομηνία λήξης της νέας δόσης έχει λήξει και δεν έχει πραγματοποιηθεί η τρέχουσα πληρωμή, η περιοδεία σας θα ακυρωθεί.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Δικαιολογία καθυστερημένης πληρωμής",
+  "hand_note_extension_successful": "Επιτυχής επέκταση",
+  "hand_note_part_due_note": "Η παραγγελία έχει καθυστερήσει. Επικοινωνήστε με το Κέντρο Εξυπηρέτησης Πελατών.",
+  "hand_note_notify_error_extension": "Παρουσιάστηκε σφάλμα. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hand_note_dialog_input_verify_1": "Έχουμε στείλει έναν κωδικό επιβεβαίωσης στο",
+  "hand_note_dialog_input_verify_2": "Εισαγάγετε τον κωδικό που λάβατε για να ολοκληρώσετε αυτό το βήμα.",
+  "hand_note_verify_input_code_hint": "Εισάγετε τον κωδικό επιβεβαίωσης",
+  "hand_note_title_hotel_order": "Παραγγελίες κρατήσεων ξενοδοχείων",
+  "hand_note_title_apply_coin": "Χρησιμοποιήστε νομίσματα",
+  "hand_note_request_resent_code_confirm_must_1": "Θα πρέπει να περιμένετε ένα λεπτό πριν ζητήσετε να στείλετε ξανά τον κωδικό επιβεβαίωσης.",
+  "hand_note_request_resent_code_confirm_must_2": "Θα πρέπει να περιμένετε 5 λεπτά πριν ζητήσετε να στείλετε ξανά τον κωδικό επιβεβαίωσης.",
+  "hand_note_request_resent_code_confirm_must_3": "Θα πρέπει να περιμένετε μια μέρα πριν ζητήσετε να στείλετε ξανά τον κωδικό επιβεβαίωσης.",
+  "hand_note_request_resent_code_confirm_must_4": "Θα πρέπει να περιμένετε 9 λεπτά πριν ζητήσετε να στείλετε ξανά τον κωδικό επιβεβαίωσης.",
+  "hand_note_request_resent_code_confirm_must_5": "Παρουσιάστηκε σφάλμα κατά την αποστολή του κωδικού επιβεβαίωσης. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hand_note_history_new_order_created": "Δημιουργήθηκε νέα παραγγελία",
+  "hand_note_history_change_customer_information": "Άλλαξαν τα στοιχεία των επιβατών",
+  "hand_note_history_cancellation_of_passengers": "Ακυρώθηκε επιβάτης",
+  "hand_note_history_change_flights": "Άλλαξε πτήση",
+  "hand_note_history_cancel_the_flight": "Ακυρώθηκε πτήση",
+  "fare_rule_toolbar_title": "Προϋποθέσεις ναύλων",
+  "hand_note_detail_activity_history": "Ιστορικό δραστηριότητας:",
+  "hand_note_coin_refund_amount": "Αναμενόμενα κέρματα επιστροφής χρημάτων",
+  "hand_note_tour_title": "Περιοδεία",
+  "hand_note_hotel_title": "Ξενοδοχειο",
+  "hand_note_flight_title": "Πτήση",
+  "hand_note_car_title": "Ενοικίαση αυτοκινήτων",
+  "hand_note_title": "Χειροσημειώσεις",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Ακυρος αριθμος πιστωτικης καρτας",
+  "payment_error_card_has_expired": "Η κάρτα έχει λήξει",
+  "payment_error_card_has_expired_year": "Η κάρτα έχει λήξει φέτος",
+  "payment_error_card_date_must_only_number": "Πρέπει να έχει μόνο αριθμούς σε ημερομηνίες",
+  "payment_error_card_date_is_3_digits": "Το έτος λήξης είναι 3 ψηφία",
+  "payment_error_card_date_is_4_digits": "Το έτος λήξης είναι μεγαλύτερο από 4 ψηφία",
+  "payment_error_card_date_only_number_in_date": "Πρέπει να έχει μόνο αριθμούς σε ημερομηνίες",
+  "payment_card_date_expired": "Ημερομηνία λήξης",
+  "payment_payme": "Πορτοφόλι Payme",
+  "payment_domestic": "Κάρτα ATM ή iBanking εγχώριων τραπεζών (στο Βιετνάμ)",
+  "payment_stripe": "Διεθνής κάρτα πληρωμής (Visa/MasterCard)",
+  "payment_card_number_empty": "Απαιτείται αριθμός κάρτας",
+  "payment_card_day_exit": "Απαιτείται ημερομηνία λήξης",
+  "payment_ccv_empty": "Απαιτείται κωδικός CVV",
+  "payment_error_secure_long": "Λανθασμένος κωδικός ασφαλείας",
+  "payment_error_secure_shorted": "Ο κωδικός ασφαλείας είναι πολύ μικρός για αυτόν τον τύπο κάρτας",
+  "payment_error_secure_alphabet": "Δεν επιτρέπονται αλφαβητικοί χαρακτήρες",
+  "payment_error_no_secure": "Δεν παρέχεται κωδικός ασφαλείας",
+  "payment_error_no_card_number": "Δεν εισάγονται ή περιέχουν μη αριθμητικούς χαρακτήρες",
+  "payment_error_connect_title": "Σφάλμα σύνδεσης",
+  "payment_error_connect_message": "Η σύνδεσή σας στο δίκτυο είναι ασταθής. Ελέγξτε ξανά τη σύνδεση στη συσκευή σας",
+  "payment_error_not_load_title": "Σφάλμα κατά τη φόρτωση της σελίδας",
+  "payment_error_not_load_message": "Παρουσιάστηκε σφάλμα κατά τη σύνδεση στη σελίδα ολοκλήρωσης αγοράς.",
+  "payment_error_card_number_lenght": "Ο αριθμός της κάρτας πρέπει να είναι μεγαλύτερος από 19 ψηφία",
+  "payment_error_no_date": "Δεν έχει καταχωρηθεί ημερομηνία",
+  "payment_error_invalid_date": "Μη έγκυρη μορφή ημερομηνίας ή μη έγκυρη ημερομηνία",
+  "payment_error_invalid_year": "Επιτρέπονται μόνο αριθμοί στην ημερομηνία και τον μήνα",
+  "payment_error_invalid_ccv": "Μη έγκυρο CVV",
+  "payment_error_invalid_card_holder": "Μη έγκυρος κάτοχος κάρτας",
+  "payment_alert_select_payment_method_null": "Επιλέξτε μια πύλη πληρωμής",
+  "payment_alert_card_information_incorrect": "Τα στοιχεία της κάρτας είναι λανθασμένα. Παρακαλώ ξαναελέγξτε",
+  "payment_alert_dialog_title": "Ειδοποιήσεις",
+  "payment_alert_message_dialog_message": "Μην κλείσετε ή κλείσετε την εφαρμογή κατά τη διαδικασία ολοκλήρωσης αγοράς για να διασφαλίσετε την επιτυχή πληρωμή.",
+  "payment_alert_dialog_message_payment_error": "Παρουσιάστηκε σφάλμα κατά την επεξεργασία της πληρωμής σας. Παρακαλώ ξαναελέγξτε.",
+  "payment_hint_text_country": "Χώρα...",
+  "payment_hint_text_province": "Πόλη-κράτος...",
+  "payment_show_message_dialog_title": "Γνωστοποίηση",
+  "payment_show_message_dialog_message": "Θέλετε να τερματίσετε την πληρωμή σας;",
+  "payment_show_message_dialog_negative": "Ματαίωση",
+  "payment_show_message_dialog_action": "Εντάξει",
+  "payment_bank_page_title": "Για μια ομαλή διαδικασία πληρωμής, μην κλείσετε την εφαρμογή πριν η πληρωμή είναι επιτυχής!",
+  "payment_error_expired_date": "Η κάρτα σας έχει λήξει",
+  "payment_coin_not_available": "Τα νομίσματα δεν είναι διαθέσιμα. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "payment_point_not_available": "Οι πόντοι δεν είναι διαθέσιμοι. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "payment_voucher_not_available": "Ο κωδικός κουπονιού δεν είναι διαθέσιμος. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "payment_fee_change_total_order": "Το σύνολο της παραγγελίας άλλαξε από",
+  "payment_fee_change_to": "προς την",
+  "payment_fee_change_choose_voucher_point_coint": "Επιλέξτε ξανά τον κωδικό κουπονιού/κέρματα/πόντους εάν υπάρχουν.",
+  "payment_halo_wallet": "Λογαριασμός πληρωμής Hahalolo",
+  "payment_available_balance": "Διαθέσιμο υπόλοιπο:",
+  "payment_card_holder_name": "Ονομα ιδιοκτήτη κάρτας",
+  "payment_card_cvv_cvc_name": "Κωδικός CVV/CVC",
+  "payment_card_number": "Αριθμός κάρτας",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Παρόμοιες ιδιότητες",
+  "hotel_detail_hotel_images": "Εικόνες ξενοδοχείου",
+  "hotel_detail_reviews_latest": "Αργότερο",
+  "hotel_detail_reviews_oldest": "Το πιο παλιό",
+  "hotel_detail_reviews_highest": "Υψηλότερο σκόρ",
+  "hotel_detail_reviews_lowest": "Χαμηλότερη βαθμολογία",
+  "hotel_detail_review_sort_by": "Ταξινόμηση κατά",
+  "hotel_detail_reviews": "Ανασκόπηση",
+  "hotel_detail_rate_location": "Τοποθεσία",
+  "hotel_detail_rate_price": "Τιμή",
+  "hotel_detail_rate_cleanliness": "Καθαριότητα",
+  "hotel_detail_rate_service": "Υπηρεσία",
+  "hotel_detail_rate_facilities": "Εγκαταστάσεις",
+  "hotel_detail_one_user_review": "1 κριτική",
+  "hotel_detail_x_user_reviews": "{x} κριτικές",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Η κράτηση απέτυχε",
+  "hotel_detail_please_fill_ci_co_date": "Παρακαλούμε εισάγετε τις ημερομηνίες check-in και check-out",
+  "hotel_detail_allow_pet_contact_hotel": "Τα κατοικίδια επιτρέπονται. Για τις πολιτικές για τα κατοικίδια, παρακαλείστε να επικοινωνήσετε απευθείας με το κατάλυμα.",
+  "hotel_detail_allow_pet_and_x_fee": "Τα κατοικίδια επιτρέπονται. Χρέωση για κατοικίδια: {x} (η χρέωση για κατοικίδια καταβάλλεται στο κατάλυμα).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "ΔΩΡΕΑΝ ακύρωση",
+  "hotel_detail_cancellation_with_refund": "Η ακύρωση χρεώνεται",
+  "hotel_detail_cancellation_without_refund": "Ακύρωση χωρίς επιστροφή χρημάτων",
+  "hotel_detail_cancel_non_refund": "Δεν θα λάβετε επιστροφή χρημάτων ή καταβληθέν ποσό κατά την ακύρωση.",
+  "hotel_detail_breakfast_served": "Παρέχεται πρωινό",
+  "hotel_detail_lunch_served": "Παρέχεται μεσημεριανό γεύμα",
+  "hotel_detail_dinner_served": "Παρέχεται δείπνο",
+  "hotel_detail_smoking_allow": "Το κάπνισμα επιτρέπεται",
+  "hotel_detail_smoking_not_allow": "Το κάπνισμα δεν επιτρέπεται",
+  "hotel_detail_contact_hotel": "Επικοινωνήστε με το ξενοδοχείο",
+  "hotel_detail_book_first_pay_later": "Κάντε κράτηση τώρα, πληρώστε αργότερα",
+  "hotel_detail_policy": "πολιτικών",
+  "hotel_detail_choose_the_bed_arrangement": "Επιλέξτε θήκη κρεβατιού",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Ακυρώσεις που έγιναν πριν από τις {x} στις {y}: λάβετε {z}% επιστροφή χρημάτων στην τιμή του δωματίου για την πρώτη νύχτα.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Υπηρεσίες δωματίου",
+  "hotel_detail_amenities": "Ανεσεις",
+  "hotel_detail_general_rules": "Οι κανόνες του σπιτιού",
+  "hotel_detail_change_reservation": "Αλλαγή κράτησης",
+  "hotel_detail_services_and_facilities": "Εγκαταστάσεις και υπηρεσίες",
+  "hotel_detail_x_room_and_y_night": "{x} δωμάτιο/{y} διανυκτέρευση",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} δωμάτια/{y} διανυκτερεύσεις",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 δωμάτιο/{x} διανυκτερεύσεις",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} δωμάτια/1 διανυκτέρευση",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 δωμάτιο/1 διανυκτέρευση",
+  "hotel_detail_x_rooms_and_y_adults": "{x} δωμάτια - {y} επισκέπτες",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 δωμάτιο - {x} επισκέπτες",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 δωμάτιο - 1 επισκέπτης",
+  "hotel_detail_child_count": "1 παιδί",
+  "hotel_detail_x_children": "{x} παιδιά",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Λεπτομέρειες δωματίου",
+  "hotel_detail_room_policy_and_conditions": "Προϋποθέσεις και Πολιτικές",
+  "hotel_detail_person_count": "1 επισκέπτης",
+  "hotel_detail_x_people": "{x} καλεσμένοι",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} από το κέντρο",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} από την τοποθεσία αναζήτησης",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "Στο κέντρο της πόλης",
+  "hotel_detail_check_in": "Check-in",
+  "hotel_detail_check_out": "Ολοκλήρωση αγοράς",
+  "hotel_detail_cancelation_policy": "Ακύρωση",
+  "hotel_detail_child_policy": "Παιδιά",
+  "hotel_detail_pet_policy": "Κατοικίδια",
+  "hotel_detail_check_in_x": "Μετά από {x}",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Πριν από {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Μόνο 1 έμεινε",
+  "hotel_detail_only_x_room": "Απομένουν μόνο {x}",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Επιτρέπονται παιδιά ηλικίας από {range}.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Τα κατοικίδια επιτρέπονται. Η χρέωση για τα κατοικίδια καταβάλλεται στο ξενοδοχείο.",
+  "hotel_detail_pet_policy_do_not_allow": "Τα κατοικίδια δεν επιτρέπονται.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Ακυρώσεις που έγιναν {x}ώρες πριν από το check-in: λάβετε επιστροφή χρημάτων {y}% της τιμής του δωματίου για την πρώτη νύχτα.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Ακυρώσεις που έγιναν {x}ώρες πριν από το check-in: λάβετε επιστροφή χρημάτων {y}% της τιμής του δωματίου για όλες τις νύχτες.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Δωρεάν ακύρωση πριν από τις {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Κάντε κράτηση για 1 δωμάτιο",
+  "hotel_detail_book_x_room": "Κάντε κράτηση για {x} δωμάτια",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Καλύτερη τιμή",
+  "hotel_detail_bed": "1 κρεβάτι",
+  "hotel_detail_x_beds": "{x} κρεβάτια",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Έκπτωση {x}% μόνο σήμερα",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Επιλέξτε δωμάτιο",
+  "hotel_detail_has_x_room_types": "(Σύνολο {x} διαθέσιμοι τύποι δωματίων",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Σύνολο 1 τύπος δωματίου διαθέσιμος)",
+  "hotel_detail_children_policy_do_not_allow": "Το ξενοδοχείο δεν έχει πολιτική για τα παιδιά. Τα παιδιά δεν θα υπολογίζονται στον αριθμό των αναζητήσεων. Παρακαλείστε να επικοινωνήσετε με το ξενοδοχείο εάν υπάρχουν παιδιά που συνοδεύουν.",
+  "hotel_detail_children_policy_range_allow": "Η πολιτική του ξενοδοχείου για τα παιδιά επιτρέπει παιδιά ηλικίας {range}. Για πληροφορίες σχετικά με τις πολιτικές και τους κανονισμούς του ξενοδοχείου, ανατρέξτε στην ενότητα Κανόνων σπιτιού του ξενοδοχείου ή επικοινωνήστε με το ξενοδοχείο για περισσότερες πληροφορίες.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Πληροφορίες δωματίου",
+  "hotel_detail_x_fee_person_and_day": "{x}/επισκέπτης/ημέρα",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/αυτοκίνητο/ημέρα",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "ΠΡΩΙΝΟ ΓΕΥΜΑ",
+  "hotel_detail_lunch": "Μεσημεριανό",
+  "hotel_detail_dinner": "Δείπνο",
+  "hotel_detail_smoking": "Καπνός",
+  "hotel_detail_parking": "Στάθμευση",
+  "hotel_detail_local_time": "(Τοπική ώρα)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Ακυρώσεις που έγιναν πριν από τις {x} στις {y}: Λάβετε {z}% επιστροφή χρημάτων στην τιμή του δωματίου για όλες τις νύχτες.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Ακυρώσεις που έγιναν πριν από τις {x} στις {y}: Λάβετε επιστροφή χρημάτων ύψους {z} της τιμής δωματίου.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Συμφωνίες",
+  "hotel_detail_free_breakfast": "Δωρεάν πρωινό",
+  "hotel_detail_free_lunch": "Δωρεάν γεύμα",
+  "hotel_detail_free_dinner": "Δωρεάν δείπνο",
+  "hotel_detail_allow_smoking": "Το κάπνισμα επιτρέπεται",
+  "hotel_detail_free_parking": "Δωρεάν στάθμευση",
+  "hotel_detail_room_not_found": "Δεν βρέθηκαν δωμάτια!",
+  "hotel_detail_no_result": "Δεν μπορέσαμε να βρούμε αποτελέσματα που να ταιριάζουν με την αναζήτησή σας. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_detail_similar_hotels_title": "Παρόμοιες ιδιότητες",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Η παραγγελία δεν είναι επιλέξιμη για πληρωμή",
+  "hotel_booking_dialog_qualified_orders": "Η παραγγελία είναι επιλέξιμη με συνολικό ποσό",
+  "hotel_booking_dialog_coupon_code_coins_points": "Μπορείτε να αλλάξετε τον Κωδικό κουπονιού, τα νομίσματα ή τους πόντους για να είστε επιλέξιμοι για πληρωμή",
+  "hotel_booking_dialog_or_minimum": "ή ελάχιστο από",
+  "hotel_booking_widget_dialog_cannot_used_information": "Αυτές οι πληροφορίες δεν μπορούν να χρησιμοποιηθούν αυτήν τη στιγμή. Χρησιμοποιήστε άλλο ή αποθηκεύστε ένα νέο.",
+  "hotel_booking_component_applied_points_successfully": "Έχετε εφαρμόσει πόντους με επιτυχία",
+  "hotel_booking_use_point": "Χρησιμοποιήστε πόντους",
+  "hotel_booking_point_switch_on_hint": "Απενεργοποιήστε τη χρήση πόντων για να ακυρώσετε την εφαρμογή πόντων για αυτήν την παραγγελία",
+  "hotel_booking_point_switch_off_hint": "Ενεργοποιήστε τη χρήση πόντων για να εισαγάγετε τον αριθμό των πόντων που θα χρησιμοποιήσετε για αυτήν την παραγγελία",
+  "hotel_booking_point_user_point": "Διαθέσιμα σημεία",
+  "hotel_booking_point_available_point": "Διαθέσιμο για παραγγελίες",
+  "hotel_booking_point_user_want_to_use_hint": "Αριθμός σημείων που θέλετε να χρησιμοποιήσετε",
+  "hotel_booking_point_equivalent_to": "Ισοδυναμεί με",
+  "hotel_booking_point_press": "Τύπος",
+  "hotel_booking_point_apply": "Ισχύουν",
+  "hotel_booking_point_apply_for_payment": "για την εφαρμογή του ποσού στην πληρωμή",
+  "hotel_booking_points_apply_hint": "Το ποσό θα χρησιμοποιηθεί για την πληρωμή αυτής της παραγγελίας.",
+  "hotel_booking_payment_3001_error": "Η κάρτα δεν υποστηρίζεται. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3002_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3003_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3004_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3005_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3006_error": "Η κάρτα έχει λήξει. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3007_error": "Μη έγκυρος κωδικός CVC. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3008_error": "ΑΚΥΡΟ νουμερο κάρτας. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3009_error": "Αυτό το νόμισμα δεν υποστηρίζεται. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_payment_3010_error": "Παρουσιάστηκε σφάλμα κατά τη διαδικασία πληρωμής. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα.",
+  "hotel_booking_modify_coin_applied": "Έχουν εφαρμοστεί νομίσματα για την πληρωμή. Δείτε τις λεπτομέρειες στο Σύνολο.",
+  "hotel_booking_modify_voucher_applied": "Έχουν εφαρμοστεί νομίσματα για την πληρωμή. Δείτε τις λεπτομέρειες στο Σύνολο.",
+  "hotel_booking_modify_point_applied": "Έχουν εφαρμοστεί πόντοι για την πληρωμή. Δείτε τις λεπτομέρειες στο Σύνολο.",
+  "hotel_booking_modify_point_canceled": "Η εφαρμογή πόντων για την πληρωμή αυτής της παραγγελίας έχει ακυρωθεί.",
+  "hotel_booking_modify_4006_error": "Το κουπόνι δεν είναι διαθέσιμο",
+  "hotel_booking_modify_4007_error": "Το κουπόνι κρατήθηκε",
+  "hotel_booking_modify_4008_error": "Η παραγγελία δεν είναι κατάλληλη για κωδικό κουπονιού. Παρακαλούμε ελέγξτε και προσπαθήστε ξανά.",
+  "hotel_booking_modify_2004_error": "Απέτυχε η εφαρμογή",
+  "hotel_booking_pay_1005_error": "Λανθασμένη τιμή",
+  "hotel_booking_pay_2002_error": "Δεν βρέθηκαν παραγγελίες",
+  "hotel_booking_pay_2004_error": "Η πληρωμή απέτυχε",
+  "hotel_booking_pay_6002_error": "Λανθασμένες πληροφορίες κάρτας",
+  "hotel_booking_pay_6003_error": "Η κάρτα δεν γίνεται δεκτή",
+  "hotel_booking_pay_6004_error": "Σφάλμα δημιουργίας παραγγελίας",
+  "hotel_booking_pay_6005_error": "Σφάλμα κράτησης TVP",
+  "hotel_booking_required_city": "Η πόλη είναι απαραίτητη",
+  "hotel_booking_sub_bed": "Επιπλέον κρεβάτι",
+  "hotel_booking_information": "Πληροφορίες κράτησης",
+  "hotel_booking_room_information": "Πληροφορίες δωματίου",
+  "hotel_booking_room_hotel": "Ξενοδοχειο",
+  "hotel_booking_x_nights": "{x} διανυκτερεύσεις",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 διανυκτέρευση",
+  "hotel_booking_change": "Αλλαγή",
+  "hotel_booking_user_contact": "Στοιχεία επικοινωνίας",
+  "hotel_bookng_without_tone_marks": "(χωρίς τόνους)",
+  "hotel_booking_first_name": "Ονομα",
+  "hotel_booking_last_name": "Επίθετο",
+  "hotel_booking_middle_name": "Μεσαίο όνομα",
+  "hotel_booking_given_name": "Μέσος & Όνομα/Ονοματεπώνυμο",
+  "hotel_booking_phone_number": "Τηλεφωνικό νούμερο",
+  "hotel_booking_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "hotel_booking_country": "Χώρα",
+  "hotel_booking_im_a_guest": "Είμαι φιλοξενούμενος",
+  "hotel_booking_guest_information": "Πληροφορίες επισκεπτών",
+  "hotel_booking_fill_contact_information": "Εισαγάγετε τα στοιχεία επικοινωνίας σας ή του ατόμου που είναι υπεύθυνο για τη διατήρηση επαφής με τον πάροχο υπηρεσιών διαμονής.",
+  "hotel_booking_name_as_in_passport": "Πλήρες όνομα όπως αναγράφεται στην ταυτότητα/Διαβατήριο",
+  "hotel_booking_payments": "Επιλογές πληρωμής",
+  "hotel_booking_prepay": "Πλήρωσε τώρα",
+  "hotel_booking_postpaid": "Πλήρωσε αργότερα",
+  "hotel_booking_prepay_description": "Το Hahalolo θα σας βοηθήσει να διεκπεραιώσετε την πληρωμή σας. Θα πληρώσετε ολόκληρο το ποσό σήμερα με την ολοκλήρωση της κράτησης.",
+  "hotel_booking_postpaid_description": "Το κατάλυμα θα επεξεργαστεί την πληρωμή σας. Ανάλογα με τις συνθήκες κράτησης, μπορείτε να πληρώσετε εν μέρει ή πλήρως στο κατάλυμα.",
+  "hotel_booking_bill_information": "Πληροφορίες Πληρωμής",
+  "hotel_booking_use_contact_information": "Χρησιμοποιήστε τα στοιχεία επικοινωνίας",
+  "hotel_booking_state": "κατάσταση",
+  "hotel_booking_city": "Πόλη",
+  "hotel_booking_save_payment_information": "Αποθηκεύστε τα στοιχεία πληρωμής για την επόμενη φορά",
+  "hotel_booking_use_x_y_to_pay": "Χρησιμοποιήστε το {x} {y} για πληρωμή",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Ισοδυναμεί με {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Μέθοδος πληρωμής",
+  "hotel_booking_payment_note": "Σημείωση: Το HAHALOLO θα υποστηρίζει τους χρήστες με ΔΩΡΕΑΝ τραπεζικές χρεώσεις",
+  "hotel_booking_free": "Ελεύθερος",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Υπάρχει κάτι άλλο που μπορούμε να σας βοηθήσουμε;",
+  "hotel_booking_inform_the_accommodation": "Θα ενημερώσουμε το ακίνητο ότι ενδιαφέρεστε για αυτές τις υπηρεσίες. Παρακαλώ σημειώστε.",
+  "hotel_booking_can_not_guaranteed": "Το αίτημά σας δεν είναι εγγυημένο. Μην ανησυχείς! Το ακίνητο θα προσπαθήσει να καλύψει τις ανάγκες σας.",
+  "hotel_booking_additional_services": "Αυτές είναι επιπλέον υπηρεσίες που προκύπτουν πέρα ​​από το αίτημα κράτησης και ενδέχεται να επιβαρυνθούν με πρόσθετες χρεώσεις για το κατάλυμα κατά τη χρήση.",
+  "hotel_booking_note": "Σημείωση",
+  "hotel_booking_promo_apply_rule": "Τα νομίσματα και ο κωδικός κουπονιού δεν ισχύουν για τους παρακάτω τρόπους πληρωμής.",
+  "hotel_booking_saved_payment_information": "Τα στοιχεία πληρωμής αποθηκεύτηκαν",
+  "hotel_booking_fill_new_payer_information": "Εισαγάγετε νέα στοιχεία πληρωτή",
+  "hotel_booking_maximum_coins_can_be_use": "Ο μέγιστος αριθμός κερμάτων μπορεί να χρησιμοποιηθεί για αυτήν την παραγγελία.",
+  "hotel_booking_coins": "Νομίσματα",
+  "hotel_booking_unknown": "Δεν γνωρίζω",
+  "hotel_booking_planning_arrive_after_x_date": "Εάν σκοπεύετε να φτάσετε μετά τις {x}, ενημερώστε τον οικοδεσπότη για την προγραμματισμένη ώρα check-in:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Υπάρχει δυνατότητα χρέωσης για πρόσθετες υπηρεσίες. Παρακαλείστε να επικοινωνήσετε με το κατάλυμα εκ των προτέρων για περισσότερες πληροφορίες.",
+  "hotel_booking_term_and_policies": "Όροι - Πολιτικές",
+  "hotel_booking_privacy_policy": "Πολιτική Απορρήτου",
+  "hotel_booking_tp_and_pp": "Προχωρώντας στο επόμενο βήμα, επιβεβαιώνω ότι έχω διαβάσει και συμφωνήσει με τους Όρους - Πολιτικές και Πολιτική Απορρήτου της Hahalolo",
+  "hotel_booking_important_note": "Σημείωση",
+  "hotel_booking_select_time": "Επιλέξτε ώρα",
+  "hotel_booking_room_x_night": "Δωμάτιο x 1, 1 διανυκτέρευση",
+  "hotel_booking_x_rooms_x_night": "Δωμάτιο x {x}, 1 διανυκτέρευση",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Δωμάτιο x {x}, {y} διανυκτερεύσεις",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Δωμάτιο x 1, {x} διανυκτερεύσεις",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Φόροι & τέλη",
+  "hotel_booking_service_charge": "Κόστος υπηρεσίας",
+  "hotel_booking_payment_fees": "Τέλος πληρωμής",
+  "hotel_booking_accommodation_currency": "Νόμισμα ιδιοκτησίας",
+  "hotel_booking_points_fees": "Χρησιμοποιήστε πόντους",
+  "hotel_booking_coins_fees": "Χρησιμοποιήστε νομίσματα",
+  "hotel_booking_voucher_fees": "Κωδικός κουπονιού",
+  "hotel_booking_discount": "Προβολή",
+  "hotel_booking_meal_service": "Υπηρεσία γευμάτων",
+  "hotel_booking_meal_service_description": "Παρακάτω είναι οι υπηρεσίες πρωινού που μπορεί να σας παρέχει το κατάλυμα. Εάν επιθυμείτε να υποβάλετε αίτηση για αυτήν την υπηρεσία, επικοινωνήστε απευθείας με τη ρεσεψιόν του καταλύματος.",
+  "hotel_booking_meal_price_per_breakfast": "Τιμή ανά είδος πρωινού",
+  "hotel_booking_extended_service": "Επιπλέον υπηρεσίες",
+  "hotel_booking_extended_service_description": "Επιλέξτε τον συνολικό αριθμό επιπλέον κρεβατιών που θέλετε να προσθέσετε σε αυτήν την παραγγελία. Επιτρέπεται να προσθέσετε έως και {x} επιπλέον κρεβάτια.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Ποσότητα",
+  "hotel_booking_total": "Σύνολο",
+  "hotel_booking_unit_price": "Τιμή",
+  "hotel_booking_x_price_per_person_per_day": "{x} άτομα/ημέρα",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} κρεβάτια/άτομο/ημέρα",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Λεπτομέρειες τιμής",
+  "hotel_booking_billings_information": "Πληροφορίες Πληρωμής",
+  "hotel_booking_service_charge_description": "Θα διατηρήσουμε αυτή τη χρέωση ως προμήθεια για την υπηρεσία και την υποστήριξη σε ζητήματα που σχετίζονται με τις κρατήσεις σας στο σύστημα Hahalolo.",
+  "hotel_booking_payment_fees_description": "Προμήθεια πληρωμής είναι το ποσό των προμηθειών συναλλαγής ανά συναλλαγή που χρειάζεστε για να πληρώσετε τους προμηθευτές υπηρεσιών πληρωμών στο διαδίκτυο.",
+  "hotel_booking_taxes_and_fees_description": "Οι φόροι και τα τέλη είναι το χρηματικό ποσό που χρεώνεται σύμφωνα με τους κανονισμούς του ακινήτου (ξενοδοχείου) που καλείστε να πληρώσετε όταν χρησιμοποιείτε τις υπηρεσίες διαμονής του. Διαβάστε τους Όρους Χρήσης για περισσότερες λεπτομέρειες.",
+  "hotel_booking_accommodation_currency_description": "Η τιμή έχει μετατραπεί με βάση το διαθέσιμο νόμισμα του Προμηθευτή.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Η συναλλαγματική ισοτιμία υπόκειται σε αλλαγές προτού πληρώσετε.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Ο εκδότης της κάρτας σας μπορεί να χρεώσει ένα τέλος συναλλαγής στο εξωτερικό.",
+  "hotel_booking_enter_maximum_x_char": "Εισαγάγετε έως {x} χαρακτήρες",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Οι πόντοι δεν είναι διαθέσιμοι.",
+  "hotel_booking_coin_not_available": "Τα νομίσματα δεν είναι διαθέσιμα.",
+  "hotel_booking_voucher_not_available": "Ο κωδικός κουπονιού δεν είναι διαθέσιμος.",
+  "hotel_booking_please_check_again": "Παρακαλώ ξαναελέγξτε.",
+  "hotel_booking_point_change": "Ο αριθμός των πόντων που εφαρμόστηκαν άλλαξε λόγω της αλλαγής της συνολικής πληρωμής.",
+  "hotel_booking_hold_warning": "Η κράτηση του ακινήτου σας έχει πραγματοποιηθεί, επομένως δεν μπορείτε να αλλάξετε τις πληροφορίες παραγγελίας. Κάντε μια πληρωμή για να ολοκληρώσετε την κράτησή σας.",
+  "hotel_booking_total_point_change": "Οι διαθέσιμοι πόντοι σας έχουν αλλάξει. Εισαγάγετε τον αριθμό των Πόντων για να κάνετε αίτηση για την παραγγελία.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Χάρτης",
+  "hotel_list": "Λίστα",
+  "hotel_from_the_center": "Από το κέντρο",
+  "hotel_from_the_location": "Από τη θέση αναζήτησης",
+  "hotel_right_in_the_center": "Στο κέντρο της πόλης",
+  "hotel_breakfast_is_served": "Δωρεάν πρωινό",
+  "hotel_no_breakfast_served": "Δεν παρέχεται πρωινό",
+  "hotel_dinner_is_served": "Παρέχεται δείπνο",
+  "hotel_no_dinner_service": "Δεν παρέχεται δείπνο",
+  "hotel_lunch_is_served": "Παρέχεται μεσημεριανό γεύμα",
+  "hotel_no_lunch_service": "Δεν παρέχεται μεσημεριανό γεύμα",
+  "hotel_allow_smoking": "Το κάπνισμα επιτρέπεται",
+  "hotel_no_smoking": "Το κάπνισμα δεν επιτρέπεται",
+  "hotel_no_refund": "Ακύρωση χωρίς επιστροφή χρημάτων",
+  "hotel_without_fee": "Η ακύρωση χρεώνεται",
+  "hotel_free_cancel": "ΔΩΡΕΑΝ ακύρωση",
+  "hotel_pay_later": "Κάντε κράτηση τώρα, πληρώστε αργότερα",
+  "hotel_fee": "Παρέχεται πρωινό",
+  "hotel_free": "ΔΩΡΕΑΝ πρωινό",
+  "hotel_not_refund": "Δεν θα λάβετε επιστροφή χρημάτων ή καταβληθέν ποσό κατά την ακύρωση",
+  "hotel_no_vacancy": "Εξαντλημένα",
+  "hotel_choose_room": "Επιλέξτε δωμάτιο",
+  "hotel_change_date": "Αλλαγή ημερομηνίας",
+  "hotel_change_price_display": "Εμφάνιση τιμής",
+  "hotel_continue": "Μόνο",
+  "hotel_room_available": "αριστερά",
+  "hotel_room": "δωμάτιο",
+  "hotel_night": "Νύχτα",
+  "hotel_date_checking": "Ημερομηνία άφιξης",
+  "hotel_date_checkout": "Ημερομηνία αναχώρησης",
+  "hotel_search": "Αναζήτηση",
+  "hotel_promotion": "Προβολή",
+  "hotel_promotions": "Προσφορές",
+  "hotel_applying": "εφαρμόζοντας",
+  "hotel_promotion_applying": "ισχύουσα προώθηση",
+  "hotel_promotions_applying": "ισχύουσες προσφορές",
+  "hotel_title_promotions_applying": "Ισχύουσα προώθηση",
+  "hotel_see_detail": "Δείτε λεπτομέρειες",
+  "hotel_cancel": "Για ακύρωση εντός {x}ωρών πριν από την ώρα του check-in θα επιστραφεί το {y}% της τιμής του δωματίου για",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Λάβετε έκπτωση {x} ανά διανυκτέρευση όταν οι επισκέπτες μένουν μεταξύ {y}-{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Λάβετε έκπτωση {x} ανά διανυκτέρευση, (μέγιστο {a} σε παραγγελία κράτησης) όταν οι επισκέπτες μένουν μεταξύ {y}-{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "Έκπτωση {x} για κρατήσεις {y} ημερών πριν. Ισχύει όταν οι επισκέπτες μένουν από {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "Έκπτωση {x}, μέγιστη τιμή {y} για κρατήσεις {z} ημερών πριν. Ισχύει όταν οι επισκέπτες μένουν από {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "Έκπτωση {x} για κρατήσεις {z} ημερών πριν. Ισχύει όταν οι επισκέπτες μένουν από {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "Έκπτωση {x} για κρατήσεις άνω των {y} διανυκτερεύσεων. Ισχύει όταν οι επισκέπτες μένουν από {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "Έκπτωση {x}, μέγιστη τιμή {y} για κρατήσεις άνω των {z} διανυκτερεύσεων. Ισχύει όταν οι επισκέπτες μένουν από {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "Έκπτωση {x} για κρατήσεις άνω των {z} διανυκτερεύσεων. Ισχύει όταν οι επισκέπτες μένουν από {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "όλες τις νύχτες",
+  "hotel_first_night": "πρώτη νύχτα",
+  "hotel_rating": "Ανασκόπηση",
+  "hotel_wonderful": "Εξοχος",
+  "hotel_very_good": "Πολύ καλά",
+  "hotel_satisfied": "Ικανοποιημένος",
+  "hotel_medium": "Μέση τιμή",
+  "hotel_bad": "Φτωχός",
+  "hotel_hand_note_consult_book_room": "Αναζητήστε την κράτηση",
+  "hotel_hand_note_enter_code_search_info": "Εισαγάγετε τον αριθμό κράτησής σας για να αναζητήσετε τα στοιχεία της κράτησής σας",
+  "hotel_hand_note_reservation_code": "Αριθμός κράτησης",
+  "hotel_hand_note_can_not_find_hotel": "Λυπούμαστε, δεν μπορέσαμε να βρούμε ξενοδοχεία που να ταιριάζουν με την αναζήτησή σας.",
+  "hotel_hand_note_search_night": "Αριθμός νυχτών",
+  "hotel_hand_note_num_room": "Αριθμός δωματίων",
+  "hotel_hand_note_status_booking": "Κατάσταση κράτησης",
+  "hotel_hand_note_booked": "Κράτηση",
+  "hotel_hand_note_dont_booked": "Δεν έχω κάνει κράτηση ακόμα",
+  "hotel_hand_note_total_price": "Συνολικό ποσό",
+  "hotel_hand_note_status": "Κατάσταση",
+  "hotel_hand_note_payment_after": "Παρακαλώ πληρώστε εκ των προτέρων",
+  "hotel_hand_note_pay_now": "Πλήρωσε τώρα",
+  "hotel_hand_note_info_book_room": "Πληροφορίες κράτησης",
+  "hotel_hand_note_code_book_room": "Αριθμός κράτησης:",
+  "hotel_hand_note_checking": "Check-in",
+  "hotel_hand_note_checkout": "Ολοκλήρωση αγοράς",
+  "hotel_hand_note_detail": "Δείτε λεπτομέρειες",
+  "hotel_hand_note_kind_room": "Τύπος δωματίου",
+  "hotel_hand_note_quantity": "Ποσότητα",
+  "hotel_hand_note_room": "δωμάτιο",
+  "hotel_hand_note_visited": "Επισκέπτης",
+  "hotel_hand_note_adult": "ενήλικας",
+  "hotel_hand_note_children": "παιδιά",
+  "hotel_hand_note_number_nights": "Αριθμός διανυκτερεύσεων",
+  "hotel_hand_note_night": "Νύχτα",
+  "hotel_hand_note_status_payment": "Κατάσταση πληρωμής",
+  "hotel_hand_note_cancel_order": "Ακύρωση παραγγελίας",
+  "hotel_hand_note_info_refund": "Πληροφορίες Αποζημίωσης",
+  "hotel_hand_note_rate_experience": "Ελέγξτε την εμπειρία σας στο",
+  "hotel_hand_note_rate": "Ανασκόπηση",
+  "hotel_hand_note_see_rate": "Δείτε κριτικές",
+  "hotel_hand_note_rate_overall_rating": "Η συνολική σας κριτική στο ξενοδοχείο",
+  "hotel_hand_note_rate_average": "Μέση τιμή",
+  "hotel_hand_note_position": "Τοποθεσία",
+  "hotel_hand_note_price": "Τιμή",
+  "hotel_hand_note_clean": "Καθαριότητα",
+  "hotel_hand_note_serve": "Υπηρεσία",
+  "hotel_hand_note_material_facilities": "Εγκαταστάσεις",
+  "hotel_hand_note_review": "Μοιραστείτε τα συναισθήματα και τις κριτικές σας.",
+  "hotel_hand_note_review_limit": "Η κριτική θα πρέπει να έχει τουλάχιστον 2 χαρακτήρες.",
+  "hotel_hand_note_cancel": "Ματαίωση",
+  "hotel_hand_note_submit_review": "Υποβολή κριτικής",
+  "hotel_hand_note_room_rates": "Τιμή δωματίου",
+  "hotel_hand_note_extra_bed": "Επιπλέον κρεβάτι",
+  "hotel_hand_note_service_charge": "Κόστος υπηρεσίας",
+  "hotel_hand_note_payment_fees": "Τέλος πληρωμής",
+  "hotel_hand_note_promotion": "Προβολή",
+  "hotel_hand_note_voucher": "Κωδικός κουπονιού",
+  "hotel_hand_note_use_coins": "Χρησιμοποιήστε νομίσματα",
+  "hotel_hand_note_rates_include": "Συμπεριλαμβανομένης της τιμής",
+  "hotel_hand_note_see_review_title": "Δείτε την κριτική σας σχετικά με το {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Αξιολογήθηκε στις {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Σας ευχαριστούμε, για την κριτική σας",
+  "hotel_hand_note_use_point": "Χρησιμοποιήστε πόντους",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Δωρεάν ακύρωση πριν από τις {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Τοπική ώρα)",
+  "hotel_hand_note_hotel_apartment": "Διαμέρισμα",
+  "hotel_hand_note_hostel": "Ξενοδοχείο",
+  "hotel_hand_note_hotel": "Ξενοδοχειο",
+  "hotel_hand_note_resort": "Θέρετρο",
+  "hotel_hand_note_other": "Αλλα",
+  "hotel_hand_note_motel": "Μοτέλ",
+  "hotel_hand_note_villa": "Βίλα",
+  "hotel_hand_note_vacation_home": "Εξοχικό σπίτι",
+  "hotel_hand_note_homestay": "Κατοικία",
+  "hotel_hand_note_farmstay": "Διαμονή στο αγρόκτημα",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Κρουαζιέρα",
+  "hotel_hand_note_boathouse": "Σκάφος",
+  "hotel_hand_note_countryhouse": "Εξοχική κατοικία",
+  "hotel_hand_note_campground": "Χώρος κατασκήνωσης",
+  "hotel_hand_note_camper": "Τροχόσπιτο",
+  "hotel_hand_note_lodge": "Οίκημα",
+  "hotel_hand_note_guesthouse": "Ξενώνας",
+  "hotel_hand_note_cancel_hotel": "Ακύρωση",
+  "hotel_update_price": "Ενημέρωση τιμών",
+  "hotel_distance_x_from_center": "{distance}{x} από το κέντρο",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} από την τοποθεσία αναζήτησης",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "Έκπτωση {x} ανά διανυκτέρευση όταν οι επισκέπτες μένουν μεταξύ {y}-{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Αριθμός δωματίων και επισκεπτών",
+  "hotel_add_room_children": "Παιδιά",
+  "hotel_add_room_age_upto": "(Ηλικίες 0 - 17)",
+  "hotel_add_room_child": "Παιδί",
+  "hotel_add_room_age": "ηλικία",
+  "hotel_add_room_cancel": "Ματαίωση",
+  "hotel_add_room_choose_age": "Επιλέξτε ηλικία",
+  "hotel_add_room_done": "Ολοκληρώθηκε",
+  "hotel_add_room_room": "Δωμάτιο",
+  "hotel_add_room_adult": "Ενήλικας",
+  "hotel_add_room_adults": "Ενήλικες",
+  "hotel_add_room_age_children": "Ηλικία των παιδιών",
+  "hotel_add_room_age_child": "Ηλικία των παιδιών",
+  "hotel_add_room_condition": "Ο αριθμός των δωματίων και των επισκεπτών ανά δωμάτιο δεν πρέπει να είναι μεγαλύτερος από 9.",
+  "hotel_add_room_note": "Σημείωση",
+  "hotel_add_room_save": "Αποθηκεύσετε",
+  "hotel_cart_child": "Παιδί",
+  "hotel_cart_children": "Παιδιά",
+  "hotel_cart_delete": "Διαγράφω",
+  "hotel_cart_change": "Αλλαγή",
+  "hotel_cart_book_room": "Κάντε κράτηση δωματίου",
+  "hotel_cart_night": "Νύχτα",
+  "hotel_cart_title_included_texas_fee": "Συμπεριλαμβανομένων των φόρων και των τελών",
+  "hotel_cart_temporary_price": "ΜΕΡΙΚΟ ΣΥΝΟΛΟ",
+  "hotel_cart_delete_order": "Διαγραφή παραγγελίας",
+  "hotel_screen_cart_delete_order_confirm": "Θέλετε να διαγράψετε αυτήν την παραγγελία;",
+  "hotel_order_detail_info_hotel": "Πληροφορίες κράτησης",
+  "hotel_order_detail_done": "Ολοκληρώθηκε",
+  "hotel_order_detail_detail": "Δείτε λεπτομέρειες",
+  "hotel_order_detail_book_new": "Κάντε κράτηση για ένα νέο δωμάτιο",
+  "hotel_order_detail_success": "Επιτυχής κράτηση",
+  "hotel_order_detail_requests_success": "Το αίτημα κράτησής σας έγινε με επιτυχία",
+  "hotel_order_detail_paid": "(Επί πληρωμή).",
+  "hotel_order_detail_reservation": "Μπορείτε να ελέγξετε τις λεπτομέρειες κράτησης παρακάτω.",
+  "hotel_order_detail_thank": "Σας ευχαριστούμε για την εμπιστοσύνη σας στις υπηρεσίες του",
+  "hotel_order_detail_support": "Εάν έχετε οποιεσδήποτε ερωτήσεις ή χρειάζεστε περαιτέρω βοήθεια, επικοινωνήστε με το Κέντρο βοήθειας Hahalolo",
+  "hotel_order_detail_instructions": "για οδηγίες.",
+  "hotel_order_detail_info_rest": "Πληροφορίες ιδιοκτησίας",
+  "hotel_order_detail_hotel": "Ξενοδοχειο",
+  "hotel_order_detail_type": "Τύπος δωματίου",
+  "hotel_order_detail_check_in": "Check-in",
+  "hotel_order_detail_check_out": "Ολοκλήρωση αγοράς",
+  "hotel_order_detail_visited": "Αριθμός των καλεσμένων",
+  "hotel_order_detail_adult": "ενήλικας",
+  "hotel_order_detail_children": "παιδιά",
+  "hotel_order_detail_baby": "μωρό (κάτω του 1 έτους)",
+  "hotel_order_detail_contact": "Στοιχεία επικοινωνίας",
+  "hotel_order_detail_lastname": "Πλήρες όνομα",
+  "hotel_order_detail_tel_number": "Τηλεφωνικό νούμερο",
+  "hotel_order_detail_nationality": "Ιθαγένεια",
+  "hotel_order_detail_note": "Σημείωση",
+  "hotel_order_detail_guests": "Πληροφορίες επισκεπτών",
+  "hotel_order_detail_trade": "Πληροφορίες συναλλαγής",
+  "hotel_order_detail_order_form": "Σειρά",
+  "hotel_order_detail_payment": "Ποσό ΠΛΗΡΩΜΗΣ",
+  "hotel_order_detail_bed_type": "Τύπος κρεβατιού",
+  "hotel_order_detail_extra_bed": "Επιπλέον κρεβάτι",
+  "hotel_order_detail_bed": "κρεβάτι",
+  "hotel_order_detail_reservation_code": "Αριθμός κράτησης",
+  "hotel_order_detail_payer": "Πληρωτής",
+  "hotel_search_code_total_price": "Συνολικό ποσό",
+  "hotel_search_code_voucher": "Κωδικός κουπονιού",
+  "hotel_search_code_use_coin": "Χρησιμοποιήστε νομίσματα",
+  "hotel_search_code_use_point": "Χρησιμοποιήστε πόντους",
+  "hotel_search_code_total_pay": "Συνολική πληρωμή",
+  "hotel_search_code_detail_pay": "Οι λεπτομέρειες πληρωμής",
+  "hotel_hand_note_hotel_policy_check_out": "- Check-out πριν από {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Check-in μετά το {checkin}",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Πολιτική ακύρωσης",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Τα δωρεάν χρονοδιαγράμματα ακύρωσης βασίζονται στη ζώνη ώρας του καταλύματος και καθορίζονται από την πολιτική ακύρωσης του καταλύματος.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x δωμάτιο, {night} x night",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Φόροι και τέλη",
+  "hotel_hand_note_detail_total_amount": "Συνολική πληρωμή",
+  "hotel_hand_note_detail_success": "Επιτυχής",
+  "hotel_hand_note_detail_failed": "Απέτυχε",
+  "hotel_hand_note_detail_postpaid": "Μεταπληρωμή",
+  "hotel_hand_note_detail_prepaid": "Προπληρωμένος",
+  "hotel_hand_note_detail_operation_history": "Ιστορικό δραστηριότητας",
+  "hotel_hand_note_detail_order_cancel_info": "Πληροφορίες ακύρωσης παραγγελίας",
+  "hotel_hand_note_detail_order_total_order": "Σύνολο παραγγελίας",
+  "hotel_hand_note_detail_total_money": "Συνολικό ποσό που καταβλήθηκε",
+  "hotel_hand_note_detail_coin": "νομίσματα",
+  "hotel_hand_note_detail_fee_cancel": "Τέλος ακύρωσης",
+  "hotel_hand_note_detail_refund_amount": "Εκτιμώμενο ποσό επιστροφής χρημάτων",
+  "hotel_hand_note_detail_coin_refund_amount": "Εκτιμώμενα κέρματα επιστροφής χρημάτων",
+  "hotel_hand_note_detail_payment_info": "Πληροφορίες Πληρωμής",
+  "hotel_hand_note_detail_customer_service": "Ο κωδικός κουπονιού δεν επιστρέφεται. Επικοινωνήστε με το Κέντρο Εξυπηρέτησης Πελατών για την επιστροφή του κωδικού κουπονιού σας.",
+  "hotel_hand_note_detail_note_refund": "Χρόνος επιστροφής χρημάτων (Από την ημερομηνία ακύρωσης): 5 έως 7 ημέρες (Για τις πύλες πληρωμής Alepay και Payme) ή 7 έως 15 ημέρες (Για την πύλη πληρωμής Stripe).",
+  "hotel_hand_note_detail_reason_cancel": "Λόγοι ακύρωσης",
+  "hotel_hand_note_detail_checking_out": "Ώρα check-in και check-out",
+  "hotel_hand_note_detail_check_in_after": "Check-in μετά",
+  "hotel_hand_note_detail_check_out_before": "Check-out πριν",
+  "hotel_hand_note_detail_person_day": "άτομο/ημέρα",
+  "hotel_hand_note_detail_free": "Ελεύθερος.",
+  "hotel_hand_note_detail_day": "/ημέρα",
+  "hotel_hand_note_detail_note_hotel": "Τα δωρεάν χρονοδιαγράμματα ακύρωσης βασίζονται στη ζώνη ώρας του καταλύματος και καθορίζονται από την πολιτική ακύρωσης του καταλύματος.",
+  "hotel_hand_note_detail_room_service": "Υπηρεσίες δωματίου",
+  "hotel_hand_note_detail_facilities_service": "Παροχές και υπηρεσίες δωματίου",
+  "hotel_hand_note_detail_person_contact": "Υπεύθυνος επικοινωνίας",
+  "hotel_hand_note_detail_telephone_num": "Τηλεφωνικό νούμερο",
+  "hotel_hand_note_detail_email": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ",
+  "hotel_hand_note_detail_nationality": "Ιθαγένεια",
+  "hotel_hand_note_detail_address": "Διεύθυνση",
+  "hotel_hand_note_detail_paid": "Πληρωμένο ποσό",
+  "hotel_hand_note_detail_rest": "Απλήρωτο ποσό",
+  "hotel_hand_note_detail_payment_methods": "Μέθοδος πληρωμής",
+  "hotel_hand_note_detail_check_in_info": "Πληροφορίες για το check-in",
+  "hotel_hand_note_detail_guest_name": "Ονομα επισκέπτη",
+  "hotel_hand_note_detail_policy_cancel": "Ακυρώσεις που έγιναν πριν",
+  "hotel_hand_note_detail_hour": "{hour} ώρες",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} λεπτά",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ": θα επιστραφεί",
+  "hotel_hand_note_detail_price_room": "της τιμής δωματίου για",
+  "hotel_hand_note_detail_one_night": "το πρώτο βράδυ.",
+  "hotel_hand_note_detail_all_night": "όλες τις νύχτες.",
+  "hotel_hand_note_detail_policy": "Πολιτική ακύρωσης",
+  "hotel_hand_note_detail_children_note": "Επιτρέπονται παιδιά ηλικίας από {age}.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Τα κατοικίδια επιτρέπονται. Χρέωση για κατοικίδια: {fee} (η χρέωση για κατοικίδια καταβάλλεται στο κατάλυμα).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Παιδιά",
+  "hotel_hand_note_detail_pet": "Κατοικίδια",
+  "hotel_hand_note_detail_total_room_rate": "Συνολική τιμή δωματίου",
+  "hotel_hand_note_detail_total_room_order": "Αριθμός δωματίων",
+  "hotel_hand_note_detail_room_information": "Πληροφορίες δωματίου",
+  "hotel_hand_note_detail_person_x": "{x} άτομα",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Κοινοτικά, υπηρεσίες δωματίου",
+  "hotel_hand_note_detail_waiting_service": "Εν αναμονή Εκπλήρωσης",
+  "hotel_hand_note_detail_in_service": "Σε εξέλιξη",
+  "hotel_hand_note_detail_completed": "Ολοκληρώθηκε το",
+  "hotel_hand_note_detail_waiting_cancellation": "Αναμονή ακύρωσης",
+  "hotel_hand_note_detail_canceled": "Ακυρώθηκε",
+  "hotel_hand_note_detail_awaiting_confirmation": "Εν αναμονή της επιβεβαίωσης",
+  "hotel_hand_note_detail_not_refund": "Δεν θα λάβετε επιστροφή χρημάτων ή καταβληθέν ποσό κατά την ακύρωση",
+  "hotel_hand_note_detail_other_required": "Άλλο αίτημα",
+  "hotel_hand_note_detail_point_refund_amount": "Εκτιμώμενοι πόντοι επιστροφής χρημάτων",
+  "hotel_input_title_start_date": "Ημερομηνία άφιξης",
+  "hotel_input_title_end_date": "Ημερομηνία αναχώρησης",
+  "hotel_input_title_choose_date": "Επιλέξτε μια ημερομηνία",
+  "hotel_input_title_choose": "Επιλέγω",
+  "hotel_hand_note_price_detail_payment_type": "Εντυπο πληρωμής",
+  "hotel_hand_note_price_detail_payment_date": "Ημερομηνία πληρωμής",
+  "hotel_hand_note_price_detail_price": "Δείτε λεπτομέρειες τιμής",
+  "hotel_hand_note_price_detail_title": "Λεπτομέρειες τιμής",
+  "hotel_hand_note_price_detail_contact_info": "Στοιχεία επικοινωνίας",
+  "hotel_hand_note_utilities_title": "Ανεσεις",
+  "hotel_hand_note_services_title": "Υπηρεσίες",
+  "hotel_hand_note_search_required_code": "Απαιτείται αριθμός κράτησης.",
+  "cart_screen_main_hotel_title": "Ξενοδοχειο",
+  "cart_screen_main_hotel_title_1": "Ξενοδοχείο (1)",
+  "hotel_cancel_hotel": "Ακύρωση",
+  "hotel_search_this_area ": "Αναζήτηση για αυτήν την περιοχή",
+  "hotel_where": "Πού θέλετε να μείνετε;",
+  "hotel_people": "{y} δωμάτια - {x} επισκέπτες",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Δωμάτιο",
+  "hotel_hand_note_item_view_booking_code_title": "Αριθμός κράτησης",
+  "hotel_hand_note_title_hotel_order": "Παραγγελίες κρατήσεων ξενοδοχείων",
+  "hotel_order_detail_view_information_order": "Πληροφορίες Παραγγελίας",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Πού θέλετε να μείνετε;",
+  "search_city_no_result": "Δεν βρέθηκαν τοποθεσίες που να ταιριάζουν...",
+  "search_city_choose_the_city": "Αναζήτηση ξενοδοχείων",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Επιλέξτε ξενοδοχείο",
+  "advanced_search_any_review": "Οποιος",
+  "advanced_search_star_rating": "Αξιολόγηση με αστέρια",
+  "advanced_search_any_star": "Χωρίς αξιολόγηση",
+  "advanced_search_a_star": "1 αστέρι",
+  "advanced_search_x_star": "{x} αστέρια",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Τύπος ακινήτου",
+  "advanced_search_reset_button": "Επαναφορά",
+  "advanced_search_search_button": "Αναζήτηση",
+  "advanced_search_evaluation_point": "Βαθμολογία αξιολόγησης",
+  "advanced_search_no_city_error": "Δεν έχει επιλεγεί ιδιοκτησία",
+  "advanced_search_title": "Προχωρημένη Αναζήτηση",
+  "advanced_search_clear": "Σαφή",
+  "advanced_search_no_date_error": "Δεν έχει επιλεγεί ημερομηνία",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Εμφάνιση λίστας",
+  "hotel_not_found": "Δεν βρέθηκαν ξενοδοχεία!",
+  "hotel_search_near_by": "Πλησίον",
+  "advanced_search_less_x_unit": "Κάτω από {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Από {x}{unit} και άνω",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Από {x}{unit} έως κάτω από {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Απόσταση από το κέντρο",
+  "hotel_booking_do_you_want_to_remove_a_user": "Θέλετε πραγματικά να αφαιρέσετε τον χρήστη {user} από τη λίστα;",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Προσαύξηση",
+  "hotel_map_filter": "Ταξινόμηση κατά",
+  "hotel_map_default": "Προκαθορισμένο",
+  "hotel_map_high_star": "Αξιολόγηση αστεριών: Υψηλή προς χαμηλή",
+  "hotel_map_low_star": "Αξιολόγηση αστεριών: Χαμηλή προς υψηλή",
+  "hotel_map_distance_center": "Απόσταση από το κέντρο",
+  "hotel_map_high_rate": "Κορυφαία βαθμολογία",	
+  "hotel_map_high_order": "Οι περισσότερες κρατήσεις",	
+  "hotel_hand_note_reply": "Η απάντηση της ιδιοκτησίας",	
+  "hotel_booking_payment_3011_error": "Η κάρτα απορρίφθηκε. Δοκιμάστε άλλη κάρτα ή επικοινωνήστε με τον εκδότη της κάρτας σας για βοήθεια!",
+  "hotel_hand_note_utilities_title_room": "ΑΝΕΣΕΙΣ ΔΩΜΑΤΙΟΥ",
+
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Είστε όλοι πιασμένοι!",
+  "halo_error_wifi_error": "Σφάλμα Wifi",
+  "halo_error_something_wrong": "Ωχ!\nΚάτι πήγε στραβά, δοκιμάστε ξανά",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

@@ -1,0 +1,3307 @@
+{
+  "@@locale": "hu",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Próbáld újra",
+  "common_see_more": "Többet látni",
+  "common_see_less": "Kevesebbet látni",
+  "common_search_hint": "Keresés …",
+  "common_loading": "Betöltés…",
+  "common_retry": "Próbálja újra",
+  "common_cancel": "Megszünteti",
+  "common_ok": "Rendben",
+  "common_save": "Megment",
+  "common_decline": "Hanyatlás",
+  "common_done": "Kész",
+  "common_confirm": "megerősít",
+  "common_close": "Bezárás",
+  "common_continue": "Folytatni",
+  "common_detail": "Részletek",
+  "common_enter_discount_code": "adja meg a kupon kódot",
+  "common_use_payment_or_contact_info": "Használja a fizető vagy kapcsolattartó adatait",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Időválasztó",
+  "car_input_title_pick_up_place": "Adja meg az átvételi helyet",
+  "car_input_title_pick_up_location": "Átvétel helye",
+  "car_title_return_to_different_location": "Térjen vissza egy másik helyre",
+  "car_input_title_start_time": "Kezdési idő",
+  "car_input_title_end_time": "Idő vége",
+  "car_input_title_start_date": "Kezdő dátum",
+  "car_input_title_end_date": "Befejezés dátuma",
+  "car_input_title_enter_drop_off_place": "Adja meg a leszállási helyet",
+  "car_input_title_enter_drop_off_location": "Érkezési hely",
+  "car_title_advanced_search": "Részletes keresés",
+  "car_title_look_up_booking_number": "Keresse meg a foglalási számot",
+  "car_header_title_look_up_booking_number": "Adja meg a foglalási számot vagy a rendelési kódot, hogy megtalálja a foglalási információkat",
+  "car_title_search": "Keresés",
+  "car_notice_empty_pick_up_location": "Válasszon egy átvételi helyet és kezdési dátumot a kereséshez",
+  "car_title_ascending_price": "Emelkedő ár",
+  "car_title_descending_price": "Csökkenő ár",
+  "car_title_car_type": "Autó típus",
+  "car_title_transmission": "Terjedés",
+  "car_title_segment": "Szegmens",
+  "car_title_fuel_type": "Üzemanyagtípus",
+  "car_title_supplier": "Támogató",
+  "car_title_price": "Ár",
+  "car_title_view_on_map": "Megtekintés a térképen",
+  "car_title_deals": "Ajánlatok",
+  "car_title_seats": "Ülések",
+  "car_title_filter_by": "Szűrés vlami alapján",
+  "car_title_un_filter": "Szűrés megszüntetése",
+  "car_title_choose_this_car": "Válassza ezt az autót",
+  "car_title_rental_terms": "Bérleti feltételek",
+  "car_title_search_location": "Hely keresése",
+  "car_title_select_btn": "Válassza ki",
+  "car_title_select_date": "Válassza ki a dátumot",
+  "car_title_select_time": "Válassza ki az időt",
+  "car_title_reset_btn": "Visszaállítás",
+  "car_title_location_type": "Hely típusa",
+  "car_title_number_of_seats": "ülések száma",
+  "car_title_days": "Napok",
+  "car_title_unlimited_mileage": "Korlátlan távolság",
+  "car_title_instant_confirmation": "Azonnali megerősítés",
+  "car_title_time_pick_up": "Felvétel dátuma",
+  "car_title_time_drop_off": "Leadás dátuma",
+  "car_title_air_conditioning": "Légkondíciónálás",
+  "car_title_number_of_bag": "Bőröndök száma",
+  "car_hand_note_title_booking_order_code": "Rendelési kód",
+  "car_hand_note_title_booking_code": "Foglalási szám",
+  "car_hand_note_title_total_rental_car": "Összes bérleti nap",
+  "car_hand_note_title_status_order": "Rendelési státusz",
+  "car_hand_note_title_total_price": "Teljes fizetés",
+  "car_hand_note_title_status_payment": "Fizetési állapot",
+  "car_hand_note_title_reason_cancel": "Lemondási okok",
+  "car_hand_note_title_view_details_btn": "Részletek megtekintése",
+  "car_hand_note_notice_cancel_order": "A lemondott rendelés visszatérítési összege (ha van) a szállító által meghatározott határidőn belül átutalásra kerül a megrendelő bankszámlájára.",
+  "car_hand_note_title_tab_all": "Minden",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Beteljesülésre vár",
+  "car_hand_note_title_tab_ongoing": "Folyamatban lévő",
+  "car_hand_note_title_tab_completed": "Befejezve",
+  "car_hand_note_title_tab_canceled": "Törölve",
+  "car_hand_note_title_order_manager": "Megrendelés kezelés",
+  "car_hand_note_title_create_date": "Létrehozás dátuma",
+  "car_hand_note_title_view_more_btn": "Mutass többet",
+  "car_hand_note_title_status_order_completed": "Befejezve",
+  "car_hand_note_title_status_payment_successful": "Sikeres",
+  "car_hand_note_title_details_order": "Megrendelés részletei",
+  "car_hand_note_title_contact_info": "Kapcsolattartó adatai",
+  "car_hand_note_title_info_rental_car": "Foglalási információk",
+  "car_hand_note_title_driver_info": "Vezető adatai",
+  "car_hand_note_title_pirce_details": "Ár részletek",
+  "car_hand_note_title_creator": "Készítette",
+  "car_hand_note_title_person_contact": "Kapcsolattartó",
+  "car_hand_note_title_phone": "Telefonszám",
+  "car_hand_note_title_email": "Email",
+  "car_hand_note_title_country": "Ország",
+  "car_hand_note_title_address": "Cím",
+  "car_hand_note_title_price_of_car_rental": "Autóbérlés ára",
+  "car_hand_note_title_price_payment_fee": "Fizetési díj",
+  "car_hand_note_title_info_extra_services": "Extra szolgáltatások",
+  "car_hand_note_title_type_insurance": "Biztosítások típusa",
+  "car_hand_note_title_info_insurance": "Biztosítási információk",
+  "car_hand_note_title_car_info": "Autó részletek",
+  "car_search_result_not_found_title": "Sajnáljuk, a keresett jármű nem található.",
+  "car_search_result_not_found_sub_title": "Nem találjuk a kérésének megfelelő egyezést.\nKérjük, próbálja újra.",
+  "car_search_result_first_title_rental_car": "Autóbérlés bent",
+  "car_detail_btn_rent_now": "Foglald le most",
+  "car_notice_title_check_connection": "Kérjük, ellenőrizze a kapcsolatot, és próbálja újra!",
+  "car_rent_input_title_details": "Részletek",
+  "car_rent_input_title_total_payment": "Teljes fizetés",
+  "car_rent_input_title_payment": "Fizetés",
+  "car_rent_form_input_last_name": "Vezetéknév (tónusjelek nélkül)",
+  "car_rent_form_input_first_name": "Középső és keresztnév/Utónév (tónusjelek nélkül)",
+  "car_rent_input_content_cb_use_contact_details": "Használja a kapcsolattartó adatait",
+  "car_rent_input_title_method_payment": "Fizetés",
+  "car_rent_input_title_method_pay": "Fizetési lehetőség",
+  "car_rent_input_title_late_payment": "Fizess később",
+  "car_rent_input_title_now_payment": "Fizess most",
+  "car_rent_input_title_information_card": "A kártya adatai",
+  "car_rent_input_title_driver_age": "A sofőr életkora",
+  "car_rent_input_title_Do_you_need_anything_else": "Szükséged van valami másra?",
+  "car_rent_input_title_accept_policy": "A következő lépéssel megerősítem, hogy elolvastam és elfogadtam a Hahalolo feltételeit – Szabályzat és Adatvédelmi szabályzat",
+  "car_rent_input_title_card_must_be_valid": "Kártyájának érvényesnek kell lennie ahhoz, hogy a bérbeadást biztosítsa a szállítónál.",
+  "car_rent_input_title_accept_card_pay": "Elfogadott fizetési kártyák",
+  "car_rent_input_title_content_notice_later_pay": "Az autó szállítója feldolgozza a fizetést. A foglalási feltételektől függően fizethet teljes egészében vagy részben.",
+  "car_rent_input_title_select_type_card": "Válassza ki a Hitelkártya típusát",
+  "car_rent_input_title_number_card": "Kártyaszám",
+  "car_rent_input_title_enter_number_card": "Írja be a kártya számát",
+  "car_rent_input_title_name_card": "Kártyatulajdonos neve",
+  "car_rent_input_title_enter_name_card": "Írja be a kártyatulajdonos nevét",
+  "car_rent_input_title_select_expiry_date": "Válassza ki a lejárati dátumot",
+  "car_rent_input_title_expiry_date": "Lejárati dátum",
+  "car_rent_input_title_gate_ways": "Fizetési átjáró",
+  "car_rent_input_title_ccv_code": "CVC kód",
+  "car_rent_input_title_enter_ccv_code": "Írja be a CVC kódot",
+  "car_rent_input_title_first_notice_need_anything_else": "Tájékoztatjuk a szállítót, hogy érdeklődik ezek iránt a szolgáltatások iránt, hogy részletes tájékoztatást tudjon adni Önnek.\n\n Igényét nem tudjuk garantálni. Ne aggódj! A szállító igyekszik kielégíteni az Ön igényeit.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Kérése nem garantálható. Ne aggódj! A szállító igyekszik kielégíteni az Ön igényeit.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Adjon meg legfeljebb 55 karaktert",
+  "car_rent_input_noti_invalid_last_name": "Érvénytelen vezetéknév",
+  "car_rent_input_noti_invalid_first_name": "Érvénytelen középső és utónév/utónév",
+  "car_rent_input_noti_required_last_name": "A vezetéknév megadása kötelező",
+  "car_rent_input_noti_required_first_name": "A középső és a keresztnév megadása kötelező",
+  "car_rent_input_noti_invalid_email": "Érvénytelen e-mail",
+  "car_rent_input_noti_invalid_phone": "Érvénytelen telefonszám",
+  "car_rent_input_noti_required_email": "E-mail megadása kötelező",
+  "car_rent_input_noti_required_phone": "Telefonszám megadása kötelező",
+  "car_rent_input_noti_requried_address": "A cím megadása kötelező",
+  "car_rent_input_noti_requried_country": "Az ország megadása kötelező",
+  "car_rent_input_noti_requried_number_card": "Kártyaszám megadása kötelező",
+  "car_rent_input_noti_requried_card_holder_name": "A kártyabirtokos neve kötelező",
+  "car_rent_input_noti_requried_type_card": "Hitelkártya szükséges",
+  "car_rent_input_noti_requried_expiry": "A lejárati dátum megadása kötelező",
+  "car_rent_input_title_type_card_credit": "Hitelkártya típus",
+  "car_rent_input_title_currency_at_rental_car_place": "Pénznem az átvétel helyén",
+  "car_rent_input_title_rule_age": "Életkori szabályok",
+  "car_rent_input_notice_term_and_policy_first_string": "A következő lépéssel megerősítem, hogy elolvastam és elfogadtam a Hahalolo-t",
+  "car_rent_input_notice_term_and_policy_append__string": "Feltételek – Szabályzat",
+  "car_rent_input_notice_term_and_policy_between_string": "és",
+  "car_rent_input_notice_term_and_policy_append___string": "Adatvédelmi irányelvek",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Felvenni",
+  "car_cart_title_drop_off": "Leadás",
+  "car_cart_title_included_texas_fee": "Az adókat és díjakat tartalmazza",
+  "car_cart_title_btn_delete": "Töröl",
+  "car_cart_title_btn_edit": "Módosítsa a kijelölést",
+  "car_cart_title_sub_total": "Részösszeg",
+  "car_cart_title_car_types": "Autó típus:",
+  "car_title_select_country": "Válassz országot",
+  "car_title_car_cart": "Autó foglalás",
+  "car_feed_input_hint_pick_up_place": "Az Ön átvételi helye",
+  "car_feed_input_hint_drop_off_place": "A leszállási helyed",
+  "car_feed_notice_empty_location_pick_up": "Kérjük, válasszon egy átvételi helyet a kereséshez",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Adja meg a leszállás helyét",
+  "notify_error_occurred": "Hiba történt. Kérlek nézd meg újra.",
+  "car_hand_note_detail_order_full_name": "Teljes név",
+  "car_hand_note_detail_order_promotion": "promóció",
+  "car_hand_note_detail_order_act_history": "Naplót",
+  "car_hand_note_detail_order_request_other": "Egyéb kérések",
+  "car_hand_note_detail_order_order_payment": "Fizetés megrendelése",
+  "car_hand_note_detail_order_cancel_info": "Megrendelés törlésének információi",
+  "car_hand_note_detail_order_payment_info": "Fizetési információ",
+  "car_hand_note_detail_order_paid": "Fizetett",
+  "car_hand_note_detail_order_unpaid": "Kifizetetlen",
+  "car_hand_note_title_days_ago": "napja",
+  "car_hand_note_detail_order_cancel_fee": "Lemondási díj",
+  "car_hand_note_detail_order_amount_ongoing_return": "A visszatérítés becsült összege",
+  "car_hand_note_detail_order_time_ongoing_return": "A visszatérítés becsült ideje",
+  "car_hand_note_detail_order_info_transaction": "Tranzakciós információk",
+  "car_hand_note_detail_order_amount_payment": "Teljes összeg",
+  "car_hand_note_detail_order_total_order": "Rendelés Összesen",
+  "car_hand_note_detail_content_define_vat": "Az VAT az az adó és díj, amelyet az autóbérlési szolgáltatás igénybevételekor az autóbeszállítónak kell fizetnie az általa előírásai szerint.",
+  "car_title_search_result_first_character": "Autóbérlés bent",
+  "car_title_tool_bar_pick_up_location": "Hol akarsz felvenni?",
+  "car_title_tool_bar_drop_off_location": "Hol akarsz leszállni?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Az autóbérlés árát az autó szállítója által aktuálisan használt pénznem alapján váltjuk át.\nMegjegyzés:\n- Az átváltási árfolyam a fizetés előtt módosulhat.\n- Kártyakibocsátója külföldi tranzakciós díjat számíthat fel.",
+  "car_hand_note_detail_content_define_payment_fee": "Az egyes autókölcsönzési igényeknek megfelelő tranzakciós díj, amelyet az online fizetési átjáró szolgáltatónak kell megfizetnie.",
+  "car_hand_note_detail_content_notice_insurance": "Megjegyzés: Ha ezekre a biztosítási csomagokra szeretne jelentkezni, kérjük, forduljon közvetlenül az autószállító recepciójához.",
+  "car_hand_note_detail_title_header_insurance": "Sok gépjármű-biztosítási és bérleti szerződés olyan kizárásokat tartalmaz, amelyek költségesek lehetnek a bérelt autók kárával vagy lopásával kapcsolatban. Azonban az alábbi biztosítás megvédi Önt, és jelentős összegű pénzügyi támogatást nyújt Önnek.",
+  "car_result_booking_title_header_rental_car_success": "A FOGLALÁS SIKERES",
+  "car_result_booking_title_btn_continue_rental_car": "Foglaljon tovább",
+  "car_result_booking_title_btn_view_order_details": "Megrendelés részleteinek megtekintése",
+  "car_result_booking_title_header_first_char": "Foglalási kérelmét sikeresen teljesítettük",
+  "car_result_booking_title_header_second_char": "(Fizetett)",
+  "car_result_booking_title_header_third_char": ". Az autóbérlés részleteit alább ellenőrizheti.",
+  "car_result_booking_title_header__char": "Köszönjük a belé vetett bizalmat",
+  "car_result_booking_title_header____char": "szolgáltatás. Ha bármilyen kérdése van, vagy további segítségre van szüksége, kérjük, lépjen kapcsolatba Súgónkkal a következő címen:",
+  "car_result_booking_title_header_____char": "utasításokért.",
+  "car_result_booking_title_header______char": ". Az autóbérlés részleteit alább ellenőrizheti.",
+  "car_result_booking_title_order": "Rendelés",
+  "car_result_booking_title_billing_info": "Fizetési információ",
+  "car_result_booking_title_time": "Idő",
+  "car_result_booking_title_name_car": "Autó neve",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Válasszon várost/államot",
+  "car_result_notice_no_data_found": "Sajnos nem található adat",
+  "car_result_notice_no_flight_found_description": "Nem találtunk a keresésének megfelelő találatot. Kérem keressen újra.",
+  "car_picker_time_from_the_date": "Tól től",
+  "car_picker_time_to_the_date": "Nak nek",
+  "car_picker_time": "Idő",
+  "car_extra_service": "Az alábbi további szolgáltatásokat kínálhat Önnek az autószolgáltató. Ha jelentkezni szeretne rájuk, kérjük, forduljon közvetlenül a szolgáltató recepciójához.",
+  "car_extra_charges": "Az autószállító által meghatározott életkornál fiatalabb vagy annál idősebb sofőrök esetében felár fizetendő",
+  "car_note_driver_age": "Megjegyzés: Ezt a díjat a recepción kell beszedni érkezéskor az autó felvételekor.",
+  "car_rental_details": "Az autóbérlés részletei",
+  "car_you_dont_have_any_car_rental_orders": "Még nincs autóbérlési rendelésed.",
+  "car_search_code_no_information": "Nem található foglalási információ.\nKérjük, ellenőrizze, és próbálja újra",
+  "car_input_code_message_empty": "Kérjük, adja meg foglalási számát",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Elfogad",
+  "aff_chart_day_ago": "{number} nappal ezelőtt",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "{from}-ból {to}/-be",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Cookie időtartama: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Szálloda",
+  "aff_tour": "Túra",
+  "aff_product_name": "Termék név",
+  "aff_anonymous_user": "Névtelen felhasználó",
+  "aff_unknown": "Ismeretlen",
+  "aff_product_unknown": "Ismeretlen terméktípus",
+  "aff_share": "Ossza meg",
+  "aff_fetch_data_failure": "Nem sikerült lekérni az adatokat",
+  "aff_fetch_data_failure_try_later": "Nem sikerült lekérni az adatokat. Kérlek, próbáld újra később.",
+  "aff_detail": "Részletek",
+  "aff_no_data": "Nem található adat",
+  "aff_all": "Minden",
+  "aff_country": "Ország",
+  "aff_summary": "Áttekintés",
+  "aff_link_management": "Linkkezelés",
+  "aff_promotion_tool": "Marketingeszközök",
+  "aff_help": "Segítség",
+  "aff_notification": "Értesítések",
+  "aff_notification_no_data": "Nincsenek értesítései",
+  "aff_revenue": "Bevétel",
+  "aff_revenue_total": "Összes bevétel",
+  "aff_customer_id": "Ügyfél-ID",
+  "aff_payment_total": "Teljes összeg",
+  "aff_commission_receive": "Összes kapott jutalék",
+  "aff_search_by_order": "Keresés rendelési kód alapján",
+  "aff_reset": "Visszaállítás",
+  "aff_cancel": "Megszünteti",
+  "aff_save": "Megment",
+  "aff_search": "Keresés",
+  "aff_continue": "Folytatni",
+  "aff_payment_account": "Fizetési számla",
+  "aff_profile": "Profil",
+  "aff_edit_profile": "Szerkessze az információkat",
+  "aff_affiliate": "Leányvállalat",
+  "aff_setting": "Beállítások",
+  "aff_resend": "Újraküldés",
+  "aff_verify_failure": "Az ellenőrzés sikertelen",
+  "aff_show_code": "Kód megjelenítése",
+  "aff_sms_block_forever": "Az ellenőrző funkció ideiglenesen le van zárva. Kérlek, próbáld újra később.",
+  "aff_sms_wrong_code": "Helytelen ellenőrző kód. Kérjük, ellenőrizze újra.",
+  "aff_sms_expired_code": "Az ellenőrző kód lejárt. Kérem, szerezzen másik kódot",
+  "aff_sms_verify_failure": "Az ellenőrzés nem sikerült. Kérlek, próbáld újra később.",
+  "aff_enter_verify_code": "Adja meg a megerősítő kódot",
+  "aff_we_send_code_to_phone": "Ellenőrző kódot küldtünk a {phone} számra.\nA lépés végrehajtásához írja be a kapott kódot.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "A kód ekkor jár le:",
+  "aff_sms_block": "Az SMS-ben történő kódküldés funkció átmenetileg zárolva van. Kérlek, próbáld újra később.",
+  "aff_sms_resend_in": "Választhatja a kód újraküldését itt:",
+  "aff_account_information": "SZÁMLA INFORMÁCIÓ",
+  "aff_account_information_subtitle": "Kérjük, frissítse telefonszámát fizetési fiókjában, hogy továbbra is használhassa a Hahalolo szolgáltatásait.",
+  "aff_account_name": "Felhasználónév",
+  "aff_search_county": "Ország keresése",
+  "aff_wallet_create_failure": "A fizetési számla létrehozása nem sikerült",
+  "aff_wallet_create_failure_try_again": "A fizetési számla létrehozása nem sikerült. Kérlek, próbáld újra később.",
+  "aff_information_general": "Általános információ",
+  "aff_information_unknown": "(Ismeretlen)",
+  "aff_information_full_name": "Teljes név {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "email {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Telefonszám  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Születési dátum {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Nem {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Cím {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Ország {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Több információ",
+  "aff_information_city": "Tartomány/város {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Irányítószám  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID kártya /útlevél {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Lejárati dátum {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Kibocsátó ország {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Állampolgárság {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Születési hely {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Telefon kód",
+  "aff_gender_male": "Férfi",
+  "aff_gender_female": "Női",
+  "aff_gender_other": "Egyéb",
+  "aff_validate_full_name": "A teljes névnek legalább 3 karakterből kell állnia",
+  "aff_validate_email": "Érvénytelen e-mail",
+  "aff_validate_phone": "Érvénytelen telefonszám",
+  "aff_validate_post_code": "Érvénytelen irányítószám",
+  "aff_validate_id_code": "Érvénytelen ID kártya/útlevél",
+  "aff_validate_invalid_field": "Idő",
+  "aff_validate_phone_existed": "A telefonszám egy másik fizetési számlához lett regisztrálva.",
+  "aff_validate_unknown_country": "Ismeretlen ország",
+  "aff_date_time": "Idő",
+  "aff_date_yesterday": "Tegnap",
+  "aff_date_today": "Ma",
+  "aff_date_unknown": "Ismeretlen dátum",
+  "aff_date_month": "hónap",
+  "aff_date_day": "nap",
+  "aff_date_hour": "óra",
+  "aff_date_minute": "perc",
+  "aff_date_second": "második",
+  "aff_date_range": "Időintervallum",
+  "aff_report": "Jelentés",
+  "aff_report_summary": "Jelentés áttekintése",
+  "aff_report_click": "Kattintások",
+  "aff_report_click_number": "Kattintások",
+  "aff_report_performance": "Teljesítmény",
+  "aff_report_customer": "Vevő",
+  "aff_report_payment": "Fizetés",
+  "aff_report_product_performance": "A termék teljesítménye",
+  "aff_report_product_type": "Terméktípus",
+  "aff_report_customer_detail": "Vásárló adatai",
+  "aff_report_commission_by_product": "Jutalék tételenként",
+  "aff_report_customer_total": "Összes vásárló vásárló",
+  "aff_report_customer_serving": "Összes ügyfélszolgálat",
+  "aff_report_customer_served": "Összes kiszolgált ügyfél",
+  "aff_report_payment_waiting": "Teljes jutalék folyamatban",
+  "aff_report_payment_pending": "Függőben lévő jutalékok összesen",
+  "aff_report_payment_available": "Összes elérhető jutalék",
+  "aff_report_payment_status_waiting": "Feldolgozás",
+  "aff_report_payment_status_pending": "Függőben levő",
+  "aff_report_payment_status_available": "Elérhető",
+  "aff_report_payment_status_cancel": "Törölve",
+  "aff_report_payment_status": "Állapot",
+  "aff_report_description_click": "Statisztikai diagram az affiliate linkre leadott kattintásokról, a kapott jutalékok és bevételek teljes rendeléséről",
+  "aff_report_description_customer": "Statisztikai diagram az ügyfelek adatairól",
+  "aff_report_description_commission": "A jutalékok statisztikai táblázata",
+  "aff_link": "Link:",
+  "aff_link_copied": "Link másolva",
+  "aff_link_path": "Affiliate link",
+  "aff_link_paste_here": "Illessze be a linkjét ide",
+  "aff_flight_commission_itinerary": "Utazási program",
+  "aff_flight_commission_itinerary_domestic": "Belföldi",
+  "aff_flight_commission_itinerary_international": "Nemzetközi",
+  "aff_flight_commission_itinerary_unknown": "Ismeretlen útvonal",
+  "aff_flight_commission_seat_class": "Ülésosztály",
+  "aff_flight_commission_seat_class_plus": "Plusz",
+  "aff_flight_commission_seat_class_business": "Üzleti",
+  "aff_flight_commission_seat_class_unknown": "Ismeretlen ülésosztály",
+  "aff_flight_ticket": "Repülőjegy",
+  "aff_flight_all_airlines": "Minden légitársaság",
+  "aff_tooltip_flight_domestic": "Járatok Vietnam területén belüli célokkal és indulással",
+  "aff_tooltip_seller": "Ezzel a kóddal hozzáfűzheti az egyes partnermarketing-linkek végét. A Hahalolo tanúsítja, hogy ez az Ön linkje, és jutalmazza a jutalékot, ha az adott linkből származó érvényes megrendelések vannak.",
+  "aff_commission": "jutalék",
+  "aff_commission_by_country": "Szállodai jutalékok országonként",
+  "aff_commission_flight_list": "Szállodai jutalékok országonként",
+  "aff_commission_max": "Legmagasabb jutalék:",
+  "aff_commission_of_product": "{order} jutalékai",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Rendelési kód",
+  "aff_order_total": "Összes rendelés",
+  "aff_order_tooltip_click": "Az a szám, ahányszor a felhasználók rákattintottak az Ön társult linkjére.",
+  "aff_order_conversion_rate": "Konverziós arány",
+  "aff_order_tooltip_conversion_rate": "Egy mérőszám, amellyel elemezheti termékpromóciója teljesítményét.",
+  "aff_order_product_total": "Összes termék",
+  "aff_order_click_total": "Összes kattintás",
+  "aff_order_earnings_total": "Összes bevétel",
+  "aff_order_id_unknown": "Ismeretlen rendelési kód",
+  "aff_order_added": "hozzáadva a fizetési számlához",
+  "aff_order_type_waiting": "Feldolgozás",
+  "aff_order_type_pending": "Függőben levő",
+  "aff_order_type_available": "Elérhető",
+  "aff_order_type_cancel": "Törölve",
+  "aff_ordered_total": "Összes megrendelt termék",
+  "aff_order_receive_commission": "Az összes megrendelés kapott jutalékot",
+  "aff_verify_do_not_have_account": "ÖN\n MÉG NINCS FIZETÉSI SZÁMLA",
+  "aff_guild": "Utasítás",
+  "aff_seller_code": "Eladó kódja: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Eladó kódja",
+  "aff_view_detail": "Részletek megtekintése",
+  "aff_notification_turn_off_link_1": "A\n társult marketing funkciója",
+  "aff_notification_turn_off_link_2": "le van tiltva, ami azt jelenti, hogy a megosztott társult linkek érvénytelenek lesznek!",
+  "aff_notification_turn_on_link_success": "A(z) {type} partnermarketing funkciója sikeresen engedélyezve lett",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Repülési jutalékok",
+  "aff_commission_list_hotel": "Szállodai jutalékok országonként",
+  "aff_tooltip_menu": "Menü megnyitása",
+  "aff_tooltip_dash_board": "Gyors hozzáférés a műszerfalhoz",
+  "aff_tooltip_guild": "Az utasításokért legördül",
+  "aff_action_done": "Kész",
+  "aff_check_user_failed": "Nem lehet ellenőrizni a felhasználót. Kérlek, próbáld újra később.",
+  "aff_something_went_wrong": "Valami elromlott.",
+  "aff_page_not_found": "Az oldal nem található.",
+  "aff_and": "és",
+  "aff_month_summary": "Összefoglaló erre a hónapra",
+  "aff_see_more": "Többet látni",
+  "aff_try_again": "Próbáld újra",
+  "aff_error_try_again": "Hiba lépett fel. Kérlek, próbáld újra később.",
+  "aff_tooltip_flight_international": "Vietnam területén kívülről induló vagy érkező járatok.",
+  "aff_area_code": "Telefon kód",
+  "aff_phone_number": "Telefonszám",
+  "aff_validate_sms_required": "Kérjük, adja meg az ellenőrző kódot",
+  "aff_validate_sms_min_length": "Kérjük, adja meg a teljes ellenőrző kódot",
+  "aff_welcome": "Üdvözöljük",
+  "aff_verify_update": "Frissítse a fizetési fiókot",
+  "aff_verify_create_account": "Hozzon létre fizetési fiókot",
+  "aff_verify_invalid_wallet": "Fizetési számla frissítése",
+  "aff_verify_do_not_have_account_subtitle": "Kérjük, hozzon létre fizetési számlát a Hahalolo értékesítési funkciójának használatához!",
+  "aff_verify_invalid_wallet_subtitle": "Kérjük, frissítse telefonszámát fizetési fiókjában, hogy továbbra is használhassa a Hahalolo szolgáltatásait",
+  "aff_guild_1": "A linkre kattintva gyorsan engedélyezheti az affiliate marketing funkciót",
+  "aff_guild_2": "a Szálloda/Repülőgép részben",
+  "aff_guild_3": "Az affiliate marketing bekapcsolása után termékeit a következő módon reklámozhatja:",
+  "aff_guild_4": "A Hahalolo által alapértelmezés szerint beállított link",
+  "aff_guild_5": "Bármely link, amely ahhoz a szakaszhoz kapcsolódik, amelynek affiliate marketingje engedélyezve van, feltéve, hogy az Ön eladói kódja csatolva van a termék megfelelő hivatkozásához.",
+  "aff_seller": "Eladó",
+  "aff_menu": "Kategória",
+  "aff_dash_chart_title": "Statisztikai diagram a bevételeiről és a kattintásairól ebben a hónapban",
+  "aff_dash_click": "Kattintások",
+  "aff_dash_commission": "Kereset",
+  "aff_flight_commission_detail_customer_way": "/ utas / szegmens",
+  "aff_flight_commission_detail_order_total": "/ összes rendelés",
+  "aff_performance_chart_title": "Statisztikai diagram az affiliate linkre leadott kattintásokról, a kapott jutalékok és bevételek összes rendeléséről",
+  "aff_customer_chart_title": "Statisztikai diagram az ügyfelek adatairól",
+  "aff_payment_chart_title": "A jutalékok statisztikai táblázata",
+  "aff_action_exit": "Kijárat",
+  "aff_action_update": "frissítés",
+  "aff_action_create": "teremt",
+  "aff_dialog_check_invalid_user": "Kérjük, {action} adja meg fizetési fiókját, hogy a Hahalolo partnermarketing szolgáltatásait használni tudja",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Dátum",
+  "aff_action_register": "Regisztráció",
+  "aff_otp_time_left": "{number} alkalom maradt",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "FIZETÉSI SZÁMLA LÉTREHOZÁSA",
+  "wallet_create_payment_subtitle": "A fizetési számla létrehozása az elsődleges fizetési számla, beleértve a pénz fogadását, kifizetését és a hozzárendelés utáni kifizetést.",
+  "wallet_verify_otp_title": "Adja meg az ellenörző kódot",
+  "wallet_verify_otp_subtitle": "Megerősítő kódot küldtünk a következő telefonszámra: {phone}. \nA lépés végrehajtásához írja be a kapott kódot.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Fizetési számla",
+  "wallet_start_subtitle": "A Hahalolo fizetési számla egy fizetési megoldás a Hahalolo-n, amely segít Önnek érdekes és kényelmes tapasztalatokat szerezni velünk.",
+  "wallet_label_choose_business": "Válasszon vállalkozást",
+  "wallet_label_account_name": "Felhasználónév",
+  "wallet_label_email": "Email",
+  "wallet_label_phone": "Telefonszám",
+  "wallet_label_choose_currency": "Válassza ki a pénznemet",
+  "wallet_label_payment_country": "Fizetési ország",
+  "wallet_label_payment_method": "Fizetési mód",
+  "wallet_label_card_holder_name": "A kártyabirtokos neve (tónusjelek nélkül)",
+  "wallet_label_card_bank_name": "a bank neve",
+  "wallet_label_card_swift_code": "SWIFT kód",
+  "wallet_label_bank_account_number": "bankszámlaszám",
+  "wallet_label_account_type": "Fiók Típus",
+  "wallet_label_tax_code": "Adószám",
+  "wallet_label_tax_type": "Adótípus",
+  "wallet_label_address": "Cím",
+  "wallet_label_address_2": "2. cím (nem kötelező)",
+  "wallet_label_country": "Ország",
+  "wallet_label_city": "Tartomány/Város",
+  "wallet_label_district": "Kerület",
+  "wallet_label_first_name": "Vezetéknév",
+  "wallet_label_last_name": "Keresztnév",
+  "wallet_label_middle_name": "Középső név (nem kötelező)",
+  "wallet_label_postal_code": "irányítószám",
+  "wallet_label_city_more_description": "Állam/Provincia/Régió",
+  "wallet_label_postal_code_more_description": "Zip/Irányítószám",
+  "wallet_label_district_more_description": "Város/Város",
+  "wallet_label_birthday_18_years_old": "Születési idő (legalább 18 éves)",
+  "wallet_label_date_of_birth": "Születési dátum",
+  "wallet_label_enter_password": "Írd be a jelszavad",
+  "wallet_label_password": "Jelszó",
+  "wallet_label_enter_pin": "Írja be a PIN-kódot",
+  "wallet_label_re_enter_new_pin": "Írja be újra az új PIN-kódot",
+  "wallet_label_enter_new_pin": "Írja be az új PIN-kódot",
+  "wallet_label_enter_current_pin": "Írja be a régi PIN-kódot",
+  "wallet_validate_pin_required": "Kérjük, adja meg PIN-kódját",
+  "wallet_validate_otp_required": "Kérjük, adja meg az ellenőrző kódot",
+  "wallet_validate_current_pin_required": "Kérjük, adja meg régi PIN-kódját",
+  "wallet_validate_new_pin_required": "Kérjük, adja meg új PIN-kódját.",
+  "wallet_validate_re_enter_new_pin_required": "Kérjük, adja meg újra az új PIN-kódot.",
+  "wallet_validate_re_enter_new_pin_not_match": "A megerősítő PIN-kód nem egyezik",
+  "wallet_action_detail": "Részletek",
+  "wallet_text_pick_date": "Válasszon egy dátumot",
+  "wallet_text_email_address": "Email cím",
+  "wallet_text_message_to": "Üzenet küldése a címre",
+  "wallet_text_recovery_method": "Helyreállítási módszer",
+  "wallet_text_recovery_choose_method": "Válassza ki a helyreállítási kód beszerzésének módját",
+  "wallet_text_change_pin": "Módosítsa a PIN-kódot",
+  "wallet_text_forgot_pin": "Elfelejtette a PIN-kódot?",
+  "wallet_text_show_pin": "PIN-kód megjelenítése",
+  "wallet_text_please_try_again_in": "Kérlek, próbáld újra később:",
+  "wallet_text_remove_account": "Kifizetési fiók törlése",
+  "wallet_text_ineligible_payment": "Nem jogosult a tranzakcióra",
+  "wallet_text_ineligible_payment_description": "Addig nem hajthat végre tranzakciókat a rendszerből, amíg a rendszergazdánk el nem fogadja a kifizetési számla adatait. Kérjük, frissítse kifizetési fiókjának adatait.",
+  "wallet_text_address_2": "cím 2",
+  "wallet_text_new_account": "Hozzon létre kifizetési fiókot",
+  "wallet_text_payout_account_detail": "Kifizetési számla adatai",
+  "wallet_text_middle_name": "Középső név",
+  "wallet_text_account_owner": "Számlatulajdonos",
+  "wallet_text_tax_form": "Adóforma",
+  "wallet_text_tax_form_subtitle": "Az Ön által megadott információk alapján nem kell további adóűrlapokat feltöltenie. A következő lépéshez kattintson a Folytatás gombra.",
+  "wallet_text_card_holder_name": "Kártyatulajdonos neve",
+  "wallet_text_otp_code_expire_in": "A kód ekkor jár le:",
+  "wallet_text_account_information": "Számla információ",
+  "wallet_text_welcome": "Szia!",
+  "wallet_text_payment_information": "Fizetési információ",
+  "wallet_text_policies_confirm": "Elfogadom a következőt: {termsAndPolicies}",
+  "wallet_terms_and_policies": "Hahalolo feltételek és irányelvek.",
+  "wallet_text_default": "Alapértelmezett",
+  "wallet_text_code_vie_sms": "Kód küldése SMS-ben",
+  "wallet_text_pin_code_recovery_description": "Használja e-mail-címét annak ellenőrzésére, ha elfelejtette PIN-kódját.",
+  "wallet_text_sms_recovery_description": "Használja telefonszámát annak ellenőrzésére, hogy elfelejtette-e a PIN-kódot.",
+  "wallet_text_authority": "Hozzájárulok ahhoz, hogy a Hahalolo felhasználja a megadott számlainformációimat a pénzátutalás folytatásához.",
+  "wallet_text_district_three_dot": "Kerület...",
+  "wallet_text_set_up_pin": "PIN-kód beállítása",
+  "wallet_text_established": "(Alapított)",
+  "wallet_text_not_have_pin_yet_title": "Nincs PIN-kódja",
+  "wallet_text_not_have_pin_yet_subtitle": "A funkció használatához hozzon létre egy PIN kódot",
+  "wallet_text_security_pin_code_description": "Hahalolo fizetési számla PIN-kódja szükséges fiókja és pénzügyi adatainak védelme érdekében. Sőt, nem kell újra megadnia a kártyaadatokat, amikor újra bejelentkezik.",
+  "wallet_text_check_password_locked": "A jelszó-ellenőrző funkció ideiglenesen le van tiltva. Kérlek, próbáld újra később.",
+  "wallet_text_enter_password_description": "A módosítás megerősítéséhez meg kell adnia a Hahalolo fiók jelszavát.",
+  "wallet_text_enter_sms_code": "Adja meg az ellenörző kódot",
+  "wallet_text_send_sms_description_1": "Megerősítő kódot küldtünk a címre",
+  "wallet_text_send_sms_description_2": "\nA lépés végrehajtásához írja be a kapott kódot.",
+  "wallet_text_resend": "Újraküldés",
+  "wallet_text_no_data": "Jelenleg nem állnak rendelkezésre adatok!",
+  "wallet_text_bank_transfer": "banki átutalás",
+  "wallet_text_tax_ptin": "Előkészítő adózói azonosítószám",
+  "wallet_text_tax_atin": "Örökbefogadási adózói azonosító szám",
+  "wallet_text_tax_ssn": "Társadalombiztosítási szám",
+  "wallet_text_account_personal": "Személyes fiók",
+  "wallet_text_account_business": "Üzleti számla",
+  "wallet_text_country_code_and": "országkód és",
+  "wallet_text_resend_time": "Újraküldés {time}",
+  "wallet_text_change_your": "Módosítsa a {text}",
+  "wallet_start_person_button": "{action} személyes fizetési fiók",
+  "wallet_start_business_button": "{action} üzleti fizetési fiók",
+  "wallet_text_recovery_subtitle_1": "Az Ön jelenlegi {text} értéke\n{value}",
+  "wallet_text_recovery_subtitle_2": "Kérjük, írjon be új {extra_text}{text}",
+  "wallet_text_enter_new": "Új {title} megadása",
+  "wallet_text_new": "új {title}",
+  "wallet_succ_setup_pin": "A PIN-kód sikeresen beállítva.",
+  "wallet_succ_setup_pin_content": "Sikeresen beállította a PIN-kódot.",
+  "wallet_succ_change_pin": "A PIN kód sikeresen módosítva",
+  "wallet_succ_change_pin_content": "Sikeresen megváltoztatta a PIN-kódot",
+  "wallet_succ_change_information": "Az információkat sikeresen frissítettük és ellenőriztük",
+  "wallet_war_remove_payout_account": "Biztos benne, hogy véglegesen törli ezt a fiókot?",
+  "wallet_war_create_payment_title": "Fizetési számla létrehozása",
+  "wallet_war_create_payment_subtitle": "Fizetési számla létrehozása előtt hozzon létre egy üzleti fiókot.",
+  "wallet_war_unsaved_information": "Előfordulhat, hogy a szerkesztett információk nem kerülnek mentésre. Ki akarsz lépni?",
+  "wallet_err_recovery": "A helyreállítás nem sikerült. Kérlek, próbáld újra később.",
+  "wallet_err_recovery_no_user_data": "A helyreállítás nem sikerült. Nem található felhasználói információ.",
+  "wallet_err_recovery_phone_exists": "A helyreállítás nem sikerült. Ez a telefonszám már létezik.",
+  "wallet_err_recovery_phone_invalid": "A helyreállítás nem sikerült. A telefonszám érvénytelen.",
+  "wallet_err_recovery_password_invalid": "A helyreállítás nem sikerült. A jelszava helytelen.",
+  "wallet_err_pin_existed": "A PIN-kód már létezik.",
+  "wallet_err_pin_wallet_not_exist": "Fizetési számla nem létezik",
+  "wallet_err_pin_incorrect_or_exists": "A PIN kód helytelen vagy nem létezik",
+  "wallet_err_pin_try_again": "A PIN-kód beállítása nem sikerült. Kérlek, próbáld újra később.",
+  "wallet_err_set_payout_default": "Nem sikerült kiválasztani az alapértelmezett kifizetési fiókot. Kérlek, próbáld újra később!",
+  "wallet_err_occurred_try_again": "Hiba lépett fel. Kérlek, próbáld újra később.",
+  "wallet_err_send_verify_title": "Nem sikerült elküldeni az ellenőrző kódot",
+  "wallet_err_try_again": "Hiba lépett fel. Kérlek, próbáld újra később.",
+  "wallet_err_create_payout_title": "Nem sikerült létrehozni a kifizetési fiókot. Kérlek, próbáld újra később.",
+  "wallet_err_fetch_data_failed": "Nem sikerült betölteni az adatokat. Kérlek, próbáld újra később!",
+  "wallet_err_occurred_processing": "Hiba történt a feldolgozás során. Kérlek, próbáld újra később.",
+  "wallet_err_remove_payout": "Nem sikerült törölni a fiókot. Kérlek, próbáld újra később.",
+  "wallet_err_change_pin": "Nem sikerült megváltoztatni a PIN-kódot",
+  "wallet_err_setup_pin": "Nem sikerült beállítani a PIN-kódot",
+  "wallet_err_sms_code_expired": "Az ellenőrző kód lejárt. Kérlek próbáld újra.",
+  "wallet_err_sms_code_incorrect": "Az ellenőrző kód helytelen. Kérlek próbáld újra.",
+  "wallet_create_payout_title": "Hozzon létre kifizetési fiókot",
+  "wallet_action_continue": "Folytatni",
+  "wallet_action_create": "Teremt",
+  "wallet_action_update": "Frissítés",
+  "wallet_action_ok": "Egyetért",
+  "wallet_action_complete": "teljes",
+  "wallet_action_next": "Folytatni",
+  "wallet_action_try_back": "Menjen vissza",
+  "wallet_action_try_again": "Próbáld újra",
+  "wallet_action_accept": "Elfogad",
+  "wallet_action_remove": "Töröl",
+  "wallet_action_change": "változás",
+  "wallet_action_setup": "Beállít",
+  "wallet_action_confirm": "megerősít",
+  "wallet_action_cancel": "Megszünteti",
+  "wallet_action_close": "Bezárás",
+  "wallet_overview": "Áttekintés",
+  "wallet_notification": "Értesítések",
+  "wallet_transaction_history": "Tranzakciók előzményei",
+  "wallet_transfer_point": "Pontok átadása",
+  "wallet_payout_accounts": "Kifizetési számla",
+  "wallet_security": "Biztonság",
+  "wallet_recovery_methods": "Helyreállítási módszer",
+  "wallet_help_center": "Segítség Központ",
+  "wallet_view_profile": "Információk megtekintése",
+  "wallet_info_title": "Fizetési számla információk",
+  "wallet_edit_identity_card": "ID kártya",
+  "wallet_edit_id_card": "ID kártya",
+  "wallet_edit_passport": "Útlevél",
+  "wallet_edit_verify_status": "Állapot",
+  "wallet_edit_not_verify": "Ellenőrizetlen",
+  "wallet_edit_verified": "Ellenőrzött",
+  "wallet_edit_verify_waiting": "Függőben levő",
+  "wallet_edit_gender": "Nem",
+  "wallet_edit_male": "Férfi",
+  "wallet_edit_female": "Női",
+  "wallet_edit_other": "Egyéb",
+  "wallet_owner_title": "Felhasználói információ",
+  "wallet_edit_fullName": "Teljes név",
+  "wallet_edit_email": "Email",
+  "wallet_edit_phoneNumber": "Telefonszám",
+  "wallet_edit_dateOfBirth": "Születési dátum",
+  "wallet_edit_dateOfBirth_13_yo": "Születési idő (legalább 13 éves)",
+  "wallet_edit_address": "Cím",
+  "wallet_edit_country": "Ország",
+  "wallet_edit_idType": "Azonosítás típusa",
+  "wallet_edit_id_passport": "ID szám/Útlevél",
+  "wallet_edit_country_issue": "Kibocsátó ország",
+  "wallet_edit_id_document": "Az ID kártya képei/Útlevél",
+  "wallet_edit_front": "Elülső oldal",
+  "wallet_edit_back": "Hátoldal",
+  "wallet_edit_activate_date": "Hatálybalépés napjára",
+  "wallet_edit_expiration_date": "Lejárati dátum",
+  "wallet_waiting_balance": "Függőben lévő egyenleg",
+  "wallet_pending_balance": "Egyenleg folyamatban",
+  "wallet_available_balance": "Rendelkezésre álló egyenleg",
+  "wallet_frozen_balance": "Fagyott egyensúly",
+  "wallet_top10_trans": "Legutóbbi 10 tranzakció",
+  "wallet_source_withdrawal": "Visszavonás",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Pénz be",
+  "wallet_source_outcome": "Ki a pénzt",
+  "wallet_source_point": "Pontok",
+  "wallet_source_aff_commission": "Leányvállalat – jutalék",
+  "wallet_source_aff_reward": "Affiliate – Jutalomprogram",
+  "wallet_source_recharge": "Feltölt",
+  "wallet_source_order": "Rendelés",
+  "wallet_status_waiting": "Függőben levő",
+  "wallet_status_pending": "Jóváhagyásra váró",
+  "wallet_status_available": "Elérhető",
+  "wallet_status_frozen": "Fagyott",
+  "wallet_status_cancel": "Törölve",
+  "wallet_status_success": "Sikeres",
+  "wallet_status_error": "nem sikerült",
+  "wallet_status_outcome": "Ki a pénzt",
+  "wallet_status_transfer": "Pontok átadása",
+  "wallet_action_receive": "Kap pontokat",
+  "wallet_action_donate": "Adj pontokat",
+  "wallet_action_buy_point": "Vásároljon pontokat",
+  "wallet_action_payment": "Fizetés",
+  "wallet_filter_all": "Összes",
+  "wallet_filter_allTime": "Összes",
+  "wallet_filter_today": "Ma",
+  "wallet_filter_yesterday": "Tegnap",
+  "wallet_filter_7days": "Az elmúlt 7 nap",
+  "wallet_filter_30days": "Az elmúlt 30 nap",
+  "wallet_filter_custom_date": "Választható dátum",
+  "wallet_filter_status": "Állapot",
+  "wallet_filter_time": "Idő",
+  "wallet_filter_action": "Akció",
+  "wallet_validate_this_field": "Ez a mező",
+  "wallet_validate_required": "A(z) {fieldName} megadása kötelező",
+  "wallet_validate_invalid_email": "Érvénytelen e-mail",
+  "wallet_validate_invalid_phone_number": "Érvénytelen telefonszám",
+  "wallet_validate_invalid_number": "Érvénytelen szám",
+  "wallet_validate_limit_length": "A {fieldName} mezőnek legalább {minLength} karakterből kell állnia",
+  "wallet_validate_not_contain_number": "A {fieldName} nem tartalmazhat numerikus karaktereket",
+  "wallet_validate_not_contain_special_char": "A {fieldName} nem tartalmazhat speciális karaktereket",
+  "wallet_validate_invalid_swift_code_length": "A Swift kód csak 8-11 karakterből áll",
+  "wallet_validate_invalid_swift_code": "Érvénytelen swift kód",
+  "wallet_no_transaction": "Nincs tranzakció!",
+  "wallet_no_image": "Még nincsenek fényképek",
+  "wallet_edit_quit_msg": "Előfordulhat, hogy a szerkesztett információk nem kerülnek mentésre. Ki akarsz lépni?",
+  "wallet_point_total": "Teljes:",
+  "wallet_payment_methods": "Fizetési mód",
+  "wallet_payment_methods_note": "(Megjegyzés: a '{HAHALOLO}' támogatja a felhasználókat '{MIỄN PHÍ}' banki költségekkel)",
+  "wallet_num_of_points": "Pontok száma",
+  "wallet_points": "{number} pont",
+  "wallet_1point": "1 pont",
+  "wallet_msg_enter_number_of_points": "Kérjük, adja meg a megvásárolni kívánt pontok számát",
+  "wallet_msg_pin_not_correct": "A PIN kód helytelen vagy nem létezik",
+  "wallet_msg_balance_not_enough": "Fedezethiány",
+  "wallet_msg_error_while_buy_point": "Hiba történt a pontok vásárlása közben",
+  "wallet_msg_fetch_error": "Hiba lépett fel. Kérlek, próbáld újra később.",
+  "wallet_msg_buy_point_success": "Sikeresen vásárolt pontokat",
+  "wallet_withdrawal_req": "Visszavonási kérelem:",
+  "wallet_withdrawal_payment_acc_id": "Fizetési számla ID:",
+  "wallet_withdrawal_balance": "Rendelkezésre álló egyenleg:",
+  "wallet_withdrawal_payout_acc": "kifizetési számla",
+  "wallet_withdrawal_amount": "Összeg ({currency})",
+  "wallet_label_desc": "Leírás",
+  "wallet_btn_save": "Megment",
+  "wallet_btn_edit_owner": "Szerkesztés",
+  "wallet_btn_buy": "megvesz",
+  "wallet_btn_reset": "Lépjen be újra",
+  "wallet_insufficient_available_balances": "Nincs elegendő rendelkezésre álló egyenleg",
+  "wallet_msg_complete_info": "Kérjük, töltse ki az információkat",
+  "wallet_msg_success": "Sikeresen visszavontad",
+  "wallet_msg_wal_not_exist": "Fizetési számla nem létezik",
+  "wallet_msg_wal_blocked": "Fizetési számla blokkolva",
+  "wallet_msg_acc_incorrect": "Hibás fizetési számla",
+  "wallet_msg_total_not_available": "A kért teljes összeg nem áll rendelkezésre",
+  "wallet_msg_pin_locked": "A fizetési számla PIN-kódja zárolva van",
+  "wallet_msg_withdrawal_failed": "A visszavonás nem sikerült. Kérlek, próbáld újra később.",
+  "wallet_msg_fill_in_all_info": "Kérjük, töltse ki az információkat",
+  "wallet_update_info_success": "Sikeresen frissítette az információkat",
+  "wallet_update_info_fail": "Nem sikerült frissíteni az információkat",
+  "wallet_no_notifications": "Nincsenek értesítései",
+  "wallet_buy_point_payment_method_note": "(Megjegyzés: a '{hahalo}' banki költségekkel '{free}' támogatja a felhasználókat)",
+  "wallet_note_free": "INGYENES",
+  "wallet_buy_point_policy": "Elfogadom a következőt: {condition} és {privacy}",
+  "wallet_term_conditions": "Felhasználási feltételek",
+  "wallet_privacy": "Magánélet",
+  "wallet_msg_receiving_account_not_exist": "A címzett fizetési számlája nem létezik",
+  "wallet_msg_search_account_error": "Hiba történt a fizetési számla keresése közben",
+  "wallet_msg_sending_account_not_exist": "A feladó fizetési számlája nem létezik",
+  "wallet_msg_point_balance_not_enough": "A fizetési számla pontegyenlege nem elég",
+  "wallet_msg_cannot_give_to_itself": "Nem vihet át pontokat saját magának",
+  "wallet_msg_cannot_give_to_business": "A címzett fizetési számlája nem lehet üzleti számla",
+  "wallet_msg_transfer_point_err": "Hiba történt a pontok átvitele közben",
+  "wallet_msg_transfer_point_success": "A pontok sikeresen átkerültek",
+  "wallet_recipient_info": "Címzett adatai",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Pontok száma",
+  "wallet_not_verified": "Nem ellenőrzött fizetési számla",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} óra {minute} perc",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 megáll} other{{countStop} megáll}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "A tranzitidő kb {time} ben {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Felnőttek (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Gyermekek (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Baba (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} felnőtt} other{{count} felnőttek}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} gyerek} other{, {count} gyerekek}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} babák} other{, {count} babák}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "A tranzitidő kb {times} ben {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAMM} other{{countBag} KILOGRAMOK}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Egyirányú repülés",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Induló járat",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Retúr repülőjárat",
+  "flight_fare_rule_title_fare_conditions": "Viteldíj feltételek",
+  "flight_fare_rule_title_departure_flight": "Repülési",
+  "flight_fare_rule_title_segment": "Szegmens",
+  "flight_filter_by_title_filter": "Szűrő",
+  "flight_filter_by_content_btn_filter": "Szűrő",
+  "flight_filter_by_title_airline": "Légitársaság",
+  "flight_filter_by_title_flight_times": "Repülési idő",
+  "flight_filter_by_title_type_flight_times_early_morning": "Kora reggel \n 00:00-06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Reggel \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Délután \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Este \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Megállók száma",
+  "flight_filter_by_title_select_all": "Mindet kiválaszt",
+  "flight_filter_by_title_unselect_all": "Minden kijelölés megszüntetése",
+  "flight_filter_by_title_type_segment_all": "Minden",
+  "flight_filter_by_title_type_segment_direct": "Közvetlen járat",
+  "flight_filter_by_title_type_segment_transit": "Tranzit",
+  "flight_sort_by_title_sort_by": "Sorrend",
+  "flight_sort_by_title_sort_by_ascending_price": "Emelkedő ár",
+  "flight_sort_by_title_sort_by_descending_price": "Csökkenő ár",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Legkorábbi indulási időpont",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Legkorábbi érkezési idő",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Legkésőbbi érkezési idő",
+  "flight_search_result_title_count_adult": "felnőtt",
+  "flight_search_result_title_count_child": "gyermek",
+  "flight_search_result_title_count_baby": "baba",
+  "flight_search_result_title_segment": "álljon meg",
+  "flight_search_result_title_hours": "órák",
+  "flight_search_result_title_minutes": "percek",
+  "flight_search_result_title_view_detail_price": "Részletek megtekintése",
+  "flight_search_result_title_hide_detail_price": "Rejtett részletek",
+  "flight_search_result_title_view_detail": "Részletek",
+  "flight_search_result_title_btn_book_ticket": "Könyv",
+  "flight_search_result_title_basic_price_ticket": "Jegyenkénti ár",
+  "flight_search_result_title_taxes_and_fee": "Adók és díjak",
+  "flight_search_result_title_total_amount": "Teljes összeg",
+  "flight_search_result_title_total": "Teljes",
+  "flight_search_result_title_fare_details": "Viteldíj részletei",
+  "flight_search_result_title_quantity": "Mennyiség",
+  "flight_search_result_title_passenger": "Utas",
+  "flight_search_result_title_one_way_flight": "Egyirányú repülés",
+  "flight_search_result_title_round_trip_flight": "Oda-vissza repülés",
+  "flight_change_search_title_btn_agree": "Egyetért",
+  "flight_change_search_title_btn_cancel": "Megszünteti",
+  "flight_change_search_title_header_dialog": "Keresés módosítása",
+  "flight_change_search_title_body_dialog": "Biztosan módosítani szeretné a keresési információkat?",
+  "flight_change_search_title_footer_dialog": "Ha beleegyezik a keresési adatok módosításába, minden korábbi adat törlődik.",
+  "flight_search_result_detail_title_flight_details": "Járatinformációk",
+  "flight_search_result_detail_title_checked_baggage": "Leellenőrzött csomag",
+  "flight_search_result_detail_title_aircraft": "Repülőgép",
+  "flight_search_result_detail_title_seat_class": "Ülésosztály",
+  "flight_search_result_detail_title_class_seat_type_all": "Minden",
+  "flight_search_result_detail_title_class_seat_type_economy": "Gazdaság",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Első",
+  "flight_search_result_detail_title_class_seat_type_business": "Üzleti",
+  "flight_search_result_detail_content_note_transit_body": "Megjegyzés: Előfordulhat, hogy az utasokat vámkezelésre és tranzitvízum benyújtására kötelezik a fogadó ország kérésére.",
+  "flight_transit_alter_note": "Megjegyzés: Előfordulhat, hogy az utasokat vámkezelésre és tranzitvízum benyújtására kötelezik a fogadó ország kérésére.",
+  "flight_luggage": "Poggyász",
+  "flight_signed_luggage": "Leellenőrzött csomag",
+  "flight_service_package": "Szolgáltatási csomagok",
+  "flight_run_by": "által üzemeltetett",
+  "flight_result_notice_no_flight_found": "Nem található járat!",
+  "flight_result_notice_no_flight_found_filter": "Sajnáljuk, nincs a feltételeknek megfelelő járat",
+  "flight_result_notice_check_internet_again": "A kapcsolatod megszakadt. Kérjük, ellenőrizze újra a kapcsolatot",
+  "flight_result_notice_error_authentication": "A bejelentkezési munkamenete lejárt. Kérjük, jelentkezzen be újra",
+  "flight_search_result_notice_booking_expired": "A foglalási időszak hamarosan lejár",
+  "flight_search_result_notice_click_continue_to_proceed": "Kérjük, kattintson a \"Folytatás\" gombra a foglalás folytatásához.",
+  "flight_search_result_btn_continue": "Folytatni",
+  "flight_input_title_gender": "Nem",
+  "flight_input_title_gender_male": "Férfi",
+  "flight_input_title_gender_female": "Női",
+  "flight_input_title_gender_other": "Egyéb",
+  "flight_search_price_info_bottom_sheet_tax_include": "Adóval együtt",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Díjjal",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Rendszer és rendszergazdai felár",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Biztonsági átvizsgálás díja",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Kényelmes fizetési felár",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Repülőtéri díj",
+  "flight_fare_rule_notice_empty_fare_rule": "A légitársaság viteldíj feltételei nem találhatók",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Felnőttek",
+  "flight_v2_model_booking_children": "Gyermekek",
+  "flight_v2_model_booking_infant": "Csecsemő",
+  "flight_v2_model_detail_infant": "(2 éves kor alatt)",
+  "flight_v2_model_detail_children": "(02-12 éves korig)",
+  "flight_v2_component_bonus_services_title_string": "További szolgáltatások",
+  "flight_v2_component_bonus_service_header": "További szolgáltatások",
+  "flight_v2_component_bonus_service_content_header_price": "Biztosítási díj",
+  "flight_v2_component_bonus_service_flight_table_header": "Teljes biztosítási díj",
+  "flight_v2_component_bonus_service_text1_introduce": "Bevezetés",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Biztosítás típusa:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Repülési biztosítás",
+  "flight_v2_component_bonus_service_text1_supplier": "Szolgáltató:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Biztosító Részvénytársaság (Vietinbank Biztosító)",
+  "flight_v2_component_bonus_service_text1_trusted": "Megbízható utasbiztosításunkkal magabiztosan utazhat",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "A biztosítás tárgya",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Az egyének a Hahalolo rendszer repülőjegy-foglalási szolgáltatását használják légi utazáshoz.",
+  "flight_v2_component_bonus_service_text1_age": "Kor: 07 napos kortól.",
+  "flight_v2_component_bonus_service_text1_range": "Hatály",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "A biztosítási fedezet a következő kockázatokat foglalja magában:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Baleset által okozott halál vagy testi sérülés.",
+  "flight_v2_component_bonus_service_text1_impediments": "Utazási kockázatok, nevezetesen az utazás törlése/lerövidítése, a Biztosított poggyászának, ruházatának és személyes tárgyainak elvesztése vagy sérülése, a légitársaság repülésének késése, poggyász késése, úti okmányok elvesztése vagy eltérítés.",
+  "flight_v2_component_bonus_service_text1_benefit": "Előnyök",
+  "flight_v2_component_bonus_service_text1_small_amount": "Csak kevés pénzt költsön többszörös védelemért.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Személybiztosítási előnyök:",
+  "flight_v2_component_bonus_service_text2_insured_person": "A biztosítás által fedezett balesetben vagy sérülésben elhunyt biztosított személy a teljes biztosítási összeget kapja 1 000 000 VND erejéig.",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Kockázati utazási biztosítás előnyei:",
+  "flight_v2_component_bonus_service_text2_the_insured": "A biztosított személy legfeljebb 20 000 000 VND kártérítést kap.",
+  "flight_v2_component_bonus_service_text1_rules": "Feltételek",
+  "flight_v2_component_bonus_service_text1_more_information": "További részleteket a csatolt fájlban talál, vagy érdeklődjön",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Az utasbiztosítás szabályai",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Fogadja el, hogy részt vesz a repülésbiztosításban",
+  "flight_v2_component_booking_flight_information": "Repülési információ",
+  "flight_v2_component_booking_show": "Olvass tovább",
+  "flight_v2_component_booking_hide": "Elrejt",
+  "flight_v2_component_booking_adult": "Felnőttek",
+  "flight_v2_component_booking_children": "Gyermekek",
+  "flight_v2_component_booking_infant": "Baba",
+  "flight_v2_component_booking_baggage": "Poggyász",
+  "flight_v2_component_booking_main_content_service": "Szolgáltatások",
+  "flight_v2_component_booking_taxes_fees": "Díjak és adók",
+  "flight_v2_component_booking_title_booking_information": "Foglalási információk",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Induló járat",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Retúr repülőjárat",
+  "flight_v2_component_confirm_title_flight_information": "Repülési információ",
+  "flight_v2_component_confirm_text_done": "Kész",
+  "flight_v2_component_detail_booking_information": "Foglalási információk",
+  "flight_v2_component_detail_flight_information": "Repülési információ",
+  "flight_v2_component_detail_passenger_information": "Utasinformációk",
+  "flight_v2_component_payment_booking_information": "Foglalási információk",
+  "flight_v2_component_payment_information": "Információ",
+  "flight_v2_component_payment_passenger_information": "Utasinformációk",
+  "flight_v2_component_payment_making_flight_payment": "Ön a következő utasok után fizet repülőjegyet:",
+  "flight_v2_component_payment_payment_now": "Fizetés",
+  "flight_v2_component_result_title_flight_details": "Járatinformációk",
+  "flight_v2_component_result_title_fare_details": "Viteldíj részletei",
+  "flight_v2_component_result_type_direct_flight": "Közvetlen járat",
+  "flight_v2_component_result_title_showMessDiaLog": "Értesítések",
+  "flight_v2_component_result_message_selected_return": "Kiválasztotta az oda-vissza járatot a következő időpontban:",
+  "flight_v2_component_result_message_cancel_book": "Szeretné lemondani és új járatot foglalni?",
+  "flight_v2_component_result_actionMessage_yes": "Igen",
+  "flight_v2_component_result_negativeMessage_no": "Nem",
+  "flight_v2_component_result_trip_turn_departure": "Indulás",
+  "flight_v2_component_result_trip_turn_arrival": "Érkezés",
+  "flight_v2_notify_day_invalid_cannot_choose": "Nem választhat",
+  "flight_v2_notify_day_invalid_because": "mert",
+  "flight_v2_notify_day_invalid_date_is": "van",
+  "flight_v2_component_result_actionMessage_btn": "Egyetért",
+  "flight_v2_component_result_message": "Kérjük, ne válasszon az aktuális dátum előtti dátumot",
+  "flight_v2_component_search_text_guest": "Utas",
+  "flight_v2_component_search_button_save": "Megment",
+  "flight_v2_component_search_text_choose_a_date": "Válasszon egy dátumot",
+  "flight_v2_component_search_button_choose": "Válassza ki",
+  "flight_v2_widget_booking_total_price": "Teljes ár",
+  "flight_v2_widget_booking_continue": "Folytatni",
+  "flight_v2_widget_booking_payer_information": "Fizető adatai",
+  "flight_v2_widget_booking_payer_use_contact_information": "Használja a kapcsolattartó adatait",
+  "flight_v2_widget_booking_save_payment": "Mentse el ezeket a fizetési információkat a következő alkalommal",
+  "flight_v2_widget_booking_title_contact_information": "Elérhetőség",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Használja az aktuális számlaadatokat",
+  "flight_v2_widget_booking_title_checkbox_passenger": "utas vagyok",
+  "flight_v2_widget_booking_radio_gender": "Nem",
+  "flight_v2_widget_booking_radio_male": "Férfi",
+  "flight_v2_widget_booking_radio_female": "Női",
+  "flight_v2_widget_booking_field_card_bank_card": "Bank kártya",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Leellenőrzött csomag",
+  "flight_v2_widget_booking_title_passenger_information": "Utasinformációk",
+  "flight_v2_widget_booking_information": "információ",
+  "flight_v2_widget_common_one_way": "Egyirányú",
+  "flight_v2_widget_common_details": "Részletek",
+  "flight_v2_widget_common_text_price": "Ár",
+  "flight_v2_widget_common_text_fare_conditions": "Viteldíj feltételek",
+  "flight_v2_widget_common_text_service_pack": "Szolgáltatási csomagok",
+  "flight_v2_widget_common_item_tax_inclusive": "Adóval együtt",
+  "flight_v2_widget_common_item_vat": "áfa",
+  "flight_v2_widget_common_item_fee_inclusive": "A díjat tartalmazza",
+  "flight_v2_widget_common_item_fee_surcharge": "Rendszer és rendszergazdai felár",
+  "flight_v2_widget_common_item_fee_screening": "Biztonsági átvizsgálási felár",
+  "flight_v2_widget_common_item_fee_convenient": "Kényelmes fizetési felár",
+  "flight_v2_widget_common_item_fee_airport": "Repülőtéri díj",
+  "flight_v2_widget_common_text_price_per_ticket": "Alapdíj",
+  "flight_v2_widget_common_text_taxes_fees": "Adók és díjak",
+  "flight_v2_widget_common_service_service": "Szolgáltatások",
+  "flight_v2_widget_common_text_total_amount": "Teljes ár",
+  "flight_v2_widget_common_button_continue": "Folytatni",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Az adókat és díjakat tartalmazza)",
+  "flight_v2_widget_common_service_accommodation_service": "Szállásszolgáltatás",
+  "flight_v2_widget_common_text_direct_flight": "Közvetlen járat",
+  "flight_v2_widget_confirm_description": "Nem",
+  "flight_v2_widget_confirm_description_full_name": "Teljes név",
+  "flight_v2_widget_confirm_description_email": "Email",
+  "flight_v2_widget_confirm_description_phone_number": "Telefonszám",
+  "address": "Cím",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "A foglalás sikeres",
+  "flight_v2_widget_confirm_text_reservation_request": "Foglalási kérelmét sikeresen teljesítettük",
+  "flight_v2_widget_confirm_text_paid_already": "(Fizetett)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Az útvonal részleteit alább ellenőrizheti.",
+  "flight_v2_widget_confirm_title_payment_information": "Fizetési információ",
+  "flight_v2_widget_confirm_description_orders": "Megrendelések",
+  "flight_v2_widget_confirm_description_price": "Ár",
+  "flight_v2_widget_confirm_description_payers": "Fizető",
+  "flight_v2_widget_confirm_button_view_details": "Részletek megtekintése",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Könyv új",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Köszönjük szolgáltatásunkba vetett bizalmát",
+  "flight_v2_widget_confirm_textspan_question_help": "Ha bármilyen kérdése van, vagy további segítségre van szüksége, forduljon a Hahalolo Súgóhoz",
+  "flight_v2_widget_confirm_text_paid_instructions": "utasításokért.",
+  "flight_v2_widget_confirm_title_passenger_information": "Utasinformációk",
+  "flight_v2_widget_confirm_title_flight_information": "Repülési információ",
+  "flight_v2_widget_confirm_text_ticket_class": "Osztály",
+  "flight_v2_widget_confirm_text_booking_code": "Foglalás hivatkozási",
+  "flight_v2_widget_confirm_text_flight": "Repülési",
+  "flight_v2_widget_confirm_description_name": "Név",
+  "flight_v2_widget_confirm_description_guest_type": "Utas típus",
+  "flight_v2_widget_confirm_description_baggage": "Poggyász",
+  "flight_v2_widget_dialog_config_button_agree": "Egyetért",
+  "flight_v2_widget_dialog_config_button_deny": "Kihagyás",
+  "flight_v2_widget_dialog_config_title": "Információ módosítása",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Biztosan módosítani szeretné a keresési információkat\n?",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Ha beleegyezik a keresési adatok módosításába, minden korábbi adat törlődik",
+  "flight_v2_widget_dialog_config_title_delete_account": "Fiók törlése",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "A számla nem jelenik meg a Fizetési számla kiválasztása részben. Törli ezt a fizetési fiókot? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Válasszon másik repülési időt",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Keresés módosítása",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "A repülés túllépte a megengedett időt",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "A kiválasztott járat túllépte a megengedett foglalási időt.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Kérjük, lépjen kapcsolatba velünk",
+  "flight_v2_widget_dialog_config_text_span_by_number": "keresztül",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Forródrót",
+  "flight_v2_widget_dialog_config_text_span_or": "vagy",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "módosítsa a keresést egy új járatra.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Válassz másik járatot",
+  "flight_v2_widget_dialog_config_title_not_available": "A járat nem\n érhető el",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Sajnáljuk, a kiválasztott járat már nem elérhető. Kérem",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "válasszon másik járatot, vagy módosítsa a keresést.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Viteldíj változások",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Az Ön viteldíja megváltozott",
+  "flight_v2_widget_dialog_config_text_span_to": "nak nek",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\na légitársaság viteldíjváltozásai miatt",
+  "flight_v2_widget_field_fname_required": "A vezetéknév megadása kötelező",
+  "flight_v2_widget_field_fname_invalid": "Érvénytelen vezetéknév",
+  "flight_v2_widget_field_fname_last_name": "Vezetéknév (tónusjelek nélkül)",
+  "flight_v2_widget_field_lname_required": "A középső és a keresztnév megadása kötelező",
+  "flight_v2_widget_field_lname_invalid": "Érvénytelen középső és utónév/utónév",
+  "flight_v2_widget_field_lname_middle_first_name": "Középső és utónév/Utónév (tónusjelek nélkül)",
+  "flight_v2_widget_field_email_required": "E-mail megadása kötelező",
+  "flight_v2_widget_field_email_invalid": "Érvénytelen e-mail",
+  "flight_v2_widget_field_email_email": "E-mail",
+  "flight_v2_widget_field_phone_required": "Telefonszám megadása kötelező",
+  "flight_v2_widget_field_phone_invalid": "Érvénytelen telefonszám",
+  "flight_v2_widget_field_phone_phone": "Telefonszám",
+  "flight_v2_widget_field_address_required": "A cím megadása kötelező",
+  "flight_v2_widget_field_address_invalid": "Érvénytelen cím",
+  "flight_v2_widget_field_address_address": "Cím",
+  "flight_v2_widget_field_city_required": "Állam/Város megadása kötelező",
+  "flight_v2_widget_field_city_invalid": "Érvénytelen állam/város",
+  "flight_v2_widget_field_city_city": "Városállam",
+  "flight_v2_widget_field_city_snackbar_text": "Kérjük, a város kiválasztása előtt válassza ki nemzetiségét",
+  "flight_v2_widget_field_country_required": "Állampolgárság szükséges",
+  "flight_v2_widget_field_country_invalid": "Érvénytelen állampolgárság",
+  "flight_v2_widget_field_country_country": "Állampolgárság",
+  "flight_v2_widget_field_field_card_hint": "Tagsági kártya száma",
+  "flight_v2_widget_field_field_card_error_input": "Érvénytelen kártya",
+  "flight_v2_widget_field_field_card_default_error": "Kártya szükséges",
+  "flight_v2_widget_field_field_date_hint": "Születési dátum",
+  "flight_v2_widget_field_field_date_error_input": "Kérjük, ne hagyja üresen",
+  "flight_v2_widget_field_field_date_default_error": "Kérjük, ne hagyja üresen",
+  "flight_v2_widget_field_field_date_default_error_infant": "A csecsemőknek 2 évesnél fiatalabbaknak kell lenniük",
+  "flight_v2_widget_field_field_date_default_error_children": "A gyermekeknek 2 és 12 év közöttieknek kell lenniük",
+  "flight_v2_widget_payment_contact_information": "Elérhetőség",
+  "flight_v2_widget_payment_full_name": "Teljes név",
+  "flight_v2_widget_payment_gender": "Nem",
+  "flight_v2_widget_payment_phone_number": "Telefonszám",
+  "flight_v2_widget_payment_address": "Cím",
+  "flight_v2_widget_payment_birthday": "Születési dátum",
+  "flight_v2_widget_payment_male": "Férfi",
+  "flight_v2_widget_payment_female": "Női",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Teljes név:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Nem:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Születési dátum:",
+  "flight_v2_widget_payment_checked_baggage": "Leellenőrzött csomag",
+  "flight_v2_widget_payment_note": "jegyzet",
+  "flight_v2_widget_payment_information": "Információ",
+  "flight_v2_widget_payment_adult": "Felnőtt",
+  "flight_v2_widget_payment_children": "Gyermek",
+  "flight_v2_widget_payment_infant": "Baba",
+  "flight_v2_widget_payment_title_adult_information": "Felnőtteknek szóló információk",
+  "flight_v2_widget_payment_title_children_information": "Gyermek információk",
+  "flight_v2_widget_payment_title_infant_information": "Baba információ",
+  "flight_v2_widget_payment_customer_information": "Utasinformációk",
+  "flight_v2_widget_payment_edit_information": "Szerkessze az információkat",
+  "flight_v2_widget_payment_bonus_services": "További szolgáltatások",
+  "flight_v2_widget_payment_membership_card_number": "Tagsági kártya száma",
+  "flight_v2_widget_payment_text_loyal_customer": "Törzsutasok",
+  "flight_v2_widget_payment_text_making_flight_payment": "Ön a következő utasok után fizet repülőjegyet:",
+  "flight_v2_widget_result_total_amount": "Teljes ár",
+  "flight_v2_widget_result_taxes_fees": "(Az adókat és díjakat tartalmazza)",
+  "flight_v2_widget_result_elevate_button_book": "Könyv",
+  "flight_v2_widget_result_text_flight": "Szegmens",
+  "flight_v2_widget_result_text_departure_flight": "Induló járat",
+  "flight_v2_widget_result_text_return_flight": "Retúr repülőjárat",
+  "flight_v2_component_code_title": "Nézze meg a foglalást",
+  "flight_v2_component_code_retype": "Lépjen be újra",
+  "flight_v2_component_code_search_btn": "Nézz fel",
+  "flight_v2_component_code_error": "Nem található foglalási információ.\nKérjük, ellenőrizze, és próbálja újra.",
+  "flight_v2_widget_detail_text_booking_code": "Foglalás hivatkozási:",
+  "flight_v2_widget_detail_text_status": "Állapot:",
+  "flight_v2_widget_detail_text_booked": "Foglalt",
+  "flight_v2_widget_detail_text_cancelled": "Törölve",
+  "flight_v2_widget_detail_text_paid": "Fizetett",
+  "flight_v2_widget_detail_text_unpaid": "Kifizetetlen",
+  "flight_showcase_domestic_round_trip_step1": "Az idő a nap legalacsonyabb viteldíjával jelenik meg",
+  "flight_showcase_domestic_round_trip_step2": "Csúsztassa mindkét oldalra a repülési idő újbóli kiválasztásához",
+  "flight_showcase_domestic_round_trip_step3": "Válassza ki indulási járatát",
+  "flight_showcase_domestic_round_trip_step4": "Válassza ki a visszautat",
+  "flight_showcase_domestic_round_trip_step5": "Bármikor újraválaszthatja az induló és visszautat",
+  "flight_showcase_domestic_round_trip_step6": "Foglalás előtt elegendő repülőjegyet kell kiválasztania",
+  "flight_showcase_inter_round_trip_step1": "Válassza ki magának a megfelelő repülőutat",
+  "flight_showcase_inter_round_trip_step1_desc": "A repülőút egy induló és egy visszaútból áll",
+  "flight_showcase_place_from": "Tól től",
+  "flight_showcase_place_to": "Nak nek",
+  "flight_showcase_tutorial": "Oktatóanyag",
+  "flight_showcase_back": "Vissza",
+  "flight_showcase_done": "teljes",
+  "flight_showcase_continue": "Következő",
+  "flight_v2_component_code_hint_text": "Adja meg a foglalási hivatkozást",
+  "flight_v2_component_booking_text_note_upon": "Mikor",
+  "flight_v2_component_booking_text_payment_after": "FIZESS KÉSŐBB",
+  "flight_v2_component_booking_text_your_booking": ", foglalása 12 órán belül megtörténik. A rendszer automatikusan törli, ha továbbra sem fizeti be a megadott időn belül. Kérjük, hogy a foglalási folyamat befejezéséhez a megadott időn belül fizesse be a fizetést.",
+  "flight_v2_dialog_default_payment_error": "Hiba történt a fizetési folyamat során. Kérlek, próbáld újra később.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Lépjen kapcsolatba a Hahalolo Ügyfélszolgálattal",
+  "flight_v2_dialog_default_payment_not_success": "Fizetés meghiúsult",
+  "flight_v2_component_result_message_appropriate_flight": "A visszaút felszállásának legalább 02 órával az indulási járat leszállási időpontja után kell megtörténnie. Kérjük, válassza ki a megfelelő járatot.",
+  "flight_v2_component_notification_not_available": "Repülés nem elérhető",
+  "flight_v2_search_enter_your_reservation": "Adja meg foglalási hivatkozását a foglalási adatok megtekintéséhez",
+  "flight_v2_search_booking_reference": "Foglalás hivatkozási",
+  "flight_v2_search_title_booking_code": "Adja meg foglalási hivatkozását a repülőjegy-foglalás megtekintéséhez",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Vezetéknév (tónusjelek nélkül)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Középső név és utónév/utónév (tónusjelek nélkül)",
+  "flight_v2_widget_common_rules_1": "Nemzetközi járatok vagy nemzetközi átutazások esetén útlevelének az indulás dátuma előtt legalább 6 hónappal érvényesnek kell lennie.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines és Bamboo Airways: megtagadják a terhes utasok szállítását a terhességi időszak 36 hetes korától. Vietjet Air és Vietravel Airlines: Megtagadják a várandós utasok szállítását a 32 hetes terhességi időszakkal.",
+  "flight_v2_widget_common_rules_3": "A 14 napos és 2 év alatti csecsemőket 18 éven felüli felnőtt kíséretében kell biztosítani.",
+  "flight_v2_widget_common_rules_4": "A gyermekek/csecsemők életkorát a születési dátumtól a repülőút indulásáig számítjuk, a gyermek születési anyakönyvi kivonata/útlevele alapján.",
+  "flight_v2_widget_common_rules_5": "Az egyedül repülő gyermekek esetében kérjük, forduljon közvetlenül az ügynökhöz a kísérő nélküli kiskorú szolgáltatással kapcsolatos további információkért.",
+  "flight_range_slider_price_range": "Árkategória",
+  "flight_v2_common_done": "Kész",
+  "flight_v2_detail_airline_operator_by": "Üzemeltető: '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Megjegyzés: Előfordulhat, hogy az utasokat vámkezelésre és tranzitvízum benyújtására kötelezik a fogadó ország kérésére.",
+  "flight_v2_detail_airline_total_price": "Teljes",
+  "flight_v2_detail_airline_title_tax_and_fee": "(Az adókat és díjakat tartalmazza)",
+  "flight_v2_detail_airline_button_add_ticket": "Jegy hozzáadása",
+  "flight_v2_detail_airline_button_change_ticket": "Válts jegyet",
+  "flight_v2_detail_airline_button_booking_ticket": "Foglaljon jegyet",
+  "flight_v2_detail_airline_departure_flight": "Induló járat",
+  "flight_v2_detail_airline_return_flight": "Retúr repülőjárat",
+  "flight_v2_information_contact_email": "Email",
+  "flight_v2_information_customer_title_full_name": "Teljes név: {fullName}",
+  "flight_v2_information_customer_title_gender": "Nem: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Születési dátum: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Megjegyzés: a {HAHALOLO} {free} banki díjjal támogatja a felhasználókat)",
+  "flight_v2_payment_include_free_fee_payment": "INGYENES",
+  "flight_v2_payment_use_saved_info_user": "Használja a kapcsolattartó adatait vagy a mentett fizetési információkat",
+  "flight_v2_payment_success_thank_user": "Köszönjük a '{HAHALOLO}' szolgáltatásba vetett bizalmát. Ha bármilyen kérdése van, vagy további segítségre van szüksége, útmutatásért forduljon a Hahalolo Súgóhoz a következő telefonszámon: {phone}.",
+  "flight_v2_payment_success_notifier": "Foglalási kérelmét sikeresen teljesítettük '{wasPayment}'. Az útiterv részleteit alább ellenőrizheti.",
+  "flight_v2_payment_success_was_payment": "(Fizetett)",
+  "flight_v2_payment_success_flight_information": "Repülési információ",
+  "flight_v2_payment_success_outbound_flight_information": "Indulási járat információi",
+  "flight_v2_payment_success_return_flight_information": "Visszaút adatai",
+  "flight_v2_information_bottom_sheet_adult": "{count} x felnőtt",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x gyermek",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Baby",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Felnőtteknek szóló információ {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Gyermekadatok {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Babainformáció {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Felnőttek",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Gyerekek",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Babák",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Körülbelül {time} szállítási idő itt: {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Adók és díjak (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Alap viteldíj (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Legkésőbbi indulási időpont",
+  "flight_v2_widget_detail_text_departure_flight": "Induló járat",
+  "flight_v2_widget_detail_text_return_flight": "Retúr repülőjárat",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(Az adókat és díjakat tartalmazza)",
+  "flight_input_title_note_1": "Felhívjuk figyelmét, hogy az útlevélnek legalább 06 hónappal az útiterv első szakaszának indulási dátuma előtt érvényesnek kell lennie.",
+  "flight_input_title_note_2": "Az utasoknak megfelelő okmányokkal kell rendelkezniük, és meg kell felelniük a célország előírásainak és bevándorlási eljárásainak.",
+  "flight_input_title_note_3": "A légitársaság fenntartja a jogot, hogy megtagadja a fuvarozást, ha az utasok nem rendelkeznek az előírt érvényes okmányokkal.",
+  "flight_input_title_note_4": "A légitársaság nem vállal felelősséget, ha megtagadják az utasok belépését.",
+  "flight_input_title_note_5": "Az utasoknak időben be kell jelentkezniük a repülőtéren.",
+  "flight_input_title_note_6": "A kísérő nélküli kiskorú utasoknak közvetlenül a légitársasággal kell kapcsolatba lépniük.",
+  "flight_input_title_note_7": "A 32 hetes terhességi időszakkal rendelkező terhes utasoknak közvetlenül a légitársasággal kell kapcsolatba lépniük.",
+  "flight_input_title_note_8": "Az utasok életkorát a születési dátum és az útitervben szereplő első járatszakasz indulási dátuma közötti időintervallum alapján számítják ki, az utas személyazonosító okmányai, például útlevél és születési anyakönyvi kivonat alapján.",
+  "flight_input_passenger_choose_birth_day": "Válassza ki a születési dátumát",
+  "flight_input_payment_show_passenger_title": "Ön a következő utasok számára foglal repülőjegyet:",
+  "flight_input_payment_reservation": "Könyv",
+  "flight_v2_model_booking_luggage_handle": "Kézipoggyász",
+  "flight_search_result_progress_searching_title": "Keresés...",
+  "flight_v2_dialog_unavailable_ticket": "Repülés nem elérhető",
+  "flight_v2_dialog_choose_ticket": "Ön kiválasztotta a járatot",
+  "flight_v2_dialog_from": "tól től",
+  "flight_v2_dialog_time_take_off_flight": "Repülési felszállási idő",
+  "flight_v2_dialog_happening": "meg kell történnie",
+  "flight_v2_dialog_minimum_hour": "legalább 02 óra",
+  "flight_v2_dialog_after_trip": "a repülés után",
+  "flight_v2_dialog_landed": "leszállt.",
+  "flight_v2_dialog_choose_again_ticket": "Más járatot szeretne választani?",
+  "flight_passenger_view_service_packages": "Szolgáltatási csomagok",
+  "flight_passenger_view_check_in_baggage": "Leellenőrzött csomag:",
+  "flight_v2_widget_detail_text_departure": "Indulás",
+  "flight_v2_widget_detail_text_destination": "Rendeltetési hely",
+  "flight_handnote_international_item_view_order_code": "Rendelési kód",
+  "flight_handnote_international_order_vieư": "Frissített dátum",
+  "flight_order_detail_view_booking_code": "Foglalás hivatkozási",
+  "flight_handnote_international_item_view_departure_date": "Indulási időpont",
+  "flight_handnote_international_item_view_booking_status": "Foglalás állapota",
+  "flight_input_passenger_infor_title": "Utasinformációk",
+  "flight_input_payment_show_contact_full_name": "Teljes név",
+  "flight_passenger_view_guest_type": "Az utas típusa",
+  "flight_passenger_view_ticket_number": "Jegy szám",
+  "flight_order_detail_title_flight_information": "Repülési információ",
+  "flight_v2_dialog_common_agree": "Egyetért",
+  "flight_v2_dialog_common_confirm": "megerősít",
+  "flight_v2_dialog_common_skip": "Kihagyás",
+  "flight_v2_dialog_common_cancel": "Megszünteti",
+  "flight_v2_dialog_common_exit": "Kijárat",
+  "flight_v2_dialog_common_change_flight": "Egyetért",
+  "flight_v2_dialog_common_change_search": "Keresés módosítása",
+  "flight_v2_dialog_title_change_information": "Információ módosítása",
+  "flight_v2_dialog_sub_title_change_information": "Biztosan módosítani szeretné a keresési információkat?",
+  "flight_v2_dialog_message_change_information": "Ha hozzájárul a keresési információk módosításához, minden korábbi adat törlődik",
+  "flight_v2_dialog_title_not_available": "Repülés nem elérhető",
+  "flight_v2_dialog_message_not_available": "Sajnáljuk, a kiválasztott járat jelenleg nem elérhető. Kérjük, '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "válasszon másik járatot, vagy módosítsa a keresést",
+  "flight_v2_dialog_title_exceed_time_allow": "A repülés túllépte a megengedett időt",
+  "flight_v2_dialog_message_exceed_time_allow": "A kiválasztott járat túllépte a megengedett foglalási időt. Kérjük, lépjen kapcsolatba a(z) '{HAHALOLO}' szolgáltatással a(z) '{hotline}' vagy a(z) '{changeOtherFlight}' forródróton keresztül.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "módosítsa az új járatok keresését",
+  "flight_v2_dialog_title_delete_account": "Fizetési számla törlése",
+  "flight_v2_dialog_sub_title_delete_account": "Biztosan törli ezt a fizetési fiókot?",
+  "flight_v2_dialog_message_delete_account": "A számla többé nem jelenik meg a fizetési számlaválasztásban.",
+  "flight_v2_dialog_title_change_ticket_price": "Viteldíj változás",
+  "flight_v2_dialog_message_change_ticket_price": "A rendelés végösszege '{oldPrice}' értékről '{newPrice}' értékre változott. Kérjük, válassza ki újra a Kuponkód/Érmék/Pontokat, ha elérhető.",
+  "flight_v2_dialog_title_min_support_payment": "A megrendelés nem jogosult fizetésre",
+  "flight_v2_dialog_message_min_support_payment": "A jogosult rendelés teljes kifizetése '{minRange}' vagy legalább '{maxRange}'. A kuponkódot, érméket vagy pontokat módosíthatja, hogy megfeleljen a fizetési feltételeknek",
+  "flight_v2_dialog_title_order_not_found": "Értesítések",
+  "flight_v2_dialog_message_order_not_found": "Nem található megrendelés",
+  "flight_v2_dialog_title_exit_order": "Lépjen ki a rendelésből",
+  "flight_v2_dialog_message_exit_order_cart": "A kosarad",
+  "flight_v2_dialog_title_payment_error_default": "Fizetés meghiúsult",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Lépjen kapcsolatba a Hahalolo Ügyfélszolgálattal '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "itt",
+  "flight_v2_dialog_title_voucher_fee_change": "Viteldíj változás",
+  "flight_v2_dialog_message_voucher_fee_change": "A viteldíj '{oldPrice}'-ról '{newPrice}'-ra változott. Segítségért forduljon a Hahalolo ügyfélszolgálathoz '{here}'.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "itt",
+  "flight_v2_dialog_title_system_error": "Értesítések",
+  "flight_v2_dialog_message_system_error": "Megrendelését sikeresen kifizették, és hamarosan frissülni fog a kézjegyzetei között.",
+  "flight_v2_dialog_title_voucher_not_available": "Értesítések",
+  "flight_v2_dialog_message_voucher_not_available": "A kuponkód nem elérhető. Kérjük, ellenőrizze, és próbálja újra.",
+  "flight_v2_dialog_title_point_not_available": "Értesítések",
+  "flight_v2_dialog_message_point_not_available": "Pontok nem elérhetők. Kérjük, ellenőrizze, és próbálja újra.",
+  "flight_v2_dialog_title_coin_not_available": "Értesítések",
+  "flight_v2_dialog_message_coin_not_available": "Érmék nem állnak rendelkezésre. Kérjük, ellenőrizze, és próbálja újra.",
+  "flight_v2_dialog_halo_support": "'{message}'. Lépjen kapcsolatba a Hahalolo ügyfélszolgálattal '{here}'.",
+  "flight_v2_dialog_halo_support_here": "itt",
+  "flight_v2_dialog_title_stripe_error": "Értesítések",
+  "flight_v2_price_info_read_more": "Mutass többet",
+  "flight_v2_price_info_total_payment": "Teljes fizetés",
+  "flight_v2_price_info_before_payment": "Előre fizetett összeg",
+  "flight_v2_component_booking_title_payment_information": "Fizetési információ",
+  "flight_v2_model_booking_checked_baggage": "Feladott poggyász (többet is vásárolhat)",
+  "flight_v2_widget_booking_coupon_code": "Kupon kód",
+  "flight_v2_widget_booking_use_coins": "Használj érméket",
+  "flight_v2_component_booking_use_point": "Használj pontokat",
+  "flight_v2_widget_booking_title_fare_details": "Viteldíj részletei",
+  "flight_v2_widget_confirm_title_contact_information": "Elérhetőség",
+  "flight_input_passenger_hint_birth_day": "Születési dátum",
+  "flight_v2_widget_booking_membership_card_number": "Tagsági kártya száma",
+  "flight_passenger_view_baggage": "Poggyász",
+  "flight_v2_dialog_message_exit_order": "A repülőjegy foglalása folyamatban van. Ha kilép, rendelése továbbra is a(z) '{cart}' kerül mentésre. Kifizetheti ezt a rendelést '{time}' előtt",
+  "flight_v2_dialog_message_exit_order_no_hold": "A repülőjegy foglalása nem történt meg. Ha kilép, rendelése továbbra is a(z) '{cart}' kerül mentésre. Fizethet a jegykiadás befejezéséhez",
+  "flight_v2_payment_back_from_payment": "A repülőjegy foglalása folyamatban van. A rendelési adatokat nem módosíthatja. Kérjük, fizessen be '{time}' előtt a jegykiadás befejezéséhez.",
+  "flight_v2_payment_back_from_payment_no_hold": "A repülőjegy foglalása nem történt meg. Kérjük, fizessen be a foglalás és a jegykiadás befejezéséhez.",
+  "flight_price_detail_view_total_fare": "Teljes viteldíj",
+  "flight_price_detail_view_service_fee": "Szolgáltatási díj",
+  "flight_price_detail_view_payment_fee": "Fizetési díj",
+  "flight_v2_notification_baggage": "Ön a következőt választotta: {baggage}. Kérjük, lásd alább a részleteket.",
+  "flight_check_the_details": "A részleteket alább ellenőrizheti.",
+  "flight_order_detail_view_information_order": "Rendelési információ",
+  "flight_v2_search_code_no_reservation_yet": "Még nem foglalt",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Megjegyzés: Az ügyféladatok még nem készültek el",
+  "tour_booking_screen_update_information": "Frissítse most",
+  "tour_booking_screen_textspan_note": "(Megjegyzés: Fizetési díj)",
+  "tour_booking_loading_message": "Rendelési adatok lekérése, kérjük, várjon egy kicsit",
+  "tour_booking_last_name": "Vezetéknév",
+  "tour_booking_middle_and_first_name": "Középső és keresztnév/Utónév",
+  "tour_booking_or_detail_phone_number": "Telefonszám",
+  "tour_booking_or_detail_address": "Cím",
+  "tour_booking_province_city": "Tartomány/város",
+  "tour_booking_country": "Ország",
+  "tour_booking_title_booking_information": "Foglalási információk",
+  "tour_booking_bottom_detail_price_error": "A kártya adatai helytelenek. Kérjük, ellenőrizze újra.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "A kuponkód nem alkalmazható",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Érvénytelen kuponkód",
+  "tour_booking_update_item_cart_action_message": "Bezárás",
+  "tour_booking_update_item_cart_title": "Értesítések",
+  "tour_booking_update_item_cart_msg_error_last": "Hiba történt a megrendelés frissítésekor, próbálja újra.",
+  "tour_booking_screen_payment_methods": "Fizetési lehetőség",
+  "tour_booking_screen_accept": "Elfogad",
+  "tour_booking_screen_coupon_code": "Kupon kód",
+  "tour_booking_screen_insert_code": "Írja be a kódot",
+  "tour_booking_screen_default_msgError": "Hiba történt. Kérlek próbáld újra.",
+  "tour_booking_screen_on_failed_error_2008": "A kiválasztott havi túraütem jelenleg nem érhető el. Kérjük, válasszon másik utazási ütemtervet.",
+  "tour_booking_screen_on_failed_error_2202": "Az oldalt nem tették közzé, vagy nem állítottál be életkorokat.",
+  "tour_booking_screen_on_failed_error_2301": "A túra nem elérhető.",
+  "tour_booking_screen_on_failed_error_2303": "A túra nem tartozik az oldalhoz.",
+  "tour_booking_screen_on_failed_error_2801_2802": "A foglalási időszak lejárt.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Kérjük, forduljon a Hahalolo Ügyfélszolgálati Központjához",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "itt",
+  "tour_booking_screen_content_apply_voucher_failed_help": "segítségért.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "A rendeléshez felhasználható érmék maximális száma.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Használat",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} érme",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "fizetésért.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Megfelelő",
+  "tour_booking_success_text_done": "Kész",
+  "tour_booking_success_header_booking_success": "A foglalás sikeres",
+  "tour_booking_success_header_textspan_reservation_success": "Foglalási kérelmét sikeresen teljesítettük",
+  "tour_booking_success_header_textspan_paid": "(Fizetett).",
+  "tour_booking_success_header_textspan_itinerary_details": "Az útiterv részleteit alább ellenőrizheti.",
+  "tour_booking_success_title_tour_information": "Túrainformációk",
+  "tour_booking_success_tour_information_tour_name": "Túra neve",
+  "tour_booking_success_tour_information_departure": "Indulás",
+  "tour_booking_success_tour_information_departure_date": "Indulási időpont",
+  "tour_booking_success_tour_information_end_date": "Befejezés dátuma",
+  "tour_booking_success_tour_information_Number_of_days": "Napok száma",
+  "tour_booking_success_tour_information_passengers": "Utasok száma",
+  "tour_booking_success_tour_information_detail_Passengers": "1 felnőtt",
+  "tour_booking_success_title_contact_information": "Elérhetőségi adatok",
+  "tour_booking_success_contact_information_full_name": "Teljes név:",
+  "tour_booking_success_contact_information_email": "Email:",
+  "tour_booking_success_contact_information_phone_number": "Telefonszám:",
+  "tour_booking_success_contact_information_address": "Cím:",
+  "tour_booking_success_title_installment_information": "Részletfizetési rendelési információk",
+  "tour_booking_success_installment_information_total_order_value": "A rendelés összértéke:",
+  "tour_booking_success_installment_information_prepaid_rate": "Előre fizetett díj:",
+  "tour_booking_success_installment_information_prepayment_amount": "Előre fizetett összeg:",
+  "tour_booking_success_installment_information_remaining_amount": "Fennmaradó egyenleg:",
+  "tour_booking_success_installment_information_conversion_information": "Információkonverziós díj:",
+  "tour_booking_success_installment_information_banking_fee": "Banki díj:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Törlesztőrészlet (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Részletfizetési kamat (hónap):",
+  "tour_booking_success_installment_information_total_amount": "Teljes részletfizetés:",
+  "tour_booking_success_installment_information_payment_term": "Részletfizetési futamidő (hónap):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} hónap",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Havi törlesztőrészlet:",
+  "tour_booking_success_installment_information_next_installment_period": "Következő részlet tenor",
+  "tour_booking_success_title_transaction_information": "Tranzakciós információk",
+  "tour_booking_success_transaction_information_tour_id": "Tour ID:",
+  "tour_booking_success_transaction_information_booking_code": "Foglalási szám:",
+  "tour_booking_success_transaction_information_total_payment": "Teljes fizetés:",
+  "tour_booking_success_transaction_information_payer": "Fizető:",
+  "tour_booking_success_transaction_information_address": "Cím:",
+  "tour_booking_success_transaction_information_content_billing": "Fizetési tartalom:",
+  "tour_booking_success_transaction_information_order_payment": "Fizetés megrendelése",
+  "tour_booking_success_transaction_information_order_advance": "Részletfizetési megrendelés előleg",
+  "tour_booking_success_textspan_footer_thanks": "Köszönjük a Hahalolo szolgáltatásába vetett bizalmát.",
+  "tour_booking_success_textspan_footer_doubt": "Ha bármilyen kérdése van, vagy további segítségre van szüksége, forduljon a Hahalolo Súgóközponthoz",
+  "tour_booking_success_textspan_footer_last_text": "utasításokért.",
+  "tour_booking_success_bottomview_view_details": "Részletek megtekintése",
+  "tour_booking_success_bottomview_new_booking": "Könyv új",
+  "tour_booking_title_info_detail_tour": "A túra részletei",
+  "tour_booking_info_detail_tour_title_info_tour": "Információ",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Túra neve",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Phu Quy sziget felfedezése",
+  "tour_booking_or_detail_tour_id": "Tour ID",
+  "tour_booking_or_detail_tour_time": "Idő",
+  "tour_booking_or_detail_departure_date": "Indulási időpont",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Befejezés dátuma",
+  "tour_booking_or_detail_tour_departure": "Indulás",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Rendeltetési hely",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Túra típusa",
+  "tour_booking_info_detail_tour_info_tour_description": "Leírás",
+  "tour_booking_info_detail_tour_title_table_price": "Túra árlista",
+  "tour_booking_starttext_adult": "Felnőtt",
+  "tour_booking_starttext_child": "Gyermek",
+  "tour_booking_starttext_young_child": "Fiatal gyerek",
+  "tour_booking_starttext_baby": "Baba",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Alkatrészek listája",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Szabályozási információk",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Magánszabályok",
+  "tour_booking_info_detail_tour_title_installment_policy": "Részletfizetési terv",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Teljes összeg",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Előre fizetett összeg",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Fizetés",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Szolgáltatások",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "promóció",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Használjon promóciót",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Használj érméket",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Teljes összeg",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "A 100%-os előre utalás kedvezményt tartalmaz",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Promóció értéke:",
+  "tour_booking_title_item_count_passenger": "Utasok száma",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Több mint {age} éves",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} – {end_age} éves",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "{age} év alatti",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Kérje segítségét az utazói adatok megadásához",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Írja be az utazó adatait",
+  "tour_booking_title_item_info_billing": "Fizető adatai",
+  "tour_booking_item_info_billing_use_contact_info": "Használja a kapcsolattartó adatait",
+  "tour_booking_title_item_info_contact_person": "Elérhetőség",
+  "tour_booking_title_item_method_payment": "Fizetési mód",
+  "tour_booking_item_method_payment_text_full_payment": "100%-os fizetés",
+  "tour_booking_item_method_payment_text_installment_payment": "Részletfizetés",
+  "tour_booking_item_method_payment_pay_all_text_discount": "{discount}% kedvezményt kap",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "A rendelés teljes fizetendő összege a kedvezmény után:",
+  "tour_booking_title_item_select_service": "Kísérő szolgáltatások",
+  "tour_booking_item_select_service_add_service": "Szolgáltatás hozzáadása",
+  "tour_booking_pay_installment_textspan_confirmation_code": "A részletfizetés visszaigazoló kódját a következő futamidőben e-mailben küldjük:",
+  "tour_booking_pay_installment_check_email": "Kérjük, ellenőrizze e-mail címét.",
+  "tour_booking_pay_installment_number_installments_months": "Részletfizetési hónapok száma",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Törlesztőrészlet",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "A túra értékének egy részét előre kell fizetnie. A havi törlesztőrészlet összege a sikeres előtörlesztés utáni fennálló egyenleg alapján kerül kiszámításra.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Adja meg a kívánt előrefizetési százalékot",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Részletfizetés részletei",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Nem.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Információ",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Érték",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Rendelés értéke",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Előre fizetett árfolyam",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Előre fizetett érték",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Fennmaradó egyenleg",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Információkonverziós díj",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Banki fizetési díj",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "kamatláb (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Részletfizetési kamat",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Teljes törlesztőrészlet",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Részletfizetési futamidő (hónap)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Következő részlet tenor",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Havi törlesztőrészlet",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} hónap",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Részletfizetési terv",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Részletfizetési terv részletei",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Kísérő szolgáltatások",
+  "tour_booking_item_service_init_service_number_of_travelers": "Utasok száma",
+  "tour_booking_group_months_installment_label": "{month} hónap",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Utazási álmok",
+  "tour_detail_text_number_people_haha_page": "1 839 017 ember Haha ez az oldal",
+  "tour_detail_screen_theme_text_indochina_discovery": "Indokínai felfedezés: Tengerpartok és utcai ételek",
+  "tour_detail_text_installment_tour": "RÉSZLETES TÚRA",
+  "tour_detail_text_view_details": "Részletek megtekintése",
+  "tour_detail_number_promotions": "{promotions} Promóciók",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "elérhető",
+  "tour_detail_tab_info": "Információ",
+  "tour_detail_tab_tour_parts": "Útvonal részletei",
+  "tour_detail_tab_promotion": "promóció",
+  "tour_detail_tab_privacy_policy": "Adatvédelmi irányelvek",
+  "tour_detail_tab_separate_regulations": "Magánszabályok",
+  "tour_detail_tab_contact": "Kapcsolatba lépni",
+  "tour_detail_view_tab_installment": "Részletfizetési terv",
+  "tour_detail_text_only_from": "Csak attól",
+  "tour_detail_view_emptyTitle": "A túra már nem elérhető",
+  "tour_detail_text_change_date": "Dátum módosítása",
+  "tour_detail_text_book_now": "Foglalás most",
+  "tour_detail_view_action_menu_time_line": "Idővonal",
+  "tour_detail_view_action_menu_tour_List": "Tour lista",
+  "tour_detail_view_action_menu_introduction": "Bevezetés",
+  "tour_detail_view_action_menu_promotion": "promóció",
+  "tour_detail_view_action_menu_appraise": "Vélemények",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} ember Haha ez az oldal",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "A kiválasztott havi túraütem jelenleg nem érhető el.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Kérjük, válasszon másik utazási ütemtervet.",
+  "tour_detail_choose_schedule_title": "Válassza ki az ütemezést",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Indulási menetrend",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Az indulási menetrend nem elérhető",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Indulás dátuma: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "Tól től",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "innen: {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Vége",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "ide: {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "promóció",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Ár",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Foglalás most",
+  "tour_detail_contact_infor_view_empty_title": "Az elérhetőségek frissítése folyamatban van",
+  "tour_detail_contact_infor_view_company_name": "Cégnév",
+  "tour_detail_infor_view_text_starting_from": "Innen kezd",
+  "tour_detail_infor_view_text_ends_at": "Vége:",
+  "tour_detail_infor_view_tour_type_domestic": "Belföldi túra",
+  "tour_detail_infor_view_tour_type_international": "Nemzetközi turné",
+  "tour_detail_infor_view_tour_text_info": "Információ",
+  "tour_detail_infor_view_tour_types": "típus",
+  "tour_detail_infor_view_tour_service": "Utazási szolgáltatások",
+  "tour_detail_emptyTitle_no_data_found": "Nem található adat",
+  "tour_detail_promotion_view_empty_title": "Nem érhetők el promóciók",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Promóciós szintek {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% kedvezmény",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} kedvezmény",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Minimális rendelési érték: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Felnőttek minimális száma: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Vissza",
+  "tour_detail_shimmer_loading_message": "... emberek Haha ez az oldal",
+  "tour_hand_note_tabs_verify_sent_to_email": "Megerősítő kódot küldtünk a pham54833@gmail.com címre",
+  "tour_hand_note_tabs_price": "Ár",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Megrendelés törlése",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Szeretné végrehajtani ezt a műveletet?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "megerősít",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Megszünteti",
+  "tour_hand_note_footer_action_total_amount": "Teljes összeg",
+  "tour_hand_note_footer_action_pay": "Fizetés",
+  "tour_hand_note_order_payment_view_order_id": "Rendelési kód",
+  "tour_hand_note_order_payment_view_paid": "Fizetett",
+  "tour_hand_note_order_payment_view_total_price": "Teljes ár",
+  "tour_hand_note_order_payment_view_remaining_amount": "Fennmaradó egyenleg",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Részletfizetési határidő",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Hónap: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Törlesztőrészlet összege",
+  "tour_hand_note_order_payment_view_next_installment_period": "Következő részlet tenor",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Teljes fizetés",
+  "tour_handnote_banner_waring_input_verify_error": "Hiba történt az ellenőrzés során. Kérjük, próbálja újra, vagy érintse meg a ",
+  "tour_lockup_empty_title": "Nem található utazási információ",
+  "tour_lockup_title_info": "Túrainformációk",
+  "tour_lockup_form_search_hind_text_enter_promo": "Írja be a promóciós kódot",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} napok} other{{days} napok}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Minden",
+  "tour_handnote_tab_awaiting": "Megerősítésre vár",
+  "tour_handnote_tab_awaiting_fulfilment": "Beteljesülésre vár",
+  "tour_handnote_tab_ongoing": "Folyamatban lévő",
+  "tour_handnote_tab_completed": "Befejezve",
+  "tour_handnote_tab_canceled": "Törölve",
+  "tour_detail_page_programs_detail": "A program részletei",
+  "tour_detail_page_passenger_title": "Vevő",
+  "tour_detail_info_guest_edit_title": "Szerkesztés",
+  "tour_detail_info_guest_update_title": "Frissítés",
+  "tab_tour_detail_order_cancel_order": "Megrendelés törlése",
+  "tab_tour_detail_order_cancel_order_confirm": "Szeretné végrehajtani ezt a műveletet?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "megerősít",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Megszünteti",
+  "tab_tour_detail_order_waiting_confirmation": "Megerősítésre vár",
+  "tab_tour_detail_order_code_order_tour_title": "Foglalási szám",
+  "tour_detail_stage_view_title": "Rész {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "A fizetéshez érméket alkalmaztak. Lásd alább a részleteket",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "A kuponkódot alkalmaztuk a fizetéshez. Lásd alább a részleteket",
+  "tour_hand_note_banner_warning_update_success": "Az ügyféladatok elkészültek",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Fizetési információ",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Fizetett",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Túralemondási promóció\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Érmék használata ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Lemondási díj {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "A visszatérítés becsült összege",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Visszatérítési idő (a lemondás napjától): 5-7 nap (Alepay és Payme fizetési átjárók esetén) vagy 7-15 nap (Stripe fizetési átjáró esetén).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Lemondás oka:",
+  "tour_booking_validation_province_or_city_is_required": "Meg kell adni a tartományt/várost",
+  "tour_booking_screen_on_failed_error_2801": "A túrát {numberDay} nappal az indulás előtt le kell foglalnia. Kérjük, válasszon másik indulási dátumot.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Az Ön által választott túra indulási ideje rövidebb vagy hosszabb a szabályzatunknak megfelelően. Kérjük, válasszon egy túrát megfelelő indulási időponttal.",
+  "tour_booking_bottom_view_error": "Kérjük, töltse ki az utazói információkat, vagy kérje a Hahalolo támogatását az utazói adatok későbbi megadásához.",
+  "tour_booking_on_start_payment_message": "Sajnáljuk, a kiválasztott indulási dátum elkelt. Kérjük, válasszon másik indulási dátumot.",
+  "tour_detail_text_full_load": "Elkelt",
+  "tour_cancel_order_info_reason_cancel": "Adja meg a lemondás okát.",
+  "tour_cancel_order_info_validate_reason_cancel": "A lemondás okát meg kell adni",
+  "tour_cancel_order_info_refound_invalid_card": "Számlaszám megadása kötelező",
+  "tour_cancel_bank_name_required": "A banknév megadása kötelező",
+  "tour_cancel_bank_wrong_format": "A banknév formátuma hibás",
+  "tour_cancel_hahalolo_will_refund_you": "(A Hahalolo az alább megadott bankszámlaadatok alapján visszatéríti a visszatérítést)",
+  "tour_cancel_enter_bank_name": "Írja be a bank nevét",
+  "tour_cancel_cancel_order_success": "Megrendelését sikeresen töröltük.",
+  "tour_bank_identifier_required": "SWIFT kód szükséges",
+  "tour_detail_title_select_departure_month": "Válassza ki az indulás hónapját",
+  "tour_detail_title_upcoming_departure_schedule": "Közelgő indulási menetrend",
+  "tour_detail_schedule_title_departure": "Indulás",
+  "tour_detail_schedule_title_destination": "Rendeltetési hely",
+  "tour_booking_fail_payment_price_change": "Az utazás ára {oldPay} értékről {newPay} értékre változott. Folytatja a fizetést?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "A túra ára {oldPay} értékről {newPay} értékre változott, és előre kell fizetnie {payAmount} összeget. Folytatja a fizetést?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Az előre befizetett összeg {oldPay} értékről {newPay} értékre változott. Folytatja a fizetést?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Az érmékből alkalmazott összeg {oldPay} értékről {newPay} értékre változott. Folytatja a fizetést?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Használj pontokat",
+  "tour_booking_screen_have_apply_points": "A fizetésre pontokat alkalmaztak. Kérjük, lásd alább a részleteket.",
+  "tour_booking_warning_promotion": "A túrát lefoglaljuk, és a rendelési adatok nem módosíthatók. Kérjük, fizessen be a túrafoglalás befejezéséhez.",
+  "tour_booking_warning_back_text_normal": "Rendelése le van foglalva. Ha kilép, rendelése továbbra is mentésre kerül",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Hagyja abba a rendelést",
+  "tour_booking_warning_back_when_hold_ticket_card": "A kosarad.",
+  "tour_booking_warning_back_exit": "Kilépés",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "A megrendelés átment a fizetési átjárón. A kuponkódot nem lehet visszavonni.",
+  "tour_booking_point_not_available": "Pontok nem elérhetők",
+  "tour_payment_voucher_exit_dialog_title": "Fizetés meghiúsult",
+  "tour_total_point_change": "Az elérhető pontjaid megváltoztak. Kérjük, adja meg a megrendeléshez igényelhető Pontok számát.",
+  "tour_hand_note_text_tour": "Túra",
+  "tour_hand_note_text_amount_installment_payment": "Részletfizetés összege",
+  "tour_detail_tour_has_no_available_schedule": "Nincs elérhető menetrend ehhez a körúthoz",
+  "tour_detail_promotion_view_time_application": "Érvényes időszak:",
+  "tour_detail_promotion_view_up_to_off_title": "Akár",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% kedvezmény",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Keresse meg a foglalási számot",
+  "tour_you_can_sure_cancel_order": "Biztosan törölni szeretné ezt a rendelést?",
+  "tour_detail_contact_title": "24/7 elérhetőek vagyunk! Ha bármilyen kérdése van ezzel a szolgáltatással kapcsolatban, kérjük, vegye fel velünk a kapcsolatot az alábbi elérhetőségeken. 2 órán belül válaszolunk!",
+  "tour_detail_rate_title_schedule": "Menetrend",
+  "tour_detail_rate_title_meal": "Étkezés",
+  "tour_detail_review_there_are_no_reviews_yet": "Még nincsenek értékelések",
+  "tour_search_suggest_location_title": "Legnépszerűbb úti célok",
+  "tour_detail_rate_title_property": "Ingatlan",
+  "tour_detail_rate_title_tour_guide": "Idegenvezető",
+  "tour_detail_rate_title_vehicle": "Jármű",
+  "tour_detail_choose_schedule_remain_slot": "Már csak {slot} hely maradt",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Dátum",
+  "tour_detail_contact_text_hotline": "Forródrót",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Vélemények",
+  "tour_search_place_suggestion_title": "Válasszon egy úti célt",
+  "tour_search_place_suggestion_hint_text": "Adja meg az indulást...",
+  "tour_review_title_feedback": "Tekintse át utazási tapasztalatait",
+  "tour_review_title_content": "Az utazás összesített értékelése",
+  "tour_review_title_see_review": "Tekintse meg az utazási értékelést",
+  "tour_review_schedule": "Menetrend",
+  "tour_review_meal": "Étkezés",
+  "tour_review_accommodation": "Ingatlan",
+  "tour_review_tour_guide": "Idegenvezető",
+  "tour_review_vehicle": "Jármű",
+  "tour_lockup_up_tour_header_text": "Adja meg foglalási számát a foglalási adatok megtekintéséhez",
+  "banner_warning_installment_noti": "El fog érni a következő részletfizetés esedékessége. A törlesztőrészlet esedékessége: {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Kiterjeszt",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "A kuponkód sikeresen visszavonva",
+  "voucher_search_on_select_voucher_fail": "A fel nem használt kuponkód nem sikerült. Kérlek, próbáld újra később.",
+  "voucher_search_coupon_code_incorrect": "Hibás kuponkód",
+  "voucher_search_check_or_contact_cskh": "Kérjük, ellenőrizze újra, vagy lépjen kapcsolatba Ügyfélszolgálati Központunkkal",
+  "voucher_widget_item_voucher_discount": "Kedvezmény: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Lejár: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Lejárati dátum:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Kód:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Promóció:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Feltétel:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Alkalmazza a Hahalolo termékekre.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Ügyfélenként legfeljebb egy.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Rendelések a következőtől: {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Alkalmazott termékek:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} kedvezmény",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Maximális kedvezmény:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Megmentetted",
+  "voucher_apply_voucher_widget_order_from_discount": "ezen a rendelésen kuponkóddal",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "A repülőjegyét még nem foglalta le. Kérjük, hogy a foglaláshoz és a jegy kiadásához fejezze be a fizetést.",
+  "cart_screen_main_title": "A kosarad",
+  "cart_screen_main_tour_title": "Túrafoglalás",
+  "cart_screen_main_flight_title": "Repülési",
+  "cart_screen_main_car_title": "Autó foglalás",
+  "cart_screen_main_tour_title_1": "Túrafoglalás (1)",
+  "cart_screen_main_flight_title_1": "Repülés (1)",
+  "cart_screen_main_car_title_1": "Autó foglalás (1)",
+  "cart_screen_domestic_flight_num_passenger": "Utasok száma",
+  "cart_screen_domestic_flight_subtotal": "Részösszeg",
+  "cart_screen_domestic_flight_note": "A repülőjegy foglalása megtörtént. Kérjük, fizessen be a jegykiadás befejezéséhez.",
+  "cart_screen_empty": "Nincsenek tételek a kosarában",
+  "cart_screen_empty_order_now": "Keressen és foglaljon most!",
+  "cart_screen_car_delete_order": "Rendelés törlése",
+  "cart_screen_car_delete_order_confirm": "Törli ezt a rendelést?",
+  "cart_screen_tour_schedule_title": "Menetrend",
+  "cart_screen_tour_type_title": "Túra típusa",
+  "cart_tour_type_domestic": "Belföldi",
+  "cart_tour_type_international": "Nemzetközi",
+  "cart_screen_tour_num_day_num_night": "{day} nap, {night} éjszaka",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Utasok száma",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Használj pontokat",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(hónap: {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Hiba történt az ellenőrzés során. Kérjük, próbálja újra, vagy koppintson a \"Megerősítő kód újraküldése\" lehetőségre, hogy új kódot kapjon a következő címen: {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Megerősítő kód újraküldése",
+  "hand_note_input_verify": "Megerősítő kódot küldtünk a következő címre: {email}. A lépés végrehajtásához írja be a kapott kódot",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Írja be a kódot",
+  "hand_note_tour_detail_body_tour_info_title": "Túrainformációk",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Az időt vietnami időzónában számítják)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Összes nap",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Az utazók száma",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Lemondási feltételek",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Az ingyenes lemondási idővonalak a túrafoglalási időzónán és a Szállító lemondási szabályzatán alapulnak",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "A túra lemondása esetén az alábbi lemondási díjat számítjuk fel:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "• {departureDay} nappal az indulás dátuma előtt",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Ingyenes lemondás",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Lemondási díj: {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Promóció 100%-os fizetésért",
+  "hand_note_install_policy": "Részletfizetési terv",
+  "hand_note_title_status_payment_failure": "nem sikerült",
+  "hand_process_extension": "Folyamatos bővítés",
+  "hand_in_installment": "Aktív",
+  "hand_installment_completed": "Befejezve",
+  "hand_note_adults": "Felnőttek",
+  "hand_note_children": "Gyermekek",
+  "hand_note_baby": "Kisgyermekek",
+  "hand_note_infant": "Babák",
+  "hand_note_tour_service_price": "Szolgáltatás ára",
+  "hand_note_total_price": "Teljes ár",
+  "hand_note_prepaid": "Előre kifizetett",
+  "hand_note_remaining": "Fennmaradó egyenleg",
+  "hand_installment_status": "Részletfizetés állapota",
+  "hand_note_installment_payment_count_month_payment": "Részletfizetési hónapok száma",
+  "hand_note_installment_payment_count_month_payment_num": "{month} hónap",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Részletfizetési információk",
+  "hand_note_information_detail_total_value_title": "Rendelés Összesen",
+  "hand_note_information_detail_prepayment_amount_title": "Előre fizetett összeg ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Teljes törlesztőrészlet",
+  "hand_note_information_detail_installment_tenor_title": "Részletfizetési határidő",
+  "hand_note_information_detail_information_conversion_fee_title": "Információkonverziós díj",
+  "hand_note_information_detail_bank_fee_title": "Banki díj",
+  "hand_note_information_detail_installment_interest_title": "Részletfizetési kamat",
+  "hand_note_information_detail_monthly_installment_amount_title": "Havi törlesztőrészlet",
+  "hand_note_information_detail_next_due_date_title": "Következő részlet tenor",
+  "hand_note_installment": "Részletfizetés",
+  "hand_note_postpaid": "Utólagos fizetés",
+  "hand_note_installment_history_title": "Törlesztési előzmények",
+  "hand_note_payment_installment_title": "Részletfizetés",
+  "hand_note_the_month_current_installment": "Hónap: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Első fizetés",
+  "hand_note_remaining_balance_title": "Fennmaradó egyenleg",
+  "hand_note_extension_info": "Kiterjesztés információ",
+  "hand_note_price_extension": "Kiterjesztett összeg",
+  "hand_note_month_paid": "{month} hónap fizetett",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} hónap van hátra",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Frissítse adatait",
+  "hand_note_invalid_full_name": "Érvénytelen teljes névformátum",
+  "hand_note_must_enter_full_name": "Meg kell adnia a teljes nevét",
+  "hand_note_adults_num": "Felnőtteknek szóló információ: {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Gyermekadatok {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Babainformáció: {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Kisgyermek adatai: {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "({age} év felett)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "({ageFrom} - {ageTo} éves kortól)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "({age} év alatti)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} nap",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "rész: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Frissítse az utazói információkat",
+  "hand_note_hotel_reservation_detail_title": "Foglalás részletei",
+  "hand_note_tour_installment_title": "Részletfizetési túra",
+  "hand_note_tour_extensions_payment_title": "Fizetési meghosszabbítás",
+  "tour_booking_screen_text_accept": "Egyetért",
+  "hand_note_installment_period": "Részletfizetési határidő",
+  "hand_note_installment_amount": "Törlesztőrészlet összege",
+  "hand_note_recommend_adjourn": "Hosszabbítási kérelem",
+  "hand_note_number_extension": "A hosszabbítási napok száma",
+  "hand_note_new_installment": "Új részletfizetési határidő",
+  "hand_note_adjourn_notice": "Minden egyes részlet futamideje után csak egyszer kell {day} napos fizetési meghosszabbítást kapnia. Ha az új törlesztőrészlet esedékessége lejárt, és az aktuális futamidő befizetése nem történt meg, a túrát töröljük.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Kifogás a késedelmes fizetésért",
+  "hand_note_extension_successful": "A bővítés sikeres",
+  "hand_note_part_due_note": "A rendelés lejárt. Kérjük, forduljon Ügyfélszolgálati Központunkhoz.",
+  "hand_note_notify_error_extension": "Hiba lépett fel. Kérlek próbáld újra.",
+  "hand_note_dialog_input_verify_1": "Megerősítő kódot küldtünk a címre",
+  "hand_note_dialog_input_verify_2": "A lépés végrehajtásához írja be a kapott kódot.",
+  "hand_note_verify_input_code_hint": "Adja meg az ellenörző kódot",
+  "hand_note_title_hotel_order": "Szállodafoglalási rendelések",
+  "hand_note_title_apply_coin": "Használj érméket",
+  "hand_note_request_resent_code_confirm_must_1": "Várjon egy percet, mielőtt kérné a megerősítő kód újbóli elküldését.",
+  "hand_note_request_resent_code_confirm_must_2": "Várjon 5 percet, mielőtt újra kérné a megerősítő kód elküldését.",
+  "hand_note_request_resent_code_confirm_must_3": "Várjon egy napot, mielőtt újra kérné a megerősítő kód elküldését.",
+  "hand_note_request_resent_code_confirm_must_4": "Várjon 9 percet, mielőtt újra kérné a megerősítő kód elküldését.",
+  "hand_note_request_resent_code_confirm_must_5": "Hiba történt a megerősítő kód elküldése közben. Kérlek próbáld újra.",
+  "hand_note_history_new_order_created": "Új rendelés létrehozva",
+  "hand_note_history_change_customer_information": "Az utasok adatai megváltoztak",
+  "hand_note_history_cancellation_of_passengers": "Törölt utas",
+  "hand_note_history_change_flights": "Változott járat",
+  "hand_note_history_cancel_the_flight": "Törölt járat",
+  "fare_rule_toolbar_title": "Viteldíj feltételek",
+  "hand_note_detail_activity_history": "Tevékenység előzményei:",
+  "hand_note_coin_refund_amount": "Várható visszatérítési érmék",
+  "hand_note_tour_title": "Túra",
+  "hand_note_hotel_title": "Szálloda",
+  "hand_note_flight_title": "Repülési",
+  "hand_note_car_title": "Autókölcsönzés",
+  "hand_note_title": "Kézjegyzetek",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Érvénytelen hitelkártyaszám",
+  "payment_error_card_has_expired": "A kártya lejárt",
+  "payment_error_card_has_expired_year": "A kártya idén lejárt",
+  "payment_error_card_date_must_only_number": "A dátumokban csak számok szerepelhetnek",
+  "payment_error_card_date_is_3_digits": "A lejárati év 3 számjegyből áll",
+  "payment_error_card_date_is_4_digits": "A lejárati év 4 számjegynél hosszabb",
+  "payment_error_card_date_only_number_in_date": "A dátumokban csak számok szerepelhetnek",
+  "payment_card_number_empty": "A kártyaszám megadása kötelező",
+  "payment_card_day_exit": "A lejárati dátum megadása kötelező",
+  "payment_ccv_empty": "CVV kód szükséges",
+  "payment_error_secure_long": "Helytelen biztonsági kód",
+  "payment_error_secure_shorted": "A biztonsági kód túl rövid ehhez a kártyatípushoz",
+  "payment_error_secure_alphabet": "Alfabetikus karakterek nem megengedettek",
+  "payment_error_no_secure": "Nincs megadva biztonsági kód",
+  "payment_error_no_card_number": "Nincs bevitel, vagy nem numerikus karaktereket tartalmaz",
+  "payment_error_connect_title": "Kapcsolati hiba",
+  "payment_error_connect_message": "A hálózati kapcsolat instabil. Kérjük, ellenőrizze újra a kapcsolatot az eszközön",
+  "payment_error_not_load_title": "Hiba az oldal betöltésekor",
+  "payment_error_not_load_message": "Hiba történt a fizetési oldalhoz való csatlakozáskor.",
+  "payment_error_card_number_lenght": "A kártyaszámnak 19 számjegynél hosszabbnak kell lennie",
+  "payment_error_no_date": "Nincs dátum megadva",
+  "payment_error_invalid_date": "Érvénytelen dátumformátum vagy érvénytelen dátum",
+  "payment_error_invalid_year": "Csak számok megengedettek a dátumban és a hónapban",
+  "payment_error_invalid_ccv": "Érvénytelen CVV",
+  "payment_error_invalid_card_holder": "Érvénytelen kártyabirtokos",
+  "payment_alert_select_payment_method_null": "Kérjük, válasszon fizetési átjárót",
+  "payment_alert_card_information_incorrect": "A kártya adatai helytelenek. Kérlek nézd meg újra",
+  "payment_alert_dialog_title": "Értesítések",
+  "payment_alert_message_dialog_message": "Kérjük, ne zárja be vagy ne lépjen ki az alkalmazásból a fizetési folyamat során, hogy biztosítsa a sikeres fizetést.",
+  "payment_alert_dialog_message_payment_error": "Hiba történt a fizetés feldolgozása közben. Kérlek nézd meg újra.",
+  "payment_hint_text_country": "Ország...",
+  "payment_hint_text_province": "Város/állam...",
+  "payment_show_message_dialog_title": "Értesítés",
+  "payment_show_message_dialog_message": "Ki akar lépni a fizetésből?",
+  "payment_show_message_dialog_negative": "Megszünteti",
+  "payment_show_message_dialog_action": "Rendben",
+  "payment_bank_page_title": "A zökkenőmentes fizetés érdekében kérjük, ne zárja le a jelentkezést a fizetés sikeressége előtt!",
+  "payment_error_expired_date": "Kártyája lejárt",
+  "payment_coin_not_available": "Érmék nem állnak rendelkezésre. Kérjük, ellenőrizze, és próbálja újra.",
+  "payment_point_not_available": "Pontok nem elérhetők. Kérjük, ellenőrizze, és próbálja újra.",
+  "payment_voucher_not_available": "A kuponkód nem elérhető. Kérjük, ellenőrizze, és próbálja újra.",
+  "payment_fee_change_total_order": "A rendelés végösszege megváltozott",
+  "payment_fee_change_to": "nak nek",
+  "payment_fee_change_choose_voucher_point_coint": "Kérjük, válassza ki újra a Kuponkód/Érmék/Pontok lehetőséget, ha elérhető.",
+  "payment_halo_wallet": "Hahalolo fizetési számla",
+  "payment_available_balance": "Rendelkezésre álló egyenleg:",
+  "payment_card_holder_name": "Kártyatulajdonos neve",
+  "payment_card_cvv_cvc_name": "CVV/CVC kód",
+  "payment_card_number": "Kártyaszám",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Hasonló tulajdonságok",
+  "hotel_detail_hotel_images": "Szálloda képek",
+  "hotel_detail_reviews_latest": "Legújabb",
+  "hotel_detail_reviews_oldest": "Legrégebbi",
+  "hotel_detail_reviews_highest": "Legmagasabb pontszám",
+  "hotel_detail_reviews_lowest": "A legalacsonyabb pontszám",
+  "hotel_detail_review_sort_by": "Sorrend",
+  "hotel_detail_reviews": "Felülvizsgálat",
+  "hotel_detail_rate_location": "Elhelyezkedés",
+  "hotel_detail_rate_price": "Ár",
+  "hotel_detail_rate_cleanliness": "Tisztaság",
+  "hotel_detail_rate_service": "Szolgáltatás",
+  "hotel_detail_rate_facilities": "Felszerelés",
+  "hotel_detail_one_user_review": "1 vélemény",
+  "hotel_detail_x_user_reviews": "{x} vélemény",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "A foglalás nem sikerült",
+  "hotel_detail_please_fill_ci_co_date": "Kérjük, adja meg a be- és kijelentkezés dátumát",
+  "hotel_detail_allow_pet_contact_hotel": "Háziállat megengedett. A háziállatokra vonatkozó szabályokkal kapcsolatban, kérjük, forduljon közvetlenül a szálláshelyhez.",
+  "hotel_detail_allow_pet_and_x_fee": "Háziállat megengedett. Háziállat díja: {x} (Az állatdíjat a szálláshelyen kell fizetni).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "INGYENES lemondás",
+  "hotel_detail_cancellation_with_refund": "A lemondás felszámításra kerül",
+  "hotel_detail_cancellation_without_refund": "Lemondás visszatérítés nélkül",
+  "hotel_detail_cancel_non_refund": "Lemondás esetén nem kap visszatérítést vagy kifizetett összeget.",
+  "hotel_detail_breakfast_served": "Reggeli biztosított",
+  "hotel_detail_lunch_served": "Ebéd biztosított",
+  "hotel_detail_dinner_served": "Vacsora biztosított",
+  "hotel_detail_smoking_allow": "Dohányzás megengedett",
+  "hotel_detail_smoking_not_allow": "A dohányzás tilos",
+  "hotel_detail_contact_hotel": "Lépjen kapcsolatba a szállodával",
+  "hotel_detail_book_first_pay_later": "Foglaljon most, fizessen később",
+  "hotel_detail_policy": "Irányelvek",
+  "hotel_detail_choose_the_bed_arrangement": "Válasszon ágytokot",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Lemondások {x} előtt, {y} napon: az első éjszaka árának {z}%-át visszatérítjük.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Szobaszerviz",
+  "hotel_detail_amenities": "Felszereltség",
+  "hotel_detail_general_rules": "Házirend",
+  "hotel_detail_change_reservation": "Foglalás módosítása",
+  "hotel_detail_services_and_facilities": "Létesítmények és szolgáltatások",
+  "hotel_detail_x_room_and_y_night": "{x} szoba/{y} éjszaka",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} szoba/{y} éjszaka",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 szoba/{x} éjszaka",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} szoba/1 éjszaka",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 szoba/1 éj",
+  "hotel_detail_x_rooms_and_y_adults": "{x} szoba – {y} vendég",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 szoba - {x} vendég",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 szoba - 1 vendég",
+  "hotel_detail_child_count": "1 gyerek",
+  "hotel_detail_x_children": "{x} gyerek",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "A szoba részletei",
+  "hotel_detail_room_policy_and_conditions": "Feltételek és szabályzatok",
+  "hotel_detail_person_count": "1 vendég",
+  "hotel_detail_x_people": "{x} vendég",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} a központtól",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} a keresés helyétől",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "A város központjában",
+  "hotel_detail_check_in": "Bejelentkezik",
+  "hotel_detail_check_out": "Kijelentkezés",
+  "hotel_detail_cancelation_policy": "Lemondás",
+  "hotel_detail_child_policy": "Gyermekek",
+  "hotel_detail_pet_policy": "Háziállatok",
+  "hotel_detail_check_in_x": "{x} után",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "{x} előtt",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Csak 1 maradt",
+  "hotel_detail_only_x_room": "Már csak {x} maradt",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "A(z) {range} éven felüli gyermekek engedélyezettek.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Háziállat megengedett. Az állatdíj a szállodában fizetendő.",
+  "hotel_detail_pet_policy_do_not_allow": "Háziállat nem megengedett.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "A bejelentkezési idő előtt {x} órával történt lemondás esetén az első éjszaka árának {y}%-át visszatérítjük.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "A bejelentkezési idő előtt {x} órával történt lemondások: {y}%-os visszatérítést kap a szobaár minden éjszaka árából.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Ingyenes lemondás {x} előtt",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Foglaljon 1 szobát",
+  "hotel_detail_book_x_room": "Foglaljon {x} szobát",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Legjobb ár",
+  "hotel_detail_bed": "1 ágy",
+  "hotel_detail_x_beds": "{x} ágy",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "{x}% kedvezmény csak ma",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Válasszon szobát",
+  "hotel_detail_has_x_room_types": "(Összesen {x} szobatípus áll rendelkezésre",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Összesen 1 szobatípus áll rendelkezésre)",
+  "hotel_detail_children_policy_do_not_allow": "A szállodában nincs gyermekekre vonatkozó szabályzat. A gyerekek nem számítanak bele a keresések számába. Kérjük, vegye fel a kapcsolatot a szállodával, ha gyerekekkel érkezik.",
+  "hotel_detail_children_policy_range_allow": "A szálloda gyermekekre vonatkozó szabályzata engedélyezi a {range} éves gyermekeket. A szálloda szabályzatával és szabályzataival kapcsolatos információkért kérjük, olvassa el a szálloda Házirendjét, vagy forduljon a szállodához további információért.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Szobainformációk",
+  "hotel_detail_x_fee_person_and_day": "{x}/vendég/nap",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/autó/nap",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Reggeli",
+  "hotel_detail_lunch": "Ebéd",
+  "hotel_detail_dinner": "Vacsora",
+  "hotel_detail_smoking": "Dohány",
+  "hotel_detail_parking": "Parkolás",
+  "hotel_detail_local_time": "(Helyi idő)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Lemondások {x} előtt, {y}. napon: {z}%-os visszatérítést kap a szobaár minden éjszakájára.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Lemondások {x} előtt, {y} napon: A szobaár {z} összegét visszatérítjük.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Ajánlatok",
+  "hotel_detail_free_breakfast": "Ingyenes reggeli",
+  "hotel_detail_free_lunch": "Ingyen ebéd",
+  "hotel_detail_free_dinner": "Ingyenes vacsora",
+  "hotel_detail_allow_smoking": "Dohányzás megengedett",
+  "hotel_detail_free_parking": "Ingyenes parkolás",
+  "hotel_detail_room_not_found": "Nem található szoba!",
+  "hotel_detail_no_result": "Nem találtunk a keresésének megfelelő találatot. Kérlek próbáld újra.",
+  "hotel_detail_similar_hotels_title": "Hasonló tulajdonságok",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "A megrendelés nem fizethető",
+  "hotel_booking_dialog_qualified_orders": "A rendelés teljes összeggel jogosult",
+  "hotel_booking_dialog_coupon_code_coins_points": "Megváltoztathatja a kuponkódot, az érméket vagy a pontokat, hogy jogosult legyen a kifizetésre",
+  "hotel_booking_dialog_or_minimum": "vagy minimum",
+  "hotel_booking_widget_dialog_cannot_used_information": "Ez az információ jelenleg nem használható fel. Kérjük, használjon másikat, vagy mentsen el egy újat.",
+  "hotel_booking_component_applied_points_successfully": "Sikeresen alkalmazta a pontokat",
+  "hotel_booking_use_point": "Használj pontokat",
+  "hotel_booking_point_switch_on_hint": "Kapcsolja ki a pontok használatát, hogy megszakítsa a pontok alkalmazását ehhez a rendeléshez",
+  "hotel_booking_point_switch_off_hint": "Kapcsolja be a pontok használatát, hogy megadja a rendeléshez felhasználni kívánt pontok számát",
+  "hotel_booking_point_user_point": "Elérhető pontok",
+  "hotel_booking_point_available_point": "Megrendelésre elérhető",
+  "hotel_booking_point_user_want_to_use_hint": "A felhasználni kívánt pontok száma",
+  "hotel_booking_point_equivalent_to": "Egyenértékű",
+  "hotel_booking_point_press": "nyomja meg",
+  "hotel_booking_point_apply": "Alkalmaz",
+  "hotel_booking_point_apply_for_payment": "hogy az összeget a kifizetésre alkalmazza",
+  "hotel_booking_points_apply_hint": "Az összeget a megrendelés kifizetésére használjuk fel.",
+  "hotel_booking_payment_3001_error": "A kártya nem támogatott. Kérlek próbáld újra.",
+  "hotel_booking_payment_3002_error": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "hotel_booking_payment_3003_error": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "hotel_booking_payment_3004_error": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "hotel_booking_payment_3005_error": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "hotel_booking_payment_3006_error": "A kártya lejárt. Kérlek próbáld újra.",
+  "hotel_booking_payment_3007_error": "Érvénytelen CVC-kód. Kérlek próbáld újra.",
+  "hotel_booking_payment_3008_error": "Érvénytelen kártyaszám. Kérlek próbáld újra.",
+  "hotel_booking_payment_3009_error": "Ez a pénznem nem támogatott. Kérlek próbáld újra.",
+  "hotel_booking_payment_3010_error": "Hiba történt a fizetési folyamat során. Kérlek próbáld újra.",
+  "hotel_booking_modify_coin_applied": "A fizetéshez érméket alkalmaztak. Kérjük, tekintse meg a részleteket a Totalban.",
+  "hotel_booking_modify_voucher_applied": "A fizetéshez érméket alkalmaztak. Kérjük, tekintse meg a részleteket a Totalban.",
+  "hotel_booking_modify_point_applied": "A fizetésre pontokat adtak. Kérjük, tekintse meg a részleteket a Totalban.",
+  "hotel_booking_modify_point_canceled": "A pontok alkalmazását a rendelés kifizetésére töröltük.",
+  "hotel_booking_modify_4006_error": "Az utalvány nem elérhető",
+  "hotel_booking_modify_4007_error": "Az utalvány megtartva",
+  "hotel_booking_modify_4008_error": "A megrendelés nem jogosult kuponkódra. Kérjük, ellenőrizze, és próbálja újra.",
+  "hotel_booking_modify_2004_error": "Nem sikerült alkalmazni",
+  "hotel_booking_pay_1005_error": "Helytelen érték",
+  "hotel_booking_pay_2002_error": "Nem található megrendelés",
+  "hotel_booking_pay_2004_error": "Fizetés meghiúsult",
+  "hotel_booking_pay_6002_error": "Hibás kártyaadatok",
+  "hotel_booking_pay_6003_error": "A kártyát nem fogadják el",
+  "hotel_booking_pay_6004_error": "Megrendelés létrehozási hiba",
+  "hotel_booking_pay_6005_error": "TVP foglalási hiba",
+  "hotel_booking_required_city": "Város kötelező",
+  "hotel_booking_sub_bed": "Pótágy",
+  "hotel_booking_information": "Foglalási információk",
+  "hotel_booking_room_information": "Szobainformációk",
+  "hotel_booking_room_hotel": "Szálloda",
+  "hotel_booking_x_nights": "{x} éjszaka",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 éjszaka",
+  "hotel_booking_change": "változás",
+  "hotel_booking_user_contact": "Elérhetőség",
+  "hotel_bookng_without_tone_marks": "(tónusjelek nélkül)",
+  "hotel_booking_first_name": "Keresztnév",
+  "hotel_booking_last_name": "Vezetéknév",
+  "hotel_booking_middle_name": "Középső név",
+  "hotel_booking_given_name": "Középső és keresztnév/Utónév",
+  "hotel_booking_phone_number": "Telefonszám",
+  "hotel_booking_email": "Email",
+  "hotel_booking_country": "Ország",
+  "hotel_booking_im_a_guest": "vendég vagyok",
+  "hotel_booking_guest_information": "Vendég információk",
+  "hotel_booking_fill_contact_information": "Adja meg az Ön vagy a szállásszolgáltatóval való kapcsolattartásért felelős személy elérhetőségét.",
+  "hotel_booking_name_as_in_passport": "A személyi igazolványon/útlevélen feltüntetett teljes név",
+  "hotel_booking_payments": "Fizetési lehetőségek",
+  "hotel_booking_prepay": "Fizess most",
+  "hotel_booking_postpaid": "Fizess később",
+  "hotel_booking_prepay_description": "A Hahalolo segít a fizetés feldolgozásában. A teljes összeget még ma kifizeti a foglalás befejezése után.",
+  "hotel_booking_postpaid_description": "Az ingatlan feldolgozza a fizetést. A foglalási feltételektől függően részben vagy egészben fizethet a szálláshelyen.",
+  "hotel_booking_bill_information": "Fizetési információ",
+  "hotel_booking_use_contact_information": "Használja a kapcsolattartó adatait",
+  "hotel_booking_state": "Állapot",
+  "hotel_booking_city": "Város",
+  "hotel_booking_save_payment_information": "Mentse el a fizetési információkat a következő alkalomra",
+  "hotel_booking_use_x_y_to_pay": "Használja {x} {y} fizetési módot",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Egyenértékű: {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Fizetési mód",
+  "hotel_booking_payment_note": "Megjegyzés: A HAHALOLO INGYENES banki költségekkel támogatja a felhasználókat",
+  "hotel_booking_free": "Ingyenes",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Van még valami, amiben segíthetünk?",
+  "hotel_booking_inform_the_accommodation": "Tájékoztatjuk az ingatlant, hogy ezek a szolgáltatások iránt érdeklődik. Kérjük, vegye figyelembe.",
+  "hotel_booking_can_not_guaranteed": "Kérése nem garantálható. Ne aggódj! Az ingatlan igyekszik kielégíteni az Ön igényeit.",
+  "hotel_booking_additional_services": "Ezek olyan extra szolgáltatások, amelyek az Ön foglalási kérelmén kívül merülnek fel, és használatuk esetén további költségek merülhetnek fel az ingatlanban.",
+  "hotel_booking_note": "jegyzet",
+  "hotel_booking_promo_apply_rule": "Az érmék és a kuponkódok nem vonatkoznak a következő fizetési módokra.",
+  "hotel_booking_saved_payment_information": "Fizetési információ mentve",
+  "hotel_booking_fill_new_payer_information": "Adja meg az új fizető adatait",
+  "hotel_booking_maximum_coins_can_be_use": "Ennél a rendelésnél a maximális számú érme használható fel.",
+  "hotel_booking_coins": "Érmék",
+  "hotel_booking_unknown": "Nem tudom",
+  "hotel_booking_planning_arrive_after_x_date": "Ha {x} után szeretne érkezni, kérjük, tájékoztassa a házigazdát a tervezett bejelentkezési idejéről:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "A további szolgáltatások felszámíthatók. Kérjük, további információért előzetesen lépjen kapcsolatba a szálláshellyel.",
+  "hotel_booking_term_and_policies": "Feltételek – Szabályzat",
+  "hotel_booking_privacy_policy": "Adatvédelmi irányelvek",
+  "hotel_booking_tp_and_pp": "A következő lépéssel megerősítem, hogy elolvastam és elfogadtam a Hahalolo feltételeit – Szabályzat és Adatvédelmi szabályzat",
+  "hotel_booking_important_note": "jegyzet",
+  "hotel_booking_select_time": "Válassza ki az időt",
+  "hotel_booking_room_x_night": "Szoba x 1, 1 éjszaka",
+  "hotel_booking_x_rooms_x_night": "Szoba x {x}, 1 éjszaka",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Szoba x {x}, {y} éjszaka",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Szoba x 1, {x} éjszaka",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Adók és díjak",
+  "hotel_booking_service_charge": "Szolgáltatási díj",
+  "hotel_booking_payment_fees": "Fizetési díj",
+  "hotel_booking_accommodation_currency": "Az ingatlan pénzneme",
+  "hotel_booking_points_fees": "Használj pontokat",
+  "hotel_booking_coins_fees": "Használj érméket",
+  "hotel_booking_voucher_fees": "Kupon kód",
+  "hotel_booking_discount": "promóció",
+  "hotel_booking_meal_service": "Étkezési szolgáltatás",
+  "hotel_booking_meal_service_description": "Az alábbiakban felsoroljuk a szálláshely által kínált reggelizési szolgáltatásokat. Ha szeretne igénybe venni ezt a szolgáltatást, kérjük, forduljon közvetlenül a szálláshely recepciójához.",
+  "hotel_booking_meal_price_per_breakfast": "Ár reggeli típusonként",
+  "hotel_booking_extended_service": "Extra szolgáltatások",
+  "hotel_booking_extended_service_description": "Válassza ki a rendeléshez hozzáadni kívánt pótágyak számát. Legfeljebb {x} pótágy helyezhető el.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Mennyiség",
+  "hotel_booking_total": "Teljes",
+  "hotel_booking_unit_price": "Ár",
+  "hotel_booking_x_price_per_person_per_day": "{x} fő/nap",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} ágy/fő/nap",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Ár részletek",
+  "hotel_booking_billings_information": "Fizetési információ",
+  "hotel_booking_service_charge_description": "Ezt a díjat a szolgáltatásért és a támogatásért jutalékként megtartjuk a Hahalolo rendszeren a foglalásokkal kapcsolatos kérdésekben.",
+  "hotel_booking_payment_fees_description": "A fizetési díj az a tranzakciónkénti tranzakciós díj összege, amelyet az online fizetési szolgáltatóknak ki kell fizetnie.",
+  "hotel_booking_taxes_and_fees_description": "Az adók és díjak az a pénzösszeg, amelyet az ingatlan (szálloda) szabályzata alapján felszámítanak, és amelyet Ön köteles fizetni a szálláshely szolgáltatásai igénybevételekor. Kérjük, további részletekért olvassa el a Felhasználási feltételeket.",
+  "hotel_booking_accommodation_currency_description": "Az ár átszámításra került a Szállító rendelkezésére álló pénznem alapján.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Az árfolyam a fizetés előtt változhat.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Kártyakibocsátója külföldi tranzakciós díjat számíthat fel.",
+  "hotel_booking_enter_maximum_x_char": "Adjon meg legfeljebb {x} karaktert",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Pontok nem elérhetők.",
+  "hotel_booking_coin_not_available": "Érmék nem állnak rendelkezésre.",
+  "hotel_booking_voucher_not_available": "A kuponkód nem elérhető.",
+  "hotel_booking_please_check_again": "Kérlek nézd meg újra.",
+  "hotel_booking_point_change": "Az összesített befizetés változása miatt változott az igényelt pontok száma.",
+  "hotel_booking_hold_warning": "Az Ön ingatlanfoglalása megtörtént, így a rendelés adatait nem módosíthatja. Kérjük, fizessen be a foglalás befejezéséhez.",
+  "hotel_booking_total_point_change": "Az elérhető pontjaid megváltoztak. Kérjük, adja meg a megrendeléshez igényelhető Pontok számát.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Térkép",
+  "hotel_list": "Lista",
+  "hotel_from_the_center": "A központból",
+  "hotel_from_the_location": "A keresés helyéről",
+  "hotel_right_in_the_center": "A város központjában",
+  "hotel_breakfast_is_served": "Ingyenes reggeli",
+  "hotel_no_breakfast_served": "Reggeli nem biztosított",
+  "hotel_dinner_is_served": "Vacsora biztosított",
+  "hotel_no_dinner_service": "Vacsora nem biztosított",
+  "hotel_lunch_is_served": "Ebéd biztosított",
+  "hotel_no_lunch_service": "Ebéd nem biztosított",
+  "hotel_allow_smoking": "Dohányzás megengedett",
+  "hotel_no_smoking": "A dohányzás tilos",
+  "hotel_no_refund": "Lemondás visszatérítés nélkül",
+  "hotel_without_fee": "A lemondás felszámításra kerül",
+  "hotel_free_cancel": "INGYENES lemondás",
+  "hotel_pay_later": "Foglaljon most, fizessen később",
+  "hotel_fee": "Reggeli biztosított",
+  "hotel_free": "INGYENES reggeli",
+  "hotel_not_refund": "Lemondás esetén nem kap visszatérítést vagy kifizetett összeget",
+  "hotel_no_vacancy": "Elkelt",
+  "hotel_choose_room": "Válasszon szobát",
+  "hotel_change_date": "Dátum módosítása",
+  "hotel_change_price_display": "Ár megjelenítése",
+  "hotel_continue": "Csak",
+  "hotel_room_available": "bal",
+  "hotel_room": "szoba",
+  "hotel_night": "éjszaka",
+  "hotel_date_checking": "Bejelentkezési dátum",
+  "hotel_date_checkout": "Kijelentkezés dátuma",
+  "hotel_search": "Keresés",
+  "hotel_promotion": "promóció",
+  "hotel_promotions": "Promóciók",
+  "hotel_applying": "jelentkezését",
+  "hotel_promotion_applying": "alkalmazandó promóció",
+  "hotel_promotions_applying": "vonatkozó promóciók",
+  "hotel_title_promotions_applying": "Alkalmazható promóció",
+  "hotel_see_detail": "Részletek megtekintése",
+  "hotel_cancel": "A bejelentkezési idő előtt {x} órával történő lemondás esetén a szobaár {y}%-át visszatérítjük",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Éjszakánként {x} kedvezményt kap, ha a vendégek {y} és {z} között tartózkodnak.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Éjszakánként {x} kedvezmény (maximum {a} foglalási rendelés esetén), ha a vendégek {y} és {z} között tartózkodnak.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{x} kedvezmény {y} napos előfoglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{x} kedvezmény, maximum {y} {z} napos előre foglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{x} kedvezmény {z} napos előfoglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{x} kedvezmény {y} éjszakánál hosszabb foglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{x} kedvezmény, maximum {y} {z} éjszakánál hosszabb foglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{x} kedvezmény {z} éjszakánál hosszabb foglalás esetén. Akkor érvényes, ha a vendégek itt tartózkodnak: {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "egész éjszaka",
+  "hotel_first_night": "első éjszaka",
+  "hotel_rating": "Felülvizsgálat",
+  "hotel_wonderful": "Kiváló",
+  "hotel_very_good": "Nagyon jó",
+  "hotel_satisfied": "Elégedett",
+  "hotel_medium": "Átlagos",
+  "hotel_bad": "Szegény",
+  "hotel_hand_note_consult_book_room": "Nézze meg a foglalást",
+  "hotel_hand_note_enter_code_search_info": "Adja meg foglalási számát a foglalási adatok megtekintéséhez",
+  "hotel_hand_note_reservation_code": "Foglalási szám",
+  "hotel_hand_note_can_not_find_hotel": "Sajnáljuk, nem találtunk a keresésének megfelelő szállodát.",
+  "hotel_hand_note_search_night": "Az éjszakák száma",
+  "hotel_hand_note_num_room": "Szobák száma",
+  "hotel_hand_note_status_booking": "Foglalás állapota",
+  "hotel_hand_note_booked": "Foglalt",
+  "hotel_hand_note_dont_booked": "Még nem foglaltak",
+  "hotel_hand_note_total_price": "Teljes ár",
+  "hotel_hand_note_status": "Állapot",
+  "hotel_hand_note_payment_after": "Kérjük, előre fizessenek",
+  "hotel_hand_note_pay_now": "Fizess most",
+  "hotel_hand_note_info_book_room": "Foglalási információk",
+  "hotel_hand_note_code_book_room": "Foglalási szám:",
+  "hotel_hand_note_checking": "Bejelentkezik",
+  "hotel_hand_note_checkout": "Kijelentkezés",
+  "hotel_hand_note_detail": "Részletek megtekintése",
+  "hotel_hand_note_kind_room": "Szoba típus",
+  "hotel_hand_note_quantity": "Mennyiség",
+  "hotel_hand_note_room": "szoba",
+  "hotel_hand_note_visited": "Vendég",
+  "hotel_hand_note_adult": "felnőtt",
+  "hotel_hand_note_children": "gyermekek",
+  "hotel_hand_note_number_nights": "Az éjszakai tartózkodások száma",
+  "hotel_hand_note_night": "éjszaka",
+  "hotel_hand_note_status_payment": "Fizetési állapot",
+  "hotel_hand_note_cancel_order": "Rendelés lemondása",
+  "hotel_hand_note_info_refund": "Visszatérítési információ",
+  "hotel_hand_note_rate_experience": "Tekintse át tapasztalatait a címen",
+  "hotel_hand_note_rate": "Felülvizsgálat",
+  "hotel_hand_note_see_rate": "Lásd az értékeléseket",
+  "hotel_hand_note_rate_overall_rating": "Általános értékelése a szállodáról",
+  "hotel_hand_note_rate_average": "Átlagos",
+  "hotel_hand_note_position": "Elhelyezkedés",
+  "hotel_hand_note_price": "Ár",
+  "hotel_hand_note_clean": "Tisztaság",
+  "hotel_hand_note_serve": "Szolgáltatás",
+  "hotel_hand_note_material_facilities": "Felszerelés",
+  "hotel_hand_note_review": "Kérjük, ossza meg érzéseit és véleményét.",
+  "hotel_hand_note_review_limit": "Az ismertetőnek legalább 2 karakterből kell állnia.",
+  "hotel_hand_note_cancel": "Megszünteti",
+  "hotel_hand_note_submit_review": "Vélemény elküldése",
+  "hotel_hand_note_room_rates": "Szobaár",
+  "hotel_hand_note_extra_bed": "Pótágy",
+  "hotel_hand_note_service_charge": "Szolgáltatási díj",
+  "hotel_hand_note_payment_fees": "Fizetési díj",
+  "hotel_hand_note_promotion": "promóció",
+  "hotel_hand_note_voucher": "Kupon kód",
+  "hotel_hand_note_use_coins": "Használj érméket",
+  "hotel_hand_note_rates_include": "Az ár tartalmazza",
+  "hotel_hand_note_see_review_title": "Tekintse meg véleményét erről: {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Értékelés dátuma: {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Köszönjük értékelését",
+  "hotel_hand_note_use_point": "Használj pontokat",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Ingyenes lemondás {x} előtt.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Helyi idő)",
+  "hotel_hand_note_hotel_apartment": "Lakás",
+  "hotel_hand_note_hostel": "Diákszálló",
+  "hotel_hand_note_hotel": "Szálloda",
+  "hotel_hand_note_resort": "Üdülő",
+  "hotel_hand_note_other": "Egyéb",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Villa",
+  "hotel_hand_note_vacation_home": "Nyaralóház",
+  "hotel_hand_note_homestay": "Homestay",
+  "hotel_hand_note_farmstay": "Tanyasi szállás",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Hajókázás",
+  "hotel_hand_note_boathouse": "Hajó",
+  "hotel_hand_note_countryhouse": "Kúria",
+  "hotel_hand_note_campground": "Tábor",
+  "hotel_hand_note_camper": "Lakóautó",
+  "hotel_hand_note_lodge": "házikó",
+  "hotel_hand_note_guesthouse": "Vendégház",
+  "hotel_hand_note_cancel_hotel": "Lemondás",
+  "hotel_update_price": "Árak frissítése",
+  "hotel_distance_x_from_center": "{distance}{x} a központtól",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} a keresés helyétől",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "{x} kedvezmény éjszakánként, ha a vendégek {y} és {z} között tartózkodnak.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Szobák és vendégek száma",
+  "hotel_add_room_children": "Gyermekek",
+  "hotel_add_room_age_upto": "(0-17 éves korig)",
+  "hotel_add_room_child": "Gyermek",
+  "hotel_add_room_age": "kor",
+  "hotel_add_room_cancel": "Megszünteti",
+  "hotel_add_room_choose_age": "Válassza ki az életkort",
+  "hotel_add_room_done": "Kész",
+  "hotel_add_room_room": "Szoba",
+  "hotel_add_room_adult": "Felnőtt",
+  "hotel_add_room_adults": "Felnőttek",
+  "hotel_add_room_age_children": "A gyerekek életkora",
+  "hotel_add_room_age_child": "A gyerekek életkora",
+  "hotel_add_room_condition": "A szobák és a vendégek száma szobánként nem haladhatja meg a 9-et.",
+  "hotel_add_room_note": "jegyzet",
+  "hotel_add_room_save": "Megment",
+  "hotel_cart_child": "Gyermek",
+  "hotel_cart_children": "Gyermekek",
+  "hotel_cart_delete": "Töröl",
+  "hotel_cart_change": "változás",
+  "hotel_cart_book_room": "Könyvszoba",
+  "hotel_cart_night": "éjszaka",
+  "hotel_cart_title_included_texas_fee": "Az adókat és díjakat tartalmazza",
+  "hotel_cart_temporary_price": "Részösszeg",
+  "hotel_cart_delete_order": "Rendelés törlése",
+  "hotel_screen_cart_delete_order_confirm": "Törli ezt a rendelést?",
+  "hotel_order_detail_info_hotel": "Foglalási információk",
+  "hotel_order_detail_done": "Kész",
+  "hotel_order_detail_detail": "Részletek megtekintése",
+  "hotel_order_detail_book_new": "Foglaljon új szobát",
+  "hotel_order_detail_success": "A foglalás sikeres",
+  "hotel_order_detail_requests_success": "Foglalási kérelmét sikeresen teljesítettük",
+  "hotel_order_detail_paid": "(Fizetett).",
+  "hotel_order_detail_reservation": "A foglalás részleteit alább ellenőrizheti.",
+  "hotel_order_detail_thank": "Köszönjük a szolgáltatásaiba vetett bizalmát",
+  "hotel_order_detail_support": "Ha bármilyen kérdése van, vagy további segítségre van szüksége, kérjük, lépjen kapcsolatba a Hahalolo Súgóközponttal",
+  "hotel_order_detail_instructions": "utasításokért.",
+  "hotel_order_detail_info_rest": "Tulajdon információk",
+  "hotel_order_detail_hotel": "Szálloda",
+  "hotel_order_detail_type": "Szoba típus",
+  "hotel_order_detail_check_in": "Bejelentkezik",
+  "hotel_order_detail_check_out": "Kijelentkezés",
+  "hotel_order_detail_visited": "Vendégek száma",
+  "hotel_order_detail_adult": "felnőtt",
+  "hotel_order_detail_children": "gyermekek",
+  "hotel_order_detail_baby": "baba (1 éves kor alatt)",
+  "hotel_order_detail_contact": "Elérhetőség",
+  "hotel_order_detail_lastname": "Teljes név",
+  "hotel_order_detail_tel_number": "Telefonszám",
+  "hotel_order_detail_nationality": "Állampolgárság",
+  "hotel_order_detail_note": "jegyzet",
+  "hotel_order_detail_guests": "Vendég információk",
+  "hotel_order_detail_trade": "Tranzakciós információk",
+  "hotel_order_detail_order_form": "Rendelés",
+  "hotel_order_detail_payment": "Végösszeg",
+  "hotel_order_detail_bed_type": "Ágytípus",
+  "hotel_order_detail_extra_bed": "Pótágy",
+  "hotel_order_detail_bed": "ágy",
+  "hotel_order_detail_reservation_code": "Foglalási szám",
+  "hotel_order_detail_payer": "Fizető",
+  "hotel_search_code_total_price": "Teljes ár",
+  "hotel_search_code_voucher": "Kupon kód",
+  "hotel_search_code_use_coin": "Használj érméket",
+  "hotel_search_code_use_point": "Használj pontokat",
+  "hotel_search_code_total_pay": "Teljes fizetés",
+  "hotel_search_code_detail_pay": "fizetési részletek",
+  "hotel_hand_note_hotel_policy_check_out": "- Kijelentkezés {checkout} előtt",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- bejelentkezés {checkin} után",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Lemondási feltételek",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Az ingyenes lemondási határidők a szálláshely időzónáján alapulnak, és a szálláshely lemondási szabályzatában szerepelnek.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x szoba, {night} x éjszaka",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Adók és díjak",
+  "hotel_hand_note_detail_total_amount": "Teljes fizetés",
+  "hotel_hand_note_detail_success": "Sikeres",
+  "hotel_hand_note_detail_failed": "nem sikerült",
+  "hotel_hand_note_detail_postpaid": "Utólagos fizetés",
+  "hotel_hand_note_detail_prepaid": "Előre kifizetett",
+  "hotel_hand_note_detail_operation_history": "Tevékenységtörténet",
+  "hotel_hand_note_detail_order_cancel_info": "Megrendelés törlésének információi",
+  "hotel_hand_note_detail_order_total_order": "Rendelés Összesen",
+  "hotel_hand_note_detail_total_money": "Teljes fizetett összeg",
+  "hotel_hand_note_detail_coin": "érméket",
+  "hotel_hand_note_detail_fee_cancel": "Lemondási díj",
+  "hotel_hand_note_detail_refund_amount": "A visszatérítés becsült összege",
+  "hotel_hand_note_detail_coin_refund_amount": "Becsült visszatérítési érmék",
+  "hotel_hand_note_detail_payment_info": "Fizetési információ",
+  "hotel_hand_note_detail_customer_service": "A kuponkód nem téríthető vissza. A kuponkód visszaküldése érdekében kérjük, forduljon Ügyfélszolgálati Központunkhoz.",
+  "hotel_hand_note_detail_note_refund": "Visszatérítési idő (a lemondás napjától): 5-7 nap (Alepay és Payme fizetési átjárók esetén) vagy 7-15 nap (Stripe fizetési átjáró esetén).",
+  "hotel_hand_note_detail_reason_cancel": "Lemondási okok",
+  "hotel_hand_note_detail_checking_out": "Be- és kijelentkezés ideje",
+  "hotel_hand_note_detail_check_in_after": "Bejelentkezés után",
+  "hotel_hand_note_detail_check_out_before": "Kijelentkezés előtt",
+  "hotel_hand_note_detail_person_day": "fő/nap",
+  "hotel_hand_note_detail_free": "Ingyenes.",
+  "hotel_hand_note_detail_day": "/nap",
+  "hotel_hand_note_detail_note_hotel": "Az ingyenes lemondási határidők a szálláshely időzónáján alapulnak, és a szálláshely lemondási szabályzatában szerepelnek.",
+  "hotel_hand_note_detail_room_service": "Szobaszerviz",
+  "hotel_hand_note_detail_facilities_service": "Létesítmények és szobaszerviz",
+  "hotel_hand_note_detail_person_contact": "Kapcsolattartó",
+  "hotel_hand_note_detail_telephone_num": "Telefonszám",
+  "hotel_hand_note_detail_email": "Email",
+  "hotel_hand_note_detail_nationality": "Állampolgárság",
+  "hotel_hand_note_detail_address": "Cím",
+  "hotel_hand_note_detail_paid": "Fizetett mennyiség",
+  "hotel_hand_note_detail_rest": "Ki nem fizetett összeg",
+  "hotel_hand_note_detail_payment_methods": "Fizetési mód",
+  "hotel_hand_note_detail_check_in_info": "Bejelentkezés információ",
+  "hotel_hand_note_detail_guest_name": "Vendég neve",
+  "hotel_hand_note_detail_policy_cancel": "Korábban történt lemondások",
+  "hotel_hand_note_detail_hour": "{hour} óra",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} perc",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":visszatérítik",
+  "hotel_hand_note_detail_price_room": "a szobaárból",
+  "hotel_hand_note_detail_one_night": "az első éjszaka.",
+  "hotel_hand_note_detail_all_night": "egész éjszaka.",
+  "hotel_hand_note_detail_policy": "Lemondási feltételek",
+  "hotel_hand_note_detail_children_note": "A(z) {age} éven felüli gyermekek engedélyezettek.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Háziállat megengedett. Háziállat díja: {fee} (Az állatdíj a szálláshelyen fizetendő).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Gyermekek",
+  "hotel_hand_note_detail_pet": "Háziállatok",
+  "hotel_hand_note_detail_total_room_rate": "Teljes szobaár",
+  "hotel_hand_note_detail_total_room_order": "Szobák száma",
+  "hotel_hand_note_detail_room_information": "Szobainformációk",
+  "hotel_hand_note_detail_person_x": "{x} ember",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Rezsi, szobaszerviz",
+  "hotel_hand_note_detail_waiting_service": "Beteljesülésre vár",
+  "hotel_hand_note_detail_in_service": "Folyamatban lévő",
+  "hotel_hand_note_detail_completed": "Befejezve",
+  "hotel_hand_note_detail_waiting_cancellation": "Lemondásra vár",
+  "hotel_hand_note_detail_canceled": "Törölve",
+  "hotel_hand_note_detail_awaiting_confirmation": "Megerősítésre vár",
+  "hotel_hand_note_detail_not_refund": "Lemondás esetén nem kap visszatérítést vagy kifizetett összeget",
+  "hotel_hand_note_detail_other_required": "Egyéb kérés",
+  "hotel_hand_note_detail_point_refund_amount": "Becsült visszatérítési pontok",
+  "hotel_input_title_start_date": "Bejelentkezési dátum",
+  "hotel_input_title_end_date": "Kijelentkezés dátuma",
+  "hotel_input_title_choose_date": "Válasszon egy dátumot",
+  "hotel_input_title_choose": "Válassza ki",
+  "hotel_hand_note_price_detail_payment_type": "Fizetési mód",
+  "hotel_hand_note_price_detail_payment_date": "Fizetés nap",
+  "hotel_hand_note_price_detail_price": "Tekintse meg az ár részleteit",
+  "hotel_hand_note_price_detail_title": "Ár részletek",
+  "hotel_hand_note_price_detail_contact_info": "Kapcsolattartó adatai",
+  "hotel_hand_note_utilities_title": "Felszereltség",
+  "hotel_hand_note_services_title": "Szolgáltatások",
+  "hotel_hand_note_search_required_code": "A foglalási szám megadása kötelező.",
+  "cart_screen_main_hotel_title": "Szálloda",
+  "cart_screen_main_hotel_title_1": "Szálloda (1)",
+  "hotel_cancel_hotel": "Lemondás",
+  "hotel_search_this_area ": "Keresse meg ezt a területet",
+  "hotel_where": "Hol szeretnél megszállni?",
+  "hotel_people": "{y} szoba – {x} vendég",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Szoba",
+  "hotel_hand_note_item_view_booking_code_title": "Foglalási szám",
+  "hotel_hand_note_title_hotel_order": "Szállodafoglalási rendelések",
+  "hotel_order_detail_view_information_order": "Rendelési információ",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Hol szeretnél megszállni?",
+  "search_city_no_result": "Nem található egyező hely...",
+  "search_city_choose_the_city": "Szállodák keresése",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Válasszon szállodát",
+  "advanced_search_any_review": "Bármi",
+  "advanced_search_star_rating": "Csillagok értékelése",
+  "advanced_search_any_star": "Besorolatlan",
+  "advanced_search_a_star": "1 csillag",
+  "advanced_search_x_star": "{x} csillag",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Az ingatlan típusa",
+  "advanced_search_reset_button": "Visszaállítás",
+  "advanced_search_search_button": "Keresés",
+  "advanced_search_evaluation_point": "Értékelési pontszám",
+  "advanced_search_no_city_error": "Nincs kiválasztva tulajdonság",
+  "advanced_search_title": "Részletes keresés",
+  "advanced_search_clear": "Egyértelmű",
+  "advanced_search_no_date_error": "Nincs dátum kiválasztva",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Lista megjelenítése",
+  "hotel_not_found": "Nem található szálloda!",
+  "hotel_search_near_by": "Közeli",
+  "advanced_search_less_x_unit": "{x}{unit} alatt",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "A következőtől: {x}{unit}",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "{x}{unit}-tól {y}{unit} alá",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Távolság a központtól",
+  "hotel_booking_do_you_want_to_remove_a_user": "Biztosan eltávolítja {user} felhasználót a listáról?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Pótdíj",
+  "hotel_map_filter": "Sorrend",
+  "hotel_map_default": "Alapértelmezett",
+  "hotel_map_high_star": "Csillagok: magastól alacsonyig",
+  "hotel_map_low_star": "Csillagok: alacsonytól magasig",
+  "hotel_map_distance_center": "Távolság a központtól",
+  "hotel_map_high_rate": "Legmagasabban értékelt",
+  "hotel_map_high_order": "A legtöbb foglalt",
+  "hotel_hand_note_reply": "Az ingatlan válasza",
+  "hotel_booking_payment_3011_error": "A kártya elutasítva. Kérjük, próbáljon ki másik kártyát, vagy kérjen segítséget a kártya kibocsátójától!",
+  "hotel_hand_note_utilities_title_room": "SZOBAFELSZERELTSÉG",
+
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Mindannyian elkaptak!",
+  "halo_error_wifi_error": "Wifi hiba",
+  "halo_error_something_wrong": "Hoppá!\nValami hiba történt, próbálja újra",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

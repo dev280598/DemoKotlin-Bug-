@@ -1,0 +1,3312 @@
+{
+  "@@locale": "fi",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Yritä uudelleen",
+  "common_see_more": "Katso lisää",
+  "common_see_less": "Katso vähemmän",
+  "common_search_hint": "Hae …",
+  "common_loading": "Ladataan…",
+  "common_retry": "Yritä uudelleen",
+  "common_cancel": "Peruuttaa",
+  "common_ok": "Ok",
+  "common_save": "Tallentaa",
+  "common_decline": "Hylkää",
+  "common_done": "Tehty",
+  "common_confirm": "Vahvistaa",
+  "common_close": "kiinni",
+  "common_continue": "Jatkaa",
+  "common_detail": "Yksityiskohdat",
+  "common_enter_discount_code": "Syötä kupongin koodi",
+  "common_use_payment_or_contact_info": "Käytä maksajan tai yhteyshenkilön tietoja",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Ajan valitsin",
+  "car_input_title_pick_up_place": "Anna noutopaikka",
+  "car_input_title_pick_up_location": "Noutopaikka",
+  "car_title_return_to_different_location": "Paluu eri paikkaan",
+  "car_input_title_start_time": "Aloitusaika",
+  "car_input_title_end_time": "Loppu aika",
+  "car_input_title_start_date": "Aloituspäivämäärä",
+  "car_input_title_end_date": "Päättymispäivä",
+  "car_input_title_enter_drop_off_place": "Anna palautuspaikka",
+  "car_input_title_enter_drop_off_location": "Toimituspaikka",
+  "car_title_advanced_search": "Tarkennettu Haku",
+  "car_title_look_up_booking_number": "Etsi varausnumero",
+  "car_header_title_look_up_booking_number": "Syötä varausnumero tai tilauskoodi löytääksesi varaustiedot",
+  "car_title_search": "Hae",
+  "car_notice_empty_pick_up_location": "Valitse hakua varten noutopaikka ja aloituspäivä",
+  "car_title_ascending_price": "Nouseva hinta",
+  "car_title_descending_price": "Laskeva hinta",
+  "car_title_car_type": "Auton tyyppi",
+  "car_title_transmission": "Tarttuminen",
+  "car_title_segment": "Segmentti",
+  "car_title_fuel_type": "Polttoainetyyppi",
+  "car_title_supplier": "Toimittaja",
+  "car_title_price": "Hinta",
+  "car_title_view_on_map": "Näytä kartalla",
+  "car_title_deals": "Tarjoukset",
+  "car_title_seats": "Istuimet",
+  "car_title_filter_by": "Suodatusperuste",
+  "car_title_un_filter": "Poista suodatus",
+  "car_title_choose_this_car": "Valitse tämä auto",
+  "car_title_rental_terms": "Vuokraehdot",
+  "car_title_search_location": "Hae sijaintia",
+  "car_title_select_btn": "Valitse",
+  "car_title_select_date": "Valitse päivämäärä",
+  "car_title_select_time": "Valitse aika",
+  "car_title_reset_btn": "Nollaa",
+  "car_title_location_type": "Sijaintityyppi",
+  "car_title_number_of_seats": "Istumapaikkojen määrä",
+  "car_title_days": "päivää",
+  "car_title_unlimited_mileage": "Rajoittamaton kilometrimäärä",
+  "car_title_instant_confirmation": "Välitön vahvistus",
+  "car_title_time_pick_up": "Noutopäivä",
+  "car_title_time_drop_off": "Lähtöpäivä",
+  "car_title_air_conditioning": "Ilmastointi",
+  "car_title_number_of_bag": "Matkalaukkujen määrä",
+  "car_hand_note_title_booking_order_code": "Tilauskoodi",
+  "car_hand_note_title_booking_code": "Varausnumero",
+  "car_hand_note_title_total_rental_car": "Vuokrapäiviä yhteensä",
+  "car_hand_note_title_status_order": "Tilauksen tila",
+  "car_hand_note_title_total_price": "Koko maksu",
+  "car_hand_note_title_status_payment": "Maksun tilanne",
+  "car_hand_note_title_reason_cancel": "Peruuttamisen syyt",
+  "car_hand_note_title_view_details_btn": "Tarkemmat tiedot",
+  "car_hand_note_notice_cancel_order": "Peruutetun tilauksen hyvityssumma (jos sellainen on) siirretään asiakkaan pankkitilille toimittajan ilmoittaman ajan kuluessa.",
+  "car_hand_note_title_tab_all": "Kaikki",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Odottaa täydennystä",
+  "car_hand_note_title_tab_ongoing": "Meneillään oleva",
+  "car_hand_note_title_tab_completed": "Valmis",
+  "car_hand_note_title_tab_canceled": "Peruutettu",
+  "car_hand_note_title_order_manager": "Tilaustenhallinta",
+  "car_hand_note_title_create_date": "Päivämäärä luotu",
+  "car_hand_note_title_view_more_btn": "Katso lisää",
+  "car_hand_note_title_status_order_completed": "Valmis",
+  "car_hand_note_title_status_payment_successful": "Onnistunut",
+  "car_hand_note_title_details_order": "Tilauksen tiedot",
+  "car_hand_note_title_contact_info": "Yhteyshenkilön tiedot",
+  "car_hand_note_title_info_rental_car": "Varaustiedot",
+  "car_hand_note_title_driver_info": "Kuljettajan tiedot",
+  "car_hand_note_title_pirce_details": "Hintatiedot",
+  "car_hand_note_title_creator": "Luonut",
+  "car_hand_note_title_person_contact": "Yhteyshenkilö",
+  "car_hand_note_title_phone": "Puhelinnumero",
+  "car_hand_note_title_email": "Sähköposti",
+  "car_hand_note_title_country": "Maa",
+  "car_hand_note_title_address": "Osoite",
+  "car_hand_note_title_price_of_car_rental": "Auton vuokra hinta",
+  "car_hand_note_title_price_payment_fee": "Maksu maksu",
+  "car_hand_note_title_info_extra_services": "Lisäpalvelut",
+  "car_hand_note_title_type_insurance": "Vakuutustyypit",
+  "car_hand_note_title_info_insurance": "Vakuutustiedot",
+  "car_hand_note_title_car_info": "Auton tiedot",
+  "car_search_result_not_found_title": "Etsimääsi ajoneuvoa ei valitettavasti löytynyt.",
+  "car_search_result_not_found_sub_title": "Emme löytäneet sopivaa vastinetta pyyntöösi.\nYritä uudelleen.",
+  "car_search_result_first_title_rental_car": "Autonvuokraus sisään",
+  "car_detail_btn_rent_now": "Varaa nyt",
+  "car_notice_title_check_connection": "Tarkista yhteys ja yritä uudelleen!",
+  "car_rent_input_title_details": "Yksityiskohdat",
+  "car_rent_input_title_total_payment": "Koko maksu",
+  "car_rent_input_title_payment": "Maksaa",
+  "car_rent_form_input_last_name": "Sukunimi (ilman sävyjälkiä)",
+  "car_rent_form_input_first_name": "Keski- ja etunimi/etunimi (ilman sävyjälkiä)",
+  "car_rent_input_content_cb_use_contact_details": "Käytä yhteyshenkilön tietoja",
+  "car_rent_input_title_method_payment": "Maksaa",
+  "car_rent_input_title_method_pay": "Maksuvaihtoehto",
+  "car_rent_input_title_late_payment": "Maksa myöhemmin",
+  "car_rent_input_title_now_payment": "Maksa nyt",
+  "car_rent_input_title_information_card": "Kortin tiedot",
+  "car_rent_input_title_driver_age": "Kuljettajan ikä",
+  "car_rent_input_title_Do_you_need_anything_else": "Tarvitsetko muuta?",
+  "car_rent_input_title_accept_policy": "Jatkamalla seuraavaa vaihetta vahvistan, että olen lukenut ja hyväksyn Hahalolon ehdot - Käytännöt ja Tietosuojakäytäntö",
+  "car_rent_input_title_card_must_be_valid": "Korttisi on oltava voimassa varmistaaksesi vuokrauksen toimittajalta.",
+  "car_rent_input_title_accept_card_pay": "Hyväksytyt maksukortit",
+  "car_rent_input_title_content_notice_later_pay": "Auton myyjä käsittelee maksusi. Varausehdoista riippuen voit maksaa kokonaan tai osittain.",
+  "car_rent_input_title_select_type_card": "Valitse luottokortin tyyppi",
+  "car_rent_input_title_number_card": "Kortin numero",
+  "car_rent_input_title_enter_number_card": "Syötä kortin numero",
+  "car_rent_input_title_name_card": "Kortinhaltijan nimi",
+  "car_rent_input_title_enter_name_card": "Syötä kortinhaltijan nimi",
+  "car_rent_input_title_select_expiry_date": "Valitse viimeinen käyttöpäivä",
+  "car_rent_input_title_expiry_date": "Päättymispäivä",
+  "car_rent_input_title_gate_ways": "Maksun yhdyskäytävä",
+  "car_rent_input_title_ccv_code": "CVC-koodi",
+  "car_rent_input_title_enter_ccv_code": "Syötä CVC-koodi",
+  "car_rent_input_title_first_notice_need_anything_else": "Ilmoitamme toimittajalle, että olet kiinnostunut näistä palveluista, jotta he voivat antaa sinulle yksityiskohtaisia ​​tietoja.\n\n Pyyntöäsi ei voida taata. Älä huoli! Toimittaja yrittää täyttää tarpeesi.",
+  "car_rent_input_title_sub_notice_need_anything_else": "Pyyntöäsi ei voida taata. Älä huoli! Toimittaja yrittää täyttää tarpeesi.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "Kirjoita enintään 55 merkkiä",
+  "car_rent_input_noti_invalid_last_name": "Virheellinen sukunimi",
+  "car_rent_input_noti_invalid_first_name": "Virheellinen keski- ja etunimi/etunimi",
+  "car_rent_input_noti_required_last_name": "Sukunimi vaaditaan",
+  "car_rent_input_noti_required_first_name": "Keskimmäinen ja etunimi / etunimi vaaditaan",
+  "car_rent_input_noti_invalid_email": "Virheellinen sähköpostiosoite",
+  "car_rent_input_noti_invalid_phone": "Väärä puhelinnumero",
+  "car_rent_input_noti_required_email": "Sähköposti vaaditaan",
+  "car_rent_input_noti_required_phone": "Puhelinnumero vaaditaan",
+  "car_rent_input_noti_requried_address": "Osoite vaaditaan",
+  "car_rent_input_noti_requried_country": "Maa on pakollinen",
+  "car_rent_input_noti_requried_number_card": "Kortin numero vaaditaan",
+  "car_rent_input_noti_requried_card_holder_name": "Kortinhaltijan nimi vaaditaan",
+  "car_rent_input_noti_requried_type_card": "Luottokortti vaaditaan",
+  "car_rent_input_noti_requried_expiry": "Viimeinen voimassaolopäivä vaaditaan",
+  "car_rent_input_title_type_card_credit": "Luottokortti tyyppi",
+  "car_rent_input_title_currency_at_rental_car_place": "Valuutta noutopaikalla",
+  "car_rent_input_title_rule_age": "Ikäsäännöt",
+  "car_rent_input_notice_term_and_policy_first_string": "Jatkamalla seuraavaa vaihetta vahvistan, että olen lukenut ja hyväksynyt Hahalolo''sin",
+  "car_rent_input_notice_term_and_policy_append__string": "Ehdot - Käytännöt",
+  "car_rent_input_notice_term_and_policy_between_string": "ja",
+  "car_rent_input_notice_term_and_policy_append___string": "Tietosuojakäytäntö",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Noukkia",
+  "car_cart_title_drop_off": "Pudota pois",
+  "car_cart_title_included_texas_fee": "Verot ja maksut sisältyvät",
+  "car_cart_title_btn_delete": "Poistaa",
+  "car_cart_title_btn_edit": "Muuta valintaasi",
+  "car_cart_title_sub_total": "Välisumma",
+  "car_cart_title_car_types": "Auton tyyppi:",
+  "car_title_select_country": "Valitse maa",
+  "car_title_car_cart": "Auton varaus",
+  "car_feed_input_hint_pick_up_place": "Sinun noutopaikkasi",
+  "car_feed_input_hint_drop_off_place": "Sinun palautuspaikkasi",
+  "car_feed_notice_empty_location_pick_up": "Valitse hakua varten noutopaikka",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Anna luovutuspaikka",
+  "notify_error_occurred": "Tapahtui virhe. Tarkista uudestaan.",
+  "car_hand_note_detail_order_full_name": "Koko nimi",
+  "car_hand_note_detail_order_promotion": "Edistäminen",
+  "car_hand_note_detail_order_act_history": "Aktiviteettiloki",
+  "car_hand_note_detail_order_request_other": "Muut pyynnöt",
+  "car_hand_note_detail_order_order_payment": "Tilaa maksu",
+  "car_hand_note_detail_order_cancel_info": "Tilauksen peruutustiedot",
+  "car_hand_note_detail_order_payment_info": "Maksutiedot",
+  "car_hand_note_detail_order_paid": "Maksettu",
+  "car_hand_note_detail_order_unpaid": "Palkaton",
+  "car_hand_note_title_days_ago": "päiviä sitten",
+  "car_hand_note_detail_order_cancel_fee": "Peruutusmaksu",
+  "car_hand_note_detail_order_amount_ongoing_return": "Arvioitu hyvityssumma",
+  "car_hand_note_detail_order_time_ongoing_return": "Arvioitu palautusaika",
+  "car_hand_note_detail_order_info_transaction": "Tapahtumatiedot",
+  "car_hand_note_detail_order_amount_payment": "Kokonaismäärä",
+  "car_hand_note_detail_order_total_order": "Tilaus yhteensä",
+  "car_hand_note_detail_content_define_vat": "VAT on vero ja maksu, joka sinun on maksettava auton toimittajalle sen määräysten mukaisesti, kun käytät autonvuokrauspalvelua.",
+  "car_title_search_result_first_character": "Autonvuokraus sisään",
+  "car_title_tool_bar_pick_up_location": "Mistä haluat noutaa?",
+  "car_title_tool_bar_drop_off_location": "Minne haluat pudota?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Vuokra-auton hinta muunnetaan auton toimittajan nykyisen valuutan mukaan.\nHuomautus:\n- Valuuttakurssi voi muuttua ennen maksamista.\n- Kortin myöntäjä voi veloittaa ulkomaisen maksun.",
+  "car_hand_note_detail_content_define_payment_fee": "Jokaista autonvuokrauspyyntöä vastaava tapahtumamaksu, joka sinun on maksettava online-maksuyhdyskäytäväpalvelun tarjoajalle.",
+  "car_hand_note_detail_content_notice_insurance": "Huomaa: Jos haluat hakea näitä vakuutuspaketteja, ota yhteyttä suoraan autotoimittajan vastaanottoon.",
+  "car_hand_note_detail_title_header_insurance": "Monet autovakuutukset ja vuokrasopimukset kattavat poikkeukset, jotka voivat olla kalliita vuokra-auton vahingoittumiseen tai varkauteen liittyen. Alla oleva vakuutus auttaa kuitenkin suojaamaan sinua ja tarjoamaan sinulle taloudellista tukea huomattavalla summalla.",
+  "car_result_booking_title_header_rental_car_success": "VARAUS ONNISTUI",
+  "car_result_booking_title_btn_continue_rental_car": "Jatka varaamista",
+  "car_result_booking_title_btn_view_order_details": "Katso tilauksen yksityiskohdat",
+  "car_result_booking_title_header_first_char": "Varauspyyntösi on tehty onnistuneesti",
+  "car_result_booking_title_header_second_char": "(Maksettu)",
+  "car_result_booking_title_header_third_char": ". Voit tarkistaa autonvuokrauksen tiedot alta.",
+  "car_result_booking_title_header__char": "Kiitos luottamuksestasi",
+  "car_result_booking_title_header____char": "palvelua. Jos sinulla on kysyttävää tai tarvitset lisäapua, ota yhteyttä ohjekeskukseemme osoitteessa",
+  "car_result_booking_title_header_____char": "ohjeita varten.",
+  "car_result_booking_title_header______char": ". Voit tarkistaa autonvuokrauksen tiedot alta.",
+  "car_result_booking_title_order": "Tilaus",
+  "car_result_booking_title_billing_info": "Maksutiedot",
+  "car_result_booking_title_time": "Aika",
+  "car_result_booking_title_name_car": "Auton nimi",
+  "car_picker_time_from_the_date": "From",
+  "car_picker_time_to_the_date": "Vastaanottaja",
+  "car_picker_time": "Aika",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Valitse kaupunki/osavaltio",
+  "car_result_notice_no_data_found": "Valitettavasti tietoja ei löytynyt",
+  "car_result_notice_no_flight_found_description": "Emme löytäneet hakuasi vastaavia tuloksia. Etsi uudelleen.",
+  "car_extra_service": "Auton tarjoaja saattaa tarjota sinulle joitain alla olevia lisäpalveluita. Jos haluat hakea niitä, ota suoraan yhteyttä palveluntarjoajan vastaanottoon.",
+  "car_extra_charges": "Autontoimittajan määrittelemää ikää nuoremmista tai sitä vanhemmista kuljettajista peritään lisämaksu",
+  "car_note_driver_age": "Huomaa: Tämä maksu peritään vastaanotosta saapuessasi auton noutoa varten.",
+  "car_rental_details": "Autonvuokrauksen tiedot",
+  "car_you_dont_have_any_car_rental_orders": "Sinulla ei ole vielä vuokra-autotilauksia.",
+  "car_search_code_no_information": "Varaustietoja ei löytynyt.\nTarkista ja yritä uudelleen",
+  "car_input_code_message_empty": "Syötä varausnumerosi",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Hyväksyä",
+  "aff_chart_day_ago": "{number} päivää sitten",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "{from}:sta {to}:hen",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Evästeen kesto: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Hotelli",
+  "aff_tour": "Kiertue",
+  "aff_product_name": "Tuotteen nimi",
+  "aff_anonymous_user": "Anonyymi käyttäjä",
+  "aff_unknown": "Tuntematon",
+  "aff_product_unknown": "Tuntematon tuotetyyppi",
+  "aff_share": "Jaa",
+  "aff_fetch_data_failure": "Tietojen hakeminen epäonnistui",
+  "aff_fetch_data_failure_try_later": "Tietojen hakeminen epäonnistui. Yritä uudelleen myöhemmin.",
+  "aff_detail": "Yksityiskohdat",
+  "aff_no_data": "Dataa ei löytynyt",
+  "aff_all": "Kaikki",
+  "aff_country": "Maa",
+  "aff_summary": "Yleiskatsaus",
+  "aff_link_management": "Linkkien hallinta",
+  "aff_promotion_tool": "Markkinointityökalut",
+  "aff_help": "auta",
+  "aff_notification": "Ilmoitukset",
+  "aff_notification_no_data": "Sinulla ei ole ilmoituksia",
+  "aff_revenue": "Tulot",
+  "aff_revenue_total": "Kokonaistulot",
+  "aff_customer_id": "Asiakas ID",
+  "aff_payment_total": "Kokonaismäärä",
+  "aff_commission_receive": "Saadut palkkiot yhteensä",
+  "aff_search_by_order": "Hae tilauskoodilla",
+  "aff_reset": "Nollaa",
+  "aff_cancel": "Peruuttaa",
+  "aff_save": "Tallentaa",
+  "aff_search": "Hae",
+  "aff_continue": "Jatkaa",
+  "aff_payment_account": "Maksutili",
+  "aff_profile": "Profiili",
+  "aff_edit_profile": "Muokkaa tietoja",
+  "aff_affiliate": "Yhteistyökumppani",
+  "aff_setting": "asetukset",
+  "aff_resend": "Uudelleen lähettää",
+  "aff_verify_failure": "Vahvistus epäonnistui",
+  "aff_show_code": "Näytä koodi",
+  "aff_sms_block_forever": "Vahvistustoiminto on väliaikaisesti lukittu. Yritä uudelleen myöhemmin.",
+  "aff_sms_wrong_code": "Virheellinen vahvistuskoodi. Tarkista se uudelleen.",
+  "aff_sms_expired_code": "Vahvistuskoodi on vanhentunut. Hanki toinen koodi",
+  "aff_sms_verify_failure": "Vahvistus epäonnistui. Yritä uudelleen myöhemmin.",
+  "aff_enter_verify_code": "syötä vahvistus koodi",
+  "aff_we_send_code_to_phone": "Lähetimme vahvistuskoodin numeroon {phone}.\nSuorita tämä vaihe antamalla saamasi koodi.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Koodi vanhenee:",
+  "aff_sms_block": "Koodin lähettäminen tekstiviestillä on väliaikaisesti lukittu. Yritä uudelleen myöhemmin.",
+  "aff_sms_resend_in": "Voit lähettää koodin uudelleen seuraavasti:",
+  "aff_account_information": "TILITIEDOT",
+  "aff_account_information_subtitle": "Päivitä puhelinnumerosi maksutilillesi, jotta voit jatkaa Hahalolo-palveluiden käyttöä.",
+  "aff_account_name": "Tilin nimi",
+  "aff_search_county": "Hae maata",
+  "aff_wallet_create_failure": "Maksutilin luominen epäonnistui",
+  "aff_wallet_create_failure_try_again": "Maksutilin luominen epäonnistui. Yritä uudelleen myöhemmin.",
+  "aff_information_general": "Yleistä tietoa",
+  "aff_information_unknown": "(Tuntematon)",
+  "aff_information_full_name": "Koko nimi {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "Sähköposti {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Puhelinnumero  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Syntymäaika {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Sukupuoli {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Osoite {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Maa {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Lisää tietoa",
+  "aff_information_city": "Maakunta/kaupunki {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Postinumero  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID-kortti /passi {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Viimeinen käyttöpäivä {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "JulkaisumaaX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Kansallisuus {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Syntymäpaikka {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "Puhelinkoodi",
+  "aff_gender_male": "Uros",
+  "aff_gender_female": "Nainen",
+  "aff_gender_other": "Muut",
+  "aff_validate_full_name": "Koko nimessä on oltava vähintään 3 merkkiä",
+  "aff_validate_email": "Virheellinen sähköpostiosoite",
+  "aff_validate_phone": "Väärä puhelinnumero",
+  "aff_validate_post_code": "Virheellinen postinumero",
+  "aff_validate_id_code": "Virheellinen ID-kortti/passi",
+  "aff_validate_invalid_field": "Aika",
+  "aff_validate_phone_existed": "Puhelinnumero on rekisteröity toiselle maksutilille.",
+  "aff_validate_unknown_country": "Tuntematon maa",
+  "aff_date_time": "Aika",
+  "aff_date_yesterday": "Eilen",
+  "aff_date_today": "Tänään",
+  "aff_date_unknown": "Tuntematon päivämäärä",
+  "aff_date_month": "kuukausi",
+  "aff_date_day": "päivä",
+  "aff_date_hour": "tunnin",
+  "aff_date_minute": "minuutti",
+  "aff_date_second": "toinen",
+  "aff_date_range": "Ajanjakso",
+  "aff_report": "Raportoi",
+  "aff_report_summary": "Raportin yleiskatsaus",
+  "aff_report_click": "Napsautukset",
+  "aff_report_click_number": "Napsautukset",
+  "aff_report_performance": "Esitys",
+  "aff_report_customer": "Asiakas",
+  "aff_report_payment": "Maksu",
+  "aff_report_product_performance": "Tuotteen suorituskyky",
+  "aff_report_product_type": "Tuotetyyppi",
+  "aff_report_customer_detail": "Asiakkaan tiedot",
+  "aff_report_commission_by_product": "Palkkio eräkohtaisesti",
+  "aff_report_customer_total": "Ostoksia tekevien asiakkaiden kokonaismäärä",
+  "aff_report_customer_serving": "Palvelussa olevia asiakkaita yhteensä",
+  "aff_report_customer_served": "Asiakkaita palvellaan yhteensä",
+  "aff_report_payment_waiting": "Provisiot yhteensä käsittelyssä",
+  "aff_report_payment_pending": "Odottavat palkkiot yhteensä",
+  "aff_report_payment_available": "Saatavilla olevat palkkiot yhteensä",
+  "aff_report_payment_status_waiting": "Käsittely",
+  "aff_report_payment_status_pending": "Odottaa",
+  "aff_report_payment_status_available": "Saatavilla",
+  "aff_report_payment_status_cancel": "Peruutettu",
+  "aff_report_payment_status": "Tila",
+  "aff_report_description_click": "Tilastokaavio kumppanilinkin napsautuksista, saatujen tilausten kokonaismäärästä ja tuloista",
+  "aff_report_description_customer": "Tilastollinen kaavio asiakastiedoista",
+  "aff_report_description_commission": "Palkkioiden tilastollinen kaavio",
+  "aff_link": "Linkki:",
+  "aff_link_copied": "Linkki kopioitu",
+  "aff_link_path": "Affiliate linkki",
+  "aff_link_paste_here": "Liitä linkkisi tähän",
+  "aff_flight_commission_itinerary": "Reittisuunnitelma",
+  "aff_flight_commission_itinerary_domestic": "Kotimainen",
+  "aff_flight_commission_itinerary_international": "Kansainvälinen",
+  "aff_flight_commission_itinerary_unknown": "Tuntematon matkareitti",
+  "aff_flight_commission_seat_class": "Istuinluokka",
+  "aff_flight_commission_seat_class_plus": "Plus",
+  "aff_flight_commission_seat_class_business": "Liiketoimintaa",
+  "aff_flight_commission_seat_class_unknown": "Tuntematon istuinluokka",
+  "aff_flight_ticket": "Lentolippu",
+  "aff_flight_all_airlines": "Kaikki lentoyhtiöt",
+  "aff_tooltip_flight_domestic": "Lennot, joiden kohteet ja lähdöt ovat Vietnamin alueella",
+  "aff_tooltip_seller": "Voit käyttää tätä koodia liittääksesi jokaisen tytäryhtiömarkkinointilinkin loppuun. Hahalolo todistaa, että se on sinun linkkisi, ja palkitsee palkkiot, kun kyseisestä linkistä syntyy voimassa olevia tilauksia.",
+  "aff_commission": "komissio",
+  "aff_commission_by_country": "Hotellipalkkiot maittain",
+  "aff_commission_flight_list": "Hotellipalkkiot maittain",
+  "aff_commission_max": "Korkein komissio:",
+  "aff_commission_of_product": "{order}:n palkkiot",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "Tilauskoodi",
+  "aff_order_total": "Tilaukset yhteensä",
+  "aff_order_tooltip_click": "Kuinka monta kertaa käyttäjät napsauttavat affiliate-linkkiäsi.",
+  "aff_order_conversion_rate": "Muuntokurssi",
+  "aff_order_tooltip_conversion_rate": "Mitta, jolla voit analysoida tuotepromootiosi tehokkuutta.",
+  "aff_order_product_total": "Tuotteita yhteensä",
+  "aff_order_click_total": "Klikkaukset yhteensä",
+  "aff_order_earnings_total": "Kokonaistulot",
+  "aff_order_id_unknown": "Tuntematon tilauskoodi",
+  "aff_order_added": "lisätty maksutilille",
+  "aff_order_type_waiting": "Käsittely",
+  "aff_order_type_pending": "Odottaa",
+  "aff_order_type_available": "Saatavilla",
+  "aff_order_type_cancel": "Peruutettu",
+  "aff_ordered_total": "Kaikki tilatut tuotteet",
+  "aff_order_receive_commission": "Saadut palkkiot yhteensä",
+  "aff_verify_do_not_have_account": "SINULLA EI\n OLE VIELÄ MAKSUTILIÄ",
+  "aff_guild": "Ohjeet",
+  "aff_seller_code": "Myyjäkoodi: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Myyjän koodi",
+  "aff_view_detail": "Tarkemmat tiedot",
+  "aff_notification_turn_off_link_1": "Affiliate-markkinointiominaisuus\n",
+  "aff_notification_turn_off_link_2": "on poistettu käytöstä, mikä tarkoittaa, että jakamasi kumppanilinkit ovat virheellisiä!",
+  "aff_notification_turn_on_link_success": "Kumppanimarkkinointiominaisuus tuotteelle {type} on otettu käyttöön onnistuneesti",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "Lentopalkkiot",
+  "aff_commission_list_hotel": "Hotellipalkkiot maittain",
+  "aff_tooltip_menu": "Avaa valikko",
+  "aff_tooltip_dash_board": "Nopea pääsy kojelautaan",
+  "aff_tooltip_guild": "Pudota alas saadaksesi ohjeita",
+  "aff_action_done": "Tehty",
+  "aff_check_user_failed": "Käyttäjää ei voi tarkistaa. Yritä uudelleen myöhemmin.",
+  "aff_something_went_wrong": "Jotain meni pieleen.",
+  "aff_page_not_found": "Sivua ei löydetty.",
+  "aff_and": "ja",
+  "aff_month_summary": "Yhteenveto tälle kuukaudelle",
+  "aff_see_more": "Katso lisää",
+  "aff_try_again": "Yritä uudelleen",
+  "aff_error_try_again": "Tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "aff_tooltip_flight_international": "Lennot, jotka lähtevät tai saapuvat Vietnamin alueen ulkopuolelle.",
+  "aff_area_code": "Puhelinkoodi",
+  "aff_phone_number": "Puhelinnumero",
+  "aff_validate_sms_required": "Anna vahvistuskoodi",
+  "aff_validate_sms_min_length": "Anna koko vahvistuskoodi",
+  "aff_welcome": "Tervetuloa",
+  "aff_verify_update": "Päivitä maksutili",
+  "aff_verify_create_account": "Luo maksutili",
+  "aff_verify_invalid_wallet": "Päivitä maksutili",
+  "aff_verify_do_not_have_account_subtitle": "Luo maksutili käyttääksesi Hahalolo-myyntitoimintoa!",
+  "aff_verify_invalid_wallet_subtitle": "Päivitä puhelinnumerosi maksutililläsi, jotta voit jatkaa Hahalolo-palveluiden käyttöä",
+  "aff_guild_1": "Voit nyt ottaa kumppanimarkkinointiominaisuuden nopeasti käyttöön napsauttamalla",
+  "aff_guild_2": "Hotelli/lento-osiossa",
+  "aff_guild_3": "Kun olet ottanut affiliate-markkinoinnin käyttöön, voit mainostaa tuotteitasi seuraavilla tavoilla:",
+  "aff_guild_4": "Hahalolo in oletusarvoisesti asettama linkki",
+  "aff_guild_5": "Kaikki linkit, jotka liittyvät siihen osioon, jonka kumppanimarkkinointi on käytössä, edellyttäen, että myyjäkoodisi on liitetty vastaavaan tuotteen linkkiin.",
+  "aff_seller": "Myyjä",
+  "aff_menu": "Kategoria",
+  "aff_dash_chart_title": "Tilastokaavio tämän kuukauden tuloistasi ja napsautuksistasi",
+  "aff_dash_click": "Napsautukset",
+  "aff_dash_commission": "Tulot",
+  "aff_flight_commission_detail_customer_way": "/ matkustaja / segmentti",
+  "aff_flight_commission_detail_order_total": "/ tilaukset yhteensä",
+  "aff_performance_chart_title": "Tilastokaavio kumppanilinkin napsautuksista, saatujen tilausten kokonaismäärästä ja tuloista",
+  "aff_customer_chart_title": "Tilastollinen kaavio asiakastiedoista",
+  "aff_payment_chart_title": "Tilastollinen palkkiokaavio",
+  "aff_action_exit": "Poistu",
+  "aff_action_update": "päivittää",
+  "aff_action_create": "luoda",
+  "aff_dialog_check_invalid_user": "Ole hyvä ja {action} maksutilisi, jotta voit käyttää tytäryhtiömarkkinointipalveluita Hahalolossa",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Päivämäärä",
+  "aff_action_register": "rekisteröidy",
+  "aff_otp_time_left": "{number} kertaa jäljellä",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "LUO MAKSUTILI",
+  "wallet_create_payment_subtitle": "Maksutilin perustaminen määritellään ensisijaiseksi maksutiliksi, mukaan lukien rahan vastaanottaminen, nosto ja maksaminen sen määrittämisen jälkeen.",
+  "wallet_verify_otp_title": "Syötä vahvistuskoodi",
+  "wallet_verify_otp_subtitle": "Olemme lähettäneet vahvistuskoodin numeroon {phone}. \nSuorita tämä vaihe antamalla saamasi koodi.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Maksutili",
+  "wallet_start_subtitle": "Hahalolo-maksutili on Hahalolo-maksuratkaisu, joka auttaa sinua saamaan mielenkiintoisia ja mukavia kokemuksia kanssamme.",
+  "wallet_label_choose_business": "Valitse yritys",
+  "wallet_label_account_name": "Tilin nimi",
+  "wallet_label_email": "Sähköposti",
+  "wallet_label_phone": "Puhelinnumero",
+  "wallet_label_choose_currency": "Valitse valuutta",
+  "wallet_label_payment_country": "Maksun maa",
+  "wallet_label_payment_method": "Maksutapa",
+  "wallet_label_card_holder_name": "Kortinhaltijan nimi (ilman sävyjälkiä)",
+  "wallet_label_card_bank_name": "pankin nimi",
+  "wallet_label_card_swift_code": "SWIFT-koodi",
+  "wallet_label_bank_account_number": "pankkitilin numero",
+  "wallet_label_account_type": "Tilin tyyppi",
+  "wallet_label_tax_code": "Verokoodi",
+  "wallet_label_tax_type": "Verotyyppi",
+  "wallet_label_address": "Osoite",
+  "wallet_label_address_2": "Osoite 2 (valinnainen)",
+  "wallet_label_country": "Maa",
+  "wallet_label_city": "Maakunta/Kaupunki",
+  "wallet_label_district": "Kaupunginosa",
+  "wallet_label_first_name": "Sukunimi",
+  "wallet_label_last_name": "Etunimi",
+  "wallet_label_middle_name": "Toinen nimi (valinnainen)",
+  "wallet_label_postal_code": "Postinumero",
+  "wallet_label_city_more_description": "Osavaltio/Maakunta/Alue",
+  "wallet_label_postal_code_more_description": "Zip/Postinumero",
+  "wallet_label_district_more_description": "Suurkaupunki/Kaupunki",
+  "wallet_label_birthday_18_years_old": "Syntymäaika (vähintään 18-vuotias)",
+  "wallet_label_date_of_birth": "Syntymäaika",
+  "wallet_label_enter_password": "Syötä salasanasi",
+  "wallet_label_password": "Salasana",
+  "wallet_label_enter_pin": "Anna PIN-koodi",
+  "wallet_label_re_enter_new_pin": "Syötä uusi PIN-koodi uudelleen",
+  "wallet_label_enter_new_pin": "Anna uusi PIN-koodi",
+  "wallet_label_enter_current_pin": "Anna vanha PIN-koodi",
+  "wallet_validate_pin_required": "Anna PIN-koodisi",
+  "wallet_validate_otp_required": "Anna vahvistuskoodi",
+  "wallet_validate_current_pin_required": "Anna vanha PIN-koodisi",
+  "wallet_validate_new_pin_required": "Anna uusi PIN-koodisi.",
+  "wallet_validate_re_enter_new_pin_required": "Anna uusi PIN-koodisi uudelleen.",
+  "wallet_validate_re_enter_new_pin_not_match": "Vahvistus-PIN-koodi ei täsmää",
+  "wallet_action_detail": "Yksityiskohdat",
+  "wallet_text_pick_date": "Valitse päivämäärä",
+  "wallet_text_email_address": "Sähköpostiosoite",
+  "wallet_text_message_to": "Lähetä viesti osoitteeseen",
+  "wallet_text_recovery_method": "Palautusmenetelmä",
+  "wallet_text_recovery_choose_method": "Valitse, miten saat palautuskoodin",
+  "wallet_text_change_pin": "Vaihda PIN-koodisi",
+  "wallet_text_forgot_pin": "Unohditko PIN-koodin?",
+  "wallet_text_show_pin": "Näytä PIN-koodi",
+  "wallet_text_please_try_again_in": "Yritä uudelleen myöhemmin:",
+  "wallet_text_remove_account": "Poista maksutili",
+  "wallet_text_ineligible_payment": "Ei oikeutettu tapahtumaan",
+  "wallet_text_ineligible_payment_description": "Et voi suorittaa mitään tapahtumia järjestelmästä ennen kuin järjestelmänvalvojamme hyväksyy maksutilisi tiedot. Päivitä maksutilisi tiedot.",
+  "wallet_text_address_2": "Osoite 2",
+  "wallet_text_new_account": "Luo maksutili",
+  "wallet_text_payout_account_detail": "Maksutilin tiedot",
+  "wallet_text_middle_name": "Toinen nimi",
+  "wallet_text_account_owner": "Tilin haltija",
+  "wallet_text_tax_form": "Verolomake",
+  "wallet_text_tax_form_subtitle": "Antamiesi tietojen perusteella sinun ei tarvitse ladata muita verolomakkeita. Napsauta Jatka jatkaaksesi seuraavaan vaiheeseen.",
+  "wallet_text_card_holder_name": "Kortinhaltijan nimi",
+  "wallet_text_otp_code_expire_in": "Koodi vanhenee:",
+  "wallet_text_account_information": "Tilitiedot",
+  "wallet_text_welcome": "Hei!",
+  "wallet_text_payment_information": "Maksutiedot",
+  "wallet_text_policies_confirm": "Hyväksyn {termsAndPolicies}",
+  "wallet_terms_and_policies": "Hahalolo ehdot ja käytännöt.",
+  "wallet_text_default": "Oletus",
+  "wallet_text_code_vie_sms": "Lähetä koodi tekstiviestillä",
+  "wallet_text_pin_code_recovery_description": "Vahvista sähköpostiosoitteesi avulla, jos unohdat PIN-koodisi.",
+  "wallet_text_sms_recovery_description": "Käytä puhelinnumeroasi vahvistaaksesi, jos unohdat PIN-koodisi.",
+  "wallet_text_authority": "Hyväksyn, että Hahalolo käyttää annettuja tilitietojani rahansiirron jatkamiseen.",
+  "wallet_text_district_three_dot": "Kaupunginosa...",
+  "wallet_text_set_up_pin": "Määritä PIN-koodi",
+  "wallet_text_established": "(Perusti)",
+  "wallet_text_not_have_pin_yet_title": "Sinulla ei ole PIN-koodia",
+  "wallet_text_not_have_pin_yet_subtitle": "Luo PIN-koodi käyttääksesi tätä toimintoa",
+  "wallet_text_security_pin_code_description": "Hahalolo-maksutilin PIN-koodi vaaditaan tilisi ja taloustietojesi suojaamiseksi. Lisäksi sinun ei tarvitse syöttää korttitietoja uudelleen kirjautuessasi sisään.",
+  "wallet_text_check_password_locked": "Salasanan tarkistustoiminto on tilapäisesti lukittu. Yritä uudelleen myöhemmin.",
+  "wallet_text_enter_password_description": "Sinun on annettava Hahalolo-tilisi salasana vahvistaaksesi muutoksen.",
+  "wallet_text_enter_sms_code": "Syötä vahvistuskoodi",
+  "wallet_text_send_sms_description_1": "Olemme lähettäneet vahvistuskoodin osoitteeseen",
+  "wallet_text_send_sms_description_2": "\nSuorita tämä vaihe antamalla saamasi koodi.",
+  "wallet_text_resend": "Uudelleen lähettää",
+  "wallet_text_no_data": "Tietoja ei ole tällä hetkellä saatavilla!",
+  "wallet_text_bank_transfer": "pankkisiirto",
+  "wallet_text_tax_ptin": "Valmistelijan veronmaksajan tunnusnumero",
+  "wallet_text_tax_atin": "Adoption verovelvollisen tunnusnumero",
+  "wallet_text_tax_ssn": "Sosiaaliturvatunnus",
+  "wallet_text_account_personal": "Henkilökohtainen tili",
+  "wallet_text_account_business": "Yritystili",
+  "wallet_text_country_code_and": "maakoodi ja",
+  "wallet_text_resend_time": "Lähetä uudelleen {time}",
+  "wallet_text_change_your": "Vaihda {text}",
+  "wallet_start_person_button": "{action} henkilökohtainen maksutili",
+  "wallet_start_business_button": "{action} yrityksen maksutili",
+  "wallet_text_recovery_subtitle_1": "Nykyinen {text} on\n{value}",
+  "wallet_text_recovery_subtitle_2": "Kirjoita uusi {extra_text}{text}",
+  "wallet_text_enter_new": "Anna uusi {title}",
+  "wallet_text_new": "uusi {title}",
+  "wallet_succ_setup_pin": "PIN-koodin määritys onnistui.",
+  "wallet_succ_setup_pin_content": "PIN-koodin määrittäminen onnistui.",
+  "wallet_succ_change_pin": "PIN-koodin vaihto onnistui",
+  "wallet_succ_change_pin_content": "Olet vaihtanut PIN-koodisi onnistuneesti",
+  "wallet_succ_change_information": "Tiedot on päivitetty ja vahvistettu onnistuneesti",
+  "wallet_war_remove_payout_account": "Haluatko varmasti poistaa tämän tilin pysyvästi?",
+  "wallet_war_create_payment_title": "Luo maksutili",
+  "wallet_war_create_payment_subtitle": "Luo yritystili ennen maksutilin luomista.",
+  "wallet_war_unsaved_information": "Muokkaamiasi tietoja ei ehkä tallenneta. Haluatko poistua?",
+  "wallet_err_recovery": "Palautus epäonnistui. Yritä uudelleen myöhemmin.",
+  "wallet_err_recovery_no_user_data": "Palautus epäonnistui. Käyttäjätietoja ei löytynyt.",
+  "wallet_err_recovery_phone_exists": "Palautus epäonnistui. Tämä puhelinnumero on jo olemassa.",
+  "wallet_err_recovery_phone_invalid": "Palautus epäonnistui. Puhelinnumero on virheellinen.",
+  "wallet_err_recovery_password_invalid": "Palautus epäonnistui. Salasanasi on väärä.",
+  "wallet_err_pin_existed": "PIN-koodi on jo olemassa.",
+  "wallet_err_pin_wallet_not_exist": "Maksutiliä ei ole olemassa",
+  "wallet_err_pin_incorrect_or_exists": "PIN-koodi on väärä tai sitä ei ole olemassa",
+  "wallet_err_pin_try_again": "PIN-koodin asetus epäonnistui. Yritä uudelleen myöhemmin.",
+  "wallet_err_set_payout_default": "Oletusmaksutilin valitseminen epäonnistui. Yritä uudelleen myöhemmin!",
+  "wallet_err_occurred_try_again": "Tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "wallet_err_send_verify_title": "Vahvistuskoodin lähettäminen epäonnistui",
+  "wallet_err_try_again": "Tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "wallet_err_create_payout_title": "Maksutilin luominen epäonnistui. Yritä uudelleen myöhemmin.",
+  "wallet_err_fetch_data_failed": "Tietojen lataaminen epäonnistui. Yritä uudelleen myöhemmin!",
+  "wallet_err_occurred_processing": "Käsittelyn aikana tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "wallet_err_remove_payout": "Tilin poistaminen epäonnistui. Yritä uudelleen myöhemmin.",
+  "wallet_err_change_pin": "PIN-koodin vaihtaminen epäonnistui",
+  "wallet_err_setup_pin": "PIN-koodin asettaminen epäonnistui",
+  "wallet_err_sms_code_expired": "Vahvistuskoodi on vanhentunut. Yritä uudelleen.",
+  "wallet_err_sms_code_incorrect": "Vahvistuskoodi on virheellinen. Yritä uudelleen.",
+  "wallet_create_payout_title": "Luo maksutili",
+  "wallet_action_continue": "Jatkaa",
+  "wallet_action_create": "Luoda",
+  "wallet_action_update": "Päivittää",
+  "wallet_action_ok": "Olla samaa mieltä",
+  "wallet_action_complete": "Saattaa loppuun",
+  "wallet_action_next": "Jatkaa",
+  "wallet_action_try_back": "Mene takaisin",
+  "wallet_action_try_again": "Yritä uudelleen",
+  "wallet_action_accept": "Hyväksyä",
+  "wallet_action_remove": "Poistaa",
+  "wallet_action_change": "Muuttaa",
+  "wallet_action_setup": "Perustaa",
+  "wallet_action_confirm": "Vahvistaa",
+  "wallet_action_cancel": "Peruuttaa",
+  "wallet_action_close": "kiinni",
+  "wallet_overview": "Yleiskatsaus",
+  "wallet_notification": "Ilmoitukset",
+  "wallet_transaction_history": "Tapahtumahistoria",
+  "wallet_transfer_point": "Siirtopisteet",
+  "wallet_payout_accounts": "Maksutili",
+  "wallet_security": "Turvallisuus",
+  "wallet_recovery_methods": "Palautusmenetelmä",
+  "wallet_help_center": "Ohjekeskus",
+  "wallet_view_profile": "Näytä tiedot",
+  "wallet_info_title": "Maksutilin tiedot",
+  "wallet_edit_identity_card": "ID kortti",
+  "wallet_edit_id_card": "ID kortti",
+  "wallet_edit_passport": "Passi",
+  "wallet_edit_verify_status": "Tila",
+  "wallet_edit_not_verify": "Vahvistamaton",
+  "wallet_edit_verified": "Vahvistettu",
+  "wallet_edit_verify_waiting": "Odottaa",
+  "wallet_edit_gender": "Sukupuoli",
+  "wallet_edit_male": "Uros",
+  "wallet_edit_female": "Nainen",
+  "wallet_edit_other": "muu",
+  "wallet_owner_title": "Käyttäjän tiedot",
+  "wallet_edit_fullName": "Koko nimi",
+  "wallet_edit_email": "Sähköposti",
+  "wallet_edit_phoneNumber": "Puhelinnumero",
+  "wallet_edit_dateOfBirth": "Syntymäaika",
+  "wallet_edit_dateOfBirth_13_yo": "Syntymäaika (vähintään 13-vuotias)",
+  "wallet_edit_address": "Osoite",
+  "wallet_edit_country": "Maa",
+  "wallet_edit_idType": "Tunnistustyyppi",
+  "wallet_edit_id_passport": "ID numero/Passi",
+  "wallet_edit_country_issue": "Myöntämismaa",
+  "wallet_edit_id_document": "Kuvia ID-kortista/Passi",
+  "wallet_edit_front": "Etupuoli",
+  "wallet_edit_back": "Takapuoli",
+  "wallet_edit_activate_date": "Voimaantulopäivä",
+  "wallet_edit_expiration_date": "Päättymispäivä",
+  "wallet_waiting_balance": "Odottava saldo",
+  "wallet_pending_balance": "Tasapaino prosessissa",
+  "wallet_available_balance": "Käytettävissä oleva saldo",
+  "wallet_frozen_balance": "Jäätynyt tasapaino",
+  "wallet_top10_trans": "10 viimeisintä tapahtumaa",
+  "wallet_source_withdrawal": "Nosto",
+  "wallet_source_grad": "Grad",
+  "wallet_source_income": "Rahat sisään",
+  "wallet_source_outcome": "Rahat pois",
+  "wallet_source_point": "Pisteet",
+  "wallet_source_aff_commission": "Affiliate - komissio",
+  "wallet_source_aff_reward": "Affiliate - Palkinto-ohjelma",
+  "wallet_source_recharge": "Täytä",
+  "wallet_source_order": "Tilaus",
+  "wallet_status_waiting": "Odottaa",
+  "wallet_status_pending": "Odottaa hyväksyntää",
+  "wallet_status_available": "Saatavilla",
+  "wallet_status_frozen": "Jäätynyt",
+  "wallet_status_cancel": "Peruutettu",
+  "wallet_status_success": "Onnistunut",
+  "wallet_status_error": "Epäonnistui",
+  "wallet_status_outcome": "Rahat pois",
+  "wallet_status_transfer": "Siirtopisteet",
+  "wallet_action_receive": "Vastaanota pisteitä",
+  "wallet_action_donate": "Anna pisteitä",
+  "wallet_action_buy_point": "Osta pisteitä",
+  "wallet_action_payment": "Maksu",
+  "wallet_filter_all": "Kaikki",
+  "wallet_filter_allTime": "Kaikki",
+  "wallet_filter_today": "Tänään",
+  "wallet_filter_yesterday": "Eilen",
+  "wallet_filter_7days": "Viimeiset 7 päivää",
+  "wallet_filter_30days": "Viimeiset 30 päivää",
+  "wallet_filter_custom_date": "Valinnainen päivämäärä",
+  "wallet_filter_status": "Tila",
+  "wallet_filter_time": "Aika",
+  "wallet_filter_action": "Toiminta",
+  "wallet_validate_this_field": "Tämä kenttä",
+  "wallet_validate_required": "{fieldName} on pakollinen",
+  "wallet_validate_invalid_email": "Virheellinen sähköpostiosoite",
+  "wallet_validate_invalid_phone_number": "Väärä puhelinnumero",
+  "wallet_validate_invalid_number": "Väärä numero",
+  "wallet_validate_limit_length": "{fieldName} on vähintään {minLength} merkkiä",
+  "wallet_validate_not_contain_number": "{fieldName} ei saa sisältää numeerisia merkkejä",
+  "wallet_validate_not_contain_special_char": "{fieldName} ei saa sisältää erikoismerkkejä",
+  "wallet_validate_invalid_swift_code_length": "Swift-koodi koostuu vain 8-11 merkistä",
+  "wallet_validate_invalid_swift_code": "Virheellinen swift-koodi",
+  "wallet_no_transaction": "Ei liiketoimia!",
+  "wallet_no_image": "Ei kuvia vielä",
+  "wallet_edit_quit_msg": "Muokkaamiasi tietoja ei ehkä tallenneta. Haluatko poistua?",
+  "wallet_point_total": "Kaikki yhteensä:",
+  "wallet_payment_methods": "Maksutapa",
+  "wallet_payment_methods_note": "(Huomaa: '{HAHALOLO}' tukee käyttäjiä, joilla on '{MIỄN PHÍ}' pankkikulut)",
+  "wallet_num_of_points": "Pisteiden määrä",
+  "wallet_points": "{number} pistettä",
+  "wallet_1point": "1 piste",
+  "wallet_msg_enter_number_of_points": "Anna ostettavien pisteiden määrä",
+  "wallet_msg_pin_not_correct": "PIN-koodi on väärä tai sitä ei ole olemassa",
+  "wallet_msg_balance_not_enough": "Riittämätön tasapaino",
+  "wallet_msg_error_while_buy_point": "Pisteitä ostettaessa tapahtui virhe",
+  "wallet_msg_fetch_error": "Tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "wallet_msg_buy_point_success": "Olet ostanut pisteitä onnistuneesti",
+  "wallet_withdrawal_req": "Nostopyyntö:",
+  "wallet_withdrawal_payment_acc_id": "Maksutilin ID:",
+  "wallet_withdrawal_balance": "Käytettävissä oleva saldo:",
+  "wallet_withdrawal_payout_acc": "maksutili",
+  "wallet_withdrawal_amount": "Summa ({currency})",
+  "wallet_label_desc": "Kuvaus",
+  "wallet_btn_save": "Tallentaa",
+  "wallet_btn_edit_owner": "Muokata",
+  "wallet_btn_buy": "Ostaa",
+  "wallet_btn_reset": "Syötä uudelleen",
+  "wallet_insufficient_available_balances": "Ei riittävästi käytettävissä olevaa saldoa",
+  "wallet_msg_complete_info": "Täytä tiedot",
+  "wallet_msg_success": "Olet peruuttanut onnistuneesti",
+  "wallet_msg_wal_not_exist": "Maksutiliä ei ole olemassa",
+  "wallet_msg_wal_blocked": "Maksutili estetty",
+  "wallet_msg_acc_incorrect": "Väärä maksutili",
+  "wallet_msg_total_not_available": "Pyydettyä kokonaismäärää ei ole saatavilla",
+  "wallet_msg_pin_locked": "Maksutilin PIN-koodi on lukittu",
+  "wallet_msg_withdrawal_failed": "Kotiuttaminen epäonnistui. Yritä uudelleen myöhemmin.",
+  "wallet_msg_fill_in_all_info": "Täytä tiedot",
+  "wallet_update_info_success": "Olet onnistuneesti päivittänyt tiedot",
+  "wallet_update_info_fail": "Tietojen päivittäminen epäonnistui",
+  "wallet_no_notifications": "Sinulla ei ole ilmoituksia",
+  "wallet_buy_point_payment_method_note": "(Huomaa: '{hahalo}' tukee käyttäjiä '{free}' pankkikuluilla)",
+  "wallet_note_free": "VAPAA",
+  "wallet_buy_point_policy": "Hyväksyn {condition} ja {privacy}",
+  "wallet_term_conditions": "Käyttöehdot",
+  "wallet_privacy": "Yksityisyys",
+  "wallet_msg_receiving_account_not_exist": "Vastaanottajan maksutiliä ei ole olemassa",
+  "wallet_msg_search_account_error": "Maksutiliä haettaessa tapahtui virhe",
+  "wallet_msg_sending_account_not_exist": "Lähettäjän maksutiliä ei ole olemassa",
+  "wallet_msg_point_balance_not_enough": "Maksutilin pistesaldo ei riitä",
+  "wallet_msg_cannot_give_to_itself": "Et voi siirtää pisteitä itsellesi",
+  "wallet_msg_cannot_give_to_business": "Vastaanottajan maksutili ei voi olla yritystili",
+  "wallet_msg_transfer_point_err": "Pisteitä siirrettäessä tapahtui virhe",
+  "wallet_msg_transfer_point_success": "Pisteiden siirto onnistui",
+  "wallet_recipient_info": "Vastaanottajan tiedot",
+  "wallet_recipient_id": "ID",
+  "wallet_number_of_point": "Pisteiden määrä",
+  "wallet_not_verified": "Vahvistamaton maksutili",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} tunti {minute} minuutti",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 pysäkki} other{{countStop} pysähdys}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Siirtoaika noin {time} sisään {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "Aikuiset (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Lapset (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Vauva (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} aikuinen} other{{count} aikuiset}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} lapsi} other{, {count} lapset}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} vauva} other{, {count} vauvat}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Siirtoaika noin {times} sisään {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KILOGRAMM} other{{countBag} KILOGRAMS}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "Yksisuuntainen lento",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Lähtevä lento",
+  "flight_fare_rule_title_type_flight_round_trip_to": "Paluulento",
+  "flight_fare_rule_title_fare_conditions": "Hintaehdot",
+  "flight_fare_rule_title_departure_flight": "Lento",
+  "flight_fare_rule_title_segment": "Segmentti",
+  "flight_fare_rule_notice_empty_fare_rule": "Lentoyhtiön hintaehtoja ei löytynyt",
+  "flight_filter_by_title_filter": "Suodattaa",
+  "flight_filter_by_content_btn_filter": "Suodattaa",
+  "flight_filter_by_title_airline": "Lentoyhtiö",
+  "flight_filter_by_title_flight_times": "Lentoaika",
+  "flight_filter_by_title_type_flight_times_early_morning": "Varhain aamulla \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Aamu \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Iltapäivä \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Ilta \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Pysähdysten määrä",
+  "flight_filter_by_title_select_all": "Valitse kaikki",
+  "flight_filter_by_title_unselect_all": "Poista kaikki valinnat",
+  "flight_filter_by_title_type_segment_all": "Kaikki",
+  "flight_filter_by_title_type_segment_direct": "Suora lento",
+  "flight_filter_by_title_type_segment_transit": "Transit",
+  "flight_sort_by_title_sort_by": "Lajitella jonkun mukaan",
+  "flight_sort_by_title_sort_by_ascending_price": "Nouseva hinta",
+  "flight_sort_by_title_sort_by_descending_price": "Laskeva hinta",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "Aikaisin lähtöaika",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "Aikaisin saapumisaika",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "Viimeisin saapumisaika",
+  "flight_search_result_title_count_adult": "aikuinen",
+  "flight_search_result_title_count_child": "lapsi",
+  "flight_search_result_title_count_baby": "vauva",
+  "flight_search_result_title_segment": "lopettaa",
+  "flight_search_result_title_hours": "tuntia",
+  "flight_search_result_title_minutes": "pöytäkirja",
+  "flight_search_result_title_view_detail_price": "Tarkemmat tiedot",
+  "flight_search_result_title_hide_detail_price": "Piilota tiedot",
+  "flight_search_result_title_view_detail": "Yksityiskohdat",
+  "flight_search_result_title_btn_book_ticket": "Kirja",
+  "flight_search_result_title_basic_price_ticket": "Hinta per lippu",
+  "flight_search_result_title_taxes_and_fee": "Verot ja maksut",
+  "flight_search_result_title_total_amount": "Kokonaismäärä",
+  "flight_search_result_title_total": "Kaikki yhteensä",
+  "flight_search_result_title_fare_details": "Hintatiedot",
+  "flight_search_result_title_quantity": "Määrä",
+  "flight_search_result_title_passenger": "Matkustaja",
+  "flight_search_result_title_one_way_flight": "Yksisuuntainen lento",
+  "flight_search_result_title_round_trip_flight": "Meno-paluu lento",
+  "flight_change_search_title_btn_agree": "Olla samaa mieltä",
+  "flight_change_search_title_btn_cancel": "Peruuttaa",
+  "flight_change_search_title_header_dialog": "Muuta hakua",
+  "flight_change_search_title_body_dialog": "Haluatko varmasti muuttaa hakutietojasi?",
+  "flight_change_search_title_footer_dialog": "Jos suostut muuttamaan hakutietojasi, kaikki aiemmat tiedot poistetaan.",
+  "flight_search_result_detail_title_flight_details": "Lentotiedot",
+  "flight_search_result_detail_title_checked_baggage": "Tarkistettu laukku",
+  "flight_search_result_detail_title_aircraft": "Ilma-alus",
+  "flight_search_result_detail_title_seat_class": "Istuinluokka",
+  "flight_search_result_detail_title_class_seat_type_all": "Kaikki",
+  "flight_search_result_detail_title_class_seat_type_economy": "Talous",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Ensimmäinen",
+  "flight_search_result_detail_title_class_seat_type_business": "Liiketoimintaa",
+  "flight_search_result_detail_content_note_transit_body": "Huomautus: Matkustajia voidaan vaatia tulliselvityksen ja kauttakulkuviisumin toimittamista vastaanottavan maan pyynnöstä.",
+  "flight_transit_alter_note": "Huomautus: Matkustajia voidaan vaatia tulliselvityksen ja kauttakulkuviisumin toimittamista vastaanottavan maan pyynnöstä.",
+  "flight_luggage": "Matkatavarat",
+  "flight_signed_luggage": "Tarkistettu laukku",
+  "flight_service_package": "Palvelupaketit",
+  "flight_run_by": "Liikennöi",
+  "flight_result_notice_no_flight_found": "Lentoja ei löytynyt!",
+  "flight_result_notice_no_flight_found_filter": "Valitettavasti ehtojasi vastaavia lentoja ei ole",
+  "flight_result_notice_check_internet_again": "Yhteytesi katkesi. Tarkista yhteys uudelleen",
+  "flight_result_notice_error_authentication": "Kirjautumisistuntosi on vanhentunut. Kirjaudu uudelleen sisään",
+  "flight_search_result_notice_booking_expired": "Varausaika on päättymässä",
+  "flight_search_result_notice_click_continue_to_proceed": "Napsauta \"Jatka\" jatkaaksesi varausta.",
+  "flight_search_result_btn_continue": "Jatkaa",
+  "flight_input_title_gender": "Sukupuoli",
+  "flight_input_title_gender_male": "Uros",
+  "flight_input_title_gender_female": "Nainen",
+  "flight_input_title_gender_other": "Muut",
+  "flight_search_price_info_bottom_sheet_tax_include": "Sisältää verot",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Maksu sisältää",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Järjestelmän ja järjestelmänvalvojan lisämaksu",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Turvatarkastusmaksu",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Kätevä maksulisä",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Lentokenttämaksu",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Aikuiset",
+  "flight_v2_model_booking_children": "Lapset",
+  "flight_v2_model_booking_infant": "Vauva",
+  "flight_v2_model_detail_infant": "(alle 2-vuotias)",
+  "flight_v2_model_detail_children": "(02-12-vuotiaille)",
+  "flight_v2_component_bonus_services_title_string": "Lisäpalvelut",
+  "flight_v2_component_bonus_service_header": "Lisäpalvelut",
+  "flight_v2_component_bonus_service_content_header_price": "Vakuutusmaksu",
+  "flight_v2_component_bonus_service_flight_table_header": "Vakuutusmaksu yhteensä",
+  "flight_v2_component_bonus_service_text1_introduce": "Johdanto",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Vakuutuksen tyyppi:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "Lentovakuutus",
+  "flight_v2_component_bonus_service_text1_supplier": "Palveluntarjoaja:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Insurance Joint Stock Company (Vietinbank Insurance)",
+  "flight_v2_component_bonus_service_text1_trusted": "Luotettavan matkavakuutuksemme avulla voit olla täysin varma matkustaessasi",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Vakuutuksen aihe",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Yksityishenkilöt käyttävät lentomatkustamiseen Hahalolo-järjestelmän lentolippujen varauspalvelua.",
+  "flight_v2_component_bonus_service_text1_age": "Ikä: 07 päivän iästä alkaen.",
+  "flight_v2_component_bonus_service_text1_range": "Laajuus",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Vakuutusturva sisältää seuraavat riskit:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Onnettomuuden aiheuttama kuolema tai ruumiinvamma.",
+  "flight_v2_component_bonus_service_text1_impediments": "Matkustusriskit, nimittäin matkan peruuntuminen/lyhentäminen, matkatavaroiden, vaatteiden ja Vakuutetun henkilökohtaisten tavaroiden katoaminen tai vahingoittuminen, lentoyhtiön lennon viivästyminen, matkatavaroiden viivästyminen, matkustusasiakirjojen katoaminen tai kaappaus.",
+  "flight_v2_component_bonus_service_text1_benefit": "Edut",
+  "flight_v2_component_bonus_service_text1_small_amount": "Käytä vain pieni määrä rahaa moninkertaiseen suojaukseen.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Henkilövakuutuksen edut:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Vakuutettu henkilö, joka kuolee onnettomuuteen tai vammaan vakuutuksen piiriin, saa täyden vakuutussumman 1 000 000 VND asti",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Riskimatkavakuutuksen edut:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Vakuutetulle henkilölle korvataan enintään 20 000 000 VND",
+  "flight_v2_component_bonus_service_text1_rules": "Ehdot",
+  "flight_v2_component_bonus_service_text1_more_information": "Katso tarkemmat tiedot liitteenä olevasta tiedostosta tai ota ystävällisesti yhteyttä",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Matkavakuutuksen säännöt",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Suostu osallistumaan lentovakuutukseen",
+  "flight_v2_component_booking_flight_information": "Lentotiedot",
+  "flight_v2_component_booking_show": "Lue lisää",
+  "flight_v2_component_booking_hide": "Piilottaa",
+  "flight_v2_component_booking_adult": "Aikuiset",
+  "flight_v2_component_booking_children": "Lapset",
+  "flight_v2_component_booking_infant": "Vauva",
+  "flight_v2_component_booking_baggage": "Matkatavarat",
+  "flight_v2_component_booking_main_content_service": "Palvelut",
+  "flight_v2_component_booking_taxes_fees": "Maksut ja verot",
+  "flight_v2_component_booking_title_booking_information": "Varaustiedot",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Lähtevä lento",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "Paluulento",
+  "flight_v2_component_confirm_title_flight_information": "Lentotiedot",
+  "flight_v2_component_confirm_text_done": "Tehty",
+  "flight_v2_component_detail_booking_information": "Varaustiedot",
+  "flight_v2_component_detail_flight_information": "Lentotiedot",
+  "flight_v2_component_detail_passenger_information": "Matkustajien tiedot",
+  "flight_v2_component_payment_booking_information": "Varaustiedot",
+  "flight_v2_component_payment_information": "Tiedot",
+  "flight_v2_component_payment_passenger_information": "Matkustajien tiedot",
+  "flight_v2_component_payment_making_flight_payment": "Maksat lentomaksun seuraavista matkustajista:",
+  "flight_v2_component_payment_payment_now": "Maksaa",
+  "flight_v2_component_result_title_flight_details": "Lentotiedot",
+  "flight_v2_component_result_title_fare_details": "Hintatiedot",
+  "flight_v2_component_result_type_direct_flight": "Suora lento",
+  "flight_v2_component_result_title_showMessDiaLog": "Ilmoitukset",
+  "flight_v2_component_result_message_selected_return": "Olet valinnut edestakaisen lennon",
+  "flight_v2_component_result_message_cancel_book": "Haluatko peruuttaa ja varata uuden lennon?",
+  "flight_v2_component_result_actionMessage_yes": "Joo",
+  "flight_v2_component_result_negativeMessage_no": "Ei",
+  "flight_v2_component_result_trip_turn_departure": "Lähtö",
+  "flight_v2_component_result_trip_turn_arrival": "Saapuminen",
+  "flight_v2_notify_day_invalid_cannot_choose": "Et voi valita",
+  "flight_v2_notify_day_invalid_because": "koska",
+  "flight_v2_notify_day_invalid_date_is": "On",
+  "flight_v2_component_result_actionMessage_btn": "Olla samaa mieltä",
+  "flight_v2_component_result_message": "Älä valitse päivämäärää ennen nykyistä päivämäärää",
+  "flight_v2_component_search_text_guest": "Matkustaja",
+  "flight_v2_component_search_button_save": "Tallentaa",
+  "flight_v2_component_search_text_choose_a_date": "Valitse päivämäärä",
+  "flight_v2_component_search_button_choose": "Valitse",
+  "flight_v2_widget_booking_total_price": "Kokonaishinta",
+  "flight_v2_widget_booking_continue": "Jatkaa",
+  "flight_v2_widget_booking_payer_information": "Maksajan tiedot",
+  "flight_v2_widget_booking_payer_use_contact_information": "Käytä yhteystietoja",
+  "flight_v2_widget_booking_save_payment": "Tallenna nämä maksutiedot seuraavaa kertaa varten",
+  "flight_v2_widget_booking_title_contact_information": "Yhteystiedot",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Käytä nykyisen tilin tietoja",
+  "flight_v2_widget_booking_title_checkbox_passenger": "Olen matkustaja",
+  "flight_v2_widget_booking_radio_gender": "Sukupuoli",
+  "flight_v2_widget_booking_radio_male": "Uros",
+  "flight_v2_widget_booking_radio_female": "Nainen",
+  "flight_v2_widget_booking_field_card_bank_card": "pankkikortti",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Tarkistettu laukku",
+  "flight_v2_widget_booking_title_passenger_information": "Matkustajien tiedot",
+  "flight_v2_widget_booking_information": "tiedot",
+  "flight_v2_widget_common_one_way": "Yksisuuntainen",
+  "flight_v2_widget_common_details": "Yksityiskohdat",
+  "flight_v2_widget_common_text_price": "Hinta",
+  "flight_v2_widget_common_text_fare_conditions": "Hintaehdot",
+  "flight_v2_widget_common_text_service_pack": "Palvelupaketit",
+  "flight_v2_widget_common_item_tax_inclusive": "Sisältää verot",
+  "flight_v2_widget_common_item_vat": "arvonlisävero",
+  "flight_v2_widget_common_item_fee_inclusive": "Maksu sisältää",
+  "flight_v2_widget_common_item_fee_surcharge": "Järjestelmän ja järjestelmänvalvojan lisämaksu",
+  "flight_v2_widget_common_item_fee_screening": "Turvatarkastuksen lisämaksu",
+  "flight_v2_widget_common_item_fee_convenient": "Kätevä maksulisä",
+  "flight_v2_widget_common_item_fee_airport": "Lentokenttämaksu",
+  "flight_v2_widget_common_text_price_per_ticket": "Perushinta",
+  "flight_v2_widget_common_text_taxes_fees": "Verot ja maksut",
+  "flight_v2_widget_common_service_service": "Palvelut",
+  "flight_v2_widget_common_text_total_amount": "Kokonaishinta",
+  "flight_v2_widget_common_button_continue": "Jatkaa",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Sisältää verot ja maksut)",
+  "flight_v2_widget_common_service_accommodation_service": "Majoituspalvelut",
+  "flight_v2_widget_common_text_direct_flight": "Suora lento",
+  "flight_v2_widget_confirm_description": "Sukupuoli",
+  "flight_v2_widget_confirm_description_full_name": "Koko nimi",
+  "flight_v2_widget_confirm_description_email": "Sähköposti",
+  "flight_v2_widget_confirm_description_phone_number": "Puhelinnumero",
+  "address": "Osoite",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Varaus onnistui",
+  "flight_v2_widget_confirm_text_reservation_request": "Varauspyyntösi on tehty onnistuneesti",
+  "flight_v2_widget_confirm_text_paid_already": "(Maksettu)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Voit tarkistaa matkasuunnitelman tiedot alta.",
+  "flight_v2_widget_confirm_title_payment_information": "Maksutiedot",
+  "flight_v2_widget_confirm_description_orders": "Tilaukset",
+  "flight_v2_widget_confirm_description_price": "Hinta",
+  "flight_v2_widget_confirm_description_payers": "Maksaja",
+  "flight_v2_widget_confirm_button_view_details": "Tarkemmat tiedot",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Varaa uusi",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Kiitos luottamuksestasi palveluamme kohtaan",
+  "flight_v2_widget_confirm_textspan_question_help": "Jos sinulla on kysyttävää tai tarvitset lisäapua, ota yhteyttä Hahaloloon ohjekeskukseen",
+  "flight_v2_widget_confirm_text_paid_instructions": "ohjeita varten.",
+  "flight_v2_widget_confirm_title_passenger_information": "Matkustajien tiedot",
+  "flight_v2_widget_confirm_title_flight_information": "Lentotiedot",
+  "flight_v2_widget_confirm_text_ticket_class": "Luokka",
+  "flight_v2_widget_confirm_text_booking_code": "Varausviite",
+  "flight_v2_widget_confirm_text_flight": "Lento",
+  "flight_v2_widget_confirm_description_name": "Nimi",
+  "flight_v2_widget_confirm_description_guest_type": "Matkustajatyyppi",
+  "flight_v2_widget_confirm_description_baggage": "Matkatavarat",
+  "flight_v2_widget_dialog_config_button_agree": "Olla samaa mieltä",
+  "flight_v2_widget_dialog_config_button_deny": "Ohita",
+  "flight_v2_widget_dialog_config_title": "Muuta tietoja",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Haluatko varmasti muuttaa hakutietojasi\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Jos suostut muuttamaan hakutietojasi, kaikki aiemmat tiedot poistetaan",
+  "flight_v2_widget_dialog_config_title_delete_account": "Poista tili",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Tili ei näy Valitse maksutili -osiossa. Haluatko poistaa tämän maksutilin? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Valitse toinen lentoaika",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Muuta hakua",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Lento ylitti sallitun ajan",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Valitsemasi lento on ylittänyt sallitun varausajan.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Ota yhteyttä",
+  "flight_v2_widget_dialog_config_text_span_by_number": "kautta",
+  "flight_v2_widget_dialog_config_text_span_hotline": "Hotline",
+  "flight_v2_widget_dialog_config_text_span_or": "tai",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "muuta uuden lennon hakuasi.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Valitse toinen lento",
+  "flight_v2_widget_dialog_config_title_not_available": "Lento ei ole\n saatavilla",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Valitettavasti valitsemasi lento ei ole enää saatavilla. Ole kiltti",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "valitse toinen lento tai muuta hakuasi.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Hinta muuttuu",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Hintasi on muuttunut",
+  "flight_v2_widget_dialog_config_text_span_to": "kohtaan",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nlentoyhtiön hintamuutosten vuoksi",
+  "flight_v2_widget_field_fname_required": "Sukunimi vaaditaan",
+  "flight_v2_widget_field_fname_invalid": "Virheellinen sukunimi",
+  "flight_v2_widget_field_fname_last_name": "Sukunimi (ilman sävyjälkiä)",
+  "flight_v2_widget_field_lname_required": "Keskimmäinen ja etunimi/etunimi vaaditaan",
+  "flight_v2_widget_field_lname_invalid": "Virheellinen keski- ja etunimi/etunimi",
+  "flight_v2_widget_field_lname_middle_first_name": "Keski- ja etunimi/etunimi (ilman sävyjälkiä)",
+  "flight_v2_widget_field_email_required": "Sähköposti vaaditaan",
+  "flight_v2_widget_field_email_invalid": "Virheellinen sähköpostiosoite",
+  "flight_v2_widget_field_email_email": "Sähköposti",
+  "flight_v2_widget_field_phone_required": "Puhelinnumero vaaditaan",
+  "flight_v2_widget_field_phone_invalid": "Väärä puhelinnumero",
+  "flight_v2_widget_field_phone_phone": "Puhelinnumero",
+  "flight_v2_widget_field_address_required": "Osoite vaaditaan",
+  "flight_v2_widget_field_address_invalid": "Väärä osoite",
+  "flight_v2_widget_field_address_address": "osoite ",
+  "flight_v2_widget_field_city_required": "Osavaltio/kaupunki vaaditaan",
+  "flight_v2_widget_field_city_invalid": "Virheellinen osavaltio/kaupunki",
+  "flight_v2_widget_field_city_city": "Osavaltion kaupunki",
+  "flight_v2_widget_field_city_snackbar_text": "Valitse kansallisuutesi ennen kaupungin valitsemista",
+  "flight_v2_widget_field_country_required": "Kansallisuus vaaditaan",
+  "flight_v2_widget_field_country_invalid": "Virheellinen kansalaisuus",
+  "flight_v2_widget_field_country_country": "Kansallisuus",
+  "flight_v2_widget_field_field_card_hint": "Jäsenkortin numero",
+  "flight_v2_widget_field_field_card_error_input": "Virheellinen kortti",
+  "flight_v2_widget_field_field_card_default_error": "Kortti vaaditaan",
+  "flight_v2_widget_field_field_date_hint": "Syntymäaika",
+  "flight_v2_widget_field_field_date_error_input": "Älä jätä sitä tyhjäksi",
+  "flight_v2_widget_field_field_date_default_error": "Älä jätä sitä tyhjäksi",
+  "flight_v2_widget_field_field_date_default_error_infant": "Vauvojen tulee olla alle 2-vuotiaita",
+  "flight_v2_widget_field_field_date_default_error_children": "Lasten tulee olla 2–12-vuotiaita",
+  "flight_v2_widget_payment_contact_information": "Yhteystiedot",
+  "flight_v2_widget_payment_full_name": "Koko nimi",
+  "flight_v2_widget_payment_gender": "Sukupuoli",
+  "flight_v2_widget_payment_phone_number": "Puhelinnumero",
+  "flight_v2_widget_payment_address": "Osoite",
+  "flight_v2_widget_payment_birthday": "Syntymäaika",
+  "flight_v2_widget_payment_male": "Uros",
+  "flight_v2_widget_payment_female": "Nainen",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Koko nimi:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Sukupuoli:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Syntymäaika:",
+  "flight_v2_widget_payment_checked_baggage": "Tarkistettu laukku",
+  "flight_v2_widget_payment_note": "Huomautus",
+  "flight_v2_widget_payment_information": "Tiedot",
+  "flight_v2_widget_payment_adult": "Aikuinen",
+  "flight_v2_widget_payment_children": "Lapsi",
+  "flight_v2_widget_payment_infant": "Vauva",
+  "flight_v2_widget_payment_title_adult_information": "Aikuisten tiedot",
+  "flight_v2_widget_payment_title_children_information": "Lapsen tiedot",
+  "flight_v2_widget_payment_title_infant_information": "Vauvan tiedot",
+  "flight_v2_widget_payment_customer_information": "Matkustajien tiedot",
+  "flight_v2_widget_payment_edit_information": "Muokkaa tietoja",
+  "flight_v2_widget_payment_bonus_services": "Lisäpalvelut",
+  "flight_v2_widget_payment_membership_card_number": "Jäsenkortin numero",
+  "flight_v2_widget_payment_text_loyal_customer": "Kanta-lentäjät",
+  "flight_v2_widget_payment_text_making_flight_payment": "Maksat lentomaksun seuraavista matkustajista:",
+  "flight_v2_widget_result_total_amount": "Kokonaishinta",
+  "flight_v2_widget_result_taxes_fees": "(Sisältää verot ja maksut)",
+  "flight_v2_widget_result_elevate_button_book": "Kirja",
+  "flight_v2_widget_result_text_flight": "Segmentti",
+  "flight_v2_widget_result_text_departure_flight": "Lähtevä lento",
+  "flight_v2_component_code_title": "Katso varaus",
+  "flight_v2_component_code_retype": "Syötä uudelleen",
+  "flight_v2_component_code_search_btn": "Katso ylös",
+  "flight_v2_component_code_error": "Varaustietoja ei löytynyt.\nTarkista ja yritä uudelleen.",
+  "flight_v2_widget_detail_text_booking_code": "Varausviite:",
+  "flight_v2_widget_detail_text_status": "Tila:",
+  "flight_v2_widget_detail_text_booked": "Varattu",
+  "flight_v2_widget_detail_text_cancelled": "Peruutettu",
+  "flight_v2_widget_detail_text_paid": "Maksettu",
+  "flight_v2_widget_detail_text_unpaid": "Palkaton",
+  "flight_showcase_domestic_round_trip_step1": "Kellonaika näytetään päivän halvimmalla hinnalla",
+  "flight_showcase_domestic_round_trip_step2": "Valitse lentoaika uudelleen pyyhkäisemällä molemmille puolille",
+  "flight_showcase_domestic_round_trip_step3": "Valitse lähtölentosi",
+  "flight_showcase_domestic_round_trip_step4": "Valitse paluulentosi",
+  "flight_showcase_domestic_round_trip_step5": "Voit valita uudelleen lähtö- ja paluulennot milloin tahansa",
+  "flight_showcase_domestic_round_trip_step6": "Sinun on valittava tarpeeksi lentoja ennen varauksen tekemistä",
+  "flight_showcase_inter_round_trip_step1": "Valitse itsellesi sopiva lentomatka",
+  "flight_showcase_inter_round_trip_step1_desc": "Lentomatka koostuu lähtö- ja paluulennosta",
+  "flight_showcase_place_from": "From",
+  "flight_showcase_place_to": "Vastaanottaja",
+  "flight_showcase_tutorial": "Opetusohjelma",
+  "flight_showcase_back": "Takaisin",
+  "flight_showcase_done": "Saattaa loppuun",
+  "flight_showcase_continue": "Seuraava",
+  "flight_v2_component_code_hint_text": "Syötä varausviite",
+  "flight_v2_component_booking_text_note_upon": "Kun",
+  "flight_v2_component_booking_text_payment_after": "MAKSA MYÖHEMMIN",
+  "flight_v2_component_booking_text_your_booking": ", varauksesi pidetään 12 tunnin sisällä. Se peruuntuu automaattisesti, jos et vieläkään suorita maksua säädetyssä ajassa. Suorita maksu varatun ajan kuluessa varausprosessin suorittamiseksi.",
+  "flight_v2_widget_result_text_return_flight": "Paluulento",
+  "flight_v2_dialog_default_payment_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen myöhemmin.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Ota yhteyttä Hahalolo asiakaspalveluun",
+  "flight_v2_dialog_default_payment_not_success": "Maksu epäonnistui",
+  "flight_v2_component_result_message_appropriate_flight": "Paluulennon nousuajan on tapahduttava vähintään 02 tuntia lähtölennon laskeutumisajan jälkeen. Valitse sopiva lento.",
+  "flight_v2_component_notification_not_available": "Lento ei ole saatavilla",
+  "flight_v2_search_enter_your_reservation": "Syötä varausviitesi nähdäksesi varaustiedot",
+  "flight_v2_search_booking_reference": "Varausviite",
+  "flight_v2_search_title_booking_code": "Syötä varausviitesi nähdäksesi lentovarauksesi",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Sukunimi (ilman sävyjälkiä)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "Toinen nimi ja etunimi/etunimi (ilman sävyjälkiä)",
+  "flight_v2_widget_common_rules_1": "Kansainvälisillä lennoilla tai kansainvälisellä kauttakulkuliikenteellä passin on oltava voimassa vähintään 06 kuukautta ennen lähtöpäivää.",
+  "flight_v2_widget_common_rules_2": "Vietnam Airlines ja Bamboo Airways: Kieltäytyvät kuljettamasta raskaana olevia matkustajia, joiden raskausaika alkaa 36 viikosta. Vietjet Air ja Vietravel Airlines: Kieltäytyä kuljettamasta raskaana olevia matkustajia, joiden raskausaika alkaa 32 viikkoa.",
+  "flight_v2_widget_common_rules_3": "14 päivän ikäisen ja alle 2-vuotiaan vauvan tulee olla yli 18-vuotiaan aikuisen seurassa.",
+  "flight_v2_widget_common_rules_4": "Lasten/vauvojen ikä lasketaan syntymäpäivästä lennon lähtöpäivään lapsen syntymätodistuksen/passin perusteella.",
+  "flight_v2_widget_common_rules_5": "Jos lapset lentävät yksin, ota yhteyttä suoraan edustajaan saadaksesi lisätietoja ilman huoltajaa tulevasta alaikäisestä palvelusta.",
+  "flight_range_slider_price_range": "Hintaluokka",
+  "flight_v2_common_done": "Tehty",
+  "flight_v2_detail_airline_operator_by": "Järjestäjä: '{organization}'",
+  "flight_v2_detail_airline_alert_transit": "Huomautus: Matkustajia voidaan vaatia tulliselvityksen ja kauttakulkuviisumin toimittamista vastaanottavan maan pyynnöstä.",
+  "flight_v2_detail_airline_total_price": "Kaikki yhteensä",
+  "flight_v2_detail_airline_title_tax_and_fee": "(sisältää verot ja maksut)",
+  "flight_v2_detail_airline_button_add_ticket": "Lisää lippu",
+  "flight_v2_detail_airline_button_change_ticket": "Vaihda lippu",
+  "flight_v2_detail_airline_button_booking_ticket": "Varaa lippu",
+  "flight_v2_detail_airline_departure_flight": "Lähtevä lento",
+  "flight_v2_detail_airline_return_flight": "Paluulento",
+  "flight_v2_information_contact_email": "Sähköposti",
+  "flight_v2_information_customer_title_full_name": "Koko nimi: {fullName}",
+  "flight_v2_information_customer_title_gender": "Sukupuoli: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Syntymäaika: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Huomaa: {HAHALOLO} tukee käyttäjiä {free} pankkikuluilla)",
+  "flight_v2_payment_include_free_fee_payment": "VAPAA",
+  "flight_v2_payment_use_saved_info_user": "Käytä Yhteyshenkilön tietoja tai tallennettuja maksutietoja",
+  "flight_v2_payment_success_thank_user": "Kiitos luottamuksestasi '{HAHALOLO}'-palveluun. Jos sinulla on kysyttävää tai tarvitset lisäapua, ota yhteyttä Hahalolo-ohjekeskukseen numeroon {phone} saadaksesi ohjeita.",
+  "flight_v2_payment_success_notifier": "Varauspyyntösi on suoritettu onnistuneesti '{wasPayment}'. Voit tarkistaa matkasuunnitelman tiedot alta.",
+  "flight_v2_payment_success_was_payment": "(Maksettu)",
+  "flight_v2_payment_success_flight_information": "Lentotiedot",
+  "flight_v2_payment_success_outbound_flight_information": "Lähtölennon tiedot",
+  "flight_v2_payment_success_return_flight_information": "Paluulennon tiedot",
+  "flight_v2_information_bottom_sheet_adult": "{count} x aikuinen",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x lapsi",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x vauva",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Aikuisten tiedot {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Lapsitiedot {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Vauvan tiedot {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} aikuista",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} lasta",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} vauvaa",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "Siirtoaika noin {time} paikassa {place}",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Verot ja maksut (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Perushinta (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "Viimeisin lähtöaika",
+  "flight_v2_widget_detail_text_departure_flight": "Lähtevä lento",
+  "flight_v2_widget_detail_text_return_flight": "Paluulento",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(sisältää verot ja maksut)",
+  "flight_input_title_note_1": "Huomaathan, että passin on oltava voimassa vähintään 6 kuukautta ennen matkasuunnitelman ensimmäisen osan lähtöpäivää.",
+  "flight_input_title_note_2": "Matkustajilta vaaditaan riittävät asiakirjat sekä kohdemaan säännökset ja maahanmuuttomenettelyt.",
+  "flight_input_title_note_3": "Lentoyhtiö varaa oikeuden kieltäytyä kuljetuksesta, jos matkustajilla ei ole määräysten mukaisia ​​voimassa olevia asiakirjoja.",
+  "flight_input_title_note_4": "Lentoyhtiö ei ota vastuuta, jos matkustajilta evätään pääsy.",
+  "flight_input_title_note_5": "Matkustajien tulee tehdä lähtöselvitys lentokentällä ajoissa.",
+  "flight_input_title_note_6": "Ilman huoltajaa matkustavien alaikäisten matkustajien on otettava suoraan yhteyttä lentoyhtiöön.",
+  "flight_input_title_note_7": "Raskaana olevien matkustajien, joiden raskausaika on yli 32 viikkoa, on otettava suoraan yhteyttä lentoyhtiöön.",
+  "flight_input_title_note_8": "Matkustajien ikä lasketaan syntymäajan ja matkasuunnitelman ensimmäisen lennon lähtöpäivän välisen ajanjakson mukaan matkustajan henkilöllisyystodistusten, kuten passin ja syntymätodistuksen, perusteella.",
+  "flight_input_passenger_choose_birth_day": "Valitse syntymäaikasi",
+  "flight_input_payment_show_passenger_title": "Varaat lentoa seuraaville matkustajille:",
+  "flight_input_payment_reservation": "Kirja",
+  "flight_v2_model_booking_luggage_handle": "Käsimatkatavarat",
+  "flight_search_result_progress_searching_title": "Haetaan...",
+  "flight_v2_dialog_unavailable_ticket": "Lento ei ole saatavilla",
+  "flight_v2_dialog_choose_ticket": "Olet valinnut lennon",
+  "flight_v2_dialog_from": "alkaen",
+  "flight_v2_dialog_time_take_off_flight": "Lennon nousuaika",
+  "flight_v2_dialog_happening": "täytyy tapahtua",
+  "flight_v2_dialog_minimum_hour": "vähintään 02 tuntia",
+  "flight_v2_dialog_after_trip": "lennon jälkeen",
+  "flight_v2_dialog_landed": "laskeutui.",
+  "flight_v2_dialog_choose_again_ticket": "Haluatko valita toisen lennon?",
+  "flight_passenger_view_service_packages": "Palvelupaketit",
+  "flight_passenger_view_check_in_baggage": "Tarkistettu laukku:",
+  "flight_v2_widget_detail_text_departure": "Lähtö",
+  "flight_v2_widget_detail_text_destination": "Kohde",
+  "flight_handnote_international_item_view_order_code": "Tilauskoodi",
+  "flight_handnote_international_order_vieư": "Päivitetty päivämäärä",
+  "flight_order_detail_view_booking_code": "Varausviite",
+  "flight_handnote_international_item_view_departure_date": "Lähtöpäivä",
+  "flight_handnote_international_item_view_booking_status": "Varauksen tila",
+  "flight_input_passenger_infor_title": "Matkustajien tiedot",
+  "flight_input_payment_show_contact_full_name": "Koko nimi",
+  "flight_passenger_view_guest_type": "Matkustajan tyyppi",
+  "flight_passenger_view_ticket_number": "Lipun numero",
+  "flight_order_detail_title_flight_information": "Lentotiedot",
+  "flight_v2_dialog_common_agree": "Olla samaa mieltä",
+  "flight_v2_dialog_common_confirm": "Vahvistaa",
+  "flight_v2_dialog_common_skip": "Ohita",
+  "flight_v2_dialog_common_cancel": "Peruuttaa",
+  "flight_v2_dialog_common_exit": "Poistu",
+  "flight_v2_dialog_common_change_flight": "Olla samaa mieltä",
+  "flight_v2_dialog_common_change_search": "Muuta hakua",
+  "flight_v2_dialog_title_change_information": "Muuta tietoja",
+  "flight_v2_dialog_sub_title_change_information": "Haluatko varmasti muuttaa hakutietoja?",
+  "flight_v2_dialog_message_change_information": "Jos suostut muuttamaan hakutietoja, kaikki aiemmat tiedot poistetaan",
+  "flight_v2_dialog_title_not_available": "Lento ei ole saatavilla",
+  "flight_v2_dialog_message_not_available": "Valitettavasti valitsemasi lento ei ole nyt saatavilla. Ole hyvä ja '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "valitse toinen lento tai muuta hakuasi",
+  "flight_v2_dialog_title_exceed_time_allow": "Lento on ylittänyt sallitun ajan",
+  "flight_v2_dialog_message_exceed_time_allow": "Valitsemasi lento on ylittänyt sallitun varausajan. Ota yhteyttä '{HAHALOLO}' hotlinen '{hotline}' tai '{changeOtherFlight}' kautta.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "muuta uusien lentojen hakua",
+  "flight_v2_dialog_title_delete_account": "Poista maksutili",
+  "flight_v2_dialog_sub_title_delete_account": "Haluatko varmasti poistaa tämän maksutilin?",
+  "flight_v2_dialog_message_delete_account": "Tili ei enää näy maksutilivalinnassa.",
+  "flight_v2_dialog_title_change_ticket_price": "Hintamuutos",
+  "flight_v2_dialog_message_change_ticket_price": "Tilauksen kokonaissumma on muuttunut arvosta '{oldPrice}' arvoon '{newPrice}'. Valitse uudelleen Kuponkikoodi/Kolikot/Pisteet, jos mahdollista.",
+  "flight_v2_dialog_title_min_support_payment": "Tilaus ei kelpaa maksuun",
+  "flight_v2_dialog_message_min_support_payment": "Kelvollisen tilauksen kokonaismaksu on '{minRange}' tai vähintään '{maxRange}'. Voit muuttaa kuponkikoodia, kolikoita tai pisteitä maksuehtojen mukaisesti",
+  "flight_v2_dialog_title_order_not_found": "Ilmoitukset",
+  "flight_v2_dialog_message_order_not_found": "Tilauksia ei löytynyt",
+  "flight_v2_dialog_title_exit_order": "Poistu tilauksesta",
+  "flight_v2_dialog_message_exit_order_cart": "Ostoskorisi",
+  "flight_v2_dialog_title_payment_error_default": "Maksu epäonnistui",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "Ota yhteyttä Hahalolo-asiakaspalveluun '{here}'.",
+  "flight_v2_dialog_message_payment_error_here": "tässä",
+  "flight_v2_dialog_title_voucher_fee_change": "Hintamuutos",
+  "flight_v2_dialog_message_voucher_fee_change": "Hinta on muuttunut arvosta '{oldPrice}' hintaan '{newPrice}'. Ota yhteyttä asiakaspalveluun Hahalolo '{here}' saadaksesi apua.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "tässä",
+  "flight_v2_dialog_title_system_error": "Ilmoitukset",
+  "flight_v2_dialog_message_system_error": "Tilauksesi on maksettu onnistuneesti, ja se päivitetään pian muistiinpanoihin.",
+  "flight_v2_dialog_title_voucher_not_available": "Ilmoitukset",
+  "flight_v2_dialog_message_voucher_not_available": "Kuponkikoodi ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "flight_v2_dialog_title_point_not_available": "Ilmoitukset",
+  "flight_v2_dialog_message_point_not_available": "Pisteitä ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "flight_v2_dialog_title_coin_not_available": "Ilmoitukset",
+  "flight_v2_dialog_message_coin_not_available": "Kolikoita ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "flight_v2_dialog_halo_support": "'{message}'. Ota yhteyttä Hahalolo-asiakaspalveluun '{here}'.",
+  "flight_v2_dialog_halo_support_here": "tässä",
+  "flight_v2_dialog_title_stripe_error": "Ilmoitukset",
+  "flight_v2_price_info_read_more": "Katso lisää",
+  "flight_v2_price_info_total_payment": "Koko maksu",
+  "flight_v2_price_info_before_payment": "Ennakkoon maksettu summa",
+  "flight_v2_component_booking_title_payment_information": "Maksutiedot",
+  "flight_v2_model_booking_checked_baggage": "Kirjattu matkatavara (voi ostaa lisää)",
+  "flight_v2_widget_booking_coupon_code": "Kuponkikoodi",
+  "flight_v2_widget_booking_use_coins": "Käytä kolikoita",
+  "flight_v2_component_booking_use_point": "Käytä pisteitä",
+  "flight_v2_widget_booking_title_fare_details": "Hintatiedot",
+  "flight_v2_widget_confirm_title_contact_information": "Yhteystiedot",
+  "flight_input_passenger_hint_birth_day": "Syntymäaika",
+  "flight_v2_widget_booking_membership_card_number": "Jäsenkortin numero",
+  "flight_passenger_view_baggage": "Matkatavarat",
+  "flight_v2_dialog_message_exit_order": "Lentovaraustasi tehdään. Jos poistut, tilauksesi tallennetaan edelleen kansioon '{cart}'. Voit maksaa tämän tilauksen ennen '{time}'",
+  "flight_v2_dialog_message_exit_order_no_hold": "Lentovaraustasi ei ole tehty. Jos poistut, tilauksesi tallennetaan edelleen kansioon '{cart}'. Voit suorittaa maksun suorittaaksesi lipun myynnin",
+  "flight_v2_payment_back_from_payment": "Lentovaraustasi tehdään. Tilaustietoja ei voi muuttaa. Suorita maksu ennen '{time}' suorittaaksesi lipun myöntämisen loppuun.",
+  "flight_v2_payment_back_from_payment_no_hold": "Lentovaraustasi ei ole tehty. Ole hyvä ja suorita maksu suorittaaksesi varauksen ja lipun.",
+  "flight_price_detail_view_total_fare": "Kokonaishinta",
+  "flight_price_detail_view_service_fee": "Palvelumaksu",
+  "flight_price_detail_view_payment_fee": "Maksu maksu",
+  "flight_v2_notification_baggage": "Olet valinnut {baggage}. Katso tiedot alla.",
+  "flight_check_the_details": "Voit tarkistaa tiedot alta.",
+  "flight_order_detail_view_information_order": "Tilaus Informaatio",
+  "flight_v2_search_code_no_reservation_yet": "Ei vielä varattu",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Huomautus: Asiakastietoja ei ole vielä täytetty",
+  "tour_booking_screen_update_information": "Päivitä nyt",
+  "tour_booking_screen_textspan_note": "(Huom: maksumaksu)",
+  "tour_booking_loading_message": "Haetaan tilaustietoja, odota hetki",
+  "tour_booking_last_name": "Sukunimi",
+  "tour_booking_middle_and_first_name": "Keski- ja etunimi/etunimi",
+  "tour_booking_or_detail_phone_number": "Puhelinnumero",
+  "tour_booking_or_detail_address": "Osoite",
+  "tour_booking_province_city": "Maakunta/Kaupunki",
+  "tour_booking_country": "Maa",
+  "tour_booking_title_booking_information": "Varaustiedot",
+  "tour_booking_bottom_detail_price_error": "Kortin tiedot ovat virheelliset. Tarkista se uudelleen.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Kuponkikoodia ei voi käyttää",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Virheellinen kuponkikoodi",
+  "tour_booking_update_item_cart_action_message": "kiinni",
+  "tour_booking_update_item_cart_title": "Ilmoitukset",
+  "tour_booking_update_item_cart_msg_error_last": "Tilausta päivitettäessä tapahtui virhe, yritä uudelleen.",
+  "tour_booking_screen_payment_methods": "Maksuvaihtoehto",
+  "tour_booking_screen_accept": "Hyväksyä",
+  "tour_booking_screen_coupon_code": "Kuponkikoodi",
+  "tour_booking_screen_insert_code": "Syötä koodi",
+  "tour_booking_screen_default_msgError": "Tapahtui virhe. Yritä uudelleen.",
+  "tour_booking_screen_on_failed_error_2008": "Valitsemasi kuukausittainen kiertueaikataulu ei ole tällä hetkellä saatavilla. Valitse toinen kiertueen aikataulu.",
+  "tour_booking_screen_on_failed_error_2202": "Sivua ei ole julkaistu tai et ole asettanut ikäryhmiä.",
+  "tour_booking_screen_on_failed_error_2301": "Kierros ei ole saatavilla.",
+  "tour_booking_screen_on_failed_error_2303": "Kiertue ei kuulu sivulle.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Varausaika on umpeutunut.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}. Ota yhteyttä Hahalolon asiakaspalvelukeskukseen",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "tässä",
+  "tour_booking_screen_content_apply_voucher_failed_help": "avuksi.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Tähän tilaukseen käytettävissä olevien kolikoiden enimmäismäärä.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Käyttää",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number} kolikkoa",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "maksuksi.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Vastaten",
+  "tour_booking_success_text_done": "Tehty",
+  "tour_booking_success_header_booking_success": "Varaus onnistui",
+  "tour_booking_success_header_textspan_reservation_success": "Varauspyyntösi on tehty onnistuneesti",
+  "tour_booking_success_header_textspan_paid": "(Maksettu).",
+  "tour_booking_success_header_textspan_itinerary_details": "Voit tarkistaa matkasuunnitelman tiedot alta.",
+  "tour_booking_success_title_tour_information": "Matkan tiedot",
+  "tour_booking_success_tour_information_tour_name": "Kiertueen nimi",
+  "tour_booking_success_tour_information_departure": "Lähtö",
+  "tour_booking_success_tour_information_departure_date": "Lähtöpäivä",
+  "tour_booking_success_tour_information_end_date": "Päättymispäivä",
+  "tour_booking_success_tour_information_Number_of_days": "Päivien määrä",
+  "tour_booking_success_tour_information_passengers": "Matkustajien määrä",
+  "tour_booking_success_tour_information_detail_Passengers": "1 aikuinen",
+  "tour_booking_success_title_contact_information": "Yhteystiedot",
+  "tour_booking_success_contact_information_full_name": "Koko nimi:",
+  "tour_booking_success_contact_information_email": "Sähköposti:",
+  "tour_booking_success_contact_information_phone_number": "Puhelinnumero:",
+  "tour_booking_success_contact_information_address": "Osoite:",
+  "tour_booking_success_title_installment_information": "Osamaksutilaustiedot",
+  "tour_booking_success_installment_information_total_order_value": "Tilauksen kokonaisarvo:",
+  "tour_booking_success_installment_information_prepaid_rate": "Ennakkomaksu:",
+  "tour_booking_success_installment_information_prepayment_amount": "Ennakkoon maksettu summa:",
+  "tour_booking_success_installment_information_remaining_amount": "Jäljelläoleva saldo:",
+  "tour_booking_success_installment_information_conversion_information": "Tietojen muuntomaksu:",
+  "tour_booking_success_installment_information_banking_fee": "Pankki maksu:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Maksuerän korko (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Eräkorko (kk):",
+  "tour_booking_success_installment_information_total_amount": "Osamaksu yhteensä:",
+  "tour_booking_success_installment_information_payment_term": "Erämaksuaika (kuukausi):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} kuukautta",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Kuukauden maksuerä:",
+  "tour_booking_success_installment_information_next_installment_period": "Seuraava erä tenori",
+  "tour_booking_success_title_transaction_information": "Tapahtumatiedot",
+  "tour_booking_success_transaction_information_tour_id": "Tour ID:",
+  "tour_booking_success_transaction_information_booking_code": "Varausnumero:",
+  "tour_booking_success_transaction_information_total_payment": "Koko maksu:",
+  "tour_booking_success_transaction_information_payer": "Maksaja:",
+  "tour_booking_success_transaction_information_address": "Osoite:",
+  "tour_booking_success_transaction_information_content_billing": "Maksun sisältö:",
+  "tour_booking_success_transaction_information_order_payment": "Tilaa maksu",
+  "tour_booking_success_transaction_information_order_advance": "Osamaksutilauksen ennakkomaksu",
+  "tour_booking_success_textspan_footer_thanks": "Kiitos luottamuksestasi Hahalolon palvelua kohtaan.",
+  "tour_booking_success_textspan_footer_doubt": "Jos sinulla on kysyttävää tai tarvitset lisäapua, ota yhteyttä Hahalolo-ohjekeskukseen",
+  "tour_booking_success_textspan_footer_last_text": "ohjeita varten.",
+  "tour_booking_success_bottomview_view_details": "Tarkemmat tiedot",
+  "tour_booking_success_bottomview_new_booking": "Varaa uusi",
+  "tour_booking_title_info_detail_tour": "Kiertueen tiedot",
+  "tour_booking_info_detail_tour_title_info_tour": "Tiedot",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Kiertueen nimi",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Phu Quyn saaren löytö",
+  "tour_booking_or_detail_tour_id": "Tour ID",
+  "tour_booking_or_detail_tour_time": "Aika",
+  "tour_booking_or_detail_departure_date": "Lähtöpäivä",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Päättymispäivä",
+  "tour_booking_or_detail_tour_departure": "Lähtö",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Kohde",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Matkan tyyppi",
+  "tour_booking_info_detail_tour_info_tour_description": "Kuvaus",
+  "tour_booking_info_detail_tour_title_table_price": "Matkan hinnasto",
+  "tour_booking_starttext_adult": "Aikuinen",
+  "tour_booking_starttext_child": "Lapsi",
+  "tour_booking_starttext_young_child": "Nuori lapsi",
+  "tour_booking_starttext_baby": "Vauva",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Luettelo osista",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Sääntelytiedot",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Yksityiset määräykset",
+  "tour_booking_info_detail_tour_title_installment_policy": "Asennussuunnitelma",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Kokonaismäärä",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Ennakkoon maksettu summa",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Maksaa",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Palvelut",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Edistäminen",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Käytä promootiota",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "Käytä kolikoita",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Kokonaismäärä",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "Alennus sisältyy 100% ennakkomaksuun",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Promootioarvo:",
+  "tour_booking_title_item_count_passenger": "Matkustajien määrä",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "Yli {age} vuotta vanha",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} vuotta vanha",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "Alle {age} vuotta vanha",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Pyydä tukea matkustajatietojen syöttämisessä",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Anna matkustajan tiedot",
+  "tour_booking_title_item_info_billing": "Maksajan tiedot",
+  "tour_booking_item_info_billing_use_contact_info": "Käytä yhteystietoja",
+  "tour_booking_title_item_info_contact_person": "Yhteystiedot",
+  "tour_booking_title_item_method_payment": "Maksutapa",
+  "tour_booking_item_method_payment_text_full_payment": "100% maksu",
+  "tour_booking_item_method_payment_text_installment_payment": "Osamaksu",
+  "tour_booking_item_method_payment_pay_all_text_discount": "Saat {discount} % alennuksen",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "Tilauksen kokonaisarvo alennuksen jälkeen:",
+  "tour_booking_title_item_select_service": "Mukana olevat palvelut",
+  "tour_booking_item_select_service_add_service": "Lisää palvelu",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Lähetämme vahvistuskoodin osamaksutilauksen maksusta seuraavina ajanjaksoina sähköpostitse:",
+  "tour_booking_pay_installment_check_email": "Tarkista sähköpostiosoitteesi.",
+  "tour_booking_pay_installment_number_installments_months": "Maksukuukausien lukumäärä",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "Maksuerä",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Sinun on suoritettava osittainen ennakkomaksu matkan arvosta. Kuukausierän määrä lasketaan onnistuneen ennakkomaksun jälkeisen erääntyneen saldon perusteella.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "Syötä haluamasi ennakkomaksuprosentti",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Erätiedot",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Ei.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Tiedot",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Arvo",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "Tilauksen arvo",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Ennakkomaksu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "Ennakkoon maksettu arvo",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Jäljelläoleva saldo",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Tietojen muuntomaksu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Pankkimaksu",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Korko (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "Osamaksukorko",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Maksuerän kokonaismäärä",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Erämaksu (kuukausi)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Seuraava erä tenori",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Kuukauden maksuerä",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} kuukautta",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "Asennussuunnitelma",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Osamaksusuunnitelman tiedot",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Mukana olevat palvelut",
+  "tour_booking_item_service_init_service_number_of_travelers": "Matkustajien määrä",
+  "tour_booking_group_months_installment_label": "{month} kuukautta",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Matkailuunet",
+  "tour_detail_text_number_people_haha_page": "1 839 017 ihmistä Haha tämä sivu",
+  "tour_detail_screen_theme_text_indochina_discovery": "Indokiinan löytö: Merenrannat ja katuruoka",
+  "tour_detail_text_installment_tour": "OSAKERTOMUS",
+  "tour_detail_text_view_details": "Tarkemmat tiedot",
+  "tour_detail_number_promotions": "{promotions} Kampanjat",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "saatavilla",
+  "tour_detail_tab_info": "Tiedot",
+  "tour_detail_tab_tour_parts": "Reittisuunnitelman tiedot",
+  "tour_detail_tab_promotion": "Edistäminen",
+  "tour_detail_tab_privacy_policy": "Tietosuojakäytäntö",
+  "tour_detail_tab_separate_regulations": "Yksityiset määräykset",
+  "tour_detail_tab_contact": "Ottaa yhteyttä",
+  "tour_detail_view_tab_installment": "Asennussuunnitelma",
+  "tour_detail_text_only_from": "Vain alkaen",
+  "tour_detail_view_emptyTitle": "Kiertue ei ole enää saatavilla",
+  "tour_detail_text_change_date": "Muuta päivämäärää",
+  "tour_detail_text_book_now": "Varaa nyt",
+  "tour_detail_view_action_menu_time_line": "Aikajana",
+  "tour_detail_view_action_menu_tour_List": "Tour lista",
+  "tour_detail_view_action_menu_introduction": "Johdanto",
+  "tour_detail_view_action_menu_promotion": "Edistäminen",
+  "tour_detail_view_action_menu_appraise": "Arvostelut",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} henkilöä Haha tämä sivu",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Valitsemasi kuukausittainen kiertueaikataulu ei ole tällä hetkellä saatavilla.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Valitse toinen kiertueen aikataulu.",
+  "tour_detail_choose_schedule_title": "Valitse aikataulu",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Lähtöaikataulu",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Lähtöaikataulu ei ole saatavilla",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Lähtöpäivä: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "From",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "Kohteesta {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Loppu",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "Kohteeseen {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Edistäminen",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Hinta",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Varaa nyt",
+  "tour_detail_contact_infor_view_empty_title": "Yhteystietoja päivitetään",
+  "tour_detail_contact_infor_view_company_name": "Yrityksen nimi",
+  "tour_detail_infor_view_text_starting_from": "Aloita alkaen",
+  "tour_detail_infor_view_text_ends_at": "Loppu klo",
+  "tour_detail_infor_view_tour_type_domestic": "Kotimaan kiertue",
+  "tour_detail_infor_view_tour_type_international": "Kansainvälinen kiertue",
+  "tour_detail_infor_view_tour_text_info": "Tiedot",
+  "tour_detail_infor_view_tour_types": "Tyyppi",
+  "tour_detail_infor_view_tour_service": "Matkapalvelut",
+  "tour_detail_emptyTitle_no_data_found": "Dataa ei löytynyt",
+  "tour_detail_promotion_view_empty_title": "Kampanjoita ei ole saatavilla",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Promootiotasot {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% alennus",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} alennus",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Tilauksen vähimmäisarvo: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Aikuisten vähimmäismäärä: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Takaisin",
+  "tour_detail_shimmer_loading_message": "... ihmiset Haha tämä sivu",
+  "tour_hand_note_tabs_verify_sent_to_email": "Lähetimme sinulle vahvistuskoodin osoitteeseen pham54833@gmail.com",
+  "tour_hand_note_tabs_price": "Hinta",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Peruuta tilaus",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Haluatko suorittaa tämän toiminnon?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Vahvistaa",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "Peruuttaa",
+  "tour_hand_note_footer_action_total_amount": "Kokonaismäärä",
+  "tour_hand_note_footer_action_pay": "Maksaa",
+  "tour_hand_note_order_payment_view_order_id": "Tilauskoodi",
+  "tour_hand_note_order_payment_view_paid": "Maksettu",
+  "tour_hand_note_order_payment_view_total_price": "Kokonaishinta",
+  "tour_hand_note_order_payment_view_remaining_amount": "Jäljelläoleva saldo",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "Osamaksu tenori",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Kuukausi: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Maksuerän määrä",
+  "tour_hand_note_order_payment_view_next_installment_period": "Seuraava erä tenori",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Koko maksu",
+  "tour_handnote_banner_waring_input_verify_error": "Vahvistuksen aikana tapahtui virhe. Yritä uudelleen tai napauta ",
+  "tour_lockup_empty_title": "Kiertuetietoja ei löytynyt",
+  "tour_lockup_title_info": "Matkan tiedot",
+  "tour_lockup_form_search_hind_text_enter_promo": "Anna tarjouskoodi",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} päivää} other{{days} päivää}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Kaikki",
+  "tour_handnote_tab_awaiting": "Odottaa vahvistusta",
+  "tour_handnote_tab_awaiting_fulfilment": "Odottaa täydennystä",
+  "tour_handnote_tab_ongoing": "Jatkuva",
+  "tour_handnote_tab_completed": "Valmis",
+  "tour_handnote_tab_canceled": "Peruutettu",
+  "tour_detail_page_programs_detail": "Ohjelman tiedot",
+  "tour_detail_page_passenger_title": "Asiakas",
+  "tour_detail_info_guest_edit_title": "Muokata",
+  "tour_detail_info_guest_update_title": "Päivittää",
+  "tab_tour_detail_order_cancel_order": "Peruuta tilaus",
+  "tab_tour_detail_order_cancel_order_confirm": "Haluatko suorittaa tämän toiminnon?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Vahvistaa",
+  "tab_tour_detail_order_cancel_order_cancel_button": "Peruuttaa",
+  "tab_tour_detail_order_waiting_confirmation": "Odottaa vahvistusta",
+  "tab_tour_detail_order_code_order_tour_title": "Varausnumero",
+  "tour_detail_stage_view_title": "Osa {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Kolikot on käytetty maksuun. Katso tiedot alta",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Kuponkikoodi on lisätty maksuun. Katso tiedot alta",
+  "tour_hand_note_banner_warning_update_success": "Asiakastiedot on saatu valmiiksi",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Maksutiedot",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Maksettu",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Matkan peruutuskampanja\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Käytä kolikoita ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "Peruutusmaksu ({number} %)",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Arvioitu hyvityssumma",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Hyvitysaika (Peruutuspäivästä): 5-7 päivää (Alepay- ja Payme-maksuyhdyskäytäville) tai 7-15 päivää (Stripe-maksuyhdyskäytävälle).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "Peruuttamisen syy:",
+  "tour_booking_validation_province_or_city_is_required": "Provinssi/kaupunki vaaditaan",
+  "tour_booking_screen_on_failed_error_2801": "Sinun on varattava kiertue {numberDay} päivää ennen lähtöpäivää. Valitse toinen lähtöpäivä.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Valitsemasi matkan lähtöaika on lyhyempi tai pidempi käytäntömme mukaisesti. Valitse kiertue sopivalla lähtöajalla.",
+  "tour_booking_bottom_view_error": "Täytä matkustajatiedot tai pyydä Hahalolo-tukea matkustajatietojen syöttämisessä myöhemmin.",
+  "tour_booking_on_start_payment_message": "Valitettavasti valitsemasi lähtöpäivä on loppuunmyyty. Valitse toinen lähtöpäivä.",
+  "tour_detail_text_full_load": "Loppuunmyyty",
+  "tour_cancel_order_info_reason_cancel": "Anna peruutuksen syy.",
+  "tour_cancel_order_info_validate_reason_cancel": "Peruuttamisen syy vaaditaan",
+  "tour_cancel_order_info_refound_invalid_card": "Tilinumero vaaditaan",
+  "tour_cancel_bank_name_required": "Pankin nimi vaaditaan",
+  "tour_cancel_bank_wrong_format": "Pankin nimen muoto on virheellinen",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo antaa sinulle hyvityksen alla antamiesi pankkitilitietojen perusteella)",
+  "tour_cancel_enter_bank_name": "Syötä pankin nimi",
+  "tour_cancel_cancel_order_success": "Tilauksesi on peruutettu onnistuneesti.",
+  "tour_bank_identifier_required": "SWIFT-koodi vaaditaan",
+  "tour_detail_title_select_departure_month": "Valitse lähtökuukausi",
+  "tour_detail_title_upcoming_departure_schedule": "Tuleva lähtöaikataulu",
+  "tour_detail_schedule_title_departure": "Lähtö",
+  "tour_detail_schedule_title_destination": "Kohde",
+  "tour_booking_fail_payment_price_change": "Kiertueen hinta on muuttunut arvosta {oldPay} hintaan {newPay}. Haluatko jatkaa maksuasi?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "Kiertueen hinta on muuttunut arvosta {oldPay} hintaan {newPay}, ja sinun on maksettava {payAmount} etukäteen. Haluatko jatkaa maksuasi?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "Ennakkomaksun summa on muuttunut arvosta {oldPay} arvoon {newPay}. Haluatko jatkaa maksuasi?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Kolikoista käytetty summa on muuttunut arvosta {oldPay} arvoon {newPay}. Haluatko jatkaa maksuasi?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Käytä pisteitä",
+  "tour_booking_screen_have_apply_points": "Maksuun on käytetty pisteitä. Katso tiedot alla.",
+  "tour_booking_warning_promotion": "Kiertueesi on varattu, eikä tilaustietoja voi muuttaa. Ole hyvä ja suorita maksu suorittaaksesi matkavarauksesi.",
+  "tour_booking_warning_back_text_normal": "Tilauksesi on varattu. Jos lopetat, tilauksesi tallennetaan edelleen",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Lopeta tilaus",
+  "tour_booking_warning_back_when_hold_ticket_card": "Ostoskorisi.",
+  "tour_booking_warning_back_exit": "Lopettaa",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Tilaus on mennyt maksuyhdyskäytävän kautta. Kuponkikoodia ei voi jättää käyttämättä.",
+  "tour_booking_point_not_available": "Pisteitä ei ole saatavilla",
+  "tour_payment_voucher_exit_dialog_title": "Maksu epäonnistui",
+  "tour_total_point_change": "Saatavilla olevat pisteesi ovat muuttuneet. Syötä pisteiden määrä tilausta varten.",
+  "tour_hand_note_text_tour": "Kiertue",
+  "tour_hand_note_text_amount_installment_payment": "Osamaksun määrä",
+  "tour_detail_tour_has_no_available_schedule": "Tämän kiertueen aikatauluja ei ole saatavilla",
+  "tour_detail_promotion_view_time_application": "Sovellettava ajanjakso:",
+  "tour_detail_promotion_view_up_to_off_title": "Aikeissa",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% alennus",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Etsi varausnumero",
+  "tour_you_can_sure_cancel_order": "Haluatko varmasti peruuttaa tämän tilauksen?",
+  "tour_detail_contact_title": "Olemme käytettävissä 24/7! Jos sinulla on kysyttävää tästä palvelusta, ota meihin yhteyttä alla olevien tietojen avulla. Vastaamme 2 tunnin sisällä!",
+  "tour_detail_rate_title_schedule": "Ajoittaa",
+  "tour_detail_rate_title_meal": "Ateria",
+  "tour_detail_review_there_are_no_reviews_yet": "Arvosteluja ei vielä ole",
+  "tour_search_suggest_location_title": "Suosituimmat kohteet",
+  "tour_detail_rate_title_property": "Omaisuus",
+  "tour_detail_rate_title_tour_guide": "Matkaopas",
+  "tour_detail_rate_title_vehicle": "Ajoneuvo",
+  "tour_detail_choose_schedule_remain_slot": "Vain {slot} paikkaa jäljellä",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Päivämäärä",
+  "tour_detail_contact_text_hotline": "Hotline",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "Arvostelut",
+  "tour_search_place_suggestion_title": "Valitse määränpää",
+  "tour_search_place_suggestion_hint_text": "Syötä lähtö...",
+  "tour_review_title_feedback": "Suriin ang iyong karanasan sa paglalakbay",
+  "tour_review_title_content": "Pangkalahatang rating ng biyahe",
+  "tour_review_title_see_review": "Tingnan ang iyong pagsusuri sa paglalakbay",
+  "tour_review_schedule": "Iskedyul",
+  "tour_review_meal": "Pagkain",
+  "tour_review_accommodation": "Ari-arian",
+  "tour_review_tour_guide": "Tour guide",
+  "tour_review_vehicle": "Sasakyan",
+  "tour_lockup_up_tour_header_text": "Syötä varausnumerosi nähdäksesi varaustiedot",
+  "banner_warning_installment_noti": "Tulet saavuttamaan seuraavan erän eräpäivän. Maksuerän eräpäivä {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Laajenna",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Kuponkikoodin käyttäminen onnistui",
+  "voucher_search_on_select_voucher_fail": "Käyttämätön kuponkikoodi epäonnistui. Yritä uudelleen myöhemmin.",
+  "voucher_search_coupon_code_incorrect": "Väärä kuponkikoodi",
+  "voucher_search_check_or_contact_cskh": "Tarkista uudelleen tai ota yhteyttä asiakaspalvelukeskukseemme",
+  "voucher_widget_item_voucher_discount": "Alennus: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Vanhenee: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Päättymispäivä:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Koodi:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Edistäminen:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Kunto:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Käytä Hahalolo-tuotteisiin.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Rajoitus yksi asiakasta kohti.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "Tilaukset kauppiaalta {number}",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Tuotteet, joita sovelletaan:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} alennus",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "* Suurin alennus:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Olet säästänyt",
+  "voucher_apply_voucher_widget_order_from_discount": "tässä tilauksessa kuponkikoodilla",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Lentoasi ei ole vielä varattu. Suorita maksusi varataksesi ja myöntääksesi lipun.",
+  "cart_screen_main_title": "Ostoskorisi",
+  "cart_screen_main_tour_title": "Matkan varaus",
+  "cart_screen_main_flight_title": "Lento",
+  "cart_screen_main_car_title": "Auton varaus",
+  "cart_screen_main_tour_title_1": "Matkan varaus (1)",
+  "cart_screen_main_flight_title_1": "Lento (1)",
+  "cart_screen_main_car_title_1": "Auton varaus (1)",
+  "cart_screen_domestic_flight_num_passenger": "Matkustajien määrä",
+  "cart_screen_domestic_flight_subtotal": "Välisumma",
+  "cart_screen_domestic_flight_note": "Lentovarauksesi on tehty. Suorita maksu suorittaaksesi lipun.",
+  "cart_screen_empty": "Ostoskorissasi ei ole tuotteita",
+  "cart_screen_empty_order_now": "Hae ja varaa nyt!",
+  "cart_screen_car_delete_order": "Poista tilaus",
+  "cart_screen_car_delete_order_confirm": "Haluatko poistaa tämän tilauksen?",
+  "cart_screen_tour_schedule_title": "Ajoittaa",
+  "cart_screen_tour_type_title": "Matkan tyyppi",
+  "cart_tour_type_domestic": "Kotimainen",
+  "cart_tour_type_international": "Kansainvälinen",
+  "cart_screen_tour_num_day_num_night": "{day} päivää, {night} yötä",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Matkustajien määrä",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Käytä pisteitä",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Kuukausi {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Vahvistuksen aikana tapahtui virhe. Yritä uudelleen tai napauta \"Lähetä vahvistuskoodi uudelleen\" saadaksesi uuden koodin {email}",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Lähetä vahvistuskoodi uudelleen",
+  "hand_note_input_verify": "Olemme lähettäneet vahvistuskoodin osoitteeseen {email}. Suorita tämä vaihe antamalla saamasi koodi",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Syötä koodi",
+  "hand_note_tour_detail_body_tour_info_title": "Matkan tiedot",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Aika lasketaan Vietnamin aikavyöhykkeellä)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Päiviä yhteensä",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "Matkustajien määrä",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "Peruutusehdot",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Ilmaiset peruutusajat perustuvat matkavarauksen aikavyöhykkeeseen ja Toimittajan matkan peruutuskäytäntöön",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Kierroksen peruutuksesta veloitetaan seuraava peruutusmaksu:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "•{departureDay} päivää ennen lähtöpäivää",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "Ilmainen peruutus",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "Peruutusmaksu {cancellationFee} %",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "Kampanja 100 % maksusta",
+  "hand_note_install_policy": "Asennussuunnitelma",
+  "hand_note_title_status_payment_failure": "Epäonnistui",
+  "hand_process_extension": "Jatkuva laajennus",
+  "hand_in_installment": "Aktiivinen",
+  "hand_installment_completed": "Valmis",
+  "hand_note_adults": "Aikuiset",
+  "hand_note_children": "Lapset",
+  "hand_note_baby": "Nuoret lapset",
+  "hand_note_infant": "Vauvat",
+  "hand_note_tour_service_price": "Palvelun hinta",
+  "hand_note_total_price": "Kokonaishinta",
+  "hand_note_prepaid": "Prepaid",
+  "hand_note_remaining": "Jäljelläoleva saldo",
+  "hand_installment_status": "Osamaksun tila",
+  "hand_note_installment_payment_count_month_payment": "Maksun kuukausien lukumäärä",
+  "hand_note_installment_payment_count_month_payment_num": "{month} kuukautta",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "Osamaksutiedot",
+  "hand_note_information_detail_total_value_title": "Tilaus yhteensä",
+  "hand_note_information_detail_prepayment_amount_title": "Ennakkoon maksettu summa ({amount} %)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Maksuerän kokonaissumma",
+  "hand_note_information_detail_installment_tenor_title": "Osamaksu tenori",
+  "hand_note_information_detail_information_conversion_fee_title": "Tietojen muuntomaksu",
+  "hand_note_information_detail_bank_fee_title": "Pankki maksu",
+  "hand_note_information_detail_installment_interest_title": "Osamaksukorko",
+  "hand_note_information_detail_monthly_installment_amount_title": "Kuukauden maksuerä",
+  "hand_note_information_detail_next_due_date_title": "Seuraava erä tenori",
+  "hand_note_installment": "Erä",
+  "hand_note_postpaid": "Jälkimaksu",
+  "hand_note_installment_history_title": "Maksuhistoria",
+  "hand_note_payment_installment_title": "Osamaksu",
+  "hand_note_the_month_current_installment": "Kuukausi: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "Ensimmäinen maksu",
+  "hand_note_remaining_balance_title": "Jäljelläoleva saldo",
+  "hand_note_extension_info": "Laajennustiedot",
+  "hand_note_price_extension": "Laajennettu määrä",
+  "hand_note_month_paid": "{month} kuukautta maksettu",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} kuukautta jäljellä",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Päivitä tietosi",
+  "hand_note_invalid_full_name": "Virheellinen koko nimen muoto",
+  "hand_note_must_enter_full_name": "Sinun on annettava koko nimesi",
+  "hand_note_adults_num": "Aikuisten tiedot {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Lapsitiedot {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Vauvan tiedot {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Nuoren lapsen tiedot {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "(yli {age} vuotta vanha)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "(Alkaen {ageFrom} - {ageTo} vuotta vanha)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "hand_note_under_x_years_old": "(Alle {age} vuotta vanha)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} päivää",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Osa: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Päivitä matkustajan tiedot",
+  "hand_note_hotel_reservation_detail_title": "Varaustiedot",
+  "hand_note_tour_installment_title": "Osamaksukierros",
+  "hand_note_tour_extensions_payment_title": "Maksun laajennus",
+  "tour_booking_screen_text_accept": "Olla samaa mieltä",
+  "hand_note_installment_period": "Osamaksu tenori",
+  "hand_note_installment_amount": "Maksuerän määrä",
+  "hand_note_recommend_adjourn": "Pidennyspyyntö",
+  "hand_note_number_extension": "Pidennyspäivien määrä",
+  "hand_note_new_installment": "Uusi eräpäivä",
+  "hand_note_adjourn_notice": "Jokaista erää kohti sinun on vain kerran saatava {day} päivän maksulisä. Jos uuden erän eräpäivä on ohi eikä nykyistä maksuaikaa ole maksettu, kiertueesi peruutetaan.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Maksuviivästyksen tekosyy",
+  "hand_note_extension_successful": "Laajennus onnistui",
+  "hand_note_part_due_note": "Tilaus on erääntynyt. Ota yhteyttä asiakaspalvelukeskukseemme.",
+  "hand_note_notify_error_extension": "Tapahtui virhe. Yritä uudelleen.",
+  "hand_note_dialog_input_verify_1": "Olemme lähettäneet vahvistuskoodin osoitteeseen",
+  "hand_note_dialog_input_verify_2": "Suorita tämä vaihe antamalla saamasi koodi.",
+  "hand_note_verify_input_code_hint": "Syötä vahvistuskoodi",
+  "hand_note_title_hotel_order": "Hotellivaraustilaukset",
+  "hand_note_title_apply_coin": "Käytä kolikoita",
+  "hand_note_request_resent_code_confirm_must_1": "Odota hetki ennen kuin pyydät lähettämään vahvistuskoodin uudelleen.",
+  "hand_note_request_resent_code_confirm_must_2": "Odota 5 minuuttia ennen kuin pyydät lähettämään vahvistuskoodin uudelleen.",
+  "hand_note_request_resent_code_confirm_must_3": "Odota päivä, ennen kuin pyydät lähettämään vahvistuskoodin uudelleen.",
+  "hand_note_request_resent_code_confirm_must_4": "Odota 9 minuuttia ennen kuin pyydät lähettämään vahvistuskoodin uudelleen.",
+  "hand_note_request_resent_code_confirm_must_5": "Vahvistuskoodia lähetettäessä tapahtui virhe. Yritä uudelleen.",
+  "hand_note_history_new_order_created": "Uusi tilaus luotu",
+  "hand_note_history_change_customer_information": "Matkustajatiedot muuttuneet",
+  "hand_note_history_cancellation_of_passengers": "Peruutettu matkustaja",
+  "hand_note_history_change_flights": "Vaihdettu lento",
+  "hand_note_history_cancel_the_flight": "Peruutettu lento",
+  "fare_rule_toolbar_title": "Hintaehdot",
+  "hand_note_detail_activity_history": "Toimintahistoria:",
+  "hand_note_coin_refund_amount": "Odotetut hyvityskolikot",
+  "hand_note_tour_title": "Kiertue",
+  "hand_note_hotel_title": "Hotelli",
+  "hand_note_flight_title": "Lento",
+  "hand_note_car_title": "Autonvuokraus",
+  "hand_note_title": "Käsimuistiinpanot",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Virheellinen luottokortin numero",
+  "payment_error_card_has_expired": "Kortti on vanhentunut",
+  "payment_error_card_has_expired_year": "Kortti on vanhentunut tänä vuonna",
+  "payment_error_card_date_must_only_number": "Päivämäärissä saa olla vain numeroita",
+  "payment_error_card_date_is_3_digits": "Vanhenemisvuosi on 3 numeroa pitkä",
+  "payment_error_card_date_is_4_digits": "Vanhenemisvuosi on pidempi kuin 4 numeroa",
+  "payment_error_card_date_only_number_in_date": "Päivämäärissä saa olla vain numeroita",
+  "payment_card_date_expired": "Viimeinen käyttöpäivä",
+  "payment_payme": "Payme lompakko",
+  "payment_domestic": "Pankkiautomaattikortti tai kotimaisten pankkien iBanking (Vietnamissa)",
+  "payment_stripe": "Kansainvälinen maksukortti (Visa/MasterCard)",
+  "payment_card_number_empty": "Kortin numero vaaditaan",
+  "payment_card_day_exit": "Viimeinen voimassaolopäivä vaaditaan",
+  "payment_ccv_empty": "CVV-koodi vaaditaan",
+  "payment_error_secure_long": "Väärä suojakoodi",
+  "payment_error_secure_shorted": "Suojakoodi on liian lyhyt tälle korttityypille",
+  "payment_error_secure_alphabet": "Aakkosmerkit eivät ole sallittuja",
+  "payment_error_no_secure": "Turvakoodia ei ole annettu",
+  "payment_error_no_card_number": "Ei syöttöä tai sisältää ei-numeerisia merkkejä",
+  "payment_error_connect_title": "Yhteysvirhe",
+  "payment_error_connect_message": "Verkkoyhteytesi on epävakaa. Tarkista laitteen yhteys uudelleen",
+  "payment_error_not_load_title": "Virhe ladattaessa sivua",
+  "payment_error_not_load_message": "Tapahtui virhe muodostettaessa yhteyttä kassasivulle.",
+  "payment_error_card_number_lenght": "Kortin numeron on oltava yli 19 numeroa pitkä",
+  "payment_error_no_date": "Päivämäärää ei ole syötetty",
+  "payment_error_invalid_date": "Virheellinen päivämäärämuoto tai virheellinen päivämäärä",
+  "payment_error_invalid_year": "Päivämäärässä ja kuukaudessa sallitaan vain numerot",
+  "payment_error_invalid_ccv": "Virheellinen CVV",
+  "payment_error_invalid_card_holder": "Virheellinen kortinhaltija",
+  "payment_alert_select_payment_method_null": "Valitse maksuyhdyskäytävä",
+  "payment_alert_card_information_incorrect": "Kortin tiedot ovat virheelliset. Tarkista uudestaan",
+  "payment_alert_dialog_title": "Ilmoitukset",
+  "payment_alert_message_dialog_message": "Älä sulje tai sulje sovellusta kassaprosessin aikana varmistaaksesi onnistuneen maksun.",
+  "payment_alert_dialog_message_payment_error": "Maksuasi käsiteltäessä tapahtui virhe. Tarkista uudestaan.",
+  "payment_hint_text_country": "Maa...",
+  "payment_hint_text_province": "Kaupunkivaltio...",
+  "payment_show_message_dialog_title": "Ilmoitus",
+  "payment_show_message_dialog_message": "Haluatko lopettaa maksusi?",
+  "payment_show_message_dialog_negative": "Peruuttaa",
+  "payment_show_message_dialog_action": "Ok",
+  "payment_bank_page_title": "Sujuvan maksuprosessin vuoksi älä sulje hakemusta ennen kuin maksu on onnistunut!",
+  "payment_error_expired_date": "Korttisi on vanhentunut",
+  "payment_coin_not_available": "Kolikoita ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "payment_point_not_available": "Pisteitä ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "payment_voucher_not_available": "Kuponkikoodi ei ole saatavilla. Tarkista ja yritä uudelleen.",
+  "payment_fee_change_total_order": "Tilauksen kokonaissumma on muuttunut",
+  "payment_fee_change_to": "to",
+  "payment_fee_change_choose_voucher_point_coint": "Valitse uudelleen Kuponkikoodi/Kolikot/Pisteet, jos mahdollista.",
+  "payment_halo_wallet": "Hahalolo maksutili",
+  "payment_available_balance": "Käytettävissä oleva saldo:",
+  "payment_card_holder_name": "Kortinhaltijan nimi",
+  "payment_card_cvv_cvc_name": "CVV/CVC-koodi",
+  "payment_card_number": "Kortin numero",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "Samanlaisia ominaisuuksia",
+  "hotel_detail_hotel_images": "Hotellikuvat",
+  "hotel_detail_reviews_latest": "Viimeisin",
+  "hotel_detail_reviews_oldest": "Vanhin",
+  "hotel_detail_reviews_highest": "Korkein pistemäärä",
+  "hotel_detail_reviews_lowest": "Alin pistemäärä",
+  "hotel_detail_review_sort_by": "Järjestä",
+  "hotel_detail_reviews": "Arvostelu",
+  "hotel_detail_rate_location": "Sijainti",
+  "hotel_detail_rate_price": "Hinta",
+  "hotel_detail_rate_cleanliness": "Puhtaus",
+  "hotel_detail_rate_service": "Palvelu",
+  "hotel_detail_rate_facilities": "Palvelut",
+  "hotel_detail_one_user_review": "1 arvostelu",
+  "hotel_detail_x_user_reviews": "{x} arvostelua",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Varaus epäonnistui",
+  "hotel_detail_please_fill_ci_co_date": "Anna sisään- ja uloskirjautumispäivät",
+  "hotel_detail_allow_pet_contact_hotel": "Lemmikkieläimet ovat sallittuja. Lemmikkieläinsäännöistä saat ottamalla yhteyttä suoraan majoituspaikkaan.",
+  "hotel_detail_allow_pet_and_x_fee": "Lemmikkieläimet ovat sallittuja. Lemmikkimaksu: {x} (Lemmikkimaksu maksetaan majoituksessa).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "ILMAINEN peruutus",
+  "hotel_detail_cancellation_with_refund": "Peruutus veloitetaan",
+  "hotel_detail_cancellation_without_refund": "Peruutus ilman hyvitystä",
+  "hotel_detail_cancel_non_refund": "Et saa hyvitystä tai maksettua summaa peruutuksen yhteydessä.",
+  "hotel_detail_breakfast_served": "Aamiainen tarjolla",
+  "hotel_detail_lunch_served": "Lounas tarjolla",
+  "hotel_detail_dinner_served": "Illallinen tarjotaan",
+  "hotel_detail_smoking_allow": "Tupakointi on sallittu",
+  "hotel_detail_smoking_not_allow": "Tupakointi on kielletty",
+  "hotel_detail_contact_hotel": "Ota yhteyttä hotelliin",
+  "hotel_detail_book_first_pay_later": "Varaa nyt, maksa myöhemmin",
+  "hotel_detail_policy": "Käytännöt",
+  "hotel_detail_choose_the_bed_arrangement": "Valitse sänkylaukku",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "Peruutukset, jotka on tehty ennen {x} {y}: saat {z} %:n hyvityksen ensimmäisen yön huonehinnasta.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Huonepalvelu",
+  "hotel_detail_amenities": "Palvelut",
+  "hotel_detail_general_rules": "Talon säännöt",
+  "hotel_detail_change_reservation": "Muuta varausta",
+  "hotel_detail_services_and_facilities": "Tilat ja palvelut",
+  "hotel_detail_x_room_and_y_night": "{x} huone/{y} yö",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} huonetta/{y} yötä",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 huone / {x} yötä",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} huonetta/1 yö",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 huone/1 yö",
+  "hotel_detail_x_rooms_and_y_adults": "{x} huonetta - {y} vierasta",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 huone - {x} vierasta",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 huone - 1 vieras",
+  "hotel_detail_child_count": "1 lapsi",
+  "hotel_detail_x_children": "{x} lasta",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Huoneen tiedot",
+  "hotel_detail_room_policy_and_conditions": "Ehdot ja käytännöt",
+  "hotel_detail_person_count": "1 vieras",
+  "hotel_detail_x_people": "{x} vierasta",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "{distance}{x} keskustasta",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "{distance}{x} hakupaikasta",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "- Kaupungin keskustassa",
+  "hotel_detail_check_in": "Ilmoittautua",
+  "hotel_detail_check_out": "Tarkista",
+  "hotel_detail_cancelation_policy": "Peruutus",
+  "hotel_detail_child_policy": "Lapset",
+  "hotel_detail_pet_policy": "Lemmikit",
+  "hotel_detail_check_in_x": "{x} jälkeen",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "Ennen {x}",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Vain 1 jäljellä",
+  "hotel_detail_only_x_room": "Vain {x} jäljellä",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "Lapset, joiden ikä on {range}, ovat sallittuja.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Lemmikkieläimet ovat sallittuja. Lemmikkimaksu maksetaan hotellissa.",
+  "hotel_detail_pet_policy_do_not_allow": "Lemmikit eivät ole sallittuja.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Peruutukset, jotka on tehty {x} tuntia ennen sisäänkirjautumisaikaa: saat {y} %:n hyvityksen ensimmäisen yön huonehinnasta.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Peruutukset, jotka on tehty {x} tuntia ennen sisäänkirjautumisaikaa: saat {y} %:n hyvityksen huonehinnasta kaikista öistä.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "Ilmainen peruutus ennen {x}",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "Varaa 1 huone",
+  "hotel_detail_book_x_room": "Varaa {x} huonetta",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "Paras hinta",
+  "hotel_detail_bed": "1 sänky",
+  "hotel_detail_x_beds": "{x} sänkyä",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "{x}% alennus vain tänään",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Valitse huone",
+  "hotel_detail_has_x_room_types": "(Yhteensä {x} huonetyyppiä saatavilla",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Yhteensä 1 huonetyyppi saatavilla)",
+  "hotel_detail_children_policy_do_not_allow": "Hotellissa ei ole lapsia koskevia sääntöjä. Lapsia ei lasketa mukaan hakujen määrään. Otathan yhteyttä hotelliin, jos mukana on lapsia.",
+  "hotel_detail_children_policy_range_allow": "Hotellin lapsia koskeva käytäntö sallii {range}-vuotiaat lapset. Lisätietoja hotellin säännöistä ja määräyksistä saat hotellin kotisäännöistä tai ottamalla yhteyttä hotelliin saadaksesi lisätietoja.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Huoneen tiedot",
+  "hotel_detail_x_fee_person_and_day": "{x}/vieras/päivä",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/auto/päivä",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Aamiainen",
+  "hotel_detail_lunch": "Lounas",
+  "hotel_detail_dinner": "Illallinen",
+  "hotel_detail_smoking": "Tupakka",
+  "hotel_detail_parking": "Pysäköinti",
+  "hotel_detail_local_time": "(Paikallinen aika)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "Peruutukset, jotka on tehty ennen {x} {y}: Saat {z} %:n hyvityksen huonehinnasta kaikista öistä.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "Peruutukset, jotka on tehty ennen {x} {y}: saat huonehinnasta {z} hyvityksen.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Tarjoukset",
+  "hotel_detail_free_breakfast": "Ilmainen aamiainen",
+  "hotel_detail_free_lunch": "Ilmainen lounas",
+  "hotel_detail_free_dinner": "Ilmainen illallinen",
+  "hotel_detail_allow_smoking": "Tupakointi on sallittu",
+  "hotel_detail_free_parking": "Ilmainen pysäköinti",
+  "hotel_detail_room_not_found": "Huoneita ei löytynyt!",
+  "hotel_detail_no_result": "Emme löytäneet hakuasi vastaavia tuloksia. Yritä uudelleen.",
+  "hotel_detail_similar_hotels_title": "Samanlaisia ominaisuuksia",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Tilaus ei ole maksukelpoinen",
+  "hotel_booking_dialog_qualified_orders": "Tilaus on kelvollinen kokonaissummalla",
+  "hotel_booking_dialog_coupon_code_coins_points": "Voit muuttaa kuponkikoodia, kolikoita tai pisteitä ollaksesi oikeutettu maksuun",
+  "hotel_booking_dialog_or_minimum": "tai vähintään",
+  "hotel_booking_widget_dialog_cannot_used_information": "Näitä tietoja ei voi käyttää tällä hetkellä. Käytä toista tai tallenna uusi.",
+  "hotel_booking_component_applied_points_successfully": "Olet käyttänyt pisteitä onnistuneesti",
+  "hotel_booking_use_point": "Käytä pisteitä",
+  "hotel_booking_point_switch_on_hint": "Poista pisteiden käyttö käytöstä peruuttaaksesi pisteiden käyttämisen tähän tilaukseen",
+  "hotel_booking_point_switch_off_hint": "Ota pisteiden käyttö käyttöön syöttääksesi tähän tilaukseen käyttämiesi pisteiden määrän",
+  "hotel_booking_point_user_point": "Käytettävissä olevat pisteet",
+  "hotel_booking_point_available_point": "Saatavilla tilauksesta",
+  "hotel_booking_point_user_want_to_use_hint": "Käytettävien pisteiden määrä",
+  "hotel_booking_point_equivalent_to": "Vastaa",
+  "hotel_booking_point_press": "Lehdistö",
+  "hotel_booking_point_apply": "Käytä",
+  "hotel_booking_point_apply_for_payment": "soveltaaksesi summaa maksuun",
+  "hotel_booking_points_apply_hint": "Summa käytetään tämän tilauksen maksamiseen.",
+  "hotel_booking_payment_3001_error": "Korttia ei tueta. Yritä uudelleen.",
+  "hotel_booking_payment_3002_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "hotel_booking_payment_3003_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "hotel_booking_payment_3004_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "hotel_booking_payment_3005_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "hotel_booking_payment_3006_error": "Kortti on vanhentunut. Yritä uudelleen.",
+  "hotel_booking_payment_3007_error": "Virheellinen CVC-koodi. Yritä uudelleen.",
+  "hotel_booking_payment_3008_error": "Kortin numero ei kelpaa. Yritä uudelleen.",
+  "hotel_booking_payment_3009_error": "Tätä valuuttaa ei tueta. Yritä uudelleen.",
+  "hotel_booking_payment_3010_error": "Maksuprosessin aikana tapahtui virhe. Yritä uudelleen.",
+  "hotel_booking_modify_coin_applied": "Kolikot on käytetty maksuun. Katso tiedot Totalissa.",
+  "hotel_booking_modify_voucher_applied": "Kolikot on käytetty maksuun. Katso tiedot Totalissa.",
+  "hotel_booking_modify_point_applied": "Maksuun on käytetty pisteitä. Katso tiedot Totalissa.",
+  "hotel_booking_modify_point_canceled": "Pisteiden käyttö tämän tilauksen maksuun on peruutettu.",
+  "hotel_booking_modify_4006_error": "Lahjakortti ei ole saatavilla",
+  "hotel_booking_modify_4007_error": "Lahjakortti on säilytetty",
+  "hotel_booking_modify_4008_error": "Tilaus ei oikeuta kuponkikoodiin. Tarkista ja yritä uudelleen.",
+  "hotel_booking_modify_2004_error": "Hakeminen epäonnistui",
+  "hotel_booking_pay_1005_error": "Väärä arvo",
+  "hotel_booking_pay_2002_error": "Tilauksia ei löytynyt",
+  "hotel_booking_pay_2004_error": "Maksu epäonnistui",
+  "hotel_booking_pay_6002_error": "Virheelliset korttitiedot",
+  "hotel_booking_pay_6003_error": "Korttia ei hyväksytä",
+  "hotel_booking_pay_6004_error": "Tilauksen luomisvirhe",
+  "hotel_booking_pay_6005_error": "TVP-varausvirhe",
+  "hotel_booking_required_city": "Kaupunki vaaditaan",
+  "hotel_booking_sub_bed": "Ylimääräinen sänky",
+  "hotel_booking_information": "Varaustiedot",
+  "hotel_booking_room_information": "Huoneen tiedot",
+  "hotel_booking_room_hotel": "Hotelli",
+  "hotel_booking_x_nights": "{x} yötä",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 yö",
+  "hotel_booking_change": "Muuttaa",
+  "hotel_booking_user_contact": "Yhteystiedot",
+  "hotel_bookng_without_tone_marks": "(ilman sävyjälkiä)",
+  "hotel_booking_first_name": "Etunimi",
+  "hotel_booking_last_name": "Sukunimi",
+  "hotel_booking_middle_name": "Toinen nimi",
+  "hotel_booking_given_name": "Keski- ja etunimi/etunimi",
+  "hotel_booking_phone_number": "Puhelinnumero",
+  "hotel_booking_email": "Sähköposti",
+  "hotel_booking_country": "Maa",
+  "hotel_booking_im_a_guest": "Olen vieraana",
+  "hotel_booking_guest_information": "Vieraiden tiedot",
+  "hotel_booking_fill_contact_information": "Syötä itsesi tai majoituspalvelun tarjoajaan yhteydenpidosta vastaavan henkilön yhteystiedot.",
+  "hotel_booking_name_as_in_passport": "Henkilökortin/passin koko nimi",
+  "hotel_booking_payments": "Maksuvaihtoehdot",
+  "hotel_booking_prepay": "Maksa nyt",
+  "hotel_booking_postpaid": "Maksa myöhemmin",
+  "hotel_booking_prepay_description": "Hahalolo auttaa maksusi käsittelyssä. Maksat koko summan tänään varauksenteon jälkeen.",
+  "hotel_booking_postpaid_description": "Kiinteistö käsittelee maksusi. Varausehdoista riippuen voit maksaa osan tai kokonaan paikan päällä.",
+  "hotel_booking_bill_information": "Maksutiedot",
+  "hotel_booking_use_contact_information": "Käytä yhteyshenkilön tietoja",
+  "hotel_booking_state": "Osavaltio",
+  "hotel_booking_city": "Kaupunki",
+  "hotel_booking_save_payment_information": "Tallenna maksutiedot seuraavaa kertaa varten",
+  "hotel_booking_use_x_y_to_pay": "Käytä maksuun {x} {y}",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "Vastaa {x} {unit}",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Maksutapa",
+  "hotel_booking_payment_note": "Huomautus: HAHALOLO tukee käyttäjiä ILMAISilla pankkikuluilla",
+  "hotel_booking_free": "Vapaa",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Voimmeko vielä auttaa sinua?",
+  "hotel_booking_inform_the_accommodation": "Ilmoitamme kiinteistölle, että olet kiinnostunut näistä palveluista. Huomaa.",
+  "hotel_booking_can_not_guaranteed": "Pyyntöäsi ei voida taata. Älä huoli! Kiinteistö yrittää täyttää tarpeesi.",
+  "hotel_booking_additional_services": "Nämä ovat lisäpalveluita, jotka syntyvät varauspyyntösi ulkopuolella ja voivat veloittaa kiinteistöstä lisämaksuja käytettäessä.",
+  "hotel_booking_note": "Merkintä",
+  "hotel_booking_promo_apply_rule": "Kolikoita ja kuponkikoodeja ei sovelleta seuraaviin maksutapoihin.",
+  "hotel_booking_saved_payment_information": "Maksutiedot tallennettu",
+  "hotel_booking_fill_new_payer_information": "Syötä uudet maksajan tiedot",
+  "hotel_booking_maximum_coins_can_be_use": "Tähän tilaukseen voidaan käyttää enimmäismäärä kolikoita.",
+  "hotel_booking_coins": "Kolikot",
+  "hotel_booking_unknown": "Minä en tiedä",
+  "hotel_booking_planning_arrive_after_x_date": "Jos aiot saapua {x} jälkeen, ilmoita isännöitsijälle suunniteltu sisäänkirjautumisaikasi:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Lisäpalveluista voidaan periä maksu. Ota yhteyttä majoituspaikkaan etukäteen saadaksesi lisätietoja.",
+  "hotel_booking_term_and_policies": "Ehdot - Käytännöt",
+  "hotel_booking_privacy_policy": "Tietosuojakäytäntö",
+  "hotel_booking_tp_and_pp": "Jatkamalla seuraavaa vaihetta vahvistan, että olen lukenut ja hyväksyn Hahalolon ehdot - Käytännöt ja Tietosuojakäytäntö",
+  "hotel_booking_important_note": "Merkintä",
+  "hotel_booking_select_time": "Valitse aika",
+  "hotel_booking_room_x_night": "Huone x 1, 1 yö",
+  "hotel_booking_x_rooms_x_night": "Huone x {x}, 1 yö",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Huone x {x}, {y} yötä",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Huone x 1, {x} yötä",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Verot ja maksut",
+  "hotel_booking_service_charge": "Palvelumaksu",
+  "hotel_booking_payment_fees": "Maksu maksu",
+  "hotel_booking_accommodation_currency": "Kiinteistön valuutta",
+  "hotel_booking_points_fees": "Käytä pisteitä",
+  "hotel_booking_coins_fees": "Käytä kolikoita",
+  "hotel_booking_voucher_fees": "Kuponkikoodi",
+  "hotel_booking_discount": "Edistäminen",
+  "hotel_booking_meal_service": "Ateriapalvelu",
+  "hotel_booking_meal_service_description": "Alla on aamiaispalvelut, joita majoitus voi tarjota sinulle. Jos haluat hakea tätä palvelua, ota yhteyttä suoraan majoitusliikkeen vastaanottoon.",
+  "hotel_booking_meal_price_per_breakfast": "Hinta aamiaistyypin mukaan",
+  "hotel_booking_extended_service": "Lisäpalvelut",
+  "hotel_booking_extended_service_description": "Valitse tähän tilaukseen lisättävien lisävuoteiden kokonaismäärä. Voit lisätä enintään {x} lisävuodetta.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Määrä",
+  "hotel_booking_total": "Kaikki yhteensä",
+  "hotel_booking_unit_price": "Hinta",
+  "hotel_booking_x_price_per_person_per_day": "{x} henkilöä/päivä",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} vuodepaikkaa/henkilö/päivä",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Hintatiedot",
+  "hotel_booking_billings_information": "Maksutiedot",
+  "hotel_booking_service_charge_description": "Pidämme tämän maksun välityspalkkiona palvelusta ja tuesta Hahalolo-järjestelmän varauksiin liittyvissä asioissa.",
+  "hotel_booking_payment_fees_description": "Maksumaksu on tapahtumakohtaisten maksujen määrä, joka sinun on maksettava verkkomaksupalveluntarjoajille.",
+  "hotel_booking_taxes_and_fees_description": "Verot ja maksut ovat kiinteistön (hotellin) sääntöjen mukaan veloitettava rahasumma, joka sinun on maksettava käyttäessäsi majoituspalveluja. Lue lisätietoja käyttöehdoista.",
+  "hotel_booking_accommodation_currency_description": "Hinta on muunnettu Toimittajan käytettävissä olevan valuutan mukaan.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Valuuttakurssi voi muuttua ennen kuin maksat.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Kortin myöntäjä voi veloittaa ulkomaisen maksun.",
+  "hotel_booking_enter_maximum_x_char": "Kirjoita enintään {x} merkkiä",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Pisteitä ei ole saatavilla.",
+  "hotel_booking_coin_not_available": "Kolikoita ei ole saatavilla.",
+  "hotel_booking_voucher_not_available": "Kuponkikoodi ei ole saatavilla.",
+  "hotel_booking_please_check_again": "Tarkista uudestaan.",
+  "hotel_booking_point_change": "Haettujen pisteiden määrä on muuttunut kokonaismaksun muutoksen vuoksi.",
+  "hotel_booking_hold_warning": "Kiinteistövarauksesi on tehty, joten tilaustietoja ei voi muuttaa. Suorita maksu suorittaaksesi varauksesi loppuun.",
+  "hotel_booking_total_point_change": "Saatavilla olevat pisteesi ovat muuttuneet. Syötä pisteiden määrä tilausta varten.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Kartta",
+  "hotel_list": "Lista",
+  "hotel_from_the_center": "Keskustasta",
+  "hotel_from_the_location": "Hakupaikasta",
+  "hotel_right_in_the_center": "Kaupungin keskustassa",
+  "hotel_breakfast_is_served": "Ilmainen aamiainen",
+  "hotel_no_breakfast_served": "Ei aamiaista tarjolla",
+  "hotel_dinner_is_served": "Illallinen tarjotaan",
+  "hotel_no_dinner_service": "Illallista ei tarjota",
+  "hotel_lunch_is_served": "Lounas tarjolla",
+  "hotel_no_lunch_service": "Lounasta ei tarjota",
+  "hotel_allow_smoking": "Tupakointi on sallittu",
+  "hotel_no_smoking": "Tupakointi on kielletty",
+  "hotel_no_refund": "Peruutus ilman hyvitystä",
+  "hotel_without_fee": "Peruutus veloitetaan",
+  "hotel_free_cancel": "ILMAINEN peruutus",
+  "hotel_pay_later": "Varaa nyt, maksa myöhemmin",
+  "hotel_fee": "Aamiainen tarjolla",
+  "hotel_free": "ILMAINEN aamiainen",
+  "hotel_not_refund": "Et saa hyvitystä tai maksettua summaa peruutuksen yhteydessä",
+  "hotel_no_vacancy": "Loppuunmyyty",
+  "hotel_choose_room": "Valitse huone",
+  "hotel_change_date": "Muuta päivämäärää",
+  "hotel_change_price_display": "Näytä hinta",
+  "hotel_continue": "Vain",
+  "hotel_room_available": "vasemmalle",
+  "hotel_room": "huone",
+  "hotel_night": "yö-",
+  "hotel_date_checking": "Sisäänkirjautumispäivä",
+  "hotel_date_checkout": "Lähtöpäivä",
+  "hotel_search": "Hae",
+  "hotel_promotion": "Edistäminen",
+  "hotel_promotions": "Kampanjat",
+  "hotel_applying": "soveltamalla",
+  "hotel_promotion_applying": "sovellettava promootio",
+  "hotel_promotions_applying": "sovellettavat tarjoukset",
+  "hotel_title_promotions_applying": "Sovellettava ylennys",
+  "hotel_see_detail": "Tarkemmat tiedot",
+  "hotel_cancel": "Peruutuksesta {x} tuntia ennen sisäänkirjautumisaikaa hyvitetään {y} % huoneen hinnasta",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Saat {x} alennusta per yö, kun vieraat yöpyvät välillä {y}–{z}.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Saat {x} alennusta per yö (enintään {a} varaustilauksesta), kun vieraat yöpyvät välillä {y}-{z}.",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{x} alennus {y} päivän ennakkovarauksista. Koskee, kun vieraat yöpyvät paikasta {z}",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{x} alennus, enintään {y} {z} päivää etukäteen tehdyistä varauksista. Koskee, kun vieraat yöpyvät paikasta {a}",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{x} alennus {z} päivän ennakkovarauksista. Koskee, kun vieraat yöpyvät paikasta {a}",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{x} alennus yli {y} yön varauksista. Koskee, kun vieraat yöpyvät paikasta {a}",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{x} alennus, enintään {y} yli {z} yön varauksissa. Koskee, kun vieraat yöpyvät paikasta {a}",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{x} alennus yli {z} yön varauksista. Koskee, kun vieraat yöpyvät paikasta {a}",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "kaikki yöt",
+  "hotel_first_night": "ensimmäinen yö",
+  "hotel_rating": "Arvostelu",
+  "hotel_wonderful": "Erinomainen",
+  "hotel_very_good": "Oikein hyvä",
+  "hotel_satisfied": "Tyytyväinen",
+  "hotel_medium": "Keskiverto",
+  "hotel_bad": "Huono",
+  "hotel_hand_note_consult_book_room": "Katso varaus",
+  "hotel_hand_note_enter_code_search_info": "Syötä varausnumerosi nähdäksesi varaustiedot",
+  "hotel_hand_note_reservation_code": "Varausnumero",
+  "hotel_hand_note_can_not_find_hotel": "Valitettavasti emme löytäneet hakuasi vastaavia hotelleja.",
+  "hotel_hand_note_search_night": "Yön määrä",
+  "hotel_hand_note_num_room": "Huoneiden lukumäärä",
+  "hotel_hand_note_status_booking": "Varauksen tila",
+  "hotel_hand_note_booked": "Varattu",
+  "hotel_hand_note_dont_booked": "Ei ole vielä varattu",
+  "hotel_hand_note_total_price": "Kokonaishinta",
+  "hotel_hand_note_status": "Tila",
+  "hotel_hand_note_payment_after": "Ole hyvä ja maksa etukäteen",
+  "hotel_hand_note_pay_now": "Maksa nyt",
+  "hotel_hand_note_info_book_room": "Varaustiedot",
+  "hotel_hand_note_code_book_room": "Varausnumero:",
+  "hotel_hand_note_checking": "Ilmoittautua",
+  "hotel_hand_note_checkout": "Tarkista",
+  "hotel_hand_note_detail": "Tarkemmat tiedot",
+  "hotel_hand_note_kind_room": "Huone tyyppi",
+  "hotel_hand_note_quantity": "Määrä",
+  "hotel_hand_note_room": "huone",
+  "hotel_hand_note_visited": "Vieras",
+  "hotel_hand_note_adult": "aikuinen",
+  "hotel_hand_note_children": "lapset",
+  "hotel_hand_note_number_nights": "Yöpymisten määrä",
+  "hotel_hand_note_night": "yö-",
+  "hotel_hand_note_status_payment": "Maksun tilanne",
+  "hotel_hand_note_cancel_order": "Peruuta tilaus",
+  "hotel_hand_note_info_refund": "Hyvitystiedot",
+  "hotel_hand_note_rate_experience": "Tarkista kokemuksesi osoitteessa",
+  "hotel_hand_note_rate": "Arvostelu",
+  "hotel_hand_note_see_rate": "Katso arvostelut",
+  "hotel_hand_note_rate_overall_rating": "Yleisarviosi hotellista",
+  "hotel_hand_note_rate_average": "Keskiverto",
+  "hotel_hand_note_position": "Sijainti",
+  "hotel_hand_note_price": "Hinta",
+  "hotel_hand_note_clean": "Puhtaus",
+  "hotel_hand_note_serve": "Palvelu",
+  "hotel_hand_note_material_facilities": "Palvelut",
+  "hotel_hand_note_review": "Ole hyvä ja jaa tunteesi ja arvostelusi.",
+  "hotel_hand_note_review_limit": "Arvostelussa tulee olla vähintään 2 merkkiä.",
+  "hotel_hand_note_cancel": "Peruuttaa",
+  "hotel_hand_note_submit_review": "Lähetä arvostelu",
+  "hotel_hand_note_room_rates": "Huoneen hinta",
+  "hotel_hand_note_extra_bed": "Ylimääräinen sänky",
+  "hotel_hand_note_service_charge": "Palvelumaksu",
+  "hotel_hand_note_payment_fees": "Maksu maksu",
+  "hotel_hand_note_promotion": "Edistäminen",
+  "hotel_hand_note_voucher": "Kuponkikoodi",
+  "hotel_hand_note_use_coins": "Käytä kolikoita",
+  "hotel_hand_note_rates_include": "Hinta sisältää",
+  "hotel_hand_note_see_review_title": "Katso arvostelusi aiheesta {a}",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "Arvosteltu {a}",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "Kiitos arvostelustasi",
+  "hotel_hand_note_use_point": "Käytä pisteitä",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "Ilmainen peruutus ennen {x}.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Paikallinen aika)",
+  "hotel_hand_note_hotel_apartment": "Huoneisto",
+  "hotel_hand_note_hostel": "Hostelli",
+  "hotel_hand_note_hotel": "Hotelli",
+  "hotel_hand_note_resort": "Lomakeskus",
+  "hotel_hand_note_other": "muu",
+  "hotel_hand_note_motel": "Motelli",
+  "hotel_hand_note_villa": "Huvila",
+  "hotel_hand_note_vacation_home": "Lomakoti",
+  "hotel_hand_note_homestay": "Kotimajoitus",
+  "hotel_hand_note_farmstay": "Maatilamajoitus",
+  "hotel_hand_note_condotel": "Condotel",
+  "hotel_hand_note_cruise_ship": "Risteily",
+  "hotel_hand_note_boathouse": "Vene",
+  "hotel_hand_note_countryhouse": "Maalaistalo",
+  "hotel_hand_note_campground": "Leirintäalue",
+  "hotel_hand_note_camper": "Matkailuauto",
+  "hotel_hand_note_lodge": "Lodge",
+  "hotel_hand_note_guesthouse": "Vieras talo",
+  "hotel_hand_note_cancel_hotel": "Peruutus",
+  "hotel_update_price": "Päivitetään hintoja",
+  "hotel_distance_x_from_center": "{distance}{x} keskustasta",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "{distance}{x} hakupaikasta",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "{x} alennus per yö, kun vieraat yöpyvät välillä {y}–{z}.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Huoneiden ja vieraiden lukumäärä",
+  "hotel_add_room_children": "Lapset",
+  "hotel_add_room_age_upto": "(0-17-vuotiaat)",
+  "hotel_add_room_child": "Lapsi",
+  "hotel_add_room_age": "ikä",
+  "hotel_add_room_cancel": "Peruuttaa",
+  "hotel_add_room_choose_age": "Valitse ikä",
+  "hotel_add_room_done": "Tehty",
+  "hotel_add_room_room": "Huone",
+  "hotel_add_room_adult": "Aikuinen",
+  "hotel_add_room_adults": "Aikuiset",
+  "hotel_add_room_age_children": "Lasten ikä",
+  "hotel_add_room_age_child": "Lasten ikä",
+  "hotel_add_room_condition": "Huoneiden ja vieraiden lukumäärä huonetta kohti ei saa olla suurempi kuin 9.",
+  "hotel_add_room_note": "Merkintä",
+  "hotel_add_room_save": "Tallentaa",
+  "hotel_cart_child": "Lapsi",
+  "hotel_cart_children": "Lapset",
+  "hotel_cart_delete": "Poistaa",
+  "hotel_cart_change": "Muuttaa",
+  "hotel_cart_book_room": "Kirjahuone",
+  "hotel_cart_night": "yö-",
+  "hotel_cart_title_included_texas_fee": "Verot ja maksut mukaan lukien",
+  "hotel_cart_temporary_price": "Välisumma",
+  "hotel_cart_delete_order": "Poista tilaus",
+  "hotel_screen_cart_delete_order_confirm": "Haluatko poistaa tämän tilauksen?",
+  "hotel_order_detail_info_hotel": "Varaustiedot",
+  "hotel_order_detail_done": "Tehty",
+  "hotel_order_detail_detail": "Tarkemmat tiedot",
+  "hotel_order_detail_book_new": "Varaa uusi huone",
+  "hotel_order_detail_success": "Varaus onnistui",
+  "hotel_order_detail_requests_success": "Varauspyyntösi on tehty onnistuneesti",
+  "hotel_order_detail_paid": "(Maksettu).",
+  "hotel_order_detail_reservation": "Voit tarkistaa varaustiedot alta.",
+  "hotel_order_detail_thank": "Kiitos luottamuksestasi palveluihin",
+  "hotel_order_detail_support": "Jos sinulla on kysyttävää tai tarvitset lisäapua, ota yhteyttä Hahalolo Help Centeriin",
+  "hotel_order_detail_instructions": "ohjeita varten.",
+  "hotel_order_detail_info_rest": "Kiinteistön tiedot",
+  "hotel_order_detail_hotel": "Hotelli",
+  "hotel_order_detail_type": "Huone tyyppi",
+  "hotel_order_detail_check_in": "Ilmoittautua",
+  "hotel_order_detail_check_out": "Tarkista",
+  "hotel_order_detail_visited": "Vieraiden lukumäärä",
+  "hotel_order_detail_adult": "aikuinen",
+  "hotel_order_detail_children": "lapset",
+  "hotel_order_detail_baby": "vauva (alle 1-vuotias)",
+  "hotel_order_detail_contact": "Yhteystiedot",
+  "hotel_order_detail_lastname": "Koko nimi",
+  "hotel_order_detail_tel_number": "Puhelinnumero",
+  "hotel_order_detail_nationality": "Kansallisuus",
+  "hotel_order_detail_note": "Merkintä",
+  "hotel_order_detail_guests": "Vieraiden tiedot",
+  "hotel_order_detail_trade": "Tapahtumatiedot",
+  "hotel_order_detail_order_form": "Tilaus",
+  "hotel_order_detail_payment": "Maksun määrä",
+  "hotel_order_detail_bed_type": "Sänkytyyppi",
+  "hotel_order_detail_extra_bed": "Ylimääräinen sänky",
+  "hotel_order_detail_bed": "sänky",
+  "hotel_order_detail_reservation_code": "Varausnumero",
+  "hotel_order_detail_payer": "Maksaja",
+  "hotel_search_code_total_price": "Kokonaishinta",
+  "hotel_search_code_voucher": "Kuponkikoodi",
+  "hotel_search_code_use_coin": "Käytä kolikoita",
+  "hotel_search_code_use_point": "Käytä pisteitä",
+  "hotel_search_code_total_pay": "Koko maksu",
+  "hotel_search_code_detail_pay": "Maksutiedot",
+  "hotel_hand_note_hotel_policy_check_out": "- Uloskirjautuminen ennen {checkout}",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- Sisäänkirjautuminen {checkin} jälkeen",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "Peruutusehdot",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Ilmaiset peruutusaikataulut perustuvat kiinteistön aikavyöhykkeeseen ja määritetään kiinteistön peruutusehdoissa.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x huone, {night} x yö",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Verot ja maksut",
+  "hotel_hand_note_detail_total_amount": "Koko maksu",
+  "hotel_hand_note_detail_success": "Onnistunut",
+  "hotel_hand_note_detail_failed": "Epäonnistui",
+  "hotel_hand_note_detail_postpaid": "Jälkimaksu",
+  "hotel_hand_note_detail_prepaid": "Prepaid",
+  "hotel_hand_note_detail_operation_history": "Toimintahistoria",
+  "hotel_hand_note_detail_order_cancel_info": "Tilauksen peruutustiedot",
+  "hotel_hand_note_detail_order_total_order": "Tilaus yhteensä",
+  "hotel_hand_note_detail_total_money": "Maksettu kokonaissumma",
+  "hotel_hand_note_detail_coin": "kolikoita",
+  "hotel_hand_note_detail_fee_cancel": "Peruutusmaksu",
+  "hotel_hand_note_detail_refund_amount": "Arvioitu hyvityssumma",
+  "hotel_hand_note_detail_coin_refund_amount": "Arvioidut hyvityskolikot",
+  "hotel_hand_note_detail_payment_info": "Maksutiedot",
+  "hotel_hand_note_detail_customer_service": "Kuponkikoodia ei palauteta. Ota yhteyttä asiakaspalveluumme kuponkikoodin palauttamiseksi.",
+  "hotel_hand_note_detail_note_refund": "Hyvitysaika (Peruutuspäivästä): 5-7 päivää (Alepay- ja Payme-maksuyhdyskäytävälle) tai 7-15 päivää (Stripe-maksuyhdyskäytävälle).",
+  "hotel_hand_note_detail_reason_cancel": "Peruuttamisen syyt",
+  "hotel_hand_note_detail_checking_out": "Sisään- ja uloskirjautumisaika",
+  "hotel_hand_note_detail_check_in_after": "Sisäänkirjautuminen jälkeen",
+  "hotel_hand_note_detail_check_out_before": "Uloskirjautuminen ennen",
+  "hotel_hand_note_detail_person_day": "henkilö/päivä",
+  "hotel_hand_note_detail_free": "Vapaa.",
+  "hotel_hand_note_detail_day": "/päivä",
+  "hotel_hand_note_detail_note_hotel": "Ilmaiset peruutusaikataulut perustuvat kiinteistön aikavyöhykkeeseen ja määritetään kiinteistön peruutusehdoissa.",
+  "hotel_hand_note_detail_room_service": "Huonepalvelu",
+  "hotel_hand_note_detail_facilities_service": "Tilat ja huonepalvelut",
+  "hotel_hand_note_detail_person_contact": "Yhteyshenkilö",
+  "hotel_hand_note_detail_telephone_num": "Puhelinnumero",
+  "hotel_hand_note_detail_email": "Sähköposti",
+  "hotel_hand_note_detail_nationality": "Kansallisuus",
+  "hotel_hand_note_detail_address": "Osoite",
+  "hotel_hand_note_detail_paid": "Maksettu summa",
+  "hotel_hand_note_detail_rest": "Maksamaton summa",
+  "hotel_hand_note_detail_payment_methods": "Maksutapa",
+  "hotel_hand_note_detail_check_in_info": "Sisäänkirjautumistiedot",
+  "hotel_hand_note_detail_guest_name": "Vieraan nimi",
+  "hotel_hand_note_detail_policy_cancel": "Aikaisemmin tehtyjä peruutuksia",
+  "hotel_hand_note_detail_hour": "{hour} tuntia",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} minuuttia",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":palautetaan",
+  "hotel_hand_note_detail_price_room": "huoneen hinnasta",
+  "hotel_hand_note_detail_one_night": "ensimmäinen yö.",
+  "hotel_hand_note_detail_all_night": "kaikki yöt.",
+  "hotel_hand_note_detail_policy": "Peruutusehdot",
+  "hotel_hand_note_detail_children_note": "{age}-vuotiaat lapset ovat sallittuja.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Lemmikkieläimet ovat sallittuja. Lemmikkimaksu: {fee} (Lemmikkimaksu maksetaan majoituksessa).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Lapset",
+  "hotel_hand_note_detail_pet": "Lemmikit",
+  "hotel_hand_note_detail_total_room_rate": "Huoneen kokonaishinta",
+  "hotel_hand_note_detail_total_room_order": "Huoneiden lukumäärä",
+  "hotel_hand_note_detail_room_information": "Huoneen tiedot",
+  "hotel_hand_note_detail_person_x": "{x} henkilöä",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Apuohjelmat, huonepalvelut",
+  "hotel_hand_note_detail_waiting_service": "Odottaa täydennystä",
+  "hotel_hand_note_detail_in_service": "Meneillään oleva",
+  "hotel_hand_note_detail_completed": "Valmis",
+  "hotel_hand_note_detail_waiting_cancellation": "Odotetaan peruutusta",
+  "hotel_hand_note_detail_canceled": "Peruutettu",
+  "hotel_hand_note_detail_awaiting_confirmation": "Odottaa vahvistusta",
+  "hotel_hand_note_detail_not_refund": "Et saa hyvitystä tai maksettua summaa peruutuksen yhteydessä",
+  "hotel_hand_note_detail_other_required": "Muu pyyntö",
+  "hotel_hand_note_detail_point_refund_amount": "Arvioidut palautuspisteet",
+  "hotel_input_title_start_date": "Sisäänkirjautumispäivä",
+  "hotel_input_title_end_date": "Lähtöpäivä",
+  "hotel_input_title_choose_date": "Valitse päivämäärä",
+  "hotel_input_title_choose": "Valitse",
+  "hotel_hand_note_price_detail_payment_type": "Maksutapa",
+  "hotel_hand_note_price_detail_payment_date": "Maksupäivä",
+  "hotel_hand_note_price_detail_price": "Katso hintatiedot",
+  "hotel_hand_note_price_detail_title": "Hintatiedot",
+  "hotel_hand_note_price_detail_contact_info": "Yhteyshenkilön tiedot",
+  "hotel_hand_note_utilities_title": "Palvelut",
+  "hotel_hand_note_services_title": "Palvelut",
+  "hotel_hand_note_search_required_code": "Varausnumero vaaditaan.",
+  "cart_screen_main_hotel_title": "Hotelli",
+  "cart_screen_main_hotel_title_1": "Hotelli (1)",
+  "hotel_cancel_hotel": "Peruutus",
+  "hotel_search_this_area ": "Hae tätä aluetta",
+  "hotel_where": "Missä haluat yöpyä?",
+  "hotel_people": "{y} huonetta - {x} vierasta",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Huone",
+  "hotel_hand_note_item_view_booking_code_title": "Varausnumero",
+  "hotel_hand_note_title_hotel_order": "Hotellivaraustilaukset",
+  "hotel_order_detail_view_information_order": "Tilaus Informaatio",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Missä haluat yöpyä?",
+  "search_city_no_result": "Vastaavia paikkoja ei löytynyt...",
+  "search_city_choose_the_city": "Etsi hotelleja",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Valitse hotelli",
+  "advanced_search_any_review": "Minkä tahansa",
+  "advanced_search_star_rating": "Tähtiluokitus",
+  "advanced_search_any_star": "Luokittelematon",
+  "advanced_search_a_star": "1 tähti",
+  "advanced_search_x_star": "{x} tähteä",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Omaisuuden tyyppi",
+  "advanced_search_reset_button": "Nollaa",
+  "advanced_search_search_button": "Hae",
+  "advanced_search_evaluation_point": "Tarkista pisteet",
+  "advanced_search_no_city_error": "Omaisuutta ei ole valittu",
+  "advanced_search_title": "Tarkennettu Haku",
+  "advanced_search_clear": "Asia selvä",
+  "advanced_search_no_date_error": "Päivämäärää ei ole valittu",
+
+  "@_HOTEL_117=====================START===================": {},
+
+  "hotel_show_list": "Näytä lista",
+  "hotel_not_found": "Hotellia ei löytynyt!",
+  "hotel_search_near_by": "Lähistöllä",
+  "advanced_search_less_x_unit": "Alle {x}{unit}",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "Alkaen {x}{unit} ja enemmän",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "Kohteesta {x}{unit} alle {y}{unit}",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Etäisyys keskustasta",
+  "hotel_booking_do_you_want_to_remove_a_user": "Haluatko todella poistaa käyttäjän {user} luettelosta?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "Lisämaksu",
+  "hotel_map_filter": "Järjestä",
+  "hotel_map_default": "Oletus",
+  "hotel_map_high_star": "Tähtiluokitus: Korkeasta matalaan",
+  "hotel_map_low_star": "Tähtiluokitus: Matalasta korkeaan",
+  "hotel_map_distance_center": "Etäisyys keskustasta",
+  "hotel_map_high_rate": "Parhaiten arvioitu",
+  "hotel_map_high_order": "Eniten varattu",
+  "hotel_hand_note_reply": "Kiinteistön vastaus",
+  "hotel_booking_payment_3011_error": "Kortti hylättiin. Kokeile toista korttia tai ota yhteyttä kortin myöntäjään saadaksesi apua!",
+  "hotel_hand_note_utilities_title_room": "HUONEEN VARUSTEET",
+
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Olette kaikki kiinni!",
+  "halo_error_wifi_error": "Wifi-virhe",
+  "halo_error_something_wrong": "Hups!\nJotain meni pieleen, yritä uudelleen",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}

@@ -1,0 +1,3312 @@
+{
+  "@@locale": "tr",
+  "@_COMMON_________________________________________________________________________________________": {},
+  "common_try_again": "Tekrar deneyin",
+  "common_see_more": "Daha fazla gör",
+  "common_see_less": "Daha az gör",
+  "common_search_hint": "Arama …",
+  "common_loading": "Yükleniyor…",
+  "common_retry": "yeniden dene",
+  "common_cancel": "İptal",
+  "common_ok": "Tamam",
+  "common_save": "Kaydetmek",
+  "common_decline": "Reddetmek",
+  "common_done": "Tamamlandı",
+  "common_confirm": "Onaylamak",
+  "common_close": "Kapat",
+  "common_continue": "Devam et",
+  "common_detail": "Detaylar",
+  "common_enter_discount_code": "Kupon kodunu girin",
+  "common_use_payment_or_contact_info": "Ödeme yapan kişinin veya kişinin bilgilerini kullanın",
+  "@_END_COMMON_____________________________________________________________________________________": {},
+
+  "@_CAR____________________________________________________________________________________________": {},
+  "car_time_picker": "Zaman seçici",
+  "car_input_title_pick_up_place": "Alış yerini girin",
+  "car_input_title_pick_up_location": "Alış yeri",
+  "car_title_return_to_different_location": "Farklı konuma dön",
+  "car_input_title_start_time": "Başlangıç saati",
+  "car_input_title_end_time": "Bitiş zamanı",
+  "car_input_title_start_date": "Başlangıç tarihi",
+  "car_input_title_end_date": "Bitiş tarihi",
+  "car_input_title_enter_drop_off_place": "Bırakma yeri girin",
+  "car_input_title_enter_drop_off_location": "bırakma yeri",
+  "car_title_advanced_search": "Gelişmiş Arama",
+  "car_title_look_up_booking_number": "Rezervasyon numarasına bakın",
+  "car_header_title_look_up_booking_number": "Rezervasyon bilgilerinizi bulmak için rezervasyon numarasını veya sipariş kodunu girin",
+  "car_title_search": "Aramak",
+  "car_notice_empty_pick_up_location": "Arama için bir teslim alma yeri ve başlangıç tarihi seçin",
+  "car_title_ascending_price": "Artan fiyat",
+  "car_title_descending_price": "Azalan fiyat",
+  "car_title_car_type": "Araba tipi",
+  "car_title_transmission": "Bulaşma",
+  "car_title_segment": "Segment",
+  "car_title_fuel_type": "Yakıt tipi",
+  "car_title_supplier": "Tedarikçi",
+  "car_title_price": "Fiyat",
+  "car_title_view_on_map": "Haritada görüntüle",
+  "car_title_deals": "Fırsatlar",
+  "car_title_seats": "Koltuklar",
+  "car_title_filter_by": "Tarafından filtre",
+  "car_title_un_filter": "Filtreyi kaldır",
+  "car_title_choose_this_car": "Bu arabayı seç",
+  "car_title_rental_terms": "Kiralama koşulları",
+  "car_title_search_location": "Konum ara",
+  "car_title_select_btn": "Seçme",
+  "car_title_select_date": "Tarih seç",
+  "car_title_select_time": "Zaman seçin",
+  "car_title_reset_btn": "Sıfırla",
+  "car_title_location_type": "Konum türü",
+  "car_title_number_of_seats": "koltukların sayısı",
+  "car_title_days": "Günler",
+  "car_title_unlimited_mileage": "Limitsiz mil",
+  "car_title_instant_confirmation": "Anında Onay",
+  "car_title_time_pick_up": "Tarih almak",
+  "car_title_time_drop_off": "Bırakma tarihi",
+  "car_title_air_conditioning": "Klima",
+  "car_title_number_of_bag": "bavul sayısı",
+  "car_hand_note_title_booking_order_code": "sipariş kodu",
+  "car_hand_note_title_booking_code": "Rezervasyon numarası",
+  "car_hand_note_title_total_rental_car": "Toplam kiralama günü",
+  "car_hand_note_title_status_order": "Sipariş durumu",
+  "car_hand_note_title_total_price": "Toplam ödeme",
+  "car_hand_note_title_status_payment": "Ödeme durumu",
+  "car_hand_note_title_reason_cancel": "Iptal nedenleri",
+  "car_hand_note_title_view_details_btn": "Detayları göster",
+  "car_hand_note_notice_cancel_order": "İptal edilen siparişin (varsa) iade tutarı, tedarikçi tarafından belirtilen süre içerisinde müşterinin banka hesabına aktarılacaktır.",
+  "car_hand_note_title_tab_all": "Herşey",
+  "car_hand_note_title_tab_awaiting_fulfillment": "Yerine getirilmesi bekleniyor",
+  "car_hand_note_title_tab_ongoing": "devam ediyor",
+  "car_hand_note_title_tab_completed": "Tamamlanmış",
+  "car_hand_note_title_tab_canceled": "İptal edildi",
+  "car_hand_note_title_order_manager": "Sipariş yönetimi",
+  "car_hand_note_title_create_date": "Tarih oluşturuldu",
+  "car_hand_note_title_view_more_btn": "Daha fazla göster",
+  "car_hand_note_title_status_order_completed": "Tamamlanmış",
+  "car_hand_note_title_status_payment_successful": "Başarılı",
+  "car_hand_note_title_details_order": "Sipariş detayları",
+  "car_hand_note_title_contact_info": "İletişim bilgileri",
+  "car_hand_note_title_info_rental_car": "Rezervasyon bilgileri",
+  "car_hand_note_title_driver_info": "Sürücü ayrıntıları",
+  "car_hand_note_title_pirce_details": "Fiyat ayrıntıları",
+  "car_hand_note_title_creator": "Tarafından yaratıldı",
+  "car_hand_note_title_person_contact": "İlgili kişi",
+  "car_hand_note_title_phone": "Telefon numarası",
+  "car_hand_note_title_email": "E-posta",
+  "car_hand_note_title_country": "Ülke",
+  "car_hand_note_title_address": "Adres",
+  "car_hand_note_title_price_of_car_rental": "Araba kiralama fiyatı",
+  "car_hand_note_title_price_payment_fee": "Ödeme ücreti",
+  "car_hand_note_title_info_extra_services": "Ekstra hizmetler",
+  "car_hand_note_title_type_insurance": "Sigorta türleri",
+  "car_hand_note_title_info_insurance": "Sigorta bilgisi",
+  "car_hand_note_title_car_info": "Araba detayları",
+  "car_search_result_not_found_title": "Üzgünüz, aradığınız araç bulunamadı.",
+  "car_search_result_not_found_sub_title": "İsteğiniz için uygun eşleşmeyi bulamıyoruz.\nLütfen tekrar deneyin.",
+  "car_search_result_first_title_rental_car": "Araba kiralama",
+  "car_detail_btn_rent_now": "Şimdi ayırtın",
+  "car_notice_title_check_connection": "Lütfen bağlantınızı kontrol edin ve tekrar deneyin!",
+  "car_rent_input_title_details": "Detaylar",
+  "car_rent_input_title_total_payment": "Toplam ödeme",
+  "car_rent_input_title_payment": "Ödemek",
+  "car_rent_form_input_last_name": "Soyadı (ton işaretleri olmadan)",
+  "car_rent_form_input_first_name": "Orta ve İlk/Verilen ad (Ton işaretleri olmadan)",
+  "car_rent_input_content_cb_use_contact_details": "Kişinin ayrıntılarını kullan",
+  "car_rent_input_title_method_payment": "Ödemek",
+  "car_rent_input_title_method_pay": "Ödeme seçeneği",
+  "car_rent_input_title_late_payment": "Daha sonra öde",
+  "car_rent_input_title_now_payment": "Şimdi öde",
+  "car_rent_input_title_information_card": "Kart detayları",
+  "car_rent_input_title_driver_age": "Sürücünün yaşı",
+  "car_rent_input_title_Do_you_need_anything_else": "Başka bir şeye ihtiyacın var mı?",
+  "car_rent_input_title_accept_policy": "Bir sonraki adıma geçerek Hahalolo''nun Şartları - Politikalar ve Gizlilik Politikası''nı okuduğumu ve kabul ettiğimi onaylıyorum.",
+  "car_rent_input_title_card_must_be_valid": "Kiralama işlemini tedarikçi ile güvence altına almak için kartınız geçerli olmalıdır.",
+  "car_rent_input_title_accept_card_pay": "Kabul edilen ödeme kartları",
+  "car_rent_input_title_content_notice_later_pay": "Araba tedarikçisi ödemenizi işleme koyacaktır. Rezervasyon koşullarına bağlı olarak, tamamen veya kısmen ödeme yapabilirsiniz.",
+  "car_rent_input_title_select_type_card": "Kredi Kartı türünü seçin",
+  "car_rent_input_title_number_card": "Kart numarası",
+  "car_rent_input_title_enter_number_card": "Kart numarasını girin",
+  "car_rent_input_title_name_card": "Kart Sahibinin Adı",
+  "car_rent_input_title_enter_name_card": "Kart sahibinin adını girin",
+  "car_rent_input_title_select_expiry_date": "Son kullanma tarihini seçin",
+  "car_rent_input_title_expiry_date": "Son kullanma tarihi",
+  "car_rent_input_title_gate_ways": "Ödeme Sağlayıcı",
+  "car_rent_input_title_ccv_code": "CVC kodu",
+  "car_rent_input_title_enter_ccv_code": "CVC kodunu girin",
+  "car_rent_input_title_first_notice_need_anything_else": "Bu hizmetlerle ilgilendiğinizi tedarikçiye bildireceğiz, böylece size ayrıntılı bilgi verebilirler.\n\n Talebiniz garanti edilemez. Merak etme! Tedarikçi ihtiyaçlarınızı karşılamaya çalışacaktır.",
+  "car_rent_input_title_sub_notice_need_anything_else": "İsteğiniz garanti edilemez. Merak etme! Tedarikçi ihtiyaçlarınızı karşılamaya çalışacaktır.",
+  "car_rent_input_hint_enter_maximum_fifteen_character": "En fazla 55 karakter girin",
+  "car_rent_input_noti_invalid_last_name": "Geçersiz soyadı",
+  "car_rent_input_noti_invalid_first_name": "Geçersiz Orta ve Ad/Verilen ad",
+  "car_rent_input_noti_required_last_name": "Soyadı gerekli",
+  "car_rent_input_noti_required_first_name": "Orta ve İlk/Verilen ad gerekli",
+  "car_rent_input_noti_invalid_email": "Geçersiz e-posta",
+  "car_rent_input_noti_invalid_phone": "Geçersiz telefon numarası",
+  "car_rent_input_noti_required_email": "Email gereklidir",
+  "car_rent_input_noti_required_phone": "Telefon numarası gerekli",
+  "car_rent_input_noti_requried_address": "Adres gerekli",
+  "car_rent_input_noti_requried_country": "Ülke gerekli",
+  "car_rent_input_noti_requried_number_card": "Kart numarası gerekli",
+  "car_rent_input_noti_requried_card_holder_name": "Kart sahibinin adı gerekli",
+  "car_rent_input_noti_requried_type_card": "Kredi kartı gerekli",
+  "car_rent_input_noti_requried_expiry": "Son kullanma tarihi gerekli",
+  "car_rent_input_title_type_card_credit": "Kredi kart tipi",
+  "car_rent_input_title_currency_at_rental_car_place": "Alış yerindeki para birimi",
+  "car_rent_input_title_rule_age": "Yaş kuralları",
+  "car_rent_input_notice_term_and_policy_first_string": "Bir sonraki adıma geçerek Hahalolo''nun koşullarını okuyup kabul ettiğimi onaylıyorum.",
+  "car_rent_input_notice_term_and_policy_append__string": "Şartlar - Politikalar",
+  "car_rent_input_notice_term_and_policy_between_string": "ve",
+  "car_rent_input_notice_term_and_policy_append___string": "Gizlilik Politikası",
+  "car_rent_input_notice_term_and_policy_append____string": "",
+  "car_cart_title_pick_up": "Toplamak",
+  "car_cart_title_drop_off": "Bırakmak",
+  "car_cart_title_included_texas_fee": "Vergiler ve ücretler dahil",
+  "car_cart_title_btn_delete": "Silmek",
+  "car_cart_title_btn_edit": "Seçiminizi değiştirin",
+  "car_cart_title_sub_total": "Ara toplam",
+  "car_cart_title_car_types": "Araba tipi:",
+  "car_title_select_country": "Ülke Seçiniz",
+  "car_title_car_cart": "Araba Rezervasyonu",
+  "car_feed_input_hint_pick_up_place": "Alış yeriniz",
+  "car_feed_input_hint_drop_off_place": "Bırakma yeriniz",
+  "car_feed_notice_empty_location_pick_up": "Lütfen aramak için bir teslim alma yeri seçin",
+  "@_Need_CAR": {
+  },
+  "car_title_search_enter_drop_off_place": "Bırakma yerini girin",
+  "notify_error_occurred": "Bir hata oluştu. Lütfen tekrar kontrol edin.",
+  "car_hand_note_detail_order_full_name": "Ad Soyad",
+  "car_hand_note_detail_order_promotion": "Terfi",
+  "car_hand_note_detail_order_act_history": "Etkinlik günlüğü",
+  "car_hand_note_detail_order_request_other": "Diğer istekler",
+  "car_hand_note_detail_order_order_payment": "Sipariş ödeme",
+  "car_hand_note_detail_order_cancel_info": "Sipariş iptal bilgileri",
+  "car_hand_note_detail_order_payment_info": "Ödeme bilgileri",
+  "car_hand_note_detail_order_paid": "Paralı",
+  "car_hand_note_detail_order_unpaid": "ödenmemiş",
+  "car_hand_note_title_days_ago": "günler önce",
+  "car_hand_note_detail_order_cancel_fee": "iptal ücreti",
+  "car_hand_note_detail_order_amount_ongoing_return": "Tahmini geri ödeme tutarı",
+  "car_hand_note_detail_order_time_ongoing_return": "Tahmini geri ödeme süresi",
+  "car_hand_note_detail_order_info_transaction": "İşlem Bilgileri",
+  "car_hand_note_detail_order_amount_payment": "Toplam tutar",
+  "car_hand_note_detail_order_total_order": "Sipariş toplamı",
+  "car_hand_note_detail_content_define_vat": "KDV, araç kiralama hizmetini kullanırken kendi düzenlemeleri uyarınca araç tedarikçisine ödemeniz gereken vergi ve ücrettir.",
+  "car_title_search_result_first_character": "Araba kiralama",
+  "car_title_tool_bar_pick_up_location": "Nereden almak istiyorsun?",
+  "car_title_tool_bar_drop_off_location": "Nereye bırakmak istiyorsun?",
+  "car_hand_note_detail_content_define_currency_on_pick_location": "Araç kiralama fiyatı, Araç tedarikçisi tarafından kullanılan geçerli para birimine göre dönüştürülür.\nNot:\n- Döviz kuru, siz ödemeden önce değişebilir.\n- Kartınızı veren kuruluş sizden yabancı işlem ücreti alabilir.",
+  "car_hand_note_detail_content_define_payment_fee": "Çevrimiçi ödeme ağ geçidi hizmet sağlayıcısına ödemeniz gereken her araç kiralama talebine karşılık gelen işlem ücreti.",
+  "car_hand_note_detail_content_notice_insurance": "Not: Bu sigorta paketlerine başvurmak isterseniz, lütfen doğrudan araç tedarikçisinin resepsiyonuyla iletişime geçin.",
+  "car_hand_note_detail_title_header_insurance": "Birçok araba sigortası ve kiralama sözleşmesi, kiralık araç hasarı veya hırsızlıkla ilişkili pahalı olabilecek istisnaları kapsar. Bununla birlikte, aşağıda sigortaya sahip olmak, sizi korumaya yardımcı olacak ve önemli miktarda para ile finansal destek sunacaktır.",
+  "car_result_booking_title_header_rental_car_success": "REZERVASYON BAŞARILI",
+  "car_result_booking_title_btn_continue_rental_car": "Rezervasyon yapmaya devam et",
+  "car_result_booking_title_btn_view_order_details": "sipariş detaylarını incele",
+  "car_result_booking_title_header_first_char": "Rezervasyon talebiniz başarıyla gerçekleştirilmiştir.",
+  "car_result_booking_title_header_second_char": "(Paralı)",
+  "car_result_booking_title_header_third_char": ". Araç kiralama detaylarını aşağıdan inceleyebilirsiniz.",
+  "car_result_booking_title_header__char": "Güveniniz için teşekkür ederiz",
+  "car_result_booking_title_header____char": "hizmet. Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa, lütfen adresindeki Yardım Merkezimizle iletişime geçin.",
+  "car_result_booking_title_header_____char": "talimatlar için.",
+  "car_result_booking_title_header______char": ". Araç kiralama detaylarını aşağıdan inceleyebilirsiniz.",
+  "car_result_booking_title_order": "Emir",
+  "car_result_booking_title_billing_info": "Ödeme bilgileri",
+  "car_result_booking_title_time": "Zaman",
+  "car_result_booking_title_name_car": "Araba adı",
+  "car_picker_time_from_the_date": "İtibaren",
+  "car_picker_time_to_the_date": "İle",
+  "car_picker_time": "Zaman",
+  "@car_time_picker": {
+    "description": "Name toolbar"
+  },
+  "car_title_select_city_or_state": "Şehir/eyalet seçin",
+  "car_result_notice_no_data_found": "Üzgünüz, veri bulunamadı",
+  "car_result_notice_no_flight_found_description": "Aramanızla eşleşen herhangi bir sonuç bulamadık. Lütfen tekrar arayın.",
+  "car_extra_service": "Aşağıdaki bazı ek hizmetler, araç sağlayıcısı tarafından size sunulabilir. Bunlara başvurmak istiyorsanız, lütfen doğrudan sağlayıcının resepsiyonuyla iletişime geçin.",
+  "car_extra_charges": "Araç tedarikçisi tarafından belirtilen yaşın altındaki veya üzerindeki sürücüler için ek ücretler uygulanacaktır.",
+  "car_note_driver_age": "Not: Bu ücret, aracı almak için geldiğinizde resepsiyonda tahsil edilecektir.",
+  "car_rental_details": "Araç kiralama detayları",
+  "car_you_dont_have_any_car_rental_orders": "Henüz araç kiralama siparişiniz yok.",
+  "car_search_code_no_information": "Rezervasyon bilgisi bulunamadı.\nLütfen kontrol edip tekrar deneyin",
+  "car_input_code_message_empty": "Lütfen rezervasyon numaranızı giriniz",
+  "@_END_CAR________________________________________________________________________________________": {},
+
+  "@_AFF____________________________________________________________________________________________": {},
+  "aff_action_accept": "Kabul etmek",
+  "aff_chart_day_ago": "{number} gün önce",
+  "@aff_chart_day_ago": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "aff_date_from_to": "{from}\\''dan {to}\\''ye",
+  "@aff_date_from_to": {
+    "placeholders": {
+      "from": {},
+      "to": {}
+    }
+  },
+  "aff_cookie_duration": "Çerez süresi: {duration} {type}",
+  "@aff_cookie_duration": {
+    "placeholders": {
+      "duration": {},
+      "type": {}
+    }
+  },
+  "aff_hotel": "Otel",
+  "aff_tour": "Tur",
+  "aff_product_name": "Ürün adı",
+  "aff_anonymous_user": "Anonim kullanıcı",
+  "aff_unknown": "Bilinmeyen",
+  "aff_product_unknown": "Bilinmeyen ürün türü",
+  "aff_share": "Paylaşmak",
+  "aff_fetch_data_failure": "Veri alınamadı",
+  "aff_fetch_data_failure_try_later": "Veri alınamadı. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_detail": "Detaylar",
+  "aff_no_data": "Veri bulunamadı",
+  "aff_all": "Herşey",
+  "aff_country": "Ülke",
+  "aff_summary": "genel bakış",
+  "aff_link_management": "Bağlantı Yönetimi",
+  "aff_promotion_tool": "Pazarlama araçları",
+  "aff_help": "Yardım",
+  "aff_notification": "Bildirimler",
+  "aff_notification_no_data": "Hiç bildiriminiz yok",
+  "aff_revenue": "Hasılat",
+  "aff_revenue_total": "Toplam gelir",
+  "aff_customer_id": "Müşteri ID",
+  "aff_payment_total": "Toplam tutar",
+  "aff_commission_receive": "Alınan toplam komisyon",
+  "aff_search_by_order": "Sipariş koduna göre ara",
+  "aff_reset": "Sıfırla",
+  "aff_cancel": "İptal etmek",
+  "aff_save": "Kaydetmek",
+  "aff_search": "Aramak",
+  "aff_continue": "Devam etmek",
+  "aff_payment_account": "Ödeme Hesabı",
+  "aff_profile": "Profil",
+  "aff_edit_profile": "Bilgileri düzenle",
+  "aff_affiliate": "bağlı kuruluş",
+  "aff_setting": "Ayarlar",
+  "aff_resend": "Yeniden gönder",
+  "aff_verify_failure": "Doğrulama başarısız oldu",
+  "aff_show_code": "Kodu göster",
+  "aff_sms_block_forever": "Doğrulama işlevi geçici olarak kilitlendi. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_sms_wrong_code": "Yanlış doğrulama kodu. Lütfen tekrar kontrol ediniz.",
+  "aff_sms_expired_code": "Doğrulama kodunun süresi doldu. Lütfen başka bir kod alın",
+  "aff_sms_verify_failure": "Doğrulama başarısız oldu. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_enter_verify_code": "dogrulama kodunu giriniz",
+  "aff_we_send_code_to_phone": "{phone}\\''a bir doğrulama kodu gönderdik.\nBu adımı tamamlamak için aldığınız kodu girin.",
+  "@aff_we_send_code_to_phone": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "aff_code_expired_in": "Kodun süresi şu süre içinde sona erecek:",
+  "aff_sms_block": "SMS ile kod gönderme işlevi geçici olarak kilitlenir. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_sms_resend_in": "Kodu şurada yeniden göndermeyi seçebilirsiniz:",
+  "aff_account_information": "HESAP BİLGİLERİ",
+  "aff_account_information_subtitle": "Hahalolo\\''daki hizmetleri kullanmaya devam edebilmek için lütfen ödeme hesabınızdaki telefon numaranızı güncelleyin.",
+  "aff_account_name": "Hesap adı",
+  "aff_search_county": "Ülke ara",
+  "aff_wallet_create_failure": "Ödeme hesabı oluşturulamadı",
+  "aff_wallet_create_failure_try_again": "Ödeme hesabı oluşturulamadı. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_information_general": "Genel bilgi",
+  "aff_information_unknown": "(Bilinmeyen)",
+  "aff_information_full_name": "Ad Soyad {char}",
+  "@aff_information_full_name": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_email": "E-posta {char}",
+  "@aff_information_email": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone": "Telefon numarası  {char}",
+  "@aff_information_phone": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_birthday": "Doğum tarihi {char}",
+  "@aff_information_birthday": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_gender": "Cinsiyet {char}",
+  "@aff_information_gender": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_address": "Adres {char}",
+  "@aff_information_address": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country": "Ülke {char}",
+  "@aff_information_country": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_additional": "Daha fazla bilgi",
+  "aff_information_city": "Eyalet şehri {char}",
+  "@aff_information_city": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_post_code": "Posta Kodu  {char}",
+  "@aff_information_post_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_id_code": "ID Kart / Pasaport {char}",
+  "@aff_information_id_code": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_expired_date": "Son kullanma tarihi {char}",
+  "@aff_information_expired_date": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_country_of_issue": "Yayınlandığı ÜlkeX {char}",
+  "@aff_information_country_of_issue": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_nationality": "Milliyet {char}",
+  "@aff_information_nationality": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_place_of_birth": "Doğum yeri {char}",
+  "@aff_information_place_of_birth": {
+    "placeholders": {
+      "char": {}
+    }
+  },
+  "aff_information_phone_code": "telefon kodu",
+  "aff_gender_male": "Erkek",
+  "aff_gender_female": "Dişi",
+  "aff_gender_other": "Diğer",
+  "aff_validate_full_name": "Tam ad en az 3 karakter olmalıdır",
+  "aff_validate_email": "Geçersiz e-posta",
+  "aff_validate_phone": "Geçersiz telefon numarası",
+  "aff_validate_post_code": "Geçersiz posta kodu",
+  "aff_validate_id_code": "Geçersiz ID kartı/Pasaport",
+  "aff_validate_invalid_field": "Zaman",
+  "aff_validate_phone_existed": "Telefon numarası başka bir ödeme hesabı için kaydedilmiş.",
+  "aff_validate_unknown_country": "bilinmeyen ülke",
+  "aff_date_time": "Zaman",
+  "aff_date_yesterday": "Dün",
+  "aff_date_today": "Bugün",
+  "aff_date_unknown": "Bilinmeyen tarih",
+  "aff_date_month": "ay",
+  "aff_date_day": "gün",
+  "aff_date_hour": "saat",
+  "aff_date_minute": "dakika",
+  "aff_date_second": "ikinci",
+  "aff_date_range": "Tarih aralığı",
+  "aff_report": "Rapor",
+  "aff_report_summary": "Rapora genel bakış",
+  "aff_report_click": "tıklamalar",
+  "aff_report_click_number": "tıklamalar",
+  "aff_report_performance": "Verim",
+  "aff_report_customer": "Müşteri",
+  "aff_report_payment": "Ödeme",
+  "aff_report_product_performance": "Ürün performansı",
+  "aff_report_product_type": "Ürün tipi",
+  "aff_report_customer_detail": "Müşteri detayları",
+  "aff_report_commission_by_product": "Öğeye göre komisyon",
+  "aff_report_customer_total": "Toplam müşteri satın alma",
+  "aff_report_customer_serving": "Hizmetteki toplam müşteri",
+  "aff_report_customer_served": "Hizmet verilen toplam müşteri",
+  "aff_report_payment_waiting": "İşlemdeki toplam komisyonlar",
+  "aff_report_payment_pending": "Toplam bekleyen komisyonlar",
+  "aff_report_payment_available": "Toplam kullanılabilir komisyonlar",
+  "aff_report_payment_status_waiting": "İşleme",
+  "aff_report_payment_status_pending": "Bekliyor",
+  "aff_report_payment_status_available": "Mevcut",
+  "aff_report_payment_status_cancel": "İptal edildi",
+  "aff_report_payment_status": "Durum",
+  "aff_report_description_click": "Bağlı kuruluş bağlantısı tıklamalarının istatistiksel tablosu, alınan toplam siparişler, komisyonlar ve gelir",
+  "aff_report_description_customer": "Müşteri bilgilerinin istatistiksel tablosu",
+  "aff_report_description_commission": "İstatistiksel komisyon tablosu",
+  "aff_link": "Bağlantı:",
+  "aff_link_copied": "Bağlantı kopyalandı",
+  "aff_link_path": "Satış ortağı bağlantısı",
+  "aff_link_paste_here": "Bağlantınızı buraya yapıştırın",
+  "aff_flight_commission_itinerary": "güzergah",
+  "aff_flight_commission_itinerary_domestic": "Yerel",
+  "aff_flight_commission_itinerary_international": "Uluslararası",
+  "aff_flight_commission_itinerary_unknown": "Bilinmeyen güzergah",
+  "aff_flight_commission_seat_class": "koltuk sınıfı",
+  "aff_flight_commission_seat_class_plus": "Artı",
+  "aff_flight_commission_seat_class_business": "İşletme",
+  "aff_flight_commission_seat_class_unknown": "Bilinmeyen koltuk sınıfı",
+  "aff_flight_ticket": "Uçuş bileti",
+  "aff_flight_all_airlines": "Tüm havayolları",
+  "aff_tooltip_flight_domestic": "Vietnam sınırları içinde varış noktaları ve kalkışları olan uçuşlar",
+  "aff_tooltip_seller": "Her bağlı kuruluş pazarlama bağlantısının sonuna eklemek için bu kodu kullanabilirsiniz. Hahalolo, bağlantınız olduğunu onaylayacak ve bu bağlantıdan kaynaklanan geçerli siparişler olduğunda komisyonları ödüllendirecektir.",
+  "aff_commission": "komisyon",
+  "aff_commission_by_country": "Ülkeye göre otel komisyonları",
+  "aff_commission_flight_list": "Ülkeye göre otel komisyonları",
+  "aff_commission_max": "En Yüksek Komisyon:",
+  "aff_commission_of_product": "{order}\\''ün komisyonları",
+  "@aff_commission_of_product": {
+    "placeholders": {
+      "order": {}
+    }
+  },
+  "aff_order_id": "sipariş kodu",
+  "aff_order_total": "Toplam siparişler",
+  "aff_order_tooltip_click": "Kullanıcıların bağlı kuruluş bağlantınızı tıklama sayısı.",
+  "aff_order_conversion_rate": "Dönüşüm oranı",
+  "aff_order_tooltip_conversion_rate": "Ürün tanıtımınızın performansını analiz etmeniz için bir ölçü.",
+  "aff_order_product_total": "Toplam ürünler",
+  "aff_order_click_total": "Toplam Tıklanma",
+  "aff_order_earnings_total": "Toplam kazanç",
+  "aff_order_id_unknown": "Bilinmeyen sipariş kodu",
+  "aff_order_added": "ödeme hesabına eklendi",
+  "aff_order_type_waiting": "İşleme",
+  "aff_order_type_pending": "Bekliyor",
+  "aff_order_type_available": "Mevcut",
+  "aff_order_type_cancel": "İptal edildi",
+  "aff_ordered_total": "Sipariş edilen toplam ürün",
+  "aff_order_receive_commission": "Toplam sipariş alınan komisyonlar",
+  "aff_verify_do_not_have_account": "HENÜZ\n BİR ÖDEME HESABINIZ YOK",
+  "aff_guild": "Talimatlar",
+  "aff_seller_code": "Satıcı kodu: {seller}",
+  "@aff_seller_code": {
+    "placeholders": {
+      "seller": {}
+    }
+  },
+  "aff_seller_code_text": "Satıcı kodu",
+  "aff_view_detail": "Detayları göster",
+  "aff_notification_turn_off_link_1": "Bağlı kuruluş pazarlama özelliği\n",
+  "aff_notification_turn_off_link_2": "devre dışı bırakılır, bu da paylaştığınız bağlı kuruluş bağlantılarının geçersiz olacağı anlamına gelir!",
+  "aff_notification_turn_on_link_success": "{type} için bağlı kuruluş pazarlama özelliği başarıyla etkinleştirildi",
+  "@aff_notification_turn_on_link_success": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aff_commission_list_flight": "uçuş komisyonları",
+  "aff_commission_list_hotel": "Ülkeye göre otel komisyonları",
+  "aff_tooltip_menu": "Menüyü aç",
+  "aff_tooltip_dash_board": "Kontrol paneline hızlı erişim",
+  "aff_tooltip_guild": "Talimatlar için aşağı açılır",
+  "aff_action_done": "Tamamlandı",
+  "aff_check_user_failed": "Kullanıcı kontrol edilemiyor. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_something_went_wrong": "Bir şeyler yanlış gitti.",
+  "aff_page_not_found": "Sayfa bulunamadı.",
+  "aff_and": "ve",
+  "aff_month_summary": "Bu ayın özeti",
+  "aff_see_more": "Daha fazla gör",
+  "aff_try_again": "Tekrar deneyin",
+  "aff_error_try_again": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "aff_tooltip_flight_international": "Vietnam toprakları dışında kalkış veya varış yapılan uçuşlar.",
+  "aff_area_code": "Telefon kodu",
+  "aff_phone_number": "Telefon numarası",
+  "aff_validate_sms_required": "Lütfen doğrulama kodunu girin",
+  "aff_validate_sms_min_length": "Lütfen tam doğrulama kodunu girin",
+  "aff_welcome": "Hoş geldin",
+  "aff_verify_update": "Ödeme hesabını güncelle",
+  "aff_verify_create_account": "Ödeme hesabı oluştur",
+  "aff_verify_invalid_wallet": "Ödeme Hesabını Güncelle",
+  "aff_verify_do_not_have_account_subtitle": "Hahalolo''daki satış işlevini kullanmak için lütfen bir ödeme hesabı oluşturun!",
+  "aff_verify_invalid_wallet_subtitle": "Hahalolo''daki hizmetleri kullanmaya devam edebilmek için lütfen ödeme hesabınızdaki telefon numaranızı güncelleyin.",
+  "aff_guild_1": "Şimdi tıklayarak bağlı kuruluş pazarlama özelliğini hızlı bir şekilde etkinleştirebilirsiniz.",
+  "aff_guild_2": "Otel/Uçuş bölümünde",
+  "aff_guild_3": "Bağlı kuruluş pazarlamasını açtıktan sonra, ürünlerinizi şu yollarla tanıtabilirsiniz:",
+  "aff_guild_4": "Hahalolo tarafından varsayılan olarak ayarlanan bağlantı",
+  "aff_guild_5": "Satıcı kodunuzun ürüne ait ilgili bağlantıya eklenmesi koşuluyla, bağlı kuruluş pazarlamasının etkinleştirildiği bölümle ilgili herhangi bir bağlantı.",
+  "aff_seller": "Satıcı",
+  "aff_menu": "Kategori",
+  "aff_dash_chart_title": "Bu ay için kazançlarınızın ve tıklamalarınızın istatistiksel tablosu",
+  "aff_dash_click": "Tıklamalar",
+  "aff_dash_commission": "Kazanç",
+  "aff_flight_commission_detail_customer_way": "/ yolcu / segment",
+  "aff_flight_commission_detail_order_total": "/ toplam siparişler",
+  "aff_performance_chart_title": "Bağlı kuruluş bağlantısı tıklamalarının istatistiksel grafiği, alınan toplam siparişler, komisyon ve gelir",
+  "aff_customer_chart_title": "Müşteri bilgilerinin istatistiksel tablosu",
+  "aff_payment_chart_title": "İstatistiksel komisyon tablosu",
+  "aff_action_exit": "çıkış",
+  "aff_action_update": "Güncelleme",
+  "aff_action_create": "oluşturmak",
+  "aff_dialog_check_invalid_user": "Hahalolo''da bağlı kuruluş pazarlama hizmetlerini kullanabilmek için lütfen ödeme hesabınız {action}",
+  "@aff_dialog_check_invalid_user": {
+    "placeholders": {
+      "action": {}
+    }
+  },
+  "aff_date": "Tarih",
+  "aff_action_register": "Kayıt ol",
+  "aff_otp_time_left": "{number} kez kaldı",
+  "@aff_otp_time_left": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "@_END_AFF________________________________________________________________________________________": {},
+
+  "@_WALLET_________________________________________________________________________________________": {},
+  "wallet_create_payment_title": "ÖDEME HESABI OLUŞTUR",
+  "wallet_create_payment_subtitle": "Bir ödeme hesabının oluşturulması, atandıktan sonra para alma, çekme ve ödeme dahil olmak üzere birincil ödeme hesabı olarak belirlenir.",
+  "wallet_verify_otp_title": "Onay kodunu girin",
+  "wallet_verify_otp_subtitle": "{phone} adresine bir onay kodu gönderdik. \nBu adımı tamamlamak için aldığınız kodu girin.",
+  "@wallet_verify_otp_subtitle": {
+    "placeholders": {
+      "phone": {}
+    }
+  },
+  "wallet_start_title": "Ödeme Hesabı",
+  "wallet_start_subtitle": "Hahalolo ödeme hesabı, bizimle ilginç ve kullanışlı deneyimler yaşamanıza yardımcı olan Hahalolo''daki bir ödeme çözümüdür.",
+  "wallet_label_choose_business": "İş seçin",
+  "wallet_label_account_name": "Hesap adı",
+  "wallet_label_email": "E-posta",
+  "wallet_label_phone": "Telefon numarası",
+  "wallet_label_choose_currency": "Para birimini seçin",
+  "wallet_label_payment_country": "Ödeme ülkesi",
+  "wallet_label_payment_method": "Ödeme şekli",
+  "wallet_label_card_holder_name": "Kart sahibinin adı (ton işaretleri olmadan)",
+  "wallet_label_card_bank_name": "banka adı",
+  "wallet_label_card_swift_code": "Swift kodu",
+  "wallet_label_bank_account_number": "banka hesabı numarası",
+  "wallet_label_account_type": "Hesap tipi",
+  "wallet_label_tax_code": "Vergi kodu",
+  "wallet_label_tax_type": "Vergi türü",
+  "wallet_label_address": "Adres",
+  "wallet_label_address_2": "Adres 2 (isteğe bağlı)",
+  "wallet_label_country": "Ülke",
+  "wallet_label_city": "Eyalet/Şehir",
+  "wallet_label_district": "Semt",
+  "wallet_label_first_name": "Soyadı",
+  "wallet_label_last_name": "İlk adı",
+  "wallet_label_middle_name": "İkinci ad (isteğe bağlı)",
+  "wallet_label_postal_code": "Posta Kodu",
+  "wallet_label_city_more_description": "Eyalet/İl/Bölge",
+  "wallet_label_postal_code_more_description": "Zip/Posta kodu",
+  "wallet_label_district_more_description": "Şehir/Kasaba",
+  "wallet_label_birthday_18_years_old": "Doğum tarihi (En az 18 yaşında)",
+  "wallet_label_date_of_birth": "Doğum tarihi",
+  "wallet_label_enter_password": "Şifrenizi girin",
+  "wallet_label_password": "Şifre",
+  "wallet_label_enter_pin": "PIN girin",
+  "wallet_label_re_enter_new_pin": "Yeni PIN''i tekrar girin",
+  "wallet_label_enter_new_pin": "Yeni PIN''i girin",
+  "wallet_label_enter_current_pin": "Eski PIN''i girin",
+  "wallet_validate_pin_required": "Lütfen PIN''inizi girin",
+  "wallet_validate_otp_required": "Lütfen doğrulama kodunu girin",
+  "wallet_validate_current_pin_required": "Lütfen eski PIN''inizi girin",
+  "wallet_validate_new_pin_required": "Lütfen yeni PIN''inizi girin.",
+  "wallet_validate_re_enter_new_pin_required": "Lütfen yeni PIN''inizi yeniden girin.",
+  "wallet_validate_re_enter_new_pin_not_match": "Onay PIN''i eşleşmiyor",
+  "wallet_action_detail": "Detaylar",
+  "wallet_text_pick_date": "Bir tarih seçin",
+  "wallet_text_email_address": "E-posta adresi",
+  "wallet_text_message_to": "mesaj gönder",
+  "wallet_text_recovery_method": "kurtarma yöntemi",
+  "wallet_text_recovery_choose_method": "Kurtarma kodunuzu nasıl alacağınızı seçin",
+  "wallet_text_change_pin": "PIN''inizi değiştirin",
+  "wallet_text_forgot_pin": "PIN''i mi unuttunuz?",
+  "wallet_text_show_pin": "PIN''i göster",
+  "wallet_text_please_try_again_in": "Lütfen daha sonra tekrar deneyiniz:",
+  "wallet_text_remove_account": "Ödeme hesabını sil",
+  "wallet_text_ineligible_payment": "İşlem için uygun değil",
+  "wallet_text_ineligible_payment_description": "Yöneticimiz ödeme hesap bilgilerinizi kabul edene kadar sistemden herhangi bir işlem yapamazsınız. Lütfen ödeme hesabı bilgilerinizi güncelleyin.",
+  "wallet_text_address_2": "Adres 2",
+  "wallet_text_new_account": "Ödeme hesabı oluştur",
+  "wallet_text_payout_account_detail": "Ödeme hesabı ayrıntıları",
+  "wallet_text_middle_name": "İkinci ad",
+  "wallet_text_account_owner": "Hesap sahibi",
+  "wallet_text_tax_form": "Vergi formu",
+  "wallet_text_tax_form_subtitle": "Sağladığınız bilgilere göre, herhangi bir ek vergi formu yüklemeniz gerekmez. Bir sonraki adıma geçmek için lütfen Devam''ı tıklayın.",
+  "wallet_text_card_holder_name": "Kart Sahibinin Adı",
+  "wallet_text_otp_code_expire_in": "Kodun süresi dolacaktır:",
+  "wallet_text_account_information": "Hesap Bilgileri",
+  "wallet_text_welcome": "Merhaba!",
+  "wallet_text_payment_information": "Ödeme bilgileri",
+  "wallet_text_policies_confirm": "{termsAndPolicies}''i kabul ediyorum",
+  "wallet_terms_and_policies": "Hahalolo şartları ve politikaları.",
+  "wallet_text_default": "Varsayılan",
+  "wallet_text_code_vie_sms": "SMS ile kod gönder",
+  "wallet_text_pin_code_recovery_description": "PIN''inizi unutursanız doğrulamak için e-postanızı kullanın.",
+  "wallet_text_sms_recovery_description": "PIN''inizi unutursanız doğrulamak için telefon numaranızı kullanın.",
+  "wallet_text_authority": "Hahalolo''nun para transferine devam etmek için sağlanan hesap bilgilerimi kullanmasına izin veriyorum.",
+  "wallet_text_district_three_dot": "Semt...",
+  "wallet_text_set_up_pin": "PIN ayarla",
+  "wallet_text_established": "(Kurulmuş)",
+  "wallet_text_not_have_pin_yet_title": "PIN''iniz yok",
+  "wallet_text_not_have_pin_yet_subtitle": "Bu işlevi kullanmak için lütfen bir PIN oluşturun",
+  "wallet_text_security_pin_code_description": "Hesabınızı ve finansal bilgilerinizi korumak için bir Hahalolo ödeme hesabı PIN''i gerekir. Ayrıca, tekrar giriş yaptığınızda kart bilgilerini tekrar girmenize gerek yoktur.",
+  "wallet_text_check_password_locked": "Parola kontrol işlevi geçici olarak kilitlenir. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_text_enter_password_description": "Değişikliği onaylamak için Hahalolo hesap şifrenizi girmeniz gerekir.",
+  "wallet_text_enter_sms_code": "Onay kodunu girin",
+  "wallet_text_send_sms_description_1": "Şu adrese bir onay kodu gönderdik:",
+  "wallet_text_send_sms_description_2": "\nBu adımı tamamlamak için aldığınız kodu girin.",
+  "wallet_text_resend": "Yeniden gönder",
+  "wallet_text_no_data": "Şu anda veri yok!",
+  "wallet_text_bank_transfer": "banka transferi",
+  "wallet_text_tax_ptin": "Hazırlayan Mükellef Kimlik Numarası",
+  "wallet_text_tax_atin": "Evlat Edinme Mükellefi Kimlik Numarası",
+  "wallet_text_tax_ssn": "Sosyal Güvenlik numarası",
+  "wallet_text_account_personal": "Kişisel hesap",
+  "wallet_text_account_business": "İş hesabı",
+  "wallet_text_country_code_and": "ülke kodu ve",
+  "wallet_text_resend_time": "{time} yeniden gönder",
+  "wallet_text_change_your": "{text} değiştir",
+  "wallet_start_person_button": "{action} kişisel ödeme hesabı",
+  "wallet_start_business_button": "{action} işletme ödeme hesabı",
+  "wallet_text_recovery_subtitle_1": "Mevcut {text} değeriniz\n{value}",
+  "wallet_text_recovery_subtitle_2": "Lütfen yeni {extra_text}{text} girin",
+  "wallet_text_enter_new": "Yeni {title} girin",
+  "wallet_text_new": "yeni {title}",
+  "wallet_succ_setup_pin": "PIN başarıyla kuruldu.",
+  "wallet_succ_setup_pin_content": "PIN''inizi başarıyla kurdunuz.",
+  "wallet_succ_change_pin": "PIN başarıyla değiştirildi",
+  "wallet_succ_change_pin_content": "PIN''inizi başarıyla değiştirdiniz",
+  "wallet_succ_change_information": "Bilgiler başarıyla güncellendi ve doğrulandı",
+  "wallet_war_remove_payout_account": "Bu hesabı kalıcı olarak silmek istediğinizden emin misiniz?",
+  "wallet_war_create_payment_title": "Ödeme Hesabı Oluştur",
+  "wallet_war_create_payment_subtitle": "Lütfen bir ödeme hesabı oluşturmadan önce bir işletme hesabı oluşturun.",
+  "wallet_war_unsaved_information": "Düzenlediğiniz bilgiler kaydedilmemiş olabilir. çıkmak istiyor musunuz?",
+  "wallet_err_recovery": "Kurtarma başarısız oldu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_recovery_no_user_data": "Kurtarma başarısız oldu. Kullanıcı bilgisi bulunamadı.",
+  "wallet_err_recovery_phone_exists": "Kurtarma başarısız oldu.Bu telefon numarası zaten var.",
+  "wallet_err_recovery_phone_invalid": "Kurtarma başarısız oldu.Telefon numarası geçersiz.",
+  "wallet_err_recovery_password_invalid": "Kurtarma başarısız oldu. Şifreniz yanlış.",
+  "wallet_err_pin_existed": "PIN zaten var.",
+  "wallet_err_pin_wallet_not_exist": "Ödeme hesabı mevcut değil",
+  "wallet_err_pin_incorrect_or_exists": "PIN yanlış veya mevcut değil",
+  "wallet_err_pin_try_again": "PIN kurulumu başarısız oldu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_set_payout_default": "Varsayılan ödeme hesabı seçilemedi. Lütfen daha sonra tekrar deneyiniz!",
+  "wallet_err_occurred_try_again": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_send_verify_title": "Doğrulama kodu gönderilemedi",
+  "wallet_err_try_again": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_create_payout_title": "Ödeme hesabı oluşturulamadı. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_fetch_data_failed": "Veri yüklenemedi. Lütfen daha sonra tekrar deneyiniz!",
+  "wallet_err_occurred_processing": "İşlem sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_remove_payout": "Hesap silinemedi. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_err_change_pin": "PIN değiştirilemedi",
+  "wallet_err_setup_pin": "PIN ayarlanamadı",
+  "wallet_err_sms_code_expired": "Doğrulama kodunun süresi doldu. Lütfen tekrar deneyin.",
+  "wallet_err_sms_code_incorrect": "Doğrulama kodu yanlış. Lütfen tekrar deneyin.",
+  "wallet_create_payout_title": "Ödeme hesabı oluştur",
+  "wallet_action_continue": "Devam et",
+  "wallet_action_create": "Oluşturmak",
+  "wallet_action_update": "Güncelleme",
+  "wallet_action_ok": "Kabul etmek",
+  "wallet_action_complete": "Tamamlamak",
+  "wallet_action_next": "Devam et",
+  "wallet_action_try_back": "Geri dön",
+  "wallet_action_try_again": "Tekrar deneyin",
+  "wallet_action_accept": "Kabul",
+  "wallet_action_remove": "Silmek",
+  "wallet_action_change": "Değiştirmek",
+  "wallet_action_setup": "Kurmak",
+  "wallet_action_confirm": "Onaylamak",
+  "wallet_action_cancel": "İptal",
+  "wallet_action_close": "Kapat",
+  "wallet_overview": "genel bakış",
+  "wallet_notification": "Bildirimler",
+  "wallet_transaction_history": "İşlem geçmişi",
+  "wallet_transfer_point": "Transfer noktaları",
+  "wallet_payout_accounts": "ödeme hesabı",
+  "wallet_security": "Güvenlik",
+  "wallet_recovery_methods": "kurtarma yöntemi",
+  "wallet_help_center": "Yardım Merkezi",
+  "wallet_view_profile": "Bilgileri görüntüle",
+  "wallet_info_title": "Ödeme hesabı bilgileri",
+  "wallet_edit_identity_card": "ID kartı",
+  "wallet_edit_id_card": "ID kartı",
+  "wallet_edit_passport": "Pasaport",
+  "wallet_edit_verify_status": "Durum",
+  "wallet_edit_not_verify": "Doğrulanmamış",
+  "wallet_edit_verified": "Doğrulandı",
+  "wallet_edit_verify_waiting": "Askıda olması",
+  "wallet_edit_gender": "Cinsiyet",
+  "wallet_edit_male": "Erkek",
+  "wallet_edit_female": "Dişi",
+  "wallet_edit_other": "Başka",
+  "wallet_owner_title": "Kullanıcı bilgisi",
+  "wallet_edit_fullName": "Ad Soyad",
+  "wallet_edit_email": "E-posta",
+  "wallet_edit_phoneNumber": "Telefon numarası",
+  "wallet_edit_dateOfBirth": "Doğum tarihi",
+  "wallet_edit_dateOfBirth_13_yo": "Doğum tarihi (En az 13 yaşında)",
+  "wallet_edit_address": "Adres",
+  "wallet_edit_country": "Ülke",
+  "wallet_edit_idType": "Kimlik türü",
+  "wallet_edit_id_passport": "ID numarası/Pasaport",
+  "wallet_edit_country_issue": "Verildiği ülke",
+  "wallet_edit_id_document": "ID kartı görüntüleri/Pasaport",
+  "wallet_edit_front": "Ön taraf",
+  "wallet_edit_back": "arka taraf",
+  "wallet_edit_activate_date": "Yürürlük tarihi",
+  "wallet_edit_expiration_date": "Son kullanma tarihi",
+  "wallet_waiting_balance": "Bekleyen bakiye",
+  "wallet_pending_balance": "Süreçteki bakiye",
+  "wallet_available_balance": "Kalan bakiye",
+  "wallet_frozen_balance": "donmuş bakiye",
+  "wallet_top10_trans": "Son 10 işlem",
+  "wallet_source_withdrawal": "Para çekme",
+  "wallet_source_grad": "derece",
+  "wallet_source_income": "Para",
+  "wallet_source_outcome": "para çıkışı",
+  "wallet_source_point": "Puan",
+  "wallet_source_aff_commission": "Ortak - Komisyon",
+  "wallet_source_aff_reward": "Ortak - Ödül programı",
+  "wallet_source_recharge": "tamamla",
+  "wallet_source_order": "Emir",
+  "wallet_status_waiting": "Askıda olması",
+  "wallet_status_pending": "Onay bekleyen",
+  "wallet_status_available": "Mevcut",
+  "wallet_status_frozen": "Dondurulmuş",
+  "wallet_status_cancel": "İptal edildi",
+  "wallet_status_success": "Başarılı",
+  "wallet_status_error": "Arızalı",
+  "wallet_status_outcome": "para çıkışı",
+  "wallet_status_transfer": "Transfer noktaları",
+  "wallet_action_receive": "Puan almak",
+  "wallet_action_donate": "Puan ver",
+  "wallet_action_buy_point": "Puan satın al",
+  "wallet_action_payment": "Ödeme",
+  "wallet_filter_all": "Herşey",
+  "wallet_filter_allTime": "Herşey",
+  "wallet_filter_today": "Bugün",
+  "wallet_filter_yesterday": "Dün",
+  "wallet_filter_7days": "Son 7 gün",
+  "wallet_filter_30days": "Son 30 gün",
+  "wallet_filter_custom_date": "İsteğe bağlı tarih",
+  "wallet_filter_status": "Durum",
+  "wallet_filter_time": "Zaman",
+  "wallet_filter_action": "Eylem",
+  "wallet_validate_this_field": "Bu alan",
+  "wallet_validate_required": "{fieldName} gerekli",
+  "wallet_validate_invalid_email": "Geçersiz e-posta",
+  "wallet_validate_invalid_phone_number": "Geçersiz telefon numarası",
+  "wallet_validate_invalid_number": "Geçersiz numara",
+  "wallet_validate_limit_length": "{fieldName} en az {minLength} karakter olmalıdır",
+  "wallet_validate_not_contain_number": "{fieldName} sayısal karakterler içermemelidir",
+  "wallet_validate_not_contain_special_char": "{fieldName} özel karakterler içermemelidir",
+  "wallet_validate_invalid_swift_code_length": "Swift kodu yalnızca 8 ila 11 karakterden oluşur",
+  "wallet_validate_invalid_swift_code": "Geçersiz hızlı kod",
+  "wallet_no_transaction": "İşlem yok!",
+  "wallet_no_image": "Henüz fotoğraf yok",
+  "wallet_edit_quit_msg": "Düzenlediğiniz bilgiler kaydedilmemiş olabilir. çıkmak istiyor musunuz?",
+  "wallet_point_total": "Toplam:",
+  "wallet_payment_methods": "Ödeme şekli",
+  "wallet_payment_methods_note": "(Not: '{HAHALOLO}', '{MIỄN PHÍ}' banka masrafları olan kullanıcıları destekleyecektir)",
+  "wallet_num_of_points": "Puan sayısı",
+  "wallet_points": "{number} puan",
+  "wallet_1point": "1 puan",
+  "wallet_msg_enter_number_of_points": "Lütfen satın almak istediğiniz puan sayısını giriniz",
+  "wallet_msg_pin_not_correct": "PIN yanlış veya mevcut değil",
+  "wallet_msg_balance_not_enough": "Yetersiz bakiye",
+  "wallet_msg_error_while_buy_point": "Puan satın alınırken bir hata oluştu",
+  "wallet_msg_fetch_error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_msg_buy_point_success": "Puanları başarıyla satın aldınız",
+  "wallet_withdrawal_req": "Para çekme talebi:",
+  "wallet_withdrawal_payment_acc_id": "Ödeme hesap ID:",
+  "wallet_withdrawal_balance": "Kalan bakiye:",
+  "wallet_withdrawal_payout_acc": "ödeme hesabı",
+  "wallet_withdrawal_amount": "Para birimi ({currency})",
+  "wallet_label_desc": "Tanım",
+  "wallet_btn_save": "Kaydetmek",
+  "wallet_btn_edit_owner": "Düzenlemek",
+  "wallet_btn_buy": "Satın almak",
+  "wallet_btn_reset": "tekrar girin",
+  "wallet_insufficient_available_balances": "Yeterli bakiye yok",
+  "wallet_msg_complete_info": "Lütfen bilgileri doldurun",
+  "wallet_msg_success": "Başarıyla geri çekildin",
+  "wallet_msg_wal_not_exist": "Ödeme hesabı mevcut değil",
+  "wallet_msg_wal_blocked": "Ödeme hesabı engellendi",
+  "wallet_msg_acc_incorrect": "Yanlış ödeme hesabı",
+  "wallet_msg_total_not_available": "İstenen toplam tutar mevcut değil",
+  "wallet_msg_pin_locked": "Ödeme hesabı PIN''i kilitli",
+  "wallet_msg_withdrawal_failed": "Para çekme işlemi başarısız oldu. Lütfen daha sonra tekrar deneyiniz.",
+  "wallet_msg_fill_in_all_info": "Lütfen bilgileri doldurun",
+  "wallet_update_info_success": "Bilgileri başarıyla güncellediniz",
+  "wallet_update_info_fail": "Bilgiler güncellenemedi",
+  "wallet_no_notifications": "Hiç bildiriminiz yok",
+  "wallet_buy_point_payment_method_note": "(Not: '{hahalo}', kullanıcıları '{free}' banka masraflarıyla destekleyecektir)",
+  "wallet_note_free": "BEDAVA",
+  "wallet_buy_point_policy": "{condition} ve {privacy} koşullarını kabul ediyorum",
+  "wallet_term_conditions": "Şartlar ve koşullar",
+  "wallet_privacy": "Mahremiyet",
+  "wallet_msg_receiving_account_not_exist": "Alıcının ödeme hesabı mevcut değil",
+  "wallet_msg_search_account_error": "Ödeme hesabı aranırken bir hata oluştu",
+  "wallet_msg_sending_account_not_exist": "Gönderenin ödeme hesabı mevcut değil",
+  "wallet_msg_point_balance_not_enough": "Ödeme hesabının puan bakiyesi yeterli değil",
+  "wallet_msg_cannot_give_to_itself": "Puanları kendinize aktaramazsınız",
+  "wallet_msg_cannot_give_to_business": "Alıcının ödeme hesabı bir işletme hesabı olamaz",
+  "wallet_msg_transfer_point_err": "Puan aktarılırken bir hata oluştu",
+  "wallet_msg_transfer_point_success": "Puanlar başarıyla aktarıldı",
+  "wallet_recipient_info": "Alıcı Bilgileri",
+  "wallet_recipient_id": "İD",
+  "wallet_number_of_point": "Puan sayısı",
+  "wallet_not_verified": "Doğrulanmamış ödeme hesabı",
+  "@_END_WALLET_____________________________________________________________________________________": {},
+
+  "@_FLIGHT_________________________________________________________________________________________": {},
+  "halo_abbreviated_duration_format": "{hour} saat {minute} dakika",
+  "@halo_abbreviated_duration_format": {
+    "placeholders": {
+      "hour": {},
+      "minute": {}
+    }
+  },
+  "flight_search_result_title_segments": "{countStop, plural, =1{1 dur} other{{countStop} durur}}",
+  "@flight_search_result_title_segments": {
+    "placeholders": {
+      "countStop": {}
+    }
+  },
+  "flight_transit_alter": "Yaklaşık bir geçiş süresi {time} içinde {airport}",
+  "@flight_transit_alter": {
+    "placeholders": {
+      "time": {},
+      "airport": {}
+    }
+  },
+  "flight_search_result_adult_x_count": "yetişkinler (x{count})",
+  "@flight_search_result_adult_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_x_count": "Çocuklar (x{count})",
+  "@flight_search_result_child_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_x_count": "Bebek (x{count})",
+  "@flight_search_result_baby_x_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_adult_count": "{count, plural , =1{{count} yetişkin} other{{count} watu yetişkin}}",
+  "@flight_search_result_adult_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_child_count": "{count, plural, =0{ } =1{, {count} çocuk} other{, {count} çocuklar}}",
+  "@flight_search_result_child_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_search_result_baby_count": "{count, plural, =0{ } =1{, {count} bebek} other{, {count} bebekler}}",
+  "@flight_search_result_baby_count": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_result_detail_content_note_transit_header": "Yaklaşık bir geçiş süresi {times} içinde {transitPlace}",
+  "@flight_result_detail_content_note_transit_header": {
+    "placeholders": {
+      "times": {},
+      "transitPlace": {}
+    }
+  },
+  "flight_result_detail_checked_baggage_unit": "{countBag, plural, =1{{countBag} KİLOGRAM} other{{countBag} KİLOGRAMLAR}}",
+  "@flight_result_detail_checked_baggage_unit": {
+    "placeholders": {
+      "countBag": {}
+    }
+  },
+  "flight_fare_rule_title_type_flight_one_way": "tek yön uçuş",
+  "flight_fare_rule_title_type_flight_round_trip_from": "Kalkış uçuşu",
+  "flight_fare_rule_title_type_flight_round_trip_to": "dönüş uçuşu",
+  "flight_fare_rule_title_fare_conditions": "Ücret koşulları",
+  "flight_fare_rule_title_departure_flight": "Uçuş",
+  "flight_fare_rule_title_segment": "segment",
+  "flight_fare_rule_notice_empty_fare_rule": "Havayolundan ücret koşulları bulunamadı",
+  "flight_filter_by_title_filter": "filtre",
+  "flight_filter_by_content_btn_filter": "filtre",
+  "flight_filter_by_title_airline": "Havayolu",
+  "flight_filter_by_title_flight_times": "Uçuş zamanı",
+  "flight_filter_by_title_type_flight_times_early_morning": "Sabah erken \n 00:00 - 06:00",
+  "flight_filter_by_title_type_flight_times_morning": "Sabah \n 06:01 - 12:00",
+  "flight_filter_by_title_type_flight_times_afternoon": "Öğleden sonra \n 12:01 - 18:00",
+  "flight_filter_by_title_type_flight_times_evening": "Akşam \n 18:01 - 23:59",
+  "flight_filter_by_title_count_segment": "Durak sayısı",
+  "flight_filter_by_title_select_all": "Hepsini seç",
+  "flight_filter_by_title_unselect_all": "Tümünün seçimini kaldır",
+  "flight_filter_by_title_type_segment_all": "Herşey",
+  "flight_filter_by_title_type_segment_direct": "Doğrudan uçuş",
+  "flight_filter_by_title_type_segment_transit": "Taşıma",
+  "flight_sort_by_title_sort_by": "Göre sırala",
+  "flight_sort_by_title_sort_by_ascending_price": "artan fiyat",
+  "flight_sort_by_title_sort_by_descending_price": "azalan fiyat",
+  "flight_sort_by_title_sort_by_earliest_departure_time": "En erken kalkış saati",
+  "flight_sort_by_title_sort_by_earliest_arrival_time": "En erken varış zamanı",
+  "flight_sort_by_title_sort_by_latest_arrival_time": "En son varış zamanı",
+  "flight_search_result_title_count_adult": "yetişkin",
+  "flight_search_result_title_count_child": "çocuk",
+  "flight_search_result_title_count_baby": "bebek",
+  "flight_search_result_title_segment": "Dur",
+  "flight_search_result_title_hours": "saatler",
+  "flight_search_result_title_minutes": "dakika",
+  "flight_search_result_title_view_detail_price": "Detayları göster",
+  "flight_search_result_title_hide_detail_price": "Detayları gizle",
+  "flight_search_result_title_view_detail": "Detaylar",
+  "flight_search_result_title_btn_book_ticket": "Kitap",
+  "flight_search_result_title_basic_price_ticket": "Bilet başına fiyat",
+  "flight_search_result_title_taxes_and_fee": "Vergiler ve Ücretler",
+  "flight_search_result_title_total_amount": "Toplam tutar",
+  "flight_search_result_title_total": "Toplam",
+  "flight_search_result_title_fare_details": "Ücret ayrıntıları",
+  "flight_search_result_title_quantity": "Miktar",
+  "flight_search_result_title_passenger": "Yolcu",
+  "flight_search_result_title_one_way_flight": "tek yön uçuş",
+  "flight_search_result_title_round_trip_flight": "Gidiş dönüş uçuşu",
+  "flight_change_search_title_btn_agree": "Kabul etmek",
+  "flight_change_search_title_btn_cancel": "İptal etmek",
+  "flight_change_search_title_header_dialog": "Aramayı değiştir",
+  "flight_change_search_title_body_dialog": "Arama bilgilerinizi değiştirmek istediğinizden emin misiniz?",
+  "flight_change_search_title_footer_dialog": "Arama bilgilerinizi değiştirmeyi kabul ederseniz, önceki tüm veriler silinecektir.",
+  "flight_search_result_detail_title_flight_details": "Uçuş detayları",
+  "flight_search_result_detail_title_checked_baggage": "Kontrol edilmiş bagaj",
+  "flight_search_result_detail_title_aircraft": "uçak",
+  "flight_search_result_detail_title_seat_class": "koltuk sınıfı",
+  "flight_search_result_detail_title_class_seat_type_all": "Herşey",
+  "flight_search_result_detail_title_class_seat_type_economy": "ekonomi",
+  "flight_search_result_detail_title_class_seat_type_first_class": "Öncelikle",
+  "flight_search_result_detail_title_class_seat_type_business": "İşletme",
+  "flight_search_result_detail_content_note_transit_body": "Not: Ev sahibi ülkenin talebi üzerine yolcuların gümrükten çekmesi ve transit vizelerini ibraz etmesi gerekebilir.",
+  "flight_transit_alter_note": "Not: Ev sahibi ülkenin talebi üzerine yolcuların gümrükten çekmesi ve transit vizelerini ibraz etmesi gerekebilir.",
+  "flight_luggage": "bagaj",
+  "flight_signed_luggage": "Kontrol edilmiş bagaj",
+  "flight_service_package": "Hizmet paketleri",
+  "flight_run_by": "Tarafından işletilen",
+  "flight_result_notice_no_flight_found": "Uçuş bulunamadı!",
+  "flight_result_notice_no_flight_found_filter": "Üzgünüz, kriterlerinize uyan uçuş yok",
+  "flight_result_notice_check_internet_again": "Bağlantınız kesildi. Lütfen bağlantıyı tekrar kontrol edin",
+  "flight_result_notice_error_authentication": "Oturum açma oturumunuzun süresi doldu. Lütfen tekrar giriş yapın",
+  "flight_search_result_notice_booking_expired": "Rezervasyon süresi dolmak üzere",
+  "flight_search_result_notice_click_continue_to_proceed": "Rezervasyona devam etmek için lütfen \"Devam\"ı tıklayın.",
+  "flight_search_result_btn_continue": "Devam et",
+  "flight_input_title_gender": "Cinsiyet",
+  "flight_input_title_gender_male": "Erkek",
+  "flight_input_title_gender_female": "Dişi",
+  "flight_input_title_gender_other": "Başka",
+  "flight_search_price_info_bottom_sheet_tax_include": "Vergi dahil",
+  "flight_search_price_info_bottom_sheet_VAT": "VAT",
+  "flight_search_price_info_bottom_sheet_fee_include": "Ücret dahil",
+  "flight_search_price_info_bottom_sheet_fee_system_administration": "Sistem ve yönetici ek ücreti",
+  "flight_search_price_info_bottom_sheet_fee_security_screening": "Güvenlik tarama ücreti",
+  "flight_search_price_info_bottom_sheet_fee_payment_utility": "Uygun ödeme ek ücreti",
+  "flight_search_price_info_bottom_sheet_fee_airport_fees": "Havaalanı ücreti",
+  "@_FLIGHT_V2": {
+  },
+  "flight_v2_model_booking_adult": "Yetişkinler",
+  "flight_v2_model_booking_children": "Çocuklar",
+  "flight_v2_model_booking_infant": "Bebek",
+  "flight_v2_model_detail_infant": "(2 yaşından küçük)",
+  "flight_v2_model_detail_children": "(02 - 12 yaş arası)",
+  "flight_v2_component_bonus_services_title_string": "Ek hizmetler",
+  "flight_v2_component_bonus_service_header": "Ek hizmetler",
+  "flight_v2_component_bonus_service_content_header_price": "Sigorta ücreti",
+  "flight_v2_component_bonus_service_flight_table_header": "Toplam sigorta ücreti",
+  "flight_v2_component_bonus_service_text1_introduce": "Tanıtım",
+  "flight_v2_component_bonus_service_text1_insurance_type": "Sigorta türü:",
+  "flight_v2_component_bonus_service_text2_air_ticket_insurance": "uçuş sigortası",
+  "flight_v2_component_bonus_service_text1_supplier": "Sağlayıcı:",
+  "flight_v2_component_bonus_service_text2_company": "Vietinbank Sigorta Anonim Şirketi (Vietinbank Sigorta)",
+  "flight_v2_component_bonus_service_text1_trusted": "Güvenilir seyahat sigortamızla seyahat ederken kendinize tamamen güveneceksiniz.",
+  "flight_v2_component_bonus_service_text1_subject_of_insurance": "Sigortanın Konusu",
+  "flight_v2_component_bonus_service_text1_air_ticket_booking": "Bireyler hava yoluyla seyahat etmek için Hahalolo sistemindeki uçak bileti rezervasyon hizmetini kullanır.",
+  "flight_v2_component_bonus_service_text1_age": "Yaş: 07 günden itibaren.",
+  "flight_v2_component_bonus_service_text1_range": "Kapsam",
+  "flight_v2_component_bonus_service_text1_insurance_coverage": "Sigorta kapsamı aşağıdaki riskleri içerir:",
+  "flight_v2_component_bonus_service_text1_death_bodily": "Bir kaza sonucu ölüm veya bedensel yaralanma.",
+  "flight_v2_component_bonus_service_text1_impediments": "Seyahat riskleri, yani seyahatin iptali/kısalması, Sigortalı''nın bagaj, giysi ve kişisel eşyalarının kaybolması veya hasar görmesi, havayolu uçuşunun gecikmesi, bagajın gecikmesi, seyahat belgelerinin kaybolması veya uçaktan kaçırılması.",
+  "flight_v2_component_bonus_service_text1_benefit": "Faydalar",
+  "flight_v2_component_bonus_service_text1_small_amount": "Çoklu koruma için yalnızca küçük bir miktar para harcayın.",
+  "flight_v2_component_bonus_service_text1_personal_insurance_benefits": "Kişisel sigorta avantajları:",
+  "flight_v2_component_bonus_service_text2_insured_person": "Sigorta kapsamındaki bir kaza veya yaralanma nedeniyle ölen sigortalı kişi, 1.000.000 VND''ye kadar sigorta bedelinin tamamını alacaktır.",
+  "flight_v2_component_bonus_service_text1_obstacles_on_the_trip": "Riskli seyahat sigortası avantajları:",
+  "flight_v2_component_bonus_service_text2_the_insured": "Sigortalı kişiye maksimum 20.000.000 VND''ye kadar tazminat ödenecektir.",
+  "flight_v2_component_bonus_service_text1_rules": "Şartlar",
+  "flight_v2_component_bonus_service_text1_more_information": "Lütfen ekteki dosyada daha fazla ayrıntı bulun veya lütfen iletişime geçin.",
+  "flight_v2_component_bonus_service_text1_insurance_rules": "Seyahat sigortası kuralları",
+  "flight_v2_component_bonus_service_title_agree_to_participate": "Uçuş Sigortasına katılmayı kabul edin",
+  "flight_v2_component_booking_flight_information": "Uçuş bilgisi",
+  "flight_v2_component_booking_show": "Daha fazla oku",
+  "flight_v2_component_booking_hide": "Saklamak",
+  "flight_v2_component_booking_adult": "yetişkinler",
+  "flight_v2_component_booking_children": "Çocuklar",
+  "flight_v2_component_booking_infant": "Bebek",
+  "flight_v2_component_booking_baggage": "bagaj",
+  "flight_v2_component_booking_main_content_service": "Hizmetler",
+  "flight_v2_component_booking_taxes_fees": "Ücretler ve vergiler",
+  "flight_v2_component_booking_title_booking_information": "Rezervasyon bilgileri",
+  "flight_v2_component_booking_string_routeFlight_departure_flight": "Kalkış uçuşu",
+  "flight_v2_component_booking_string_routeFlight_return_flight": "dönüş uçuşu",
+  "flight_v2_component_confirm_title_flight_information": "Uçuş bilgisi",
+  "flight_v2_component_confirm_text_done": "Tamamlandı",
+  "flight_v2_component_detail_booking_information": "rezervasyon bilgileri",
+  "flight_v2_component_detail_flight_information": "Uçuş bilgisi",
+  "flight_v2_component_detail_passenger_information": "yolcu bilgileri",
+  "flight_v2_component_payment_booking_information": "Rezervasyon bilgileri",
+  "flight_v2_component_payment_information": "Bilgi",
+  "flight_v2_component_payment_passenger_information": "yolcu bilgileri",
+  "flight_v2_component_payment_making_flight_payment": "Aşağıdaki yolcular için uçuş ödemesi yapıyorsunuz:",
+  "flight_v2_component_payment_payment_now": "Ödemek",
+  "flight_v2_component_result_title_flight_details": "Uçuş detayları",
+  "flight_v2_component_result_title_fare_details": "Ücret ayrıntıları",
+  "flight_v2_component_result_type_direct_flight": "Doğrudan uçuş",
+  "flight_v2_component_result_title_showMessDiaLog": "Bildirimler",
+  "flight_v2_component_result_message_selected_return": "Şu tarihte gidiş-dönüş uçuşunu seçtiniz:",
+  "flight_v2_component_result_message_cancel_book": "İptal etmek ve yeni bir uçuş rezervasyonu yapmak ister misiniz?",
+  "flight_v2_component_result_actionMessage_yes": "Evet",
+  "flight_v2_component_result_negativeMessage_no": "Numara",
+  "flight_v2_component_result_trip_turn_departure": "Kalkış",
+  "flight_v2_component_result_trip_turn_arrival": "Varış",
+  "flight_v2_notify_day_invalid_cannot_choose": "seçemezsiniz",
+  "flight_v2_notify_day_invalid_because": "çünkü",
+  "flight_v2_notify_day_invalid_date_is": "dır-dir",
+  "flight_v2_component_result_actionMessage_btn": "Katılıyorum",
+  "flight_v2_component_result_message": "Lütfen geçerli tarihten önceki tarihleri ​​seçmeyin",
+  "flight_v2_component_search_text_guest": "Yolcu",
+  "flight_v2_component_search_button_save": "Kaydetmek",
+  "flight_v2_component_search_text_choose_a_date": "Bir tarih seçin",
+  "flight_v2_component_search_button_choose": "Seçme",
+  "flight_v2_widget_booking_total_price": "Toplam fiyat",
+  "flight_v2_widget_booking_continue": "Devam etmek",
+  "flight_v2_widget_booking_payer_information": "ödeyen bilgileri",
+  "flight_v2_widget_booking_payer_use_contact_information": "Kişi bilgilerini kullan",
+  "flight_v2_widget_booking_save_payment": "Bu ödeme bilgilerini bir dahaki sefere saklayın",
+  "flight_v2_widget_booking_title_contact_information": "İletişim bilgileri",
+  "flight_v2_widget_booking_title_checkbox_using_account": "Cari hesap bilgilerini kullan",
+  "flight_v2_widget_booking_title_checkbox_passenger": "ben bir yolcuyum",
+  "flight_v2_widget_booking_radio_gender": "Cinsiyet",
+  "flight_v2_widget_booking_radio_male": "Erkek",
+  "flight_v2_widget_booking_radio_female": "Dişi",
+  "flight_v2_widget_booking_field_card_bank_card": "banka kartı",
+  "flight_v2_widget_booking_field_card_checked_baggage": "Kontrol edilmiş bagaj",
+  "flight_v2_widget_booking_title_passenger_information": "yolcu bilgileri",
+  "flight_v2_widget_booking_information": "bilgi",
+  "flight_v2_widget_common_one_way": "Tek yön",
+  "flight_v2_widget_common_details": "Detaylar",
+  "flight_v2_widget_common_text_price": "Fiyat",
+  "flight_v2_widget_common_text_fare_conditions": "Ücret koşulları",
+  "flight_v2_widget_common_text_service_pack": "Hizmet paketleri",
+  "flight_v2_widget_common_item_tax_inclusive": "Vergi dahil",
+  "flight_v2_widget_common_item_vat": "KDV",
+  "flight_v2_widget_common_item_fee_inclusive": "Ücret dahil",
+  "flight_v2_widget_common_item_fee_surcharge": "Sistem ve yönetici ek ücreti",
+  "flight_v2_widget_common_item_fee_screening": "Güvenlik taraması ek ücreti",
+  "flight_v2_widget_common_item_fee_convenient": "Uygun ödeme ek ücreti",
+  "flight_v2_widget_common_item_fee_airport": "Havaalanı ücreti",
+  "flight_v2_widget_common_text_price_per_ticket": "Taban Ücret",
+  "flight_v2_widget_common_text_taxes_fees": "Vergiler ve ücretler",
+  "flight_v2_widget_common_service_service": "Hizmetler",
+  "flight_v2_widget_common_text_total_amount": "Toplam fiyat",
+  "flight_v2_widget_common_button_continue": "Devam etmek",
+  "flight_v2_widget_common_text_taxes_fees_inclusive": "(Vergiler ve harçlar dahil)",
+  "flight_v2_widget_common_service_accommodation_service": "Konaklama hizmetleri",
+  "flight_v2_widget_common_text_direct_flight": "Doğrudan uçuş",
+  "flight_v2_widget_confirm_description": "Cinsiyet",
+  "flight_v2_widget_confirm_description_full_name": "Ad Soyad",
+  "flight_v2_widget_confirm_description_email": "E-posta",
+  "flight_v2_widget_confirm_description_phone_number": "Telefon numarası",
+  "address": "Adres",
+  "flight_v2_widget_confirm_text_ticket_booking_successful": "Rezervasyon başarılı",
+  "flight_v2_widget_confirm_text_reservation_request": "Rezervasyon talebiniz başarıyla yapıldı",
+  "flight_v2_widget_confirm_text_paid_already": "(Paralı)",
+  "flight_v2_widget_confirm_text_check_the_itinerary": "Güzergah detaylarını aşağıdan kontrol edebilirsiniz.",
+  "flight_v2_widget_confirm_title_payment_information": "Ödeme bilgileri",
+  "flight_v2_widget_confirm_description_orders": "Emirler",
+  "flight_v2_widget_confirm_description_price": "Fiyat",
+  "flight_v2_widget_confirm_description_payers": "ödeyen",
+  "flight_v2_widget_confirm_button_view_details": "Detayları göster",
+  "flight_v2_widget_confirm_button_book_a_new_ticket": "Yeni kitap",
+  "flight_v2_widget_confirm_textspan_trusting_using": "Hizmetimize olan güveniniz için teşekkür ederiz",
+  "flight_v2_widget_confirm_textspan_question_help": "Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa, lütfen Hahalolo Yardım Merkezi ile iletişime geçin.",
+  "flight_v2_widget_confirm_text_paid_instructions": "talimatlar için.",
+  "flight_v2_widget_confirm_title_passenger_information": "yolcu bilgileri",
+  "flight_v2_widget_confirm_title_flight_information": "Uçuş bilgisi",
+  "flight_v2_widget_confirm_text_ticket_class": "Sınıf",
+  "flight_v2_widget_confirm_text_booking_code": "Rezervasyon referansı",
+  "flight_v2_widget_confirm_text_flight": "Uçuş",
+  "flight_v2_widget_confirm_description_name": "İsim",
+  "flight_v2_widget_confirm_description_guest_type": "yolcu tipi",
+  "flight_v2_widget_confirm_description_baggage": "bagaj",
+  "flight_v2_widget_dialog_config_button_agree": "Katılıyorum",
+  "flight_v2_widget_dialog_config_button_deny": "Atlamak",
+  "flight_v2_widget_dialog_config_title": "Bilgileri değiştir",
+  "flight_v2_widget_dialog_config_text_span_change_search": "Arama bilgilerinizi değiştirmek istediğinizden emin misiniz\n",
+  "flight_v2_widget_dialog_config_text_span_agree_change": "Arama bilgilerinizi değiştirmeyi kabul ederseniz, önceki tüm veriler silinecektir.",
+  "flight_v2_widget_dialog_config_title_delete_account": "Hesabı sil",
+  "flight_v2_widget_dialog_config_title_text_span_won_appear": "Hesap, Bir ödeme hesabı seçin bölümünde görünmez. Bu ödeme hesabını silmek istiyor musunuz? \n",
+  "flight_v2_widget_dialog_config_button_agree_flight_time": "Başka bir uçuş zamanı seçin",
+  "flight_v2_widget_dialog_config_button_deny_change_search": "Aramayı değiştir",
+  "flight_v2_widget_dialog_config_title_exceeded_the_time": "Uçuş izin verilen süreyi aştı",
+  "flight_v2_widget_dialog_config_text_span_exceeded_the_reservation": "Seçtiğiniz uçuş, izin verilen Rezervasyon süresini aştı.",
+  "flight_v2_widget_dialog_config_text_span_please_contact": "Lütfen bizimle iletişime geçin",
+  "flight_v2_widget_dialog_config_text_span_by_number": "aracılığıyla",
+  "flight_v2_widget_dialog_config_text_span_hotline": "yardım hattı",
+  "flight_v2_widget_dialog_config_text_span_or": "veya",
+  "flight_v2_widget_dialog_config_text_span_change_search_new": "aramanızı yeni bir uçuş için değiştirin.",
+  "flight_v2_widget_dialog_config_button_choose_another_flight": "Başka bir uçuş seçin",
+  "flight_v2_widget_dialog_config_title_not_available": "Uçuş yok\n",
+  "flight_v2_widget_dialog_config_text_span_sorry": "Üzgünüz, seçtiğiniz uçuş artık mevcut değil. Lütfen",
+  "flight_v2_widget_dialog_config_text_span_choose_another_flight": "başka bir uçuş seçin veya aramanızı değiştirin.",
+  "flight_v2_widget_dialog_config_title_ticket_price_change": "Ücret değişiklikleri",
+  "flight_v2_widget_dialog_config_text_span_your_fare": "Ücretiniz şu tarihten itibaren değişti:",
+  "flight_v2_widget_dialog_config_text_span_to": "ile",
+  "flight_v2_widget_dialog_config_text_span_from_airline": "\nhavayolunun ücret değişiklikleri nedeniyle",
+  "flight_v2_widget_field_fname_required": "Soyadı gerekli",
+  "flight_v2_widget_field_fname_invalid": "Geçersiz soyadı",
+  "flight_v2_widget_field_fname_last_name": "Soyadı (Ses işaretleri olmadan)",
+  "flight_v2_widget_field_lname_required": "Orta ve İlk/Verilen ad gereklidir",
+  "flight_v2_widget_field_lname_invalid": "Geçersiz Orta ve Ad/Verilen ad",
+  "flight_v2_widget_field_lname_middle_first_name": "Orta ve İlk/Verilen ad (Ton işaretleri olmadan)",
+  "flight_v2_widget_field_email_required": "Email gereklidir",
+  "flight_v2_widget_field_email_invalid": "Geçersiz e-posta",
+  "flight_v2_widget_field_email_email": "E-posta",
+  "flight_v2_widget_field_phone_required": "Telefon numarası gerekli",
+  "flight_v2_widget_field_phone_invalid": "Geçersiz telefon numarası",
+  "flight_v2_widget_field_phone_phone": "Telefon numarası",
+  "flight_v2_widget_field_address_required": "Adres gerekli",
+  "flight_v2_widget_field_address_invalid": "Geçersiz adres",
+  "flight_v2_widget_field_address_address": "Adres",
+  "flight_v2_widget_field_city_required": "Eyalet/Şehir gerekli",
+  "flight_v2_widget_field_city_invalid": "Geçersiz Eyalet/Şehir",
+  "flight_v2_widget_field_city_city": "Devlet kent",
+  "flight_v2_widget_field_city_snackbar_text": "Lütfen bir şehir seçmeden önce uyruğunuzu seçin",
+  "flight_v2_widget_field_country_required": "milliyet gerekli",
+  "flight_v2_widget_field_country_invalid": "Geçersiz uyruk",
+  "flight_v2_widget_field_country_country": "Milliyet",
+  "flight_v2_widget_field_field_card_hint": "üyelik kartı numarası",
+  "flight_v2_widget_field_field_card_error_input": "Geçersiz kart",
+  "flight_v2_widget_field_field_card_default_error": "Kart gerekli",
+  "flight_v2_widget_field_field_date_hint": "Doğum tarihi",
+  "flight_v2_widget_field_field_date_error_input": "lütfen boş bırakmayın",
+  "flight_v2_widget_field_field_date_default_error": "lütfen boş bırakmayın",
+  "flight_v2_widget_field_field_date_default_error_infant": "Bebekler 2 yaşından küçük olmalıdır",
+  "flight_v2_widget_field_field_date_default_error_children": "Çocuklar 2 ila 12 yaşında olmalıdır",
+  "flight_v2_widget_payment_contact_information": "İletişim bilgileri",
+  "flight_v2_widget_payment_full_name": "Ad Soyad",
+  "flight_v2_widget_payment_gender": "Cinsiyet",
+  "flight_v2_widget_payment_phone_number": "Telefon numarası",
+  "flight_v2_widget_payment_address": "Adres",
+  "flight_v2_widget_payment_birthday": "Doğum tarihi",
+  "flight_v2_widget_payment_male": "Erkek",
+  "flight_v2_widget_payment_female": "Dişi",
+  "flight_v2_widget_payment_full_name_detail_customer_item": "Ad Soyad:",
+  "flight_v2_widget_payment_gender_detail_customer_item": "Cinsiyet:",
+  "flight_v2_widget_payment_birthday_detail_customer_item": "Doğum tarihi:",
+  "flight_v2_widget_payment_checked_baggage": "Kontrol edilmiş bagaj",
+  "flight_v2_widget_payment_note": "Not",
+  "flight_v2_widget_payment_information": "Bilgi",
+  "flight_v2_widget_payment_adult": "Yetişkin",
+  "flight_v2_widget_payment_children": "Çocuk",
+  "flight_v2_widget_payment_infant": "Bebek",
+  "flight_v2_widget_payment_title_adult_information": "Yetişkin bilgileri",
+  "flight_v2_widget_payment_title_children_information": "çocuk bilgileri",
+  "flight_v2_widget_payment_title_infant_information": "Bebek bilgileri",
+  "flight_v2_widget_payment_customer_information": "yolcu bilgileri",
+  "flight_v2_widget_payment_edit_information": "Bilgileri düzenle",
+  "flight_v2_widget_payment_bonus_services": "Ek hizmetler",
+  "flight_v2_widget_payment_membership_card_number": "üyelik kartı numarası",
+  "flight_v2_widget_payment_text_loyal_customer": "Sık uçanlar",
+  "flight_v2_widget_payment_text_making_flight_payment": "Aşağıdaki yolcular için uçuş ödemesi yapıyorsunuz:",
+  "flight_v2_widget_result_total_amount": "Toplam fiyat",
+  "flight_v2_widget_result_taxes_fees": "(Vergiler ve harçlar dahil)",
+  "flight_v2_widget_result_elevate_button_book": "Kitap",
+  "flight_v2_widget_result_text_flight": "segment",
+  "flight_v2_widget_result_text_departure_flight": "Kalkış uçuşu",
+  "flight_v2_widget_result_text_return_flight": "dönüş uçuşu",
+  "flight_v2_component_code_title": "Rezervasyon ara",
+  "flight_v2_component_code_retype": "tekrar girin",
+  "flight_v2_component_code_search_btn": "Yukarı Bak",
+  "flight_v2_component_code_error": "Rezervasyon bilgisi bulunamadı.\nLütfen kontrol edip tekrar deneyin.",
+  "flight_v2_widget_detail_text_booking_code": "Rezervasyon referansı:",
+  "flight_v2_widget_detail_text_status": "Durum:",
+  "flight_v2_widget_detail_text_booked": "Rezerve edildi",
+  "flight_v2_widget_detail_text_cancelled": "İptal edildi",
+  "flight_v2_widget_detail_text_paid": "Paralı",
+  "flight_v2_widget_detail_text_unpaid": "ödenmemiş",
+  "flight_showcase_domestic_round_trip_step1": "Saat, günün en düşük ücretiyle görüntülenir",
+  "flight_showcase_domestic_round_trip_step2": "Uçuş zamanını yeniden seçmek için her iki tarafa kaydırın",
+  "flight_showcase_domestic_round_trip_step3": "Kalkış uçuşunuzu seçin",
+  "flight_showcase_domestic_round_trip_step4": "Dönüş uçuşunuzu seçin",
+  "flight_showcase_domestic_round_trip_step5": "Kalkış ve dönüş uçuşlarını istediğiniz zaman yeniden seçebilirsiniz",
+  "flight_showcase_domestic_round_trip_step6": "Rezervasyon yapmadan önce yeterli uçuş seçmeniz gerekiyor",
+  "flight_showcase_inter_round_trip_step1": "Kendinize uygun bir uçuş yolculuğu seçin",
+  "flight_showcase_inter_round_trip_step1_desc": "Bir uçuş yolculuğu, bir gidiş uçuşu ve bir dönüş uçuşundan oluşur",
+  "flight_showcase_place_from": "İtibaren",
+  "flight_showcase_place_to": "İle",
+  "flight_showcase_tutorial": "öğretici",
+  "flight_showcase_back": "Geri",
+  "flight_showcase_done": "Tamamlamak",
+  "flight_showcase_continue": "Sonraki",
+  "flight_v2_component_code_hint_text": "Rezervasyon referansını girin",
+  "flight_v2_component_booking_text_note_upon": "Ne zaman",
+  "flight_v2_component_booking_text_payment_after": "DAHA SONRA ÖDE",
+  "flight_v2_component_booking_text_your_booking": ", rezervasyonunuz 12 saat içinde yapılacaktır. Ödemenizi ayrılan süre içinde yapmazsanız, otomatik olarak iptal edilecektir. Rezervasyon işlemini tamamlamak için lütfen ödemeyi ayrılan süre içinde yapın.",
+  "flight_v2_dialog_default_payment_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+  "flight_v2_dialog_default_payment_hahalolo_cskh": "Hahalolo Müşteri Hizmetleri ile İletişime Geçin",
+  "flight_v2_dialog_default_payment_not_success": "Ödeme başarısız",
+  "flight_v2_component_result_message_appropriate_flight": "Dönüş uçuşu için kalkış saati, kalkış uçuşu için iniş saatinden en az 02 saat sonra gerçekleşmelidir. Lütfen uygun uçuşu seçin.",
+  "flight_v2_component_notification_not_available": "Uçuş mevcut değil",
+  "flight_v2_search_enter_your_reservation": "Rezervasyon bilgilerinizi aramak için rezervasyon referansınızı girin",
+  "flight_v2_search_booking_reference": "Rezervasyon referansı",
+  "flight_v2_search_title_booking_code": "Uçuş rezervasyonunuzu aramak için rezervasyon referansınızı girin",
+  "flight_v2_widget_field_fname_mf_name_with_tone_mark": "Soyadı (ton işaretleri olmadan)",
+  "flight_v2_widget_field_fname_last_name_with_tone_marks": "İkinci ad ve Ad/Verilen ad (Ton işaretleri olmadan)",
+  "flight_v2_widget_common_rules_1": "Uluslararası uçuşlar veya uluslararası transitler için pasaportunuzun hareket tarihinden en az 06 ay önce geçerli olması gerekmektedir.",
+  "flight_v2_widget_common_rules_2": "Vietnam Havayolları ve Bamboo Airways: 36 haftadan itibaren hamilelik dönemi olan hamile yolcuları taşımayı reddedin. Vietjet Air ve Vietravel Havayolları: 32 haftadan itibaren hamilelik dönemi olan hamile yolcuları taşımayı reddediyor.",
+  "flight_v2_widget_common_rules_3": "14 günlükten 02 yaşına kadar olan bebeğe 18 yaşından büyük bir yetişkin eşlik etmelidir.",
+  "flight_v2_widget_common_rules_4": "Çocukların/bebeklerin yaşı, çocuğun doğum belgesi/pasaportuna göre doğum tarihinden uçağın kalkış tarihine kadar hesaplanacaktır.",
+  "flight_v2_widget_common_rules_5": "Yalnız uçan çocuklar için, refakatsiz çocuk hizmeti hakkında daha fazla bilgi için lütfen doğrudan acenteyle iletişime geçin.",
+  "flight_range_slider_price_range": "Fiyat aralığı",
+  "flight_v2_common_done": "Tamamlandı",
+  "flight_v2_detail_airline_operator_by": "'{organization}' tarafından işletiliyor",
+  "flight_v2_detail_airline_alert_transit": "Not: Ev sahibi ülkenin talebi üzerine yolcuların gümrükten çekmesi ve transit vizelerini ibraz etmesi gerekebilir.",
+  "flight_v2_detail_airline_total_price": "Toplam",
+  "flight_v2_detail_airline_title_tax_and_fee": "(Vergiler ve ücretler dahil)",
+  "flight_v2_detail_airline_button_add_ticket": "Bilet ekle",
+  "flight_v2_detail_airline_button_change_ticket": "Bileti değiştir",
+  "flight_v2_detail_airline_button_booking_ticket": "Bilet rezervasyonu",
+  "flight_v2_detail_airline_departure_flight": "Kalkış uçuşu",
+  "flight_v2_detail_airline_return_flight": "dönüş uçuşu",
+  "flight_v2_information_contact_email": "E-posta",
+  "flight_v2_information_customer_title_full_name": "Tam ad: {fullName}",
+  "flight_v2_information_customer_title_gender": "Cinsiyet: {gender}",
+  "flight_v2_information_customer_title_birth_day": "Doğum tarihi: {birthDay}",
+  "flight_v2_payment_include_note_payment": "(Not: {HAHALOLO}, {free} banka ücreti olan kullanıcıları destekleyecektir)",
+  "flight_v2_payment_include_free_fee_payment": "BEDAVA",
+  "flight_v2_payment_use_saved_info_user": "Kişi bilgilerini veya kayıtlı ödeme bilgilerini kullanın",
+  "flight_v2_payment_success_thank_user": "'{HAHALOLO}' hizmetine olan güveniniz için teşekkür ederiz. Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa, talimatlar için lütfen {phone} adresinden Hahalolo Yardım Merkezi ile iletişime geçin.",
+  "flight_v2_payment_success_notifier": "Rezervasyon isteğiniz başarıyla yapıldı '{wasPayment}'. Aşağıdaki güzergah detaylarını kontrol edebilirsiniz.",
+  "flight_v2_payment_success_was_payment": "(Paralı)",
+  "flight_v2_payment_success_flight_information": "Uçuş bilgisi",
+  "flight_v2_payment_success_outbound_flight_information": "Kalkış uçuş bilgileri",
+  "flight_v2_payment_success_return_flight_information": "Dönüş uçuş bilgileri",
+  "flight_v2_information_bottom_sheet_adult": "{count} x Yetişkin",
+  "@flight_v2_information_bottom_sheet_adult": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_children": "{count} x Çocuk",
+  "@flight_v2_information_bottom_sheet_children": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_bottom_sheet_infant": "{count} x Bebek",
+  "@flight_v2_information_bottom_sheet_infant": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_customer_info_adult": "Yetişkin bilgileri {index}",
+  "@flight_v2_information_customer_info_adult": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_child": "Alt bilgiler {index}",
+  "@flight_v2_information_customer_info_child": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_customer_info_infant": "Bebek bilgileri {index}",
+  "@flight_v2_information_customer_info_infant": {
+    "placeholders": {
+      "index": {}
+    }
+  },
+  "flight_v2_information_adult_title": "{count} Yetişkin",
+  "@flight_v2_information_adult_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_child_title": "{count} Çocuk",
+  "@flight_v2_information_child_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_information_infant_title": "{count} Bebekler",
+  "@flight_v2_information_infant_title": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_alert_transit_time": "{place} için yaklaşık {time} geçiş süresi",
+  "@flight_v2_detail_airline_alert_transit_time": {
+    "placeholders": {
+      "time": {},
+      "place": {}
+    }
+  },
+  "flight_v2_detail_airline_tax_and_fee": "Vergiler ve ücretler (x{count})",
+  "@flight_v2_detail_airline_tax_and_fee": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_v2_detail_airline_price_basic": "Temel ücret (x{count})",
+  "@flight_v2_detail_airline_price_basic": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "flight_sort_by_title_sort_by_latest_departure_time": "En son kalkış saati",
+  "flight_v2_widget_detail_text_departure_flight": "Kalkış uçuşu",
+  "flight_v2_widget_detail_text_return_flight": "dönüş uçuşu",
+  "flight_v2_widget_booking_sub_title_taxes_fees": "(Vergiler ve ücretler dahil)",
+  "flight_input_title_note_1": "Pasaportun seyahat planındaki ilk bölümün hareket tarihinden en az 06 ay önce geçerli olması gerektiğini lütfen unutmayın.",
+  "flight_input_title_note_2": "Yolcuların yeterli belgelere sahip olması ve varış ülkesinin düzenlemelerine ve göçmenlik prosedürlerine uyması gerekmektedir.",
+  "flight_input_title_note_3": "Havayolu, yolcuların öngörülen şekilde geçerli belgelere sahip olmaması durumunda taşımayı reddetme hakkını saklı tutar.",
+  "flight_input_title_note_4": "Yolcuların girişinin reddedilmesinden havayolu şirketi sorumlu değildir.",
+  "flight_input_title_note_5": "Yolcular zamanında havaalanında check-in yapmalıdır.",
+  "flight_input_title_note_6": "Refakatsiz küçük yolcuların doğrudan havayolu ile iletişime geçmeleri gerekmektedir.",
+  "flight_input_title_note_7": "32 haftadan itibaren hamilelik süresi olan hamile yolcuların doğrudan havayolu ile iletişime geçmeleri gerekmektedir.",
+  "flight_input_title_note_8": "Yolcuların yaşı, yolcunun Pasaport ve Doğum Belgesi gibi kimlik belgelerine dayalı olarak, seyahat programında yer alan ilk uçuş segmentinin doğum tarihi ile hareket tarihi arasındaki zaman aralığına göre hesaplanır.",
+  "flight_input_passenger_choose_birth_day": "Doğum tarihinizi seçin",
+  "flight_input_payment_show_passenger_title": "Aşağıdaki yolcular için bir uçuş rezervasyonu yapıyorsunuz:",
+  "flight_input_payment_reservation": "Kitap",
+  "flight_v2_model_booking_luggage_handle": "el bagajı",
+  "flight_search_result_progress_searching_title": "Aranıyor...",
+  "flight_v2_dialog_unavailable_ticket": "Uçuş mevcut değil",
+  "flight_v2_dialog_choose_ticket": "uçuşu seçtiniz",
+  "flight_v2_dialog_from": "itibaren",
+  "flight_v2_dialog_time_take_off_flight": "Uçuş kalkış zamanı",
+  "flight_v2_dialog_happening": "meydana gelmeli",
+  "flight_v2_dialog_minimum_hour": "en az 02 saat",
+  "flight_v2_dialog_after_trip": "uçuştan sonra",
+  "flight_v2_dialog_landed": "indi.",
+  "flight_v2_dialog_choose_again_ticket": "Başka bir uçuş seçmek istiyor musunuz?",
+  "flight_passenger_view_service_packages": "Hizmet paketleri",
+  "flight_passenger_view_check_in_baggage": "Kontrol edilen bagaj:",
+  "flight_v2_widget_detail_text_departure": "Kalkış",
+  "flight_v2_widget_detail_text_destination": "Hedef",
+  "flight_handnote_international_item_view_order_code": "sipariş kodu",
+  "flight_handnote_international_order_view": "Güncelleme tarihi",
+  "flight_order_detail_view_booking_code": "Rezervasyon referansı",
+  "flight_handnote_international_item_view_departure_date": "Ayrılış tarihi",
+  "flight_handnote_international_item_view_booking_status": "Rezervasyon durumu",
+  "flight_input_passenger_infor_title": "yolcu bilgileri",
+  "flight_input_payment_show_contact_full_name": "Ad Soyad",
+  "flight_passenger_view_guest_type": "yolcu tipi",
+  "flight_passenger_view_ticket_number": "Bilet numarası",
+  "flight_order_detail_title_flight_information": "Uçuş bilgisi",
+  "flight_v2_dialog_common_agree": "Kabul etmek",
+  "flight_v2_dialog_common_confirm": "Onaylamak",
+  "flight_v2_dialog_common_skip": "Atlamak",
+  "flight_v2_dialog_common_cancel": "İptal",
+  "flight_v2_dialog_common_exit": "çıkış",
+  "flight_v2_dialog_common_change_flight": "Kabul etmek",
+  "flight_v2_dialog_common_change_search": "Aramayı değiştir",
+  "flight_v2_dialog_title_change_information": "Bilgileri değiştir",
+  "flight_v2_dialog_sub_title_change_information": "Arama bilgilerini değiştirmek istediğinizden emin misiniz?",
+  "flight_v2_dialog_message_change_information": "Arama bilgilerini değiştirmeyi kabul ederseniz, önceki tüm veriler silinecektir.",
+  "flight_v2_dialog_title_not_available": "Uçuş mevcut değil",
+  "flight_v2_dialog_message_not_available": "Üzgünüz, seçtiğiniz uçuş şu anda müsait değil. Lütfen '{chooseOtherFlight}'.",
+  "flight_v2_dialog_message_not_available_choose_other_flight": "başka bir uçuş seçin veya aramanızı değiştirin",
+  "flight_v2_dialog_title_exceed_time_allow": "Uçuş izin verilen süreyi aştı",
+  "flight_v2_dialog_message_exceed_time_allow": "Seçtiğiniz uçuş, izin verilen rezervasyon süresini aştı. Lütfen yardım hattı '{hotline}' veya '{changeOtherFlight}' aracılığıyla '{HAHALOLO}' ile iletişime geçin.",
+  "flight_v2_dialog_message_exceed_time_allow_change_other_flight": "yeni uçuşlar için aramayı değiştir",
+  "flight_v2_dialog_title_delete_account": "Ödeme hesabını sil",
+  "flight_v2_dialog_sub_title_delete_account": "Bu ödeme hesabını silmek istediğinizden emin misiniz?",
+  "flight_v2_dialog_message_delete_account": "Hesap artık ödeme hesabı seçiminde görünmeyecektir.",
+  "flight_v2_dialog_title_change_ticket_price": "Ücret değişikliği",
+  "flight_v2_dialog_message_change_ticket_price": "'{oldPrice}' olan sipariş toplamı '{newPrice}' olarak değiştirildi. Lütfen varsa Kupon Kodu/Jeton/Puan''ı yeniden seçin.",
+  "flight_v2_dialog_title_min_support_payment": "Sipariş ödeme için uygun değil",
+  "flight_v2_dialog_message_min_support_payment": "Uygun siparişin toplam ödemesi '{minRange}' veya minimum '{maxRange}' tutarındadır. Kupon Kodu, Madeni Para veya Puanları ödeme koşullarını karşılayacak şekilde değiştirebilirsiniz.",
+  "flight_v2_dialog_title_order_not_found": "Bildirimler",
+  "flight_v2_dialog_message_order_not_found": "sipariş bulunamadı",
+  "flight_v2_dialog_title_exit_order": "Siparişten çık",
+  "flight_v2_dialog_message_exit_order_cart": "sepetiniz",
+  "flight_v2_dialog_title_payment_error_default": "Ödeme başarısız",
+  "flight_v2_dialog_message_payment_error_default_on_process_payment": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "flight_v2_dialog_message_payment_error_default_cskh": "'{here}' Hahalolo Müşteri Hizmetleri ile iletişime geçin.",
+  "flight_v2_dialog_message_payment_error_here": "burada",
+  "flight_v2_dialog_title_voucher_fee_change": "Ücret değişikliği",
+  "flight_v2_dialog_message_voucher_fee_change": "'{oldPrice}' olan ücret '{newPrice}' olarak değiştirildi. Yardım için Müşteri Hizmetleri Hahalolo '{here}' ile iletişime geçin.",
+  "flight_v2_dialog_message_voucher_fee_change_here": "burada",
+  "flight_v2_dialog_title_system_error": "Bildirimler",
+  "flight_v2_dialog_message_system_error": "Siparişiniz başarıyla ödendi ve yakında El Notlarınızda güncellenecektir.",
+  "flight_v2_dialog_title_voucher_not_available": "Bildirimler",
+  "flight_v2_dialog_message_voucher_not_available": "Kupon kodu mevcut değil. Lütfen kontrol edip tekrar deneyin.",
+  "flight_v2_dialog_title_point_not_available": "Bildirimler",
+  "flight_v2_dialog_message_point_not_available": "Puan mevcut değil. Lütfen kontrol edip tekrar deneyin.",
+  "flight_v2_dialog_title_coin_not_available": "Bildirimler",
+  "flight_v2_dialog_message_coin_not_available": "Madeni paralar mevcut değildir. Lütfen kontrol edip tekrar deneyin.",
+  "flight_v2_dialog_halo_support": "'{message}'. '{here}' Hahalolo Müşteri Hizmetleri ile iletişime geçin.",
+  "flight_v2_dialog_halo_support_here": "burada",
+  "flight_v2_dialog_title_stripe_error": "Bildirimler",
+  "flight_v2_price_info_read_more": "Daha fazla göster",
+  "flight_v2_price_info_total_payment": "Toplam ödeme",
+  "flight_v2_price_info_before_payment": "Ön ödemeli miktar",
+  "flight_v2_component_booking_title_payment_information": "ödeme bilgileri",
+  "flight_v2_model_booking_checked_baggage": "Kayıtlı bagaj (daha fazlasını satın alabilir)",
+  "flight_v2_widget_booking_coupon_code": "Kupon Kodu",
+  "flight_v2_widget_booking_use_coins": "Madeni para kullan",
+  "flight_v2_component_booking_use_point": "Puanları Kullan",
+  "flight_v2_widget_booking_title_fare_details": "Ücret ayrıntıları",
+  "flight_v2_widget_confirm_title_contact_information": "İletişim bilgileri",
+  "flight_input_passenger_hint_birth_day": "Doğum tarihi",
+  "flight_v2_widget_booking_membership_card_number": "Üyelik kartı numarası",
+  "flight_passenger_view_baggage": "bagaj",
+  "flight_v2_dialog_message_exit_order": "Uçuş rezervasyonunuz yapılıyor. Çıkarsanız, siparişiniz '{cart}'''a kaydedilmeye devam eder. Bu sipariş için '{time}' tarihinden önce ödeme yapabilirsiniz",
+  "flight_v2_dialog_message_exit_order_no_hold": "Uçuş rezervasyonunuz yapılmadı. Çıkarsanız, siparişiniz '{cart}'''a kaydedilmeye devam eder. Bilet düzenleme işlemini tamamlamak için ödeme yapabilirsiniz.",
+  "flight_v2_payment_back_from_payment": "Uçuş rezervasyonunuz yapılıyor. Sipariş bilgilerini değiştiremezsiniz. Bilet düzenleme işlemini tamamlamak için lütfen '{time}' tarihinden önce ödeme yapın.",
+  "flight_v2_payment_back_from_payment_no_hold": "Uçuş rezervasyonunuz yapılmadı. Rezervasyon ve bilet düzenleme işlemini tamamlamak için lütfen ödeme yapın.",
+  "flight_price_detail_view_total_fare": "Toplam ücret",
+  "flight_price_detail_view_service_fee": "Servis ücreti",
+  "flight_price_detail_view_payment_fee": "Ödeme ücreti",
+  "flight_v2_notification_baggage": "{baggage} seçtiniz. Lütfen aşağıdaki ayrıntılara bakın.",
+  "flight_check_the_details": "Aşağıdaki detayları kontrol edebilirsiniz.",
+  "flight_order_detail_view_information_order": "Sipariş Bilgisi",
+  "flight_v2_search_code_no_reservation_yet": "Henüz rezerve edilmedi",
+  "@_END_FLIGHT_____________________________________________________________________________________": {},
+
+  "@_TOUR___________________________________________________________________________________________": {},
+  "tour_booking_screen_alter_guest_information": "Not: Müşteri bilgileri henüz tamamlanmadı",
+  "tour_booking_screen_update_information": "Şimdi güncelle",
+  "tour_booking_screen_textspan_note": "(Not: Ödeme ücreti)",
+  "tour_booking_loading_message": "Sipariş bilgileri alınıyor, lütfen biraz bekleyin",
+  "tour_booking_last_name": "Soyadı",
+  "tour_booking_middle_and_first_name": "Orta ve İlk/Verilen ad",
+  "tour_booking_or_detail_phone_number": "Telefon numarası",
+  "tour_booking_or_detail_address": "Adres",
+  "tour_booking_province_city": "Eyalet şehri",
+  "tour_booking_country": "Ülke",
+  "tour_booking_title_booking_information": "Rezervasyon bilgileri",
+  "tour_booking_bottom_detail_price_error": "Kart bilgileri yanlış. Lütfen tekrar kontrol ediniz.",
+  "tour_booking_update_item_cart_msg_error_cannot_apply": "Kupon kodu uygulanamıyor",
+  "tour_booking_update_item_cart_msg_error_Invalid_code": "Geçersiz kupon kodu",
+  "tour_booking_update_item_cart_action_message": "Kapat",
+  "tour_booking_update_item_cart_title": "Bildirimler",
+  "tour_booking_update_item_cart_msg_error_last": "Sipariş güncellenirken bir hata oluştu, lütfen tekrar deneyin.",
+  "tour_booking_screen_payment_methods": "Ödeme seçeneği",
+  "tour_booking_screen_accept": "Kabul etmek",
+  "tour_booking_screen_coupon_code": "Kupon Kodu",
+  "tour_booking_screen_insert_code": "Kodu girin",
+  "tour_booking_screen_default_msgError": "Bir hata oluştu. Lütfen tekrar deneyin.",
+  "tour_booking_screen_on_failed_error_2008": "Seçtiğiniz aya göre tur programı şu anda mevcut değil. Lütfen başka bir tur programı seçin.",
+  "tour_booking_screen_on_failed_error_2202": "Sayfa yayınlanmadı veya yaş ayarlamadınız.",
+  "tour_booking_screen_on_failed_error_2301": "Tur mevcut değil.",
+  "tour_booking_screen_on_failed_error_2303": "Tur sayfaya ait değildir.",
+  "tour_booking_screen_on_failed_error_2801_2802": "Rezervasyon süresi dolmuştur.",
+  "tour_booking_screen_content_apply_voucher_failed_msg_error": "{msgErr}.. Lütfen Hahalolo''nun Müşteri Hizmetleri Merkezi ile iletişime geçin.",
+  "@tour_booking_screen_content_apply_voucher_failed_msg_error": {
+    "placeholders": {
+      "msgErr": {}
+    }
+  },
+  "tour_booking_screen_content_apply_voucher_failed_here": "burada",
+  "tour_booking_screen_content_apply_voucher_failed_help": "yardım için.",
+  "tour_booking_screen_item_apply_coin_view_action_view_detail": "Bu sipariş için kullanılabilecek maksimum jeton sayısı.",
+  "tour_booking_screen_item_apply_coin_view_content_use": "Kullanmak",
+  "tour_booking_screen_item_apply_coin_view_content_number_coin": "{number}  Madeni Para",
+  "@tour_booking_screen_item_apply_coin_view_content_number_coin": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_booking_screen_item_apply_coin_view_content_to_pay": "ödeme için.",
+  "tour_booking_screen_item_apply_coin_view_content_corresponding": "(Karşılık gelen",
+  "tour_booking_success_text_done": "Tamamlandı",
+  "tour_booking_success_header_booking_success": "Rezervasyon başarılı",
+  "tour_booking_success_header_textspan_reservation_success": "Rezervasyon talebiniz başarıyla yapıldı",
+  "tour_booking_success_header_textspan_paid": "(Paralı).",
+  "tour_booking_success_header_textspan_itinerary_details": "Aşağıdaki güzergah detaylarını kontrol edebilirsiniz.",
+  "tour_booking_success_title_tour_information": "Tur bilgileri",
+  "tour_booking_success_tour_information_tour_name": "Tur adı",
+  "tour_booking_success_tour_information_departure": "Kalkış",
+  "tour_booking_success_tour_information_departure_date": "Ayrılış tarihi",
+  "tour_booking_success_tour_information_end_date": "Bitiş tarihi",
+  "tour_booking_success_tour_information_Number_of_days": "Gün sayısı",
+  "tour_booking_success_tour_information_passengers": "Yolcuların sayısı",
+  "tour_booking_success_tour_information_detail_Passengers": "1 yetişkin",
+  "tour_booking_success_title_contact_information": "İletişim bilgileri",
+  "tour_booking_success_contact_information_full_name": "Ad Soyad:",
+  "tour_booking_success_contact_information_email": "E-posta:",
+  "tour_booking_success_contact_information_phone_number": "Telefon numarası:",
+  "tour_booking_success_contact_information_address": "Adres:",
+  "tour_booking_success_title_installment_information": "Taksitli sipariş bilgileri",
+  "tour_booking_success_installment_information_total_order_value": "Toplam sipariş değeri:",
+  "tour_booking_success_installment_information_prepaid_rate": "Ön ödemeli oran:",
+  "tour_booking_success_installment_information_prepayment_amount": "Ön ödeme tutarı:",
+  "tour_booking_success_installment_information_remaining_amount": "Kalan bakiye:",
+  "tour_booking_success_installment_information_conversion_information": "Bilgi dönüştürme ücreti:",
+  "tour_booking_success_installment_information_banking_fee": "Banka borcu:",
+  "tour_booking_success_installment_information_installment_interest_rate": "Taksit faiz oranı (0%):",
+  "tour_booking_success_installment_information_installment_interest_month": "Taksit faizi (ay):",
+  "tour_booking_success_installment_information_total_amount": "Toplam taksit ödemesi:",
+  "tour_booking_success_installment_information_payment_term": "Taksit süresi (ay):",
+  "tour_booking_success_installment_information_payment_term_detail": "{month} ay",
+  "@tour_booking_success_installment_information_payment_term_detail": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_success_installment_information_monthly_amount": "Aylık taksit tutarı:",
+  "tour_booking_success_installment_information_next_installment_period": "Sonraki taksit tenoru",
+  "tour_booking_success_title_transaction_information": "İşlem Bilgileri",
+  "tour_booking_success_transaction_information_tour_id": "Tur ID:",
+  "tour_booking_success_transaction_information_booking_code": "Rezervasyon numarası:",
+  "tour_booking_success_transaction_information_total_payment": "Toplam ödeme:",
+  "tour_booking_success_transaction_information_payer": "ödeyen:",
+  "tour_booking_success_transaction_information_address": "Adres:",
+  "tour_booking_success_transaction_information_content_billing": "Ödeme içeriği:",
+  "tour_booking_success_transaction_information_order_payment": "Sipariş ödeme",
+  "tour_booking_success_transaction_information_order_advance": "Taksitli sipariş ön ödemesi",
+  "tour_booking_success_textspan_footer_thanks": "Hahalolo''nun hizmetine olan güveniniz için teşekkür ederiz.",
+  "tour_booking_success_textspan_footer_doubt": "Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa, lütfen Hahalolo Yardım Merkezi ile iletişime geçin.",
+  "tour_booking_success_textspan_footer_last_text": "talimatlar için.",
+  "tour_booking_success_bottomview_view_details": "Detayları göster",
+  "tour_booking_success_bottomview_new_booking": "Yeni kitap",
+  "tour_booking_title_info_detail_tour": "Tur detayları",
+  "tour_booking_info_detail_tour_title_info_tour": "Bilgi",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_name": "Tur adı",
+  "tour_booking_info_detail_tour_info_tour_endtext_discover": "Phu Quy Adası Keşfi",
+  "tour_booking_or_detail_tour_id": "Tur ID",
+  "tour_booking_or_detail_tour_time": "Zaman",
+  "tour_booking_or_detail_departure_date": "Ayrılış tarihi",
+  "tour_booking_info_detail_tour_info_tour_end_date": "Bitiş tarihi",
+  "tour_booking_or_detail_tour_departure": "Kalkış",
+  "tour_booking_info_detail_tour_info_tour_ending_location": "Varış noktası",
+  "tour_booking_info_detail_tour_info_tour_starttext_tour_type": "Tur türü",
+  "tour_booking_info_detail_tour_info_tour_description": "Tanım",
+  "tour_booking_info_detail_tour_title_table_price": "Tur fiyat listesi",
+  "tour_booking_starttext_adult": "Yetişkin",
+  "tour_booking_starttext_child": "Çocuk",
+  "tour_booking_starttext_young_child": "Genç çocuk",
+  "tour_booking_starttext_baby": "Bebek",
+  "tour_booking_info_detail_tour_title_tour_listpart": "Parça listesi",
+  "tour_booking_info_detail_tour_title_separate_regulations": "Yönetmelik bilgileri",
+  "tour_booking_info_detail_tour_title_privacy_policy": "Özel düzenlemeler",
+  "tour_booking_info_detail_tour_title_installment_policy": "taksit planı",
+  "tour_booking_bottom_detail_price_collapsed_have_info_item_cart": "Toplam tutar",
+  "tour_booking_bottom_detail_price_collapsed_dont_have_info_item_cart": "Ön ödemeli miktar",
+  "tour_booking_bottom_detail_price_collapsed_pay": "Ödemek",
+  "tour_booking_bottom_detail_price_bottom_starttext_service": "Hizmetler",
+  "tour_booking_bottom_detail_price_bottom_starttext_promotion": "Terfi",
+  "tour_booking_bottom_detail_price_bottom_use_promotion": "Promosyonu kullan",
+  "tour_booking_bottom_detail_price_bottom_starttext_use_coins": "madeni para kullan",
+  "tour_booking_bottom_detail_price_bottom_starttext_total_amount": "Toplam tutar",
+  "tour_booking_bottom_detail_price_bottom_text_included_discount": "100% ön ödeme için indirim dahildir",
+  "tour_booking_bottom_detail_price_bottom_textspan_value_promotion": "Promosyon değeri:",
+  "tour_booking_title_item_count_passenger": "Yolcuların sayısı",
+  "tour_booking_item_count_passenger_item_passenger_adult_detail": "{age} yaşından büyük",
+  "@tour_booking_item_count_passenger_item_passenger_adult_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": "{start_age} - {end_age} yaşında",
+  "@tour_booking_item_count_passenger_item_passenger_child_or_young_child_detail": {
+    "placeholders": {
+      "start_age": {},
+      "end_age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_item_passenger_text_baby_detail": "{age} yaşından küçük",
+  "@tour_booking_item_count_passenger_item_passenger_text_baby_detail": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "tour_booking_item_count_passenger_bottom_request_support": "Gezgin bilgilerini girerken dan destek isteyin",
+  "tour_booking_item_count_passenger_bottom_enter_traveler_information": "Gezgin bilgilerini girin",
+  "tour_booking_title_item_info_billing": "ödeyen bilgileri",
+  "tour_booking_item_info_billing_use_contact_info": "Kişi bilgilerini kullan",
+  "tour_booking_title_item_info_contact_person": "İletişim bilgileri",
+  "tour_booking_title_item_method_payment": "Ödeme şekli",
+  "tour_booking_item_method_payment_text_full_payment": "100% ödeme",
+  "tour_booking_item_method_payment_text_installment_payment": "taksitli ödeme",
+  "tour_booking_item_method_payment_pay_all_text_discount": "%{discount} indirim alırsınız",
+  "@tour_booking_item_method_payment_pay_all_text_discount": {
+    "placeholders": {
+      "discount": {}
+    }
+  },
+  "tour_booking_item_method_payment_pay_all_textspan_total_discount": "İndirim sonrası sipariş tutarının toplam ödenecek tutarı:",
+  "tour_booking_title_item_select_service": "Eşlik eden hizmetler",
+  "tour_booking_item_select_service_add_service": "Hizmet ekle",
+  "tour_booking_pay_installment_textspan_confirmation_code": "Sonraki dönemlerde taksitlendirme talimatı için ödeme onay kodunu e-posta ile göndereceğiz:",
+  "tour_booking_pay_installment_check_email": "Lütfen e-posta adresinizi iki kez kontrol edin.",
+  "tour_booking_pay_installment_number_installments_months": "Taksit ay sayısı",
+  "tour_booking_pay_installment_rate_paid_installment_rate": "taksit oranı",
+  "tour_booking_pay_installment_rate_paid_partial_prepayment": "Tur değerinin kısmi ön ödemesini yapmanız gerekir. Aylık taksit tutarı, başarılı ön ödemeden sonra kalan bakiyeye göre hesaplanacaktır.",
+  "tour_booking_pay_installment_rate_paid_label_text_enter_prepaid": "İstediğiniz ön ödeme yüzdesini girin",
+  "tour_booking_pay_installment_title_table_Detail_Installment": "Taksit detayları",
+  "tour_booking_pay_installment_table_Detail_Installment_header_stt": "Numara.",
+  "tour_booking_pay_installment_table_Detail_Installment_header_info": "Bilgi",
+  "tour_booking_pay_installment_table_Detail_Installment_header_value": "Değer",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_first": "sipariş değeri",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_second": "Ön ödemeli oran",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_third": "ön ödemeli değer",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fourth": "Kalan bakiye",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_fifth": "Bilgi dönüştürme ücreti",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_sixth": "Banka ödeme ücreti",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_seventh": "Faiz oranı (%)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eighth": "taksit faizi",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_ninth": "Toplam taksit tutarı",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_tenth": "Taksit süresi (Ay)",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_eleventh": "Sonraki taksit tenoru",
+  "tour_booking_pay_installment_table_Detail_Installment_info_row_twelfth": "Aylık taksit tutarı",
+  "tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": "{month} Ay",
+  "@tour_booking_pay_installment_table_Detail_Installment_value_row_tenth": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan": "taksit planı",
+  "tour_booking_pay_installment_table_Detail_Installment_installment_plan_details": "Taksit planı ayrıntıları",
+  "tour_booking_item_service_init_service_hint_text_accompanied_service": "Eşlik eden hizmetler",
+  "tour_booking_item_service_init_service_number_of_travelers": "Yolcuların sayısı",
+  "tour_booking_group_months_installment_label": "{month} ay",
+  "@tour_booking_group_months_installment_label": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_detail_screen_theme_text_travel_dreams": "Seyahat hayalleri",
+  "tour_detail_text_number_people_haha_page": "1.839.017 kişi Haha bu sayfa",
+  "tour_detail_screen_theme_text_indochina_discovery": "Çinhindi keşfi: Deniz kıyıları ve sokak yemekleri",
+  "tour_detail_text_installment_tour": "TAKSİT TURU",
+  "tour_detail_text_view_details": "Detayları göster",
+  "tour_detail_number_promotions": "{promotions} Promosyonlar",
+  "@tour_detail_number_promotions": {
+    "placeholders": {
+      "promotions": {}
+    }
+  },
+  "tour_detail_text_applying": "mevcut",
+  "tour_detail_tab_info": "Bilgi",
+  "tour_detail_tab_tour_parts": "Yol programı ayrıntıları",
+  "tour_detail_tab_promotion": "Terfi",
+  "tour_detail_tab_privacy_policy": "Gizlilik Politikası",
+  "tour_detail_tab_separate_regulations": "Özel düzenlemeler",
+  "tour_detail_tab_contact": "İletişim",
+  "tour_detail_view_tab_installment": "taksit planı",
+  "tour_detail_text_only_from": "Sadece buradan",
+  "tour_detail_view_emptyTitle": "Tur artık mevcut değil",
+  "tour_detail_text_change_date": "Tarihi değiştir",
+  "tour_detail_text_book_now": "Şimdi ayırtın",
+  "tour_detail_view_action_menu_time_line": "Zaman çizelgesi",
+  "tour_detail_view_action_menu_tour_List": "Tur listesi",
+  "tour_detail_view_action_menu_introduction": "Tanıtım",
+  "tour_detail_view_action_menu_promotion": "Terfi",
+  "tour_detail_view_action_menu_appraise": "incelemeler",
+  "tour_detail_view_tool_bar_number_people_haha_page": "{people} kişi Haha bu sayfa",
+  "@tour_detail_view_tool_bar_number_people_haha_page": {
+    "placeholders": {
+      "people": {}
+    }
+  },
+  "tour_detail_schedule_error_text_span_not_available": "Seçtiğiniz aya göre tur programı şu anda mevcut değil.",
+  "tour_detail_schedule_error_text_span_choose_schedule_another": "Lütfen başka bir tur programı seçin.",
+  "tour_detail_choose_schedule_title": "Program seç",
+  "tour_detail_choose_schedule_month_and_year": "{month}, {year}",
+  "@tour_detail_choose_schedule_month_and_year": {
+    "placeholders": {
+      "month": {},
+      "year": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_title": "Kalkış programı",
+  "tour_detail_choose_schedule_detail_error_empty_title": "Kalkış programı mevcut değil",
+  "tour_detail_choose_schedule_detail_cell_departure_date": "Kalkış tarihi: {days}",
+  "@tour_detail_choose_schedule_detail_cell_departure_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_departure": "İtibaren",
+  "tour_detail_choose_schedule_detail_cell_departure_begin": "{city}''den",
+  "@tour_detail_choose_schedule_detail_cell_departure_begin": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_end": "Son",
+  "tour_detail_choose_schedule_detail_cell_departure_end": "İle {city}",
+  "@tour_detail_choose_schedule_detail_cell_departure_end": {
+    "placeholders": {
+      "city": {}
+    }
+  },
+  "tour_detail_choose_schedule_detail_cell_text_promotion": "Terfi",
+  "tour_detail_choose_schedule_detail_cell_text_price": "Fiyat",
+  "tour_detail_choose_schedule_detail_cell_book_tour_now": "Şimdi Rezervasyon Yap",
+  "tour_detail_contact_infor_view_empty_title": "İletişim bilgileri güncelleniyor",
+  "tour_detail_contact_infor_view_company_name": "Şirket Adı",
+  "tour_detail_infor_view_text_starting_from": "Dan başla",
+  "tour_detail_infor_view_text_ends_at": "Sonunda",
+  "tour_detail_infor_view_tour_type_domestic": "yurtiçi tur",
+  "tour_detail_infor_view_tour_type_international": "Uluslararası tur",
+  "tour_detail_infor_view_tour_text_info": "Bilgi",
+  "tour_detail_infor_view_tour_time_details": "{days} gün",
+  "tour_detail_infor_view_tour_types": "Tip",
+  "tour_detail_infor_view_tour_service": "Tur hizmetleri",
+  "tour_detail_emptyTitle_no_data_found": "Veri bulunamadı",
+  "tour_detail_promotion_view_empty_title": "Promosyon yok",
+  "tour_detail_promotion_view_promotion_cell_promotion_level": "Promosyon seviyeleri {level}:",
+  "@tour_detail_promotion_view_promotion_cell_promotion_level": {
+    "placeholders": {
+      "level": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount1": "{price}% indirim",
+  "@tour_detail_promotion_view_promotion_cell_discount1": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_discount2": "{price} indirim",
+  "@tour_detail_promotion_view_promotion_cell_discount2": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_order": "Minimum sipariş değeri: {price}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_order": {
+    "placeholders": {
+      "price": {}
+    }
+  },
+  "tour_detail_promotion_view_promotion_cell_minimum_adults": "Minimum yetişkin sayısı: {adult}",
+  "@tour_detail_promotion_view_promotion_cell_minimum_adults": {
+    "placeholders": {
+      "adult": {}
+    }
+  },
+  "tour_detail_error_view_back": "Geri",
+  "tour_detail_shimmer_loading_message": "... insanlar haha ​​​​bu sayfa",
+  "tour_hand_note_tabs_verify_sent_to_email": "Size pham54833@gmail.com adresine bir onay kodu gönderdik.",
+  "tour_hand_note_tabs_price": "Fiyat",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_title": "Siparişi iptal et",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_message": "Bu eylemi gerçekleştirmek istiyor musunuz?",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_action_message": "Onaylamak",
+  "tour_hand_note_tab_tour_view_warning_cancel_order_negative_message": "İptal etmek",
+  "tour_hand_note_footer_action_total_amount": "Toplam tutar",
+  "tour_hand_note_footer_action_pay": "Ödemek",
+  "tour_hand_note_order_payment_view_order_id": "sipariş kodu",
+  "tour_hand_note_order_payment_view_paid": "Paralı",
+  "tour_hand_note_order_payment_view_total_price": "Toplam fiyat",
+  "tour_hand_note_order_payment_view_remaining_amount": "Kalan bakiye",
+  "tour_hand_note_order_payment_view_start_text_installment_tenor": "taksit vadesi",
+  "tour_hand_note_order_payment_view_end_text_number_month": "Ay: {month}",
+  "@tour_hand_note_order_payment_view_end_text_number_month": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "tour_hand_note_order_payment_view_installment_amount": "Taksit tutarı",
+  "tour_hand_note_order_payment_view_next_installment_period": "Sonraki taksit tenoru",
+  "tour_hand_note_service_tour_bottom_view_total_payment": "Toplam ödeme",
+  "tour_handnote_banner_waring_input_verify_error": "Doğrulama sırasında bir hata oluştu. Lütfen tekrar deneyin veya ''ye dokunun",
+  "tour_lockup_empty_title": "Tur bilgisi bulunamadı",
+  "tour_lockup_title_info": "Tur bilgileri",
+  "tour_lockup_form_search_hind_text_enter_promo": "Promosyon Kodunu Girin",
+  "tour_number_date": "{days, plural, =0{ } =1{{days} günler} other{{days} günler}}",
+  "@tour_number_date": {
+    "placeholders": {
+      "days": {}
+    }
+  },
+  "tour_handnote_tab_all": "Herşey",
+  "tour_handnote_tab_awaiting": "Onay bekleniyor",
+  "tour_handnote_tab_awaiting_fulfilment": "yerine getirilmesi bekleniyor",
+  "tour_handnote_tab_ongoing": "devam ediyor",
+  "tour_handnote_tab_completed": "Tamamlanmış",
+  "tour_handnote_tab_canceled": "İptal edildi",
+  "tour_detail_page_programs_detail": "Program ayrıntıları",
+  "tour_detail_page_passenger_title": "Müşteri",
+  "tour_detail_info_guest_edit_title": "Düzenlemek",
+  "tour_detail_info_guest_update_title": "Güncelleme",
+  "tab_tour_detail_order_cancel_order": "Siparişi iptal et",
+  "tab_tour_detail_order_cancel_order_confirm": "Bu eylemi gerçekleştirmek istiyor musunuz?",
+  "tab_tour_detail_order_cancel_order_confirm_button": "Onaylamak",
+  "tab_tour_detail_order_cancel_order_cancel_button": "İptal etmek",
+  "tab_tour_detail_order_waiting_confirmation": "Onay bekleniyor",
+  "tab_tour_detail_order_code_order_tour_title": "Rezervasyon numarası",
+  "tour_detail_stage_view_title": "Bölüm {stage}",
+  "@tour_detail_stage_view_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "tour_booking_screen_have_apply_voucher_coins": "Ödemeye jeton uygulandı. Aşağıdaki ayrıntılara bakın",
+  "tour_booking_screen_have_apply_voucher_coupon_code": "Kupon kodu ödemeye uygulandı. Aşağıdaki ayrıntılara bakın",
+  "tour_hand_note_banner_warning_update_success": "Müşteri bilgileri tamamlandı",
+  "tour_hand_note_history_activity_item_infor_cancel_history_payment_information": "Ödeme bilgileri",
+  "tour_hand_note_history_activity_item_infor_cancel_history_paid": "Paralı",
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": "Tur iptal promosyonu\n{promo}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancel_promo": {
+    "placeholders": {
+      "promo": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_use_coins": "Madeni para kullanın ({coins})",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_use_coins": {
+    "placeholders": {
+      "coins": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": "İptal ücreti {number}",
+  "@tour_hand_note_history_activity_item_infor_cancel_history_cancelation_fee": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_amount": "Tahmini geri ödeme tutarı",
+  "tour_hand_note_history_activity_item_infor_cancel_history_refund_time": "Geri ödeme süresi (İptal tarihinden itibaren): 5-7 gün (Alepay ve Payme ödeme ağ geçitleri için) veya 7-15 gün (Stripe ödeme ağ geçidi için).",
+  "tour_hand_note_history_activity_item_infor_cancel_history_reason_cancel": "İptal nedeni:",
+  "tour_booking_validation_province_or_city_is_required": "İl/Şehir gerekli",
+  "tour_booking_screen_on_failed_error_2801": "Tur için kalkış tarihinden {numberDay} gün önce rezervasyon yaptırmanız gerekmektedir. Lütfen başka bir hareket tarihi seçin.",
+  "@tour_booking_screen_on_failed_error_2801": {
+    "placeholders": {
+      "numberDay": {}
+    }
+  },
+  "tour_booking_screen_on_failed_error_2802": "Seçtiğiniz tur kalkış saatiniz, politikamıza göre daha kısa veya daha uzundur. Lütfen uygun kalkış saatine sahip bir tur seçin.",
+  "tour_booking_bottom_view_error": "Lütfen gezgin bilgilerini doldurun veya daha sonra gezgin bilgilerini girmek için Hahalolo desteği isteyin.",
+  "tour_booking_on_start_payment_message": "Üzgünüz, seçtiğiniz kalkış tarihi tükendi. Lütfen başka bir hareket tarihi seçin.",
+  "tour_detail_text_full_load": "Hepsi satıldı",
+  "tour_cancel_order_info_reason_cancel": "İptal nedenini girin.",
+  "tour_cancel_order_info_validate_reason_cancel": "İptal nedeni gerekli",
+  "tour_cancel_order_info_refound_invalid_card": "Hesap numarası gerekli",
+  "tour_cancel_bank_name_required": "Banka adı gerekli",
+  "tour_cancel_bank_wrong_format": "Banka adı biçimi yanlış",
+  "tour_cancel_hahalolo_will_refund_you": "(Hahalolo, aşağıya girdiğiniz banka hesap bilgilerine göre size geri ödeme yapacaktır)",
+  "tour_cancel_enter_bank_name": "Banka adını girin",
+  "tour_cancel_cancel_order_success": "Siparişiniz başarıyla iptal edildi.",
+  "tour_bank_identifier_required": "SWIFT kodu gerekli",
+  "tour_detail_title_select_departure_month": "Kalkış ayını seçin",
+  "tour_detail_title_upcoming_departure_schedule": "Yaklaşan kalkış programı",
+  "tour_detail_schedule_title_departure": "Kalkış",
+  "tour_detail_schedule_title_destination": "Hedef",
+  "tour_booking_fail_payment_price_change": "{oldPay} olan tur fiyatı {newPay} olarak değiştirildi. Ödemenize devam etmek istiyor musunuz?",
+  "@tour_booking_fail_payment_price_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_price_change_and_prepay": "{oldPay} olan tur fiyatı {newPay} olarak değiştirildi ve önceden {payAmount} ödemeniz gerekiyor. Ödemenize devam etmek istiyor musunuz?",
+  "@tour_booking_fail_payment_price_change_and_prepay": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {},
+      "payAmount": {}
+    }
+  },
+  "tour_booking_fail_payment_prepay_change": "{oldPay} olan ön ödeme tutarı {newPay} olarak değiştirildi. Ödemenize devam etmek istiyor musunuz?",
+  "@tour_booking_fail_payment_prepay_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_fail_payment_apply_coin_change": "Jetonlardan uygulanan tutar {oldPay} iken {newPay} olarak değiştirildi. Ödemenize devam etmek istiyor musunuz?",
+  "@tour_booking_fail_payment_apply_coin_change": {
+    "placeholders": {
+      "oldPay": {},
+      "newPay": {}
+    }
+  },
+  "tour_booking_use_point": "Puanları kullan",
+  "tour_booking_screen_have_apply_points": "Ödemeye puan uygulandı. Lütfen aşağıdaki ayrıntılara bakın.",
+  "tour_booking_warning_promotion": "Turunuz rezerve ediliyor ve sipariş bilgileri değiştirilemez. Tur rezervasyonunuzu tamamlamak için lütfen ödeme yapın.",
+  "tour_booking_warning_back_text_normal": "Siparişiniz rezerve edilmiştir. Bırakırsanız, siparişiniz yine de şuraya kaydedilecek:",
+  "tour_booking_warning_back_when_hold_ticket_card_exit_order": "Siparişten çık",
+  "tour_booking_warning_back_when_hold_ticket_card": "Sepetiniz.",
+  "tour_booking_warning_back_exit": "Çıkış yapmak",
+  "tour_booking_update_item_cart_msg_error_order_has_passed_the_payment": "Sipariş, ödeme ağ geçidinden geçti. Kupon kodu uygulanamaz.",
+  "tour_booking_point_not_available": "Puan mevcut değil",
+  "tour_payment_voucher_exit_dialog_title": "Ödeme başarısız",
+  "tour_total_point_change": "Kullanılabilir Puanlarınız değişti. Lütfen siparişe başvurmak için Puan sayısını girin.",
+  "tour_hand_note_text_tour": "Tur",
+  "tour_hand_note_text_amount_installment_payment": "Taksit ödeme tutarı",
+  "tour_detail_tour_has_no_available_schedule": "Bu tur için müsait program yok",
+  "tour_detail_promotion_view_time_application": "Uygulanabilir dönem:",
+  "tour_detail_promotion_view_up_to_off_title": "kadar",
+  "tour_detail_promotion_view_promotion_up_to_off_title": "{percent}% indirim",
+  "@tour_detail_promotion_view_promotion_up_to_off_title": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+  "tour_lockup_title_lookup_tour_code": "Rezervasyon numarasına bakın",
+  "tour_you_can_sure_cancel_order": "Bu siparişi iptal etmek istediğinizden emin misiniz?",
+  "tour_detail_contact_title": "7/24 hizmetinizdeyiz! Bu hizmetle ilgili herhangi bir sorunuz varsa, lütfen aşağıdaki bilgileri kullanarak bizimle iletişime geçin. 2 saat içinde cevap vereceğiz!",
+  "tour_detail_rate_title_schedule": "Takvim",
+  "tour_detail_rate_title_meal": "Yemek",
+  "tour_detail_review_there_are_no_reviews_yet": "Henüz yorum yok",
+  "tour_search_suggest_location_title": "En iyi destinasyonlar",
+  "tour_detail_rate_title_property": "Mülk",
+  "tour_detail_rate_title_tour_guide": "Tur rehberi",
+  "tour_detail_rate_title_vehicle": "Araç",
+  "tour_detail_choose_schedule_remain_slot": "Yalnızca {slot} yuva kaldı",
+  "@tour_detail_choose_schedule_remain_slot": {
+    "placeholders": {
+      "slot": {}
+    }
+  },
+  "tour_detail_text_day": "Tarih",
+  "tour_detail_contact_text_hotline": "yardım hattı",
+  "tour_detail_contact_text_facebook": "Facebook",
+  "tour_detail_contact_text_halome": "Halome",
+  "tour_detail_reviews": "İncelemeler",
+  "tour_search_place_suggestion_title": "Bir hedef seçin",
+  "tour_search_place_suggestion_hint_text": "Kalkış girin...",
+  "tour_review_title_feedback": "Seyahat deneyiminizi gözden geçirin",
+  "tour_review_title_content": "Genel gezi puanı",
+  "tour_review_title_see_review": "Seyahat yorumunuzu görün",
+  "tour_review_schedule": "Takvim",
+  "tour_review_meal": "Yemek",
+  "tour_review_accommodation": "Mülk",
+  "tour_review_tour_guide": "Tur rehberi",
+  "tour_review_vehicle": "Araç",
+  "tour_booking_screen_text_accept": "Kabul etmek",
+  "tour_lockup_up_tour_header_text": "Rezervasyon bilgilerinizi aramak için rezervasyon numaranızı girin",
+  "banner_warning_installment_noti": "Bir sonraki taksit ödeme tarihine ulaşacaksınız. Taksit son tarihi {nextDay}",
+  "@banner_warning_installment_noti": {
+    "placeholders": {
+      "nextDay": {}
+    }
+  },
+  "banner_warning_installment_": "Uzatmak",
+  "@_END_TOUR_______________________________________________________________________________________": {},
+
+  "@_VOUCHER________________________________________________________________________________________": {},
+  "voucher_search_on_select_voucher_done": "Kupon kodu başarıyla uygulanmadı",
+  "voucher_search_on_select_voucher_fail": "Uygulanmamış kupon kodu başarısız oldu. Lütfen daha sonra tekrar deneyiniz.",
+  "voucher_search_coupon_code_incorrect": "Yanlış kupon kodu",
+  "voucher_search_check_or_contact_cskh": "Lütfen tekrar kontrol edin veya Müşteri Hizmetleri Merkezimizle iletişime geçin.",
+  "voucher_widget_item_voucher_discount": "İndirim: {number}",
+  "@voucher_widget_item_voucher_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_expiring": "Süresi doluyor: {date}",
+  "@voucher_widget_item_voucher_expiring": {
+    "placeholders": {
+      "date": {}
+    }
+  },
+  "voucher_widget_item_voucher_expry_date": "Son kullanma tarihi:",
+  "voucher_widget_item_voucher_info_detail_text_code": "Kod:",
+  "voucher_widget_item_voucher_info_detail_text_program": "Terfi:",
+  "voucher_widget_item_voucher_info_detail_text_condition": "Koşul:",
+  "voucher_widget_item_voucher_info_detail_text_apply_hahalolo": "* Hahalolo ürünlerine uygulanır.",
+  "voucher_widget_item_voucher_info_detail_text_maximum": "* Müşteri başına bir tane sınırlayın.",
+  "voucher_widget_item_voucher_info_detail_text_for_order": "{number} adresinden siparişler için",
+  "@voucher_widget_item_voucher_info_detail_text_for_order": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_text_span_applies_product": "Uygulanan ürünler:",
+  "voucher_widget_item_voucher_text_span_discount": "* {number} kapalı",
+  "@voucher_widget_item_voucher_text_span_discount": {
+    "placeholders": {
+      "number": {}
+    }
+  },
+  "voucher_widget_item_voucher_coupon_code": "*Maksimum indirim:",
+  "voucher_apply_voucher_widget_you_save": "Haha! Kurtardın",
+  "voucher_apply_voucher_widget_order_from_discount": "kupon kodu ile bu siparişte",
+  "@_END_VOUCHER____________________________________________________________________________________": {},
+
+  "@_CART___________________________________________________________________________________________": {},
+  "cart_screen_domestic_flight_not_been_reserved": "Uçuşunuz henüz rezerve edilmedi. Bileti rezerve etmek ve düzenlemek için lütfen ödemenizi tamamlayın.",
+  "cart_screen_main_title": "sepetiniz",
+  "cart_screen_main_tour_title": "Tur rezervasyonu",
+  "cart_screen_main_flight_title": "Uçuş",
+  "cart_screen_main_car_title": "Araba rezervasyonu",
+  "cart_screen_main_tour_title_1": "Tur rezervasyonu (1)",
+  "cart_screen_main_flight_title_1": "Uçuş (1)",
+  "cart_screen_main_car_title_1": "Araba rezervasyonu (1)",
+  "cart_screen_domestic_flight_num_passenger": "Yolcuların sayısı",
+  "cart_screen_domestic_flight_subtotal": "ara toplam",
+  "cart_screen_domestic_flight_note": "Uçuş rezervasyonunuz yapılmıştır. Bilet düzenleme işlemini tamamlamak için lütfen bir ödeme yapın.",
+  "cart_screen_empty": "Sepetinizde hiç ürün yok",
+  "cart_screen_empty_order_now": "Arayın ve Şimdi Rezervasyon Yapın!",
+  "cart_screen_car_delete_order": "Siparişi sil",
+  "cart_screen_car_delete_order_confirm": "Bu siparişi silmek istiyor musunuz?",
+  "cart_screen_tour_schedule_title": "Takvim",
+  "cart_screen_tour_type_title": "Tur türü",
+  "cart_tour_type_domestic": "Yerel",
+  "cart_tour_type_international": "Uluslararası",
+  "cart_screen_tour_num_day_num_night": "{day} gün, {night} gece",
+  "@cart_screen_tour_num_day_num_night": {
+    "placeholders": {
+      "day": {},
+      "night": {}
+    }
+  },
+  "cart_screen_domestic_hotel_num_passenger": "Yolcuların sayısı",
+  "@_END_CART_______________________________________________________________________________________": {},
+
+  "@_HAND_NOTE______________________________________________________________________________________": {},
+  "hand_note_booking_use_point": "Puanları Kullan",
+  "hand_note_information_detail_next_due_date_discription": "{nextDay}\n(Ay {installmentPeriod})",
+  "@hand_note_information_detail_next_due_date_discription": {
+    "placeholders": {
+      "nextDay": {},
+      "installmentPeriod": {}
+    }
+  },
+  "hand_note_input_verify_error": "Doğrulama sırasında bir hata oluştu. {email} yoluyla yeni bir kod almak için lütfen tekrar deneyin veya \"Onay kodunu yeniden gönder\"e dokunun",
+  "@hand_note_input_verify_error": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_resend": "Onay kodunu yeniden gönder",
+  "hand_note_input_verify": "{email} adresine bir onay kodu gönderdik. Bu adımı tamamlamak için aldığınız kodu girin",
+  "@hand_note_input_verify": {
+    "placeholders": {
+      "email": {}
+    }
+  },
+  "hand_note_input_verify_code": "Kodu girin",
+  "hand_note_tour_detail_body_tour_info_title": "Tur bilgileri",
+  "hand_note_tour_detail_body_tour_time_zone_note": "(Saat Vietnam saat diliminde hesaplanır)",
+  "hand_note_tour_detail_body_tour_total_day_title": "Toplam gün",
+  "hand_note_tour_detail_body_tour_number_traveler_title": "yolcu sayısı",
+  "hand_note_tour_detail_body_tour_cancellation_policy_title": "İptal politikası",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_1": "Ücretsiz iptal zaman çizelgeleri, tur rezervasyon saat dilimine ve Tedarikçi''nin tur iptal politikasına dayanır.",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_2": "Tur iptali için aşağıdaki iptal ücreti tahsil edilecektir:",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_3": "• kalkış tarihinden {departureDay} gün önce",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_3": {
+    "placeholders": {
+      "departureDay": {}
+    }
+  },
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_4": "ücretsiz iptal",
+  "hand_note_tour_detail_body_tour_cancellation_policy_des_5": "% {cancellationFee} iptal ücreti",
+  "@hand_note_tour_detail_body_tour_cancellation_policy_des_5": {
+    "placeholders": {
+      "cancellationFee": {}
+    }
+  },
+  "hand_promotion_100": "%100 ödeme promosyonu",
+  "hand_note_install_policy": "taksit planı",
+  "hand_note_title_status_payment_failure": "Arızalı",
+  "hand_process_extension": "Devam eden uzatma",
+  "hand_in_installment": "Aktif",
+  "hand_installment_completed": "Tamamlanmış",
+  "hand_note_adults": "yetişkinler",
+  "hand_note_children": "Çocuklar",
+  "hand_note_baby": "Küçük çocuklar",
+  "hand_note_infant": "Bebekler",
+  "hand_note_tour_service_price": "Hizmet fiyatı",
+  "hand_note_total_price": "Toplam fiyat",
+  "hand_note_prepaid": "ön ödemeli",
+  "hand_note_remaining": "Kalan bakiye",
+  "hand_installment_status": "taksit durumu",
+  "hand_note_installment_payment_count_month_payment": "Taksit ay sayısı",
+  "hand_note_installment_payment_count_month_payment_num": "{month} ay",
+  "@hand_note_installment_payment_count_month_payment_num": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_information_detail_installment_title": "taksit bilgileri",
+  "hand_note_information_detail_total_value_title": "Sipariş toplamı",
+  "hand_note_information_detail_prepayment_amount_title": "Ön ödemeli tutar ({amount}%)",
+  "@hand_note_information_detail_prepayment_amount_title": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "hand_note_amount_payment": "Toplam taksit tutarı",
+  "hand_note_information_detail_installment_tenor_title": "taksit vadesi",
+  "hand_note_information_detail_information_conversion_fee_title": "Bilgi dönüştürme ücreti",
+  "hand_note_information_detail_bank_fee_title": "banka borcu",
+  "hand_note_information_detail_installment_interest_title": "Taksit faizi",
+  "hand_note_information_detail_monthly_installment_amount_title": "Aylık taksit tutarı",
+  "hand_note_information_detail_next_due_date_title": "Sonraki taksit tenoru",
+  "hand_note_installment": "Taksit",
+  "hand_note_postpaid": "faturalı",
+  "hand_note_installment_history_title": "Taksit geçmişi",
+  "hand_note_payment_installment_title": "taksitli ödeme",
+  "hand_note_the_month_current_installment": "Ay: {month}",
+  "@hand_note_the_month_current_installment": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_fist_payment_title": "İlk ödeme",
+  "hand_note_remaining_balance_title": "Kalan bakiye",
+  "hand_note_extension_info": "Uzantı bilgileri",
+  "hand_note_price_extension": "Genişletilmiş miktar",
+  "hand_note_month_paid": "{month} ay ödendi",
+  "@hand_note_month_paid": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_month_left": "{month} ay kaldı",
+  "@hand_note_month_left": {
+    "placeholders": {
+      "month": {}
+    }
+  },
+  "hand_note_update_info_title": "Bilgilerinizi güncelleyin",
+  "hand_note_invalid_full_name": "Geçersiz tam ad biçimi",
+  "hand_note_must_enter_full_name": "Tam adınızı girmelisiniz",
+  "hand_note_adults_num": "Yetişkin bilgileri {num}",
+  "@hand_note_adults_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_children_num": "Çocuk bilgileri {num}",
+  "@hand_note_children_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_baby_num": "Bebek bilgileri {num}",
+  "@hand_note_baby_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_infant_num": "Küçük çocuk bilgileri {num}",
+  "@hand_note_infant_num": {
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "hand_note_over_x_years_old": "({age} yaşından büyük)",
+  "@hand_note_over_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_from_x_to_x_years_old": "({ageFrom} - {ageTo} yaşından itibaren)",
+  "@hand_note_from_x_to_x_years_old": {
+    "placeholders": {
+      "ageFrom": {},
+      "ageTo": {}
+    }
+  },
+  "and_note_under_x_years_old": "({age} yaşından küçük)",
+  "@hand_note_under_x_years_old": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hand_note_num_day_title": "{day} gün",
+  "@hand_note_num_day_title": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_stage_title": "Bölüm: {stage}",
+  "@hand_note_stage_title": {
+    "placeholders": {
+      "stage": {}
+    }
+  },
+  "hand_note_update_passenger_info_title": "Gezgin bilgilerini güncelle",
+  "hand_note_hotel_reservation_detail_title": "Rezervasyon detayları",
+  "hand_note_tour_installment_title": "taksitli tur",
+  "hand_note_tour_extensions_payment_title": "Ödeme uzantısı",
+  "hand_note_installment_period": "taksit vadesi",
+  "hand_note_installment_amount": "Taksit tutarı",
+  "hand_note_recommend_adjourn": "Uzatma talebi",
+  "hand_note_number_extension": "Uzatma gün sayısı",
+  "hand_note_new_installment": "Yeni taksit bitiş tarihi",
+  "hand_note_adjourn_notice": "Her taksit süresi için, {day} günlük bir ödeme uzatması almak için yalnızca bir kez hakkınız vardır. Yeni taksit son ödeme tarihi geçmiş ve mevcut tenor ödemesi yapılmamışsa turunuz iptal edilecektir.",
+  "@hand_note_adjourn_notice": {
+    "placeholders": {
+      "day": {}
+    }
+  },
+  "hand_note_reason_late": "Geç ödeme bahanesi",
+  "hand_note_extension_successful": "Uzantı başarılı",
+  "hand_note_part_due_note": "Siparişin vadesi geçmiş. Lütfen Müşteri Hizmetleri Merkezimizle iletişime geçin.",
+  "hand_note_notify_error_extension": "Bir hata oluştu. Lütfen tekrar deneyin.",
+  "hand_note_dialog_input_verify_1": "Şu adrese bir onay kodu gönderdik:",
+  "hand_note_dialog_input_verify_2": "Bu adımı tamamlamak için aldığınız kodu girin.",
+  "hand_note_verify_input_code_hint": "Onay kodunu girin",
+  "hand_note_title_hotel_order": "Otel rezervasyon siparişleri",
+  "hand_note_title_apply_coin": "Madeni para kullan",
+  "hand_note_request_resent_code_confirm_must_1": "Onay kodunu yeniden göndermeyi istemeden önce bir dakika beklemelisiniz.",
+  "hand_note_request_resent_code_confirm_must_2": "Onay kodunun yeniden gönderilmesini talep etmeden önce 5 dakika beklemelisiniz.",
+  "hand_note_request_resent_code_confirm_must_3": "Onay kodunu yeniden gönderme talebinde bulunmadan önce bir gün beklemelisiniz.",
+  "hand_note_request_resent_code_confirm_must_4": "Onay kodunu yeniden göndermeyi talep etmeden önce 9 dakika beklemelisiniz.",
+  "hand_note_request_resent_code_confirm_must_5": "Onay kodu gönderilirken bir hata oluştu. Lütfen tekrar deneyin.",
+  "hand_note_history_new_order_created": "Yeni sipariş oluşturuldu",
+  "hand_note_history_change_customer_information": "Değişen yolcu bilgileri",
+  "hand_note_history_cancellation_of_passengers": "İptal edilen yolcu",
+  "hand_note_history_change_flights": "Uçuş değişti",
+  "hand_note_history_cancel_the_flight": "İptal edilen uçuş",
+  "fare_rule_toolbar_title": "Ücret koşulları",
+  "hand_note_detail_activity_history": "Etkinlik geçmişi:",
+  "hand_note_coin_refund_amount": "Beklenen geri ödeme paraları",
+  "hand_note_tour_title": "Tur",
+  "hand_note_hotel_title": "Otel",
+  "hand_note_flight_title": "Uçuş",
+  "hand_note_car_title": "Araba kiralama",
+  "hand_note_title": "El notları",
+  "@_END_HAND_NOTE__________________________________________________________________________________": {},
+
+  "@_PAYMENT________________________________________________________________________________________": {},
+  "payment_error_number_card_default": "Geçersiz kredi kartı numarası",
+  "payment_error_card_has_expired": "Kartın süresi doldu",
+  "payment_error_card_has_expired_year": "Kartın süresi bu yıl doldu",
+  "payment_error_card_date_must_only_number": "Tarihlerde yalnızca sayılar olmalıdır",
+  "payment_error_card_date_is_3_digits": "Son kullanma yılı 3 basamaklıdır",
+  "payment_error_card_date_is_4_digits": "Son kullanma yılı 4 basamaktan uzun",
+  "payment_error_card_date_only_number_in_date": "Tarihlerde yalnızca sayılar olmalıdır",
+  "payment_card_date_expired": "Son kullanma tarihi",
+  "payment_payme": "Payme cüzdanı",
+  "payment_domestic": "ATM kartı veya yerel bankaların iBanking''i (Vietnam''da)",
+  "payment_stripe": "Uluslararası ödeme kartı (Visa/MasterCard)",
+  "payment_card_number_empty": "Kart numarası gerekli",
+  "payment_card_day_exit": "Son kullanma tarihi gerekli",
+  "payment_ccv_empty": "CVV kodu gerekli",
+  "payment_domesatic": "ATM kartı veya yerel bankaların iBanking''i (Vietnam''da)",
+  "payment_error_secure_long": "Yanlış güvenlik kodu",
+  "payment_error_secure_shorted": "Güvenlik kodu bu kart türü için çok kısa",
+  "payment_error_secure_alphabet": "Alfabetik karakterlere izin verilmez",
+  "payment_error_no_secure": "Güvenlik kodu sağlanmadı",
+  "payment_error_no_card_number": "Giriş yok veya sayısal olmayan karakterler içeriyor",
+  "payment_error_connect_title": "Bağlantı hatası",
+  "payment_error_connect_message": "Ağ bağlantınız kararsız. Lütfen cihazınızdaki bağlantıyı tekrar kontrol edin",
+  "payment_error_not_load_title": "Sayfa yüklenirken hata oluştu",
+  "payment_error_not_load_message": "Ödeme sayfasına bağlanırken bir hata oluştu.",
+  "payment_error_card_number_lenght": "Kart numarası 19 haneden büyük olmalıdır",
+  "payment_error_no_date": "Tarih girilmedi",
+  "payment_error_invalid_date": "Geçersiz tarih biçimi veya geçersiz tarih",
+  "payment_error_invalid_year": "Tarih ve ayda yalnızca sayılara izin verilir",
+  "payment_error_invalid_ccv": "Geçersiz CVV",
+  "payment_error_invalid_card_holder": "Geçersiz kart sahibi",
+  "payment_alert_select_payment_method_null": "Lütfen bir ödeme ağ geçidi seçin",
+  "payment_alert_card_information_incorrect": "Kart bilgileri yanlış. Lütfen tekrar kontrol edin",
+  "payment_alert_dialog_title": "Bildirimler",
+  "payment_alert_message_dialog_message": "Başarılı bir ödeme sağlamak için lütfen ödeme işlemi sırasında uygulamayı kapatmayın veya uygulamayın.",
+  "payment_alert_dialog_message_payment_error": "Ödemeniz işlenirken bir hata oluştu. Lütfen tekrar kontrol edin.",
+  "payment_hint_text_country": "Ülke...",
+  "payment_hint_text_province": "Şehir/Eyalet...",
+  "payment_show_message_dialog_title": "Bildirim",
+  "payment_show_message_dialog_message": "Ödemenizden çıkmak istiyor musunuz?",
+  "payment_show_message_dialog_negative": "İptal",
+  "payment_show_message_dialog_action": "Tamam",
+  "payment_bank_page_title": "Sorunsuz bir ödeme süreci için lütfen ödeme başarılı olmadan uygulamayı kapatmayın!",
+  "payment_error_expired_date": "Kartınızın süresi doldu",
+  "payment_coin_not_available": "Madeni paralar mevcut değildir. Lütfen kontrol edip tekrar deneyin.",
+  "payment_point_not_available": "Puan mevcut değil. Lütfen kontrol edip tekrar deneyin.",
+  "payment_voucher_not_available": "Kupon kodu mevcut değil. Lütfen kontrol edip tekrar deneyin.",
+  "payment_fee_change_total_order": "Sipariş toplamı değişti",
+  "payment_fee_change_to": "ile",
+  "payment_fee_change_choose_voucher_point_coint": "Lütfen varsa Kupon kodunu/Jetonları/Puanları yeniden seçin.",
+  "payment_halo_wallet": "Hahalolo ödeme hesabı",
+  "payment_available_balance": "Kalan bakiye:",
+  "payment_card_holder_name": "Kart Sahibinin Adı",
+  "payment_card_cvv_cvc_name": "CVV/CVC kodu",
+  "payment_card_number": "Kart numarası",
+  "@_END_PAYMENT____________________________________________________________________________________": {},
+
+  "@_HOTEL__________________________________________________________________________________________": {},
+  "@_HOTEL_DETAIL========================================================": {},
+  "hotel_detail_similar_hotels": "benzer özellikler",
+  "hotel_detail_hotel_images": "Otel resimleri",
+  "hotel_detail_reviews_latest": "En sonuncu",
+  "hotel_detail_reviews_oldest": "en eski",
+  "hotel_detail_reviews_highest": "En yüksek skor",
+  "hotel_detail_reviews_lowest": "En düşük puan",
+  "hotel_detail_review_sort_by": "Göre sırala",
+  "hotel_detail_reviews": "Gözden geçirmek",
+  "hotel_detail_rate_location": "Konum",
+  "hotel_detail_rate_price": "Fiyat",
+  "hotel_detail_rate_cleanliness": "Temizlik",
+  "hotel_detail_rate_service": "Hizmet",
+  "hotel_detail_rate_facilities": "Tesisler",
+  "hotel_detail_one_user_review": "1 inceleme",
+  "hotel_detail_x_user_reviews": "{x} inceleme",
+  "@hotel_detail_x_user_reviews": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_2004_error": "Rezervasyon başarısız",
+  "hotel_detail_please_fill_ci_co_date": "Lütfen giriş ve çıkış tarihlerini giriniz",
+  "hotel_detail_allow_pet_contact_hotel": "Evcil hayvanlara izin verilir. Evcil hayvan koşulları için lütfen doğrudan konaklama birimiyle iletişime geçin.",
+  "hotel_detail_allow_pet_and_x_fee": "Evcil hayvanlara izin verilir. Evcil hayvan ücreti: {x} (Evcil hayvan ücreti konaklamada ödenir).",
+  "@hotel_detail_allow_pet_and_x_fee": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_free_cancellation": "ÜCRETSİZ iptal",
+  "hotel_detail_cancellation_with_refund": "İptal ücreti alınır",
+  "hotel_detail_cancellation_without_refund": "Geri ödemesiz iptal",
+  "hotel_detail_cancel_non_refund": "İptal sonrasında herhangi bir geri ödeme veya ödenen tutar alamazsınız.",
+  "hotel_detail_breakfast_served": "Kahvaltı verildi",
+  "hotel_detail_lunch_served": "Öğle yemeği verildi",
+  "hotel_detail_dinner_served": "Akşam yemeği sağlandı",
+  "hotel_detail_smoking_allow": "Sigara içilebilir",
+  "hotel_detail_smoking_not_allow": "Sigara içmek yasak",
+  "hotel_detail_contact_hotel": "Otelle iletişime geçin",
+  "hotel_detail_book_first_pay_later": "Şimdi ayırtın, sonra ödeyin",
+  "hotel_detail_policy": "Politikalar",
+  "hotel_detail_choose_the_bed_arrangement": "Yatak kılıfı seçin",
+  "hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": "{x} tarihinden önce {y} tarihinde yapılan iptaller: İlk gece için oda fiyatının %{z} iadesini alın.",
+  "@hotel_detail_cancellation_policy_x_time_y_date_z_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_room_service": "Oda hizmetleri",
+  "hotel_detail_amenities": "Kolaylıklar",
+  "hotel_detail_general_rules": "Ev Kuralları",
+  "hotel_detail_change_reservation": "Rezervasyonu değiştir",
+  "hotel_detail_services_and_facilities": "Olanaklar ve hizmetler",
+  "hotel_detail_x_room_and_y_night": "{x} oda/{y} gece",
+  "@hotel_detail_x_room_and_y_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_y_nights": "{x} oda/{y} gece",
+  "@hotel_detail_x_rooms_and_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_nights": "1 oda/{x} gece",
+  "@hotel_detail_room_and_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_rooms_and_night": "{x} oda/1 gece",
+  "@hotel_detail_x_rooms_and_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_night": "1 oda/1 gece",
+  "hotel_detail_x_rooms_and_y_adults": "{x} oda - {y} misafir",
+  "@hotel_detail_x_rooms_and_y_adults": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_room_and_x_adults": "1 oda - {x} misafir",
+  "@hotel_detail_room_and_x_adults": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_and_adult": "1 oda - 1 misafir",
+  "hotel_detail_child_count": "1 çocuk",
+  "hotel_detail_x_children": "{x} çocuk",
+  "@hotel_detail_x_children": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_room_detail": "Oda detayları",
+  "hotel_detail_room_policy_and_conditions": "Koşullar ve Politikalar",
+  "hotel_detail_person_count": "1 misafir",
+  "hotel_detail_x_people": "{x} misafir",
+  "@hotel_detail_x_people": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_center": "merkezden {distance}{x}",
+  "@hotel_detail_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_x_from_address": "arama konumundan {distance}{x}",
+  "@hotel_detail_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_detail_distance_at_center": "Şehir merkezinde",
+  "hotel_detail_check_in": "Giriş",
+  "hotel_detail_check_out": "Ödeme",
+  "hotel_detail_cancelation_policy": "iptal",
+  "hotel_detail_child_policy": "Çocuklar",
+  "hotel_detail_pet_policy": "Evcil Hayvanlar",
+  "hotel_detail_check_in_x": "{x}''den sonra",
+  "@hotel_detail_check_in_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_check_out_x": "{x}''den önce",
+  "@hotel_detail_check_out_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_only_room_count": "Sadece 1 hakkın kaldı",
+  "hotel_detail_only_x_room": "Yalnızca {x} kaldı",
+  "@hotel_detail_only_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_child_policy_allow_range": "{range} yaşından küçük çocuklara izin verilir.",
+  "@hotel_detail_child_policy_allow_range": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_pet_policy_allow": "Evcil hayvanlara izin verilir. Otelde evcil hayvan ücreti ödenir.",
+  "hotel_detail_pet_policy_do_not_allow": "Evcil hayvanlara izin verilmez.",
+  "hotel_detail_cancelation_policy_x_time_y_rate_first_night": "Check-in saatinden {x}saat önce yapılan iptaller: İlk gece için oda fiyatının %{y} iadesini alın.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_first_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_rate_all_night": "Check-in saatinden {x}saat önce yapılan iptaller: tüm geceler için oda fiyatının %{y} iadesini alın.",
+  "@hotel_detail_cancelation_policy_x_time_y_rate_all_night": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_detail_cancellation_policy_x_time_full_rate": "{x} tarihinden önce ücretsiz iptal",
+  "@hotel_detail_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_book_room": "1 oda ayırtın",
+  "hotel_detail_book_x_room": "{x} oda ayırtın",
+  "@hotel_detail_book_x_room": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_best_price": "En iyi fiyat",
+  "hotel_detail_bed": "1 yatak",
+  "hotel_detail_x_beds": "{x} yatak",
+  "@hotel_detail_x_beds": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_discount_percent": "Yalnızca bugün %{x} indirim",
+  "@hotel_detail_x_discount_percent": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_choose_room": "Oda seçin",
+  "hotel_detail_has_x_room_types": "(Toplam {x} oda tipi mevcut",
+  "@hotel_detail_has_x_room_types": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_has_room_type": "(Toplam 1 oda tipi mevcuttur)",
+  "hotel_detail_children_policy_do_not_allow": "Otelin çocuk koşulları yoktur. Arama sayısına çocuklar dahil edilmeyecektir. Refakatçi çocuklar varsa lütfen otelle iletişime geçin.",
+  "hotel_detail_children_policy_range_allow": "Otelin çocuk politikası, {range} yaşındaki çocuklara izin vermektedir. Otel politikaları ve yönetmelikleri hakkında bilgi için lütfen otelin Ev kuralları bölümüne bakın veya daha fazla bilgi için otelle iletişime geçin.",
+  "@hotel_detail_children_policy_range_allow": {
+    "placeholders": {
+      "range": {}
+    }
+  },
+  "hotel_detail_room_information": "Oda bilgileri",
+  "hotel_detail_x_fee_person_and_day": "{x}/misafir/gün",
+  "@hotel_detail_x_fee_person_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_x_fee_car_and_day": "{x}/araba/gün",
+  "@hotel_detail_x_fee_car_and_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_detail_breakfast": "Sabah kahvaltısı",
+  "hotel_detail_lunch": "Öğle yemeği",
+  "hotel_detail_dinner": "Akşam yemeği",
+  "hotel_detail_smoking": "Tütün",
+  "hotel_detail_parking": "Otopark",
+  "hotel_detail_local_time": "(Yerel zaman)",
+  "hotel_detail_cancelation_policy_x_time_y_date_z_rate": "{x} tarihinden önce {y} tarihinde yapılan iptaller: Tüm geceler için oda fiyatının %{z} iadesini alın.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_rate": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_cancelation_policy_x_time_y_date_z_amount": "{x} tarihinden önce {y} tarihinde yapılan iptaller: {z} oda fiyatının geri ödemesini alın.",
+  "@hotel_detail_cancelation_policy_x_time_y_date_z_amount": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_detail_promotion": "Fırsatlar",
+  "hotel_detail_free_breakfast": "Ücretsiz kahvaltı",
+  "hotel_detail_free_lunch": "Ücretsiz öğle yemeği",
+  "hotel_detail_free_dinner": "ücretsiz akşam yemeği",
+  "hotel_detail_allow_smoking": "Sigara içilebilir",
+  "hotel_detail_free_parking": "Ücretsiz park",
+  "hotel_detail_room_not_found": "Oda bulunamadı!",
+  "hotel_detail_no_result": "Aramanızla eşleşen herhangi bir sonuç bulamadık. Lütfen tekrar deneyin.",
+  "hotel_detail_similar_hotels_title": "benzer özellikler",
+  "@_HOTEL_BOOKING========================================================": {},
+  "hotel_booking_dialog_the_order_not_eligible": "Sipariş ödeme için uygun değil",
+  "hotel_booking_dialog_qualified_orders": "Sipariş, toplam tutarla uygundur",
+  "hotel_booking_dialog_coupon_code_coins_points": "Kupon Kodunu, Madeni Paraları veya Puanları ödemeye uygun olacak şekilde değiştirebilirsiniz.",
+  "hotel_booking_dialog_or_minimum": "veya minimum",
+  "hotel_booking_widget_dialog_cannot_used_information": "Bu bilgi şu anda kullanılamaz. Lütfen başka bir tane kullanın veya yeni bir tane kaydedin.",
+  "hotel_booking_component_applied_points_successfully": "Puanları başarıyla uyguladınız",
+  "hotel_booking_use_point": "Puanları kullan",
+  "hotel_booking_point_switch_on_hint": "Bu sipariş için puan başvurularını iptal etmek için puanları kullanmayı kapatın",
+  "hotel_booking_point_switch_off_hint": "Bu sipariş için kullanacağınız puan sayısını girmek için puan kullanmayı açın",
+  "hotel_booking_point_user_point": "Mevcut noktalar",
+  "hotel_booking_point_available_point": "siparişler için kullanılabilir",
+  "hotel_booking_point_user_want_to_use_hint": "Kullanmak istediğiniz puan sayısı",
+  "hotel_booking_point_equivalent_to": "Eşittir",
+  "hotel_booking_point_press": "Basmak",
+  "hotel_booking_point_apply": "Uygulamak",
+  "hotel_booking_point_apply_for_payment": "tutarı ödemeye uygulamak",
+  "hotel_booking_points_apply_hint": "Tutar, bu sipariş için ödeme yapmak için kullanılacaktır.",
+  "hotel_booking_payment_3001_error": "Kart desteklenmiyor. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3002_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3003_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3004_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3005_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3006_error": "Kartın süresi doldu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3007_error": "Geçersiz CVC kodu. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3008_error": "Geçersiz kart numarası. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3009_error": "Bu para birimi desteklenmiyor. Lütfen tekrar deneyin.",
+  "hotel_booking_payment_3010_error": "Ödeme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+  "hotel_booking_modify_coin_applied": "Ödemeye jeton uygulandı. Lütfen ayrıntıları Toplamda görüntüleyin.",
+  "hotel_booking_modify_voucher_applied": "Ödemeye jeton uygulandı. Lütfen ayrıntıları Toplamda görüntüleyin.",
+  "hotel_booking_modify_point_applied": "Ödemeye puan uygulandı. Lütfen ayrıntıları Toplamda görüntüleyin.",
+  "hotel_booking_modify_point_canceled": "Bu siparişin ödemesine Puan uygulanması iptal edildi.",
+  "hotel_booking_modify_4006_error": "Kupon kullanılamıyor",
+  "hotel_booking_modify_4007_error": "Kupon tutuldu",
+  "hotel_booking_modify_4008_error": "Sipariş, kupon kodu için uygun değil. Lütfen kontrol edip tekrar deneyin.",
+  "hotel_booking_modify_2004_error": "uygulanamadı",
+  "hotel_booking_pay_1005_error": "yanlış değer",
+  "hotel_booking_pay_2002_error": "sipariş bulunamadı",
+  "hotel_booking_pay_2004_error": "Ödeme başarısız",
+  "hotel_booking_pay_6002_error": "Yanlış kart bilgileri",
+  "hotel_booking_pay_6003_error": "kart kabul edilmiyor",
+  "hotel_booking_pay_6004_error": "Sipariş oluşturma hatası",
+  "hotel_booking_pay_6005_error": "TVP rezervasyon hatası",
+  "hotel_booking_required_city": "Şehir gerekli",
+  "hotel_booking_sub_bed": "İlave yatak",
+  "hotel_booking_information": "Rezervasyon bilgileri",
+  "hotel_booking_room_information": "Oda bilgileri",
+  "hotel_booking_room_hotel": "Otel",
+  "hotel_booking_x_nights": "{x} gece",
+  "@hotel_booking_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_night_count": "1 gece",
+  "hotel_booking_change": "Değiştirmek",
+  "hotel_booking_user_contact": "İletişim bilgileri",
+  "hotel_bookng_without_tone_marks": "(ton işaretleri olmadan)",
+  "hotel_booking_first_name": "İlk adı",
+  "hotel_booking_last_name": "Soyadı",
+  "hotel_booking_middle_name": "İkinci ad",
+  "hotel_booking_given_name": "Orta ve İlk/Verilen ad",
+  "hotel_booking_phone_number": "Telefon numarası",
+  "hotel_booking_email": "E-posta",
+  "hotel_booking_country": "Ülke",
+  "hotel_booking_im_a_guest": "ben misafirim",
+  "hotel_booking_guest_information": "Konuk Bilgisi",
+  "hotel_booking_fill_contact_information": "Sizin veya konaklama hizmeti tedarikçisiyle iletişim kurmaktan sorumlu kişinin iletişim bilgilerini girin.",
+  "hotel_booking_name_as_in_passport": "Kimlik kartında/Pasaportta belirtilen tam ad",
+  "hotel_booking_payments": "Ödeme seçenekleri",
+  "hotel_booking_prepay": "Şimdi öde",
+  "hotel_booking_postpaid": "Daha sonra öde",
+  "hotel_booking_prepay_description": "Hahalolo, ödemenizin işlenmesine yardımcı olacaktır. Tam tutarı, rezervasyonun tamamlanmasının ardından bugün ödeyeceksiniz.",
+  "hotel_booking_postpaid_description": "Tesis ödemenizi işleme koyacaktır. Rezervasyon koşullarına bağlı olarak, tesiste kısmen veya tamamen ödeme yapabilirsiniz.",
+  "hotel_booking_bill_information": "Ödeme bilgileri",
+  "hotel_booking_use_contact_information": "Kişi bilgilerini kullan",
+  "hotel_booking_state": "Durum",
+  "hotel_booking_city": "Şehir",
+  "hotel_booking_save_payment_information": "Ödeme bilgilerini bir dahaki sefere kaydedin",
+  "hotel_booking_use_x_y_to_pay": "Ödeme için {x} {y} kullanın",
+  "@hotel_booking_use_x_y_to_pay": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_equal_to_x_unit": "{x} {unit} ile eşdeğer",
+  "@hotel_booking_equal_to_x_unit": {
+    "placeholders": {
+      "x": {},
+      "unit": {}
+    }
+  },
+  "hotel_booking_payment_methods": "Ödeme şekli",
+  "hotel_booking_payment_note": "Not: HAHALOLO, kullanıcıları ÜCRETSİZ banka ücretleri ile destekleyecektir",
+  "hotel_booking_free": "Özgür",
+  "hotel_booking_hahalolo": "HAHALOLO",
+  "hotel_booking_anything_else": "Size yardımcı olabileceğimiz başka bir şey var mı?",
+  "hotel_booking_inform_the_accommodation": "Bu hizmetlerle ilgilendiğinizi tesise bildireceğiz. Lütfen aklınızda bulundurun.",
+  "hotel_booking_can_not_guaranteed": "İsteğiniz garanti edilemez. Üzülmeyin! Tesis ihtiyaçlarınızı karşılamaya çalışacaktır.",
+  "hotel_booking_additional_services": "Bunlar, rezervasyon talebinizin ötesinde ortaya çıkan ekstra hizmetlerdir ve kullanıldığında mülk için ek ücrete tabi olabilir.",
+  "hotel_booking_note": "Not",
+  "hotel_booking_promo_apply_rule": "Paralar ve Kupon Kodu aşağıdaki ödeme şekillerine uygulanmaz.",
+  "hotel_booking_saved_payment_information": "Ödeme bilgileri kaydedildi",
+  "hotel_booking_fill_new_payer_information": "Yeni ödeme bilgilerini girin",
+  "hotel_booking_maximum_coins_can_be_use": "Bu sipariş için maksimum jeton sayısı kullanılabilir.",
+  "hotel_booking_coins": "madeni paralar",
+  "hotel_booking_unknown": "Bilmiyorum",
+  "hotel_booking_planning_arrive_after_x_date": "{x} tarihinden sonra varmayı planlıyorsanız, lütfen planlanan giriş saatinizi ev sahibine bildirin:",
+  "@hotel_booking_planning_arrive_after_x_date": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_other_services_may_charge": "Ek hizmetler ücretlendirilebilir. Daha fazla bilgi için lütfen konaklama birimiyle önceden irtibata geçin.",
+  "hotel_booking_term_and_policies": "Şartlar - Politikalar",
+  "hotel_booking_privacy_policy": "Gizlilik Politikası",
+  "hotel_booking_tp_and_pp": "Bir sonraki adıma geçerek Hahalolo''nun Şartları - Politikalar ve Gizlilik Politikası''nı okuduğumu ve kabul ettiğimi onaylıyorum.",
+  "hotel_booking_important_note": "Not",
+  "hotel_booking_select_time": "Zaman seçin",
+  "hotel_booking_room_x_night": "Oda x 1, 1 gece",
+  "hotel_booking_x_rooms_x_night": "Oda x {x}, 1 gece",
+  "@hotel_booking_x_rooms_x_night": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_rooms_x_y_nights": "Oda x {x}, {y} gece",
+  "@hotel_booking_x_rooms_x_y_nights": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_booking_room_x_x_nights": "Oda x 1, {x} gece",
+  "@hotel_booking_room_x_x_nights": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_taxes_and_fees": "Vergiler ve ücretler",
+  "hotel_booking_service_charge": "Servis ücreti",
+  "hotel_booking_payment_fees": "Ödeme ücreti",
+  "hotel_booking_accommodation_currency": "Mülk para birimi",
+  "hotel_booking_points_fees": "Puanları kullan",
+  "hotel_booking_coins_fees": "Madeni para kullan",
+  "hotel_booking_voucher_fees": "Kupon Kodu",
+  "hotel_booking_discount": "Terfi",
+  "hotel_booking_meal_service": "Yemek servisi",
+  "hotel_booking_meal_service_description": "Konaklama tesisinin size sağlayabileceği kahvaltı hizmetleri aşağıdadır. Bu hizmetten yararlanmak istiyorsanız, lütfen doğrudan konaklama biriminin resepsiyonuyla iletişime geçin.",
+  "hotel_booking_meal_price_per_breakfast": "Kahvaltı türü başına fiyat",
+  "hotel_booking_extended_service": "Ekstra hizmetler",
+  "hotel_booking_extended_service_description": "Bu siparişe eklemek istediğiniz toplam ilave yatak sayısını seçin. Yalnızca {x} ilave yatak eklemenize izin verilir.",
+  "@hotel_booking_extended_service_description": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_quantity": "Miktar",
+  "hotel_booking_total": "Toplam",
+  "hotel_booking_unit_price": "Fiyat",
+  "hotel_booking_x_price_per_person_per_day": "{x} kişi/gün",
+  "@hotel_booking_x_price_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_x_price_per_bed_per_person_per_day": "{x} yatak/kişi/gün",
+  "@hotel_booking_x_price_per_bed_per_person_per_day": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_price_details": "Fiyat ayrıntıları",
+  "hotel_booking_billings_information": "Ödeme bilgileri",
+  "hotel_booking_service_charge_description": "Hahalolo sistemindeki rezervasyonla ilgili sorunlarınızda bu ücreti hizmet ve destek için bir komisyon olarak tutacağız.",
+  "hotel_booking_payment_fees_description": "Ödeme ücreti, çevrimiçi ödeme hizmetleri tedarikçilerine ödemeniz gereken işlem başına işlem ücreti tutarıdır.",
+  "hotel_booking_taxes_and_fees_description": "Vergiler ve ücretler, konaklama hizmetlerini kullanırken ödemeniz gereken mülkün (otelin) düzenlemeleri uyarınca tahsil edilen para miktarıdır. Daha fazla ayrıntı için lütfen Kullanım Koşullarını okuyun.",
+  "hotel_booking_accommodation_currency_description": "Fiyat, Tedarikçinin mevcut para birimine göre dönüştürülmüştür.",
+  "hotel_booking_accommodation_currency_sub_descr_1": "Döviz kuru, ödemeden önce değişebilir.",
+  "hotel_booking_accommodation_currency_sub_descr_2": "Kartınızı veren kuruluş, bir yabancı işlem ücreti talep edebilir.",
+  "hotel_booking_enter_maximum_x_char": "Maksimum {x} karakter girin",
+  "@hotel_booking_enter_maximum_x_char": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_booking_point_not_available": "Puan mevcut değil.",
+  "hotel_booking_coin_not_available": "Madeni paralar mevcut değildir.",
+  "hotel_booking_voucher_not_available": "Kupon kodu mevcut değil.",
+  "hotel_booking_please_check_again": "Lütfen tekrar kontrol edin.",
+  "hotel_booking_point_change": "Toplam ödemenin değişmesi nedeniyle uygulanan puan sayısı değişmiştir.",
+  "hotel_booking_hold_warning": "Tesis rezervasyonunuz yapılmıştır, bu nedenle sipariş bilgilerini değiştiremezsiniz. Rezervasyonunuzu tamamlamak için lütfen ödeme yapın.",
+  "hotel_booking_total_point_change": "Kullanılabilir Puanlarınız değişti. Lütfen siparişe başvurmak için Puan sayısını girin.",
+  "@_HOTEL========================================================": {},
+  "hotel_map": "Harita",
+  "hotel_list": "Liste",
+  "hotel_from_the_center": "merkezden",
+  "hotel_from_the_location": "Arama konumundan",
+  "hotel_right_in_the_center": "şehir merkezinde",
+  "hotel_breakfast_is_served": "Ücretsiz kahvaltı",
+  "hotel_no_breakfast_served": "Kahvaltı verilmedi",
+  "hotel_dinner_is_served": "Akşam yemeği sağlandı",
+  "hotel_no_dinner_service": "Akşam yemeği verilmedi",
+  "hotel_lunch_is_served": "Öğle yemeği verildi",
+  "hotel_no_lunch_service": "Öğle yemeği verilmedi",
+  "hotel_allow_smoking": "Sigara içilebilir",
+  "hotel_no_smoking": "Sigara içmek yasak",
+  "hotel_no_refund": "Geri ödemesiz iptal",
+  "hotel_without_fee": "İptal ücreti alınır",
+  "hotel_free_cancel": "ÜCRETSİZ iptal",
+  "hotel_pay_later": "Şimdi ayırtın, sonra ödeyin",
+  "hotel_fee": "Kahvaltı verildi",
+  "hotel_free": "Ücretsiz kahvaltı",
+  "hotel_not_refund": "İptal üzerine bir geri ödeme veya ödenen tutar almayacaksınız",
+  "hotel_no_vacancy": "Hepsi satıldı",
+  "hotel_choose_room": "oda seçin",
+  "hotel_change_date": "Tarihi değiştir",
+  "hotel_change_price_display": "Fiyatı göster",
+  "hotel_continue": "Sadece",
+  "hotel_room_available": "ayrıldı",
+  "hotel_room": "oda",
+  "hotel_night": "gece",
+  "hotel_date_checking": "giriş tarihi",
+  "hotel_date_checkout": "Tarihi kontrol et",
+  "hotel_search": "Arama",
+  "hotel_promotion": "Terfi",
+  "hotel_promotions": "Promosyonlar",
+  "hotel_applying": "başvurmak",
+  "hotel_promotion_applying": "geçerli promosyon",
+  "hotel_promotions_applying": "geçerli promosyonlar",
+  "hotel_title_promotions_applying": "Uygulanabilir promosyon",
+  "hotel_see_detail": "Detayları göster",
+  "hotel_cancel": "Giriş saatinden {x}saat önce yapılan iptallerde oda fiyatının %{y} kadarı iade edilecektir.",
+  "@hotel_cancel": {
+    "placeholders": {
+      "x": {},
+      "y": {}
+    }
+  },
+  "hotel_discount_0": "Misafirler {y}-{z} arasında konakladığında gecelik {x} indirim kazanın.",
+  "@hotel_discount_0": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_0_max": "Misafirler {y}-{z} arasında konakladığında gecelik {x} indirim kazanın (rezervasyon siparişinde maksimum {a}).",
+  "@hotel_discount_0_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1": "{y} gün önceden yapılan rezervasyonlar için {x} indirim. {z} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_1": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_discount_1_max": "{x} kapalı, {z} gün önceden yapılan rezervasyonlar için maksimum {y}. {a} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_1_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_1_max_not_upto": "{z} gün önceden yapılan rezervasyonlar için {x} indirim. {a} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_1_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2": "{y} geceden uzun rezervasyonlar için {x} indirim. {a} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_2": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max": "{z} geceden uzun rezervasyonlar için {x} kapalı, maksimum {y}. {a} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_2_max": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_discount_2_max_not_upto": "{z} geceden fazla rezervasyonlarda {x} indirim. {a} tarihinden itibaren konaklayan misafirler için geçerlidir",
+  "@hotel_discount_2_max_not_upto": {
+    "placeholders": {
+      "x": {},
+      "z": {},
+      "a": {}
+    }
+  },
+  "hotel_all_night": "bütün geceler",
+  "hotel_first_night": "ilk gece",
+  "hotel_rating": "Gözden geçirmek",
+  "hotel_wonderful": "Harika",
+  "hotel_very_good": "Çok iyi",
+  "hotel_satisfied": "Memnun",
+  "hotel_medium": "Ortalama",
+  "hotel_bad": "Yoksul",
+  "hotel_hand_note_consult_book_room": "Rezervasyon ara",
+  "hotel_hand_note_enter_code_search_info": "Rezervasyon bilgilerinizi aramak için rezervasyon numaranızı girin",
+  "hotel_hand_note_reservation_code": "Rezervasyon numarası",
+  "hotel_hand_note_can_not_find_hotel": "Üzgünüz, aramanızla eşleşen otel bulamadık.",
+  "hotel_hand_note_search_night": "gece sayısı",
+  "hotel_hand_note_num_room": "oda sayısı",
+  "hotel_hand_note_status_booking": "Rezervasyon durumu",
+  "hotel_hand_note_booked": "Rezerve edildi",
+  "hotel_hand_note_dont_booked": "Henüz rezervasyon yaptırmadım",
+  "hotel_hand_note_total_price": "Toplam fiyat",
+  "hotel_hand_note_status": "Durum",
+  "hotel_hand_note_payment_after": "Lütfen peşin ödeyin",
+  "hotel_hand_note_pay_now": "Şimdi öde",
+  "hotel_hand_note_info_book_room": "Rezervasyon bilgileri",
+  "hotel_hand_note_code_book_room": "Rezervasyon numarası:",
+  "hotel_hand_note_checking": "Giriş",
+  "hotel_hand_note_checkout": "Ödeme",
+  "hotel_hand_note_detail": "Detayları göster",
+  "hotel_hand_note_kind_room": "Oda tipi",
+  "hotel_hand_note_quantity": "Miktar",
+  "hotel_hand_note_room": "oda",
+  "hotel_hand_note_visited": "Misafir",
+  "hotel_hand_note_adult": "yetişkin",
+  "hotel_hand_note_children": "çocuklar",
+  "hotel_hand_note_number_nights": "Gecelik konaklama sayısı",
+  "hotel_hand_note_night": "gece",
+  "hotel_hand_note_status_payment": "Ödeme durumu",
+  "hotel_hand_note_cancel_order": "Siparişi iptal et",
+  "hotel_hand_note_info_refund": "Geri ödeme bilgisi",
+  "hotel_hand_note_rate_experience": "Deneyiminizi şu adreste gözden geçirin:",
+  "hotel_hand_note_rate": "Gözden geçirmek",
+  "hotel_hand_note_see_rate": "İncelemelere bakın",
+  "hotel_hand_note_rate_overall_rating": "Oteldeki genel değerlendirmeniz",
+  "hotel_hand_note_rate_average": "Ortalama",
+  "hotel_hand_note_position": "Konum",
+  "hotel_hand_note_price": "Fiyat",
+  "hotel_hand_note_clean": "Temizlik",
+  "hotel_hand_note_serve": "Hizmet",
+  "hotel_hand_note_material_facilities": "Tesisler",
+  "hotel_hand_note_review": "Lütfen duygularınızı ve yorumlarınızı paylaşın.",
+  "hotel_hand_note_review_limit": "İnceleme en az 2 karakterden oluşmalıdır.",
+  "hotel_hand_note_cancel": "İptal",
+  "hotel_hand_note_submit_review": "İnceleme gönder",
+  "hotel_hand_note_room_rates": "oda fiyatı",
+  "hotel_hand_note_extra_bed": "İlave yatak",
+  "hotel_hand_note_service_charge": "Servis ücreti",
+  "hotel_hand_note_payment_fees": "ödeme ücreti",
+  "hotel_hand_note_promotion": "Terfi",
+  "hotel_hand_note_voucher": "Kupon Kodu",
+  "hotel_hand_note_use_coins": "madeni para kullan",
+  "hotel_hand_note_rates_include": "Dahil fiyat",
+  "hotel_hand_note_see_review_title": "{a} hakkındaki yorumunuzu görün",
+  "@hotel_hand_note_see_review_title": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_see_review_rated_on": "{a} üzerinde incelendi",
+  "@hotel_hand_note_see_review_rated_on": {
+    "placeholders": {
+      "a": {}
+    }
+  },
+  "hotel_hand_note_review_thank_submit": "yorumun için teşekkürler",
+  "hotel_hand_note_use_point": "Puanları kullan",
+  "hotel_hand_note_cancellation_policy_x_time_full_rate": "{x} tarihinden önce ücretsiz iptal.",
+  "@hotel_hand_note_cancellation_policy_x_time_full_rate": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_local_time": "(Yerel zaman)",
+  "hotel_hand_note_hotel_apartment": "Apartman",
+  "hotel_hand_note_hostel": "Pansiyon",
+  "hotel_hand_note_hotel": "Otel",
+  "hotel_hand_note_resort": "Dinlenme tesisi",
+  "hotel_hand_note_other": "Başka",
+  "hotel_hand_note_motel": "Motel",
+  "hotel_hand_note_villa": "Villa",
+  "hotel_hand_note_vacation_home": "tatil evi",
+  "hotel_hand_note_homestay": "Aile yanında konaklama",
+  "hotel_hand_note_farmstay": "Çiftlik konaklama",
+  "hotel_hand_note_condotel": "apartman",
+  "hotel_hand_note_cruise_ship": "Seyir",
+  "hotel_hand_note_boathouse": "Bot",
+  "hotel_hand_note_countryhouse": "Kır evi",
+  "hotel_hand_note_campground": "kamp alanı",
+  "hotel_hand_note_camper": "Tekerlekli ev",
+  "hotel_hand_note_lodge": "orman evi",
+  "hotel_hand_note_guesthouse": "Misafirhane",
+  "hotel_hand_note_cancel_hotel": "iptal",
+  "hotel_update_price": "Fiyatlar güncelleniyor",
+  "hotel_distance_x_from_center": "merkezden {distance}{x}",
+  "@hotel_distance_x_from_center": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_distance_x_from_address": "arama konumundan {distance}{x}",
+  "@hotel_distance_x_from_address": {
+    "placeholders": {
+      "distance": {},
+      "x": {}
+    }
+  },
+  "hotel_discount_0_max_not_price": "{y}-{z} arasında kalan konuklar için gecelik {x} indirim.",
+  "@hotel_discount_0_max_not_price": {
+    "placeholders": {
+      "x": {},
+      "y": {},
+      "z": {}
+    }
+  },
+  "hotel_add_room_num_passenger": "Oda ve misafir sayısı",
+  "hotel_add_room_children": "Çocuklar",
+  "hotel_add_room_age_upto": "(0-17 yaş)",
+  "hotel_add_room_child": "Çocuk",
+  "hotel_add_room_age": "yaş",
+  "hotel_add_room_cancel": "İptal",
+  "hotel_add_room_choose_age": "Yaş seçin",
+  "hotel_add_room_done": "Tamamlandı",
+  "hotel_add_room_room": "Oda",
+  "hotel_add_room_adult": "Yetişkin",
+  "hotel_add_room_adults": "yetişkinler",
+  "hotel_add_room_age_children": "Çocuk yaşı",
+  "hotel_add_room_age_child": "Çocuk yaşı",
+  "hotel_add_room_condition": "Oda sayısı ve oda başına konuk sayısı 9''dan fazla olmamalıdır.",
+  "hotel_add_room_note": "Not",
+  "hotel_add_room_save": "Kaydetmek",
+  "hotel_cart_child": "Çocuk",
+  "hotel_cart_children": "Çocuklar",
+  "hotel_cart_delete": "Silmek",
+  "hotel_cart_change": "Değiştirmek",
+  "hotel_cart_book_room": "Kitap Odası",
+  "hotel_cart_night": "gece",
+  "hotel_cart_title_included_texas_fee": "Vergiler ve ücretler dahil",
+  "hotel_cart_temporary_price": "ara toplam",
+  "hotel_cart_delete_order": "Siparişi sil",
+  "hotel_screen_cart_delete_order_confirm": "Bu siparişi silmek istiyor musunuz?",
+  "hotel_order_detail_info_hotel": "Rezervasyon bilgileri",
+  "hotel_order_detail_done": "Tamamlandı",
+  "hotel_order_detail_detail": "Detayları göster",
+  "hotel_order_detail_book_new": "Yeni bir oda ayırtın",
+  "hotel_order_detail_success": "Rezervasyon başarılı",
+  "hotel_order_detail_requests_success": "Rezervasyon talebiniz başarıyla gerçekleştirilmiştir.",
+  "hotel_order_detail_paid": "(Paralı).",
+  "hotel_order_detail_reservation": "Aşağıdaki rezervasyon detaylarını kontrol edebilirsiniz.",
+  "hotel_order_detail_thank": "hizmetlerine olan güveniniz için teşekkür ederiz.",
+  "hotel_order_detail_support": "Herhangi bir sorunuz varsa veya daha fazla yardıma ihtiyacınız varsa, lütfen Hahalolo Yardım Merkezi ile iletişime geçin.",
+  "hotel_order_detail_instructions": "talimatlar için.",
+  "hotel_order_detail_info_rest": "Mülkiyet Bilgisi",
+  "hotel_order_detail_hotel": "Otel",
+  "hotel_order_detail_type": "Oda tipi",
+  "hotel_order_detail_check_in": "Giriş",
+  "hotel_order_detail_check_out": "Ödeme",
+  "hotel_order_detail_visited": "Ziyaretçi sayısı",
+  "hotel_order_detail_adult": "yetişkin",
+  "hotel_order_detail_children": "çocuklar",
+  "hotel_order_detail_baby": "bebek (1 yaşından küçük)",
+  "hotel_order_detail_contact": "İletişim bilgileri",
+  "hotel_order_detail_lastname": "Ad Soyad",
+  "hotel_order_detail_tel_number": "Telefon numarası",
+  "hotel_order_detail_nationality": "Milliyet",
+  "hotel_order_detail_note": "Not",
+  "hotel_order_detail_guests": "Konuk Bilgisi",
+  "hotel_order_detail_trade": "İşlem Bilgileri",
+  "hotel_order_detail_order_form": "Emir",
+  "hotel_order_detail_payment": "Ödeme miktarı",
+  "hotel_order_detail_bed_type": "Yatak tipi",
+  "hotel_order_detail_extra_bed": "İlave yatak",
+  "hotel_order_detail_bed": "yatak",
+  "hotel_order_detail_reservation_code": "Rezervasyon numarası",
+  "hotel_order_detail_payer": "ödeyen",
+  "hotel_search_code_total_price": "Toplam fiyat",
+  "hotel_search_code_voucher": "Kupon Kodu",
+  "hotel_search_code_use_coin": "Madeni para kullan",
+  "hotel_search_code_use_point": "Puanları kullan",
+  "hotel_search_code_total_pay": "Toplam ödeme",
+  "hotel_search_code_detail_pay": "ödeme detayları",
+  "hotel_hand_note_hotel_policy_check_out": "- {checkout} tarihinden önce check-out",
+  "@hotel_hand_note_hotel_policy_check_out": {
+    "placeholders": {
+      "checkout": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_check_in": "- {checkin} sonrasında check-in",
+  "@hotel_hand_note_hotel_policy_check_in": {
+    "placeholders": {
+      "checkin": {}
+    }
+  },
+  "hotel_hand_note_hotel_policy_cancelation_title": "İptal politikası",
+  "hotel_hand_note_hotel_policy_cancelation_des": "Ücretsiz iptal zaman çizelgeleri, tesisin saat dilimini temel alır ve tesisin iptal politikasında belirtilir.",
+  "hotel_hand_note_hotel_num_room_num_night": "{room} x oda, {night} x gece",
+  "@hotel_hand_note_hotel_num_room_num_night": {
+    "placeholders": {
+      "room": {},
+      "night": {}
+    }
+  },
+  "hotel_hand_note_detail_tax_fee": "Vergiler ve ücretler",
+  "hotel_hand_note_detail_total_amount": "Toplam ödeme",
+  "hotel_hand_note_detail_success": "Başarılı",
+  "hotel_hand_note_detail_failed": "Arızalı",
+  "hotel_hand_note_detail_postpaid": "faturalı",
+  "hotel_hand_note_detail_prepaid": "ön ödemeli",
+  "hotel_hand_note_detail_operation_history": "Etkinlik geçmişi",
+  "hotel_hand_note_detail_order_cancel_info": "Sipariş iptal bilgileri",
+  "hotel_hand_note_detail_order_total_order": "Sipariş toplamı",
+  "hotel_hand_note_detail_total_money": "Toplamda ödenen miktar",
+  "hotel_hand_note_detail_coin": "madeni paralar",
+  "hotel_hand_note_detail_fee_cancel": "İptal ücreti",
+  "hotel_hand_note_detail_refund_amount": "Tahmini geri ödeme tutarı",
+  "hotel_hand_note_detail_coin_refund_amount": "Tahmini geri ödeme paraları",
+  "hotel_hand_note_detail_payment_info": "Ödeme bilgileri",
+  "hotel_hand_note_detail_customer_service": "Kupon kodu iade edilmez. Kupon kodunuzu iade etmek için lütfen Müşteri Hizmetleri Merkezimizle iletişime geçin.",
+  "hotel_hand_note_detail_note_refund": "Geri ödeme süresi (İptal tarihinden itibaren): 5 ila 7 gün (Alepay ve Payme ödeme ağ geçitleri için) veya 7 ila 15 gün (Stripe ödeme ağ geçidi için).",
+  "hotel_hand_note_detail_reason_cancel": "iptal nedenleri",
+  "hotel_hand_note_detail_checking_out": "Giriş ve çıkış saati",
+  "hotel_hand_note_detail_check_in_after": "sonra check-in",
+  "hotel_hand_note_detail_check_out_before": "önce çıkış",
+  "hotel_hand_note_detail_person_day": "kişi/gün",
+  "hotel_hand_note_detail_free": "Özgür.",
+  "hotel_hand_note_detail_day": "/gün",
+  "hotel_hand_note_detail_note_hotel": "Ücretsiz iptal zaman çizelgeleri, tesisin saat dilimini temel alır ve tesisin iptal politikasında belirtilir.",
+  "hotel_hand_note_detail_room_service": "Oda hizmetleri",
+  "hotel_hand_note_detail_facilities_service": "Tesisler ve oda hizmetleri",
+  "hotel_hand_note_detail_person_contact": "İlgili kişi",
+  "hotel_hand_note_detail_telephone_num": "Telefon numarası",
+  "hotel_hand_note_detail_email": "E-posta",
+  "hotel_hand_note_detail_nationality": "Milliyet",
+  "hotel_hand_note_detail_address": "Adres",
+  "hotel_hand_note_detail_paid": "Ödenen miktar",
+  "hotel_hand_note_detail_rest": "ödenmemiş miktar",
+  "hotel_hand_note_detail_payment_methods": "Ödeme şekli",
+  "hotel_hand_note_detail_check_in_info": "Giriş Bilgileri",
+  "hotel_hand_note_detail_guest_name": "Misafir adı",
+  "hotel_hand_note_detail_policy_cancel": "Daha önce yapılan iptaller",
+  "hotel_hand_note_detail_hour": "{hour} saat",
+  "@hotel_hand_note_detail_hour": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_minutes": "{minutes} dakika",
+  "@hotel_hand_note_detail_minutes": {
+    "placeholders": {
+      "hour": {}
+    }
+  },
+  "hotel_hand_note_detail_refund": ":Geri ödenecek",
+  "hotel_hand_note_detail_price_room": "için oda fiyatı",
+  "hotel_hand_note_detail_one_night": "ilk gece.",
+  "hotel_hand_note_detail_all_night": "bütün geceler.",
+  "hotel_hand_note_detail_policy": "İptal politikası",
+  "hotel_hand_note_detail_children_note": "{age} yaşından büyük çocuklara izin verilir.",
+  "@hotel_hand_note_detail_children_note": {
+    "placeholders": {
+      "age": {}
+    }
+  },
+  "hotel_hand_note_detail_pet_note": "Evcil hayvanlara izin verilir. Evcil hayvan ücreti: {fee} (Evcil hayvan ücreti konaklamada ödenir).",
+  "@hotel_hand_note_detail_pet_note": {
+    "placeholders": {
+      "fee": {}
+    }
+  },
+  "hotel_hand_note_detail_children": "Çocuklar",
+  "hotel_hand_note_detail_pet": "Evcil Hayvanlar",
+  "hotel_hand_note_detail_total_room_rate": "Toplam oda fiyatı",
+  "hotel_hand_note_detail_total_room_order": "Oda sayısı",
+  "hotel_hand_note_detail_room_information": "Oda bilgileri",
+  "hotel_hand_note_detail_person_x": "{x} kişi",
+  "@hotel_hand_note_detail_person_x": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "hotel_hand_note_detail_service_utilities": "Kamu hizmetleri, oda hizmetleri",
+  "hotel_hand_note_detail_waiting_service": "yerine getirilmesi bekleniyor",
+  "hotel_hand_note_detail_in_service": "devam ediyor",
+  "hotel_hand_note_detail_completed": "Tamamlanmış",
+  "hotel_hand_note_detail_waiting_cancellation": "İptal bekleniyor",
+  "hotel_hand_note_detail_canceled": "İptal edildi",
+  "hotel_hand_note_detail_awaiting_confirmation": "Onay bekleniyor",
+  "hotel_hand_note_detail_not_refund": "İptal üzerine bir geri ödeme veya ödenen tutar almayacaksınız",
+  "hotel_hand_note_detail_other_required": "Diğer istek",
+  "hotel_hand_note_detail_point_refund_amount": "Tahmini geri ödeme noktaları",
+  "hotel_input_title_start_date": "giriş tarihi",
+  "hotel_input_title_end_date": "Tarihi kontrol et",
+  "hotel_input_title_choose_date": "Bir tarih seçin",
+  "hotel_input_title_choose": "Seçme",
+  "hotel_hand_note_price_detail_payment_type": "Ödeme şekli",
+  "hotel_hand_note_price_detail_payment_date": "Ödeme tarihi",
+  "hotel_hand_note_price_detail_price": "Fiyat ayrıntılarını görüntüle",
+  "hotel_hand_note_price_detail_title": "Fiyat ayrıntıları",
+  "hotel_hand_note_price_detail_contact_info": "İletişim bilgileri",
+  "hotel_hand_note_utilities_title": "Kolaylıklar",
+  "hotel_hand_note_services_title": "Hizmetler",
+  "hotel_hand_note_search_required_code": "Rezervasyon numarası gereklidir.",
+  "cart_screen_main_hotel_title": "Otel",
+  "cart_screen_main_hotel_title_1": "Otel (1)",
+  "hotel_cancel_hotel": "iptal",
+  "hotel_search_this_area ": "Bu alanı ara",
+  "hotel_where": "Nerede kalmak istersin?",
+  "hotel_people": "{y} oda - {x} misafir",
+  "@hotel_people ": {
+    "placeholders": {
+      "y": {},
+      "x": {}
+    }
+  },
+  "hotel_room_number": "Oda",
+  "hotel_hand_note_item_view_booking_code_title": "Rezervasyon numarası",
+  "hotel_hand_note_title_hotel_order": "Otel rezervasyon siparişleri",
+  "hotel_order_detail_view_information_order": "Sipariş Bilgisi",
+  "@_SEARCH_CITY========================================================": {},
+  "search_city_city_or_state_hint": "Nerede kalmak istersin?",
+  "search_city_no_result": "Eşleşen konum bulunamadı...",
+  "search_city_choose_the_city": "Otel ara",
+  "@_ADVANCED_SEARCH========================================================": {},
+  "advanced_search_pick_a_hotel": "Bir otel seçin",
+  "advanced_search_any_review": "Hiç",
+  "advanced_search_star_rating": "Yıldız derecelendirmesi",
+  "advanced_search_any_star": "derecelendirilmemiş",
+  "advanced_search_a_star": "1 yıldız",
+  "advanced_search_x_star": "{x} yıldız",
+  "@advanced_search_x_star": {
+    "placeholders": {
+      "x": {}
+    }
+  },
+  "advanced_search_business_type": "Emlak Tipi",
+  "advanced_search_reset_button": "Sıfırla",
+  "advanced_search_search_button": "Arama",
+  "advanced_search_evaluation_point": "Puanı gözden geçir",
+  "advanced_search_no_city_error": "Hiçbir mülk seçilmedi",
+  "advanced_search_title": "Gelişmiş Arama",
+  "advanced_search_clear": "Temizlemek",
+  "advanced_search_no_date_error": "Tarih seçilmedi",
+
+  "@_HOTEL_117=====================START===================": {},
+  "hotel_show_list": "Gösteri listesi",
+  "hotel_not_found": "Otel bulunamadı!",
+  "hotel_search_near_by": "Yakında",
+  "advanced_search_less_x_unit": "{x}{unit} altında",
+  "@advanced_search_less_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_over_x_unit": "{x}{unit} ve üzeri",
+  "@advanced_search_over_x_unit": {
+  "placeholders": {
+  "x": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_from_x_to_less_y_unit": "{x}{unit}''den {y}{unit} altına",
+  "@advanced_search_from_x_to_less_y_unit": {
+  "placeholders": {
+  "x": {},
+  "y": {},
+  "unit": {}
+  }
+  },
+  "advanced_search_distance_from_center": "Merkezden uzaklık",
+  "hotel_booking_do_you_want_to_remove_a_user": "{user} öğesini gerçekten listeden çıkarmak istiyor musunuz?",
+  "@hotel_booking_do_you_want_to_remove_a_user": {
+  "placeholders": {
+  "user": {}
+  }
+  },
+  "hotel_surcharge": "ek ücret",
+  "hotel_map_filter": "Göre sırala",
+  "hotel_map_default": "Varsayılan",
+  "hotel_map_high_star": "Yıldız derecelendirmesi: Yüksekten düşüğe",
+  "hotel_map_low_star": "Yıldız derecelendirmesi: Düşükten yükseğe",
+  "hotel_map_distance_center": "Merkezden uzaklık",
+  "hotel_map_high_rate": "En Çok Oy Alan",
+  "hotel_map_high_order": "En çok rezerve edilen",
+  "hotel_hand_note_reply": "Mülkün yanıtı",
+  "hotel_booking_payment_3011_error": "Kart reddedildi. Lütfen başka bir kart deneyin veya yardım için kartınızı veren kuruluşla iletişime geçin!",
+  "hotel_hand_note_utilities_title_room": "ODANIN RAHATLIKLARI",
+  "@_HOTEL_117=====================END===================": {},
+  "@_END_HOTEL______________________________________________________________________________________": {},
+
+  "@_HALO_SCREEN_ERROR______________________________________________________________________________________": {},
+  "halo_error_caught_up": "Hepiniz yakalandınız!",
+  "halo_error_wifi_error": "Wifi hatası",
+  "halo_error_something_wrong": "Hata!\nBir şeyler ters gitti, lütfen tekrar deneyin",
+  "@_END_HALO_SCREEN_ERROR______________________________________________________________________________________": {}
+
+}
